@@ -3,7 +3,7 @@ use warnings;
 use strict;
 use Email::Address;
 
-my $last;
+my $last = '';
 print "[\n";
 
 my @senders = ();
