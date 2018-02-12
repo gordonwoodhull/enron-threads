@@ -23,9 +23,9 @@ while (my $line = <>) {
     my $src = $parts[0];
     my $sender = $parts[1];
     if ($src ne $last) {
-        if($last) {
+        if($last && scalar @senders > 1) {
             print "{\n\t\"thread\": \"",$last, "\",\n";
-            print "\t\"senders\": [", join(', ', map {"\"$_\""} @senders), "],\n";
+            print "\t\"senders\": [", join(', ', map {"\"$_\""} reverse @senders), "],\n";
             print "},\n";
         }
         @senders = ();
