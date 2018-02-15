@@ -15,6 +15,8 @@ sub sanitize {
     my @emails = Email::Address->parse($from);
     $from = $emails[0]->original if scalar @emails;
     $from =~ s/^\s+|\s+$//g;
+    $from =~ s/["\t]//g;
+    $from =~ s/\\/\//g;
     return $from
 }
 
@@ -25,7 +27,7 @@ while (my $line = <>) {
     if ($src ne $last) {
         if($last && scalar @senders > 1) {
             print "{\n\t\"thread\": \"",$last, "\",\n";
-            print "\t\"senders\": [", join(', ', map {"\"$_\""} reverse @senders), "],\n";
+            print "\t\"senders\": [", join(', ', map {"\"$_\""} reverse @senders), "]\n";
             print "},\n";
         }
         @senders = ();
