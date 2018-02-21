@@ -48,10 +48,13 @@ while (my $line = <>) {
         }
         else {
             ++$failed;
-            unshift @last, "need to find FROM\n";
-            push @last, $line;
-            push @hops, [@last];
-            @last = ();
+            push @hops, [
+                "need to find FROM\n",
+                @last,
+                $line,
+                "FROM (unknown)\n",
+                $line
+                ];
         }
 
         $from = '';
