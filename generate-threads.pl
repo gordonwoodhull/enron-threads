@@ -8,16 +8,18 @@ use Email::Address;
 my @senders = ();
 my $MINHOPS = 3;
 
-my @last = (), my @hops = ();
+my @last = (), my @hops = (), my @failures = ();
 my $conv, my $from;
 my $failed = 0, my $found = 0;
 while (my $line = <>) {
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
         if (@hops > $MINHOPS) {
             print "\nTHREAD ", scalar @hops, " HOPS ", $conv, "\n";
-            for my $hop (@hops) {
-                print @{$hop}, "\n"
-            }
+            print @{$_}, "\n" for @hops;
+        }
+        if (@failures) {
+            print "\nTHREAD ", scalar @failures, " FAILURES ", $conv, "\n";
+            print @{$_}, "\n" for @failures;
         }
         @hops = ();
         $conv = (split ' ', $line)[1];
@@ -49,10 +51,12 @@ while (my $line = <>) {
         else {
             ++$failed;
             push @hops, [
+                "FROM (unknown)\n",
+                $line
+                ];
+            push @failures, [
                 "need to find FROM\n",
                 @last,
-                $line,
-                "FROM (unknown)\n",
                 $line
                 ];
         }
