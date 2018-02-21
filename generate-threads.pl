@@ -22,12 +22,12 @@ while (my $line = <>) {
         $conv = (split ' ', $line)[1];
         next;
     }
-    if ($line =~ /(?<!X-)From:/) {
+    if ($line =~ /(?<!-)From:/) {
         ($from = $line) =~ s/.*From: (.*)/$1/;
-    } elsif ($line =~ /(?<!X-)Forwarded by/) {
+    } elsif ($line =~ /(?<!-)Forwarded by/) {
         ($from = $line) =~ s/.*Forwarded by (.*)/$1/;
     }
-    if ($line =~ /(?<!X-)To:/) {
+    if ($line =~ /(?<!-)To:/) {
         if (!$from) {
             if ($last[-1] =~ /^\s*[0-9\/]+/) {
                 $from = $last[-2] =~ s/^\s*//;
