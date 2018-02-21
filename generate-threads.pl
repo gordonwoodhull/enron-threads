@@ -40,6 +40,11 @@ while (my $line = <>) {
         ($from = $line) =~ s/.*Forwarded by (.*)/$1/;
     }
     if ($line =~ /(?<!X-)To:/) {
+        if (!$from) {
+            if ($last[-1] =~ /^\s*[0-9\/]+/) {
+                $from = $last[-2] =~ s/^\s*//;
+            }
+        }
         if ($from) {
             push @hops, ["FROM " . $from, $line];
         }
