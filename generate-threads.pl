@@ -8,18 +8,6 @@ use Email::Address;
 my @senders = ();
 my $MINHOPS = 3;
 
-# sub sanitize {
-#     my ($from) = @_;
-#     chomp $from;
-#     $from = (split / on /, $from)[0];
-#     my @emails = Email::Address->parse($from);
-#     $from = $emails[0]->original if scalar @emails;
-#     $from =~ s/^\s+|\s+$//g;
-#     $from =~ s/["\t]//g;
-#     $from =~ s/\\/\//g;
-#     return $from
-# }
-
 my @last = (), my @hops = ();
 my $conv, my $from;
 while (my $line = <>) {
@@ -43,6 +31,14 @@ while (my $line = <>) {
         if (!$from) {
             if ($last[-1] =~ /^\s*[0-9\/]+/) {
                 $from = $last[-2] =~ s/^\s*//;
+            } else {
+                for my $cand (@last) {
+                    my @emails = Email::Address->parse($cand);
+                    if (@emails) {
+                        $from = $emails[0] . "\n";
+                        last;
+                    }
+                }
             }
         }
         if ($from) {
