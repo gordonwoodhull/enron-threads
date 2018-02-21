@@ -10,10 +10,11 @@ my $MINHOPS = 3;
 
 my @last = (), my @hops = ();
 my $conv, my $from;
+my $failed = 0, my $found = 0;
 while (my $line = <>) {
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
         if (@hops > $MINHOPS) {
-            print "\nTHREAD ", $conv, "\n";
+            print "\nTHREAD ", scalar @hops, " HOPS ", $conv, "\n";
             for my $hop (@hops) {
                 print @{$hop}, "\n"
             }
@@ -42,9 +43,11 @@ while (my $line = <>) {
             }
         }
         if ($from) {
+            ++$found;
             push @hops, ["FROM " . $from, $line];
         }
         else {
+            ++$failed;
             unshift @last, "need to find FROM\n";
             push @last, $line;
             push @hops, [@last];
@@ -69,5 +72,8 @@ while (my $line = <>) {
     push @last, $line;
     shift @last if @last > 5;
 }
+
+print "found ", $found, "\n";
+print "failed " , $failed, "\n";
 
 # print "]\n";
