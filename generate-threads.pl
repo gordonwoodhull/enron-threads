@@ -6,6 +6,7 @@ use Email::Address;
 # print "[\n";
 
 my @senders = ();
+my $MINHOPS = 3;
 
 # sub sanitize {
 #     my ($from) = @_;
@@ -19,12 +20,18 @@ my @senders = ();
 #     return $from
 # }
 
-my @last = ();
+my @last = (), my @hops = ();
 my $conv, my $from;
 while (my $line = <>) {
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
+        if (@hops > $MINHOPS) {
+            print "\nTHREAD ", $conv, "\n";
+            for my $hop (@hops) {
+                print @{$hop}, "\n"
+            }
+        }
+        @hops = ();
         $conv = (split ' ', $line)[1];
-        print "\n\n\nTHREAD ", $conv;
         next;
     }
     if ($line =~ /(?<!X-)From:/) {
@@ -33,15 +40,14 @@ while (my $line = <>) {
         ($from = $line) =~ s/.*Forwarded by (.*)/$1/;
     }
     if ($line =~ /(?<!X-)To:/) {
-        print "\n\n\n";
         if ($from) {
-            print "FROM ", $from;
-            print $line;
+            push @hops, ["FROM " . $from, $line];
         }
         else {
-            print "need to find FROM\n";
-            print @last;
-            print $line;
+            unshift @last, "need to find FROM\n";
+            push @last, $line;
+            push @hops, [@last];
+            @last = ();
         }
 
         $from = '';
