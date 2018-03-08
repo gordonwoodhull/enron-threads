@@ -15,7 +15,7 @@ my $SHOWTHREADS = !defined $options{f};
 my $MINHOPS = $options{h} || 3;
 
 my @last = (), my @hops = (), my @failures = ();
-my $conv, my $from;
+my $conv, my $from, my $fromname;
 my $failed = 0, my $found = 0;
 while (my $line = <>) {
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
@@ -39,10 +39,14 @@ while (my $line = <>) {
     }
     if ($line =~ /(?<!-)To:/) {
         if (!$from) {
-            if ($last[-1] =~ /^\s*[0-9\/]+/) {
-                $from = $last[-2] =~ s/^\s*//;
+            my @flast = grep(!/^\s+$/, @last);
+            if (@flast == 1) {
+                ($fromname = $flast[0]) =~ s/^\s*//;
+            }
+            elsif (@flast > 1 && $flast[-1] =~ /^\s*[0-9]+\/[0-9]+\/[0-9]+/) {
+                ($fromname = $flast[-2]) =~ s/^\s*//;
             } else {
-                for my $cand (@last) {
+                for my $cand (@flast) {
                     my @emails = Email::Address->parse($cand);
                     if (@emails) {
                         $from = $emails[0] . "\n";
@@ -53,12 +57,16 @@ while (my $line = <>) {
         }
         if ($from) {
             ++$found;
-            push @hops, ["FROM " . $from, $line];
+            push @hops, ["FROM ADDRESS " . $from, $line];
+        }
+        elsif ($fromname) {
+            ++$found;
+            push @hops, ["FROM NAME " . $fromname, $line];
         }
         else {
             ++$failed;
             push @hops, [
-                "FROM (unknown)\n",
+                "FROM UNKNOWN\n",
                 $line
                 ];
             push @failures, [
@@ -68,7 +76,7 @@ while (my $line = <>) {
                 ];
         }
 
-        $from = '';
+        $fromname = $from = '';
     };
     # my $src = $parts[0];
     # my $sender = $parts[1];
