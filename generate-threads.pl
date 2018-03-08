@@ -29,6 +29,7 @@ while (my $line = <>) {
         }
         @hops = ();
         $conv = (split ' ', $line)[1];
+        @failures = ();
         next;
     }
     if ($line =~ /(?<!-)From:/) {
