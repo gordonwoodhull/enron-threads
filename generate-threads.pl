@@ -1,19 +1,25 @@
 #!/usr/bin/perl
 use warnings;
 use strict;
+use Getopt::Std;
 use Email::Address;
+
+
+my %options=();
+getopts("fh:", \%options);
 
 # print "[\n";
 
 my @senders = ();
-my $MINHOPS = 3;
+my $SHOWTHREADS = !defined $options{f};
+my $MINHOPS = $options{h} || 3;
 
 my @last = (), my @hops = (), my @failures = ();
 my $conv, my $from;
 my $failed = 0, my $found = 0;
 while (my $line = <>) {
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
-        if (@hops > $MINHOPS) {
+        if ($SHOWTHREADS && @hops > $MINHOPS) {
             print "\nTHREAD ", scalar @hops, " HOPS ", $conv, "\n";
             print @{$_}, "\n" for @hops;
         }
