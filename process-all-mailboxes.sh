@@ -26,8 +26,8 @@ EOF
 done
 
 SDIR=`echo $0 | sed "s:/[^/]*$::"`
-DIR=$1
-PREFIX=$2
+DIR=`echo $1 | sed "s:/$::"`
+PREFIX=`echo $2 | sed "s:-$::"`
 shift;shift;
 CMD=$*
 
@@ -36,8 +36,10 @@ case $LIST in
     star) LIST="ls -1d $DIR/*" ;;
     *) LIST="echo $DIR/$LIST" ;;
 esac
-echo "$LIST | $SHUF"
-echo $CMD
+echo "input directory: $DIR"
+echo "output prefix: $PREFIX"
+echo "list command: $LIST | $SHUF"
+echo "process command: $CMD"
 for d in `$LIST | $SHUF`; do
     echo Starting $COUNT $d..
     NAME=`echo $d | sed "s:$DIR/::"`
