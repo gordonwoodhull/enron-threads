@@ -3,6 +3,7 @@ use warnings;
 use strict;
 use Getopt::Std;
 use Email::Address;
+use JSON;
 
 
 my %options=();
@@ -10,26 +11,34 @@ getopts("fh:", \%options);
 
 # print "[\n";
 
+sub print_object {
+    my ($obj) = @_;
+    my $json = to_json(\%$obj, {utf8 => 1, pretty => 1});
+    print $json, "\n";
+}
+
 my @senders = ();
 my $SHOWTHREADS = !defined $options{f};
 my $MINHOPS = $options{h} || 3;
 
 my @last = (), my @hops = (), my @failures = ();
 my $conv, my $from, my $fromname;
-my $failed = 0, my $found = 0;
+my $failed = 0, my $found = 0, my $lineno = 0;
 while (my $line = <>) {
+    ++$lineno;
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
         if ($SHOWTHREADS && @hops > $MINHOPS) {
             print "\nTHREAD ", scalar @hops, " HOPS ", $conv, "\n";
-            print @{$_}, "\n" for @hops;
+            print_object $_ for @hops;
         }
         if (@failures) {
             print "\nTHREAD ", scalar @failures, " FAILURES ", $conv, "\n";
             print @{$_}, "\n" for @failures;
         }
         @hops = ();
-        $conv = (split ' ', $line)[1];
         @failures = ();
+        $conv = (split ' ', $line)[1];
+        $lineno = 0;
         next;
     }
     if ($line =~ /(?<!-)From:/) {
@@ -57,18 +66,27 @@ while (my $line = <>) {
         }
         if ($from) {
             ++$found;
-            push @hops, ["FROM ADDRESS " . $from, $line];
+            push @hops, {
+                "from-address"=> $from,
+                    "to"=> $line,
+                    "line"=> $lineno
+            };
         }
         elsif ($fromname) {
             ++$found;
-            push @hops, ["FROM NAME " . $fromname, $line];
+            push @hops, {
+                "from-name"=> $fromname,
+                    "to"=> $line,
+                    "line"=> $lineno
+            };
         }
         else {
             ++$failed;
-            push @hops, [
-                "FROM UNKNOWN\n",
-                $line
-                ];
+            push @hops, {
+                "from-address"=> undef,
+                    "to"=> $line,
+                    "line"=> $lineno
+            };
             push @failures, [
                 "need to find FROM\n",
                 @last,
