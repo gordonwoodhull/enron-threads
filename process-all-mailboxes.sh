@@ -1,3 +1,4 @@
+set -e
 SHUF=gshuf
 LIST=star
 while [ "$1" != "" ]; do
