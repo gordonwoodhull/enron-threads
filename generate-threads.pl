@@ -28,8 +28,10 @@ while (my $line = <>) {
     ++$lineno;
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
         if ($SHOWTHREADS && @hops > $MINHOPS) {
-            print "\nTHREAD ", scalar @hops, " HOPS ", $conv, "\n";
-            print_object $_ for @hops;
+            print_object {
+                "file"=> $conv,
+                    "hops"=> \@hops
+            }
         }
         if (@failures) {
             print "\nTHREAD ", scalar @failures, " FAILURES ", $conv, "\n";
