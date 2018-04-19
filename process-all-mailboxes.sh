@@ -7,7 +7,7 @@ while [ "$1" != "" ]; do
         -n) LIST=$2; shift ;;
         --help) cat <<EOF
 
- Usage: $0 [--1] dir prefix command...
+ Usage: $0 [-1] dir prefix command...
 
  Run a command in parallel on all files found within some subdirectories
 
