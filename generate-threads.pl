@@ -19,6 +19,7 @@ sub print_object {
 
 my @senders = ();
 my $SHOWTHREADS = !defined $options{f};
+my $SHOWFAILURES = defined $options{f};
 my $MINHOPS = $options{h} || 3;
 
 my @last = (), my @hops = (), my @failures = ();
@@ -33,7 +34,7 @@ while (my $line = <>) {
                     "hops"=> \@hops
             }
         }
-        if (@failures) {
+        if ($SHOWFAILURES && @failures) {
             print "\nTHREAD ", scalar @failures, " FAILURES ", $conv, "\n";
             print @{$_}, "\n" for @failures;
         }
