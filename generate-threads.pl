@@ -13,7 +13,7 @@ getopts("fh:", \%options);
 
 sub print_object {
     my ($obj) = @_;
-    my $json = to_json(\%$obj, {utf8 => 1, pretty => 1});
+    my $json = to_json(\%$obj, {utf8 => 1, pretty => 1, canonical => 1});
     print $json, "\n";
 }
 
