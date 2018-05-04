@@ -67,6 +67,8 @@ while (my $line = <>) {
                 }
             }
         }
+        $line =~ s/^.*To:\s*//;
+        $line =~ s/\s*$//;
         if ($from) {
             ++$found;
             push @hops, {
