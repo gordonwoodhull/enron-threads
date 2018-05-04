@@ -1,10 +1,12 @@
 set -e
 SHUF=gshuf
 LIST=star
+SLOW=0
 while [ "$1" != "" ]; do
     case $1 in
         -1) SHUF="$SHUF -n 1" ;;
         -n) LIST=$2; shift ;;
+        -slow) SLOW=$2; shift ;;
         --help) cat <<EOF
 
  Usage: $0 [-1] dir prefix command...
@@ -41,6 +43,7 @@ echo "output prefix: $PREFIX"
 echo "list command: $LIST | $SHUF"
 echo "process command: $CMD"
 for d in `$LIST | $SHUF`; do
+    sleep $SLOW
     NAME=`echo $d | sed "s:$DIR/::"`
     ONAME="$PREFIX-$NAME.txt"
     echo "Starting job #$COUNT $ONAME ..."
