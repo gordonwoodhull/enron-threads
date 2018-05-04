@@ -53,10 +53,10 @@ while (my $line = <>) {
         if (!$from) {
             my @flast = grep(!/^\s+$/, @last);
             if (@flast == 1) {
-                ($fromname = $flast[0]) =~ s/^\s*//;
+                ($from = $flast[0]) =~ s/^\s*//;
             }
             elsif (@flast > 1 && $flast[-1] =~ /^\s*[0-9]+\/[0-9]+\/[0-9]+/) {
-                ($fromname = $flast[-2]) =~ s/^\s*//;
+                ($from = $flast[-2]) =~ s/^\s*//;
             } else {
                 for my $cand (@flast) {
                     my @emails = Email::Address->parse($cand);
@@ -70,17 +70,11 @@ while (my $line = <>) {
         $line =~ s/^.*To:\s*//;
         $line =~ s/\s*$//;
         if ($from) {
+            $from =~ s/^\s*//;
+            $from =~ s/\s*$//;
             ++$found;
             push @hops, {
-                "from-address"=> $from,
-                    "to"=> $line,
-                    "line"=> $lineno
-            };
-        }
-        elsif ($fromname) {
-            ++$found;
-            push @hops, {
-                "from-name"=> $fromname,
+                "from"=> $from,
                     "to"=> $line,
                     "line"=> $lineno
             };
