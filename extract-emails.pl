@@ -9,7 +9,11 @@ while (my $line = <>) {
         for my $addr (@emails) {
             my $orig = $addr->original;
             $orig =~ s/\r\n\z//g;
-            print $addr->name, "\t", $addr->address, "\n" if $addr->address !~ m/@[A-Za-z_=?]*$/;
+            if ($addr->address !~ m/@[^.]*$/) {
+                (my $name = $addr->name) =~ s/^['"]*//; $name =~ s/['"]*$//;
+                (my $address = $addr->address) =~ s/^['"]*//; $address =~ s/['"]*$//;
+                print $name, "\t", $address, "\n"
+            }
         }
     }
 }
