@@ -41,9 +41,10 @@ echo "output prefix: $PREFIX"
 echo "list command: $LIST | $SHUF"
 echo "process command: $CMD"
 for d in `$LIST | $SHUF`; do
-    echo Starting $COUNT $d..
     NAME=`echo $d | sed "s:$DIR/::"`
-    (TIME=`(time (find -L $d -type f | (while read f; do $SDIR/process-file.sh $f; done) | $CMD > $PREFIX-$NAME.txt)) 2>&1`; echo Finished $COUNT $NAME; echo $TIME) &
+    ONAME="$PREFIX-$NAME.txt"
+    echo "Starting job #$COUNT $ONAME ..."
+    (TIME=`(time (find -L $d -type f | (while read f; do $SDIR/process-file.sh $f; done) | $CMD > $ONAME)) 2>&1`; echo "Finished job #$COUNT $ONAME"; echo $TIME) &
     ((COUNT++))
 done
 
