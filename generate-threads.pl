@@ -5,9 +5,13 @@ use Getopt::Std;
 use Email::Address;
 use JSON;
 
+use FindBin;
+use lib $FindBin::Bin;
+
+use CanonicalName;
 
 my %options=();
-getopts("fh:", \%options);
+getopts("fh:a:", \%options);
 
 sub print_object {
     my ($obj) = @_;
@@ -19,6 +23,24 @@ my @senders = ();
 my $SHOWTHREADS = !defined $options{f};
 my $SHOWFAILURES = defined $options{f};
 my $MINHOPS = $options{h} || 3;
+
+my %addresses = ();
+
+if ($options{a}) {
+    open(ADDR, '<', $options{a}) or die "couldn't open addresses file " . $options{a};
+    while (<ADDR>) {
+        chomp;
+        my ($name, $addr) = split /\t/;
+        $addresses{$name} = $addr;
+    }
+}
+
+# i know regexp for emails is technically much more complicated
+# but the ones in this corpus tend to be pretty regular
+sub valid_email {
+    my ($email) = @_;
+    return $email =~ m/^[A-Za-z_\.]+@[A-Za-z_]+\.[A-Za-z_\.]+$/;
+}
 
 print "[\n" if $SHOWTHREADS;
 
@@ -63,7 +85,7 @@ while (my $line = <>) {
                 for my $cand (@flast) {
                     my @emails = Email::Address->parse($cand);
                     if (@emails) {
-                        $from = $emails[0] . "\n";
+                        $from = $emails[0]->address;
                         last;
                     }
                 }
@@ -72,11 +94,29 @@ while (my $line = <>) {
         $line =~ s/^.*To:\s*//;
         $line =~ s/\s*$//;
         if ($from) {
+            my $rawfrom = $from;
             $from =~ s/^\s*//;
             $from =~ s/\s*$//;
+            if (!valid_email($from)) {
+                $from =~ s/ on .*$//;
+                my @emails = Email::Address->parse($from);
+                # Email::Address will accept emails without dots in the domain, corpus has lots of bogus addresses like that
+                if (@emails && valid_email($emails[0]->address)) {
+                    $from = $emails[0]->address;
+                } else {
+                    (my $fromname) = $from =~ m/(^[A-Za-z ]+)/;
+                    if($fromname) {
+                        $fromname =~ s/ +$//;
+                        $from = $fromname;
+                        my $name = canonical($from);
+                        $from = $addresses{$name} if $addresses{$name};
+                    }
+                }
+            }
             ++$found;
             push @hops, {
-                "from"=> $from,
+                rawfrom=> $rawfrom,
+                "from"=> lc $from,
                     "to"=> $line,
                     "line"=> $lineno
             };
