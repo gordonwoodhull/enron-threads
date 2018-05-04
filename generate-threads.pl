@@ -9,12 +9,10 @@ use JSON;
 my %options=();
 getopts("fh:", \%options);
 
-# print "[\n";
-
 sub print_object {
     my ($obj) = @_;
     my $json = to_json(\%$obj, {utf8 => 1, pretty => 1, canonical => 1});
-    print $json, "\n";
+    print $json;
 }
 
 my @senders = ();
@@ -22,13 +20,17 @@ my $SHOWTHREADS = !defined $options{f};
 my $SHOWFAILURES = defined $options{f};
 my $MINHOPS = $options{h} || 3;
 
+print "[\n" if $SHOWTHREADS;
+
 my @last = (), my @hops = (), my @failures = ();
 my $conv, my $from, my $fromname;
-my $failed = 0, my $found = 0, my $lineno = 0;
+my $failed = 0, my $found = 0, my $lineno = 0, my $first = 1;
 while (my $line = <>) {
     ++$lineno;
     if ($line =~ /^FFFFIIIILLLLEEEE/) {
         if ($SHOWTHREADS && @hops > $MINHOPS) {
+            print ",\n" if !$first;
+            $first = 0;
             print_object {
                 "file"=> $conv,
                     "hops"=> \@hops
@@ -111,8 +113,9 @@ while (my $line = <>) {
     push @last, $line;
     shift @last if @last > 5;
 }
+print "]\n" if $SHOWTHREADS;
+if ($SHOWFAILURES) {
+    print "found ", $found, "\n";
+    print "failed " , $failed, "\n";
+}
 
-print "found ", $found, "\n";
-print "failed " , $failed, "\n";
-
-# print "]\n";
