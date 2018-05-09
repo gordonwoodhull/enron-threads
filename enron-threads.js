@@ -72,7 +72,9 @@ d3.json(options.data, function(error, threads) {
             edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
         clusterDiagram
             .nodeDimension(node_flat.dimension).nodeGroup(node_flat.group)
-            .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group);
+            .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group)
+            .nodeStrokeWidth(n => n.key === person ? 3 : 1)
+            .nodeStroke(n => n.key === person ? '#E34234' : 'black');
         if(rendered)
             clusterDiagram.redraw();
         else {
