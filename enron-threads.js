@@ -3,6 +3,7 @@ var qs = querystring.parse();
 var options = Object.assign({
     data: 'threads.json',
     layout: 'd3v4force',
+    tdur: 1000,
     r: 5
 }, qs);
 
@@ -23,8 +24,15 @@ function radius(adjacent, k, r) {
 
 var rendered = false;
 var clusterDiagram = dc_graph.diagram('#graph')
-    .layoutEngine(dc_graph.spawn_engine(options.layout));
-
+    .layoutEngine(dc_graph.spawn_engine(options.layout))
+    .edgeSource(function(e) { return e.value.source; })
+    .edgeTarget(function(e) { return e.value.target; })
+    .transitionDuration(+options.tdur)
+    .autoZoom('always')
+    .zoomExtent([0.1, 5])
+    .zoomDuration(0)
+    .nodeRadius(7)
+;
 
 d3.json(options.data, function(error, threads) {
     if(error)
