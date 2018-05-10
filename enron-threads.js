@@ -4,7 +4,7 @@ var options = Object.assign({
     data: 'http://127.0.0.1:8086/',
     layout: 'd3v4force',
     tdur: 1000,
-    r: 5
+    r: 2
 }, qs);
 
 function radius(adjacent, k, r) {
