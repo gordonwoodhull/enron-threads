@@ -7,18 +7,15 @@ var options = Object.assign({
     r: 2
 }, qs);
 
-function radius(adjacent, k, r) {
-    var ret = [];
-    if(r) {
-        var adjs = Object.keys(adjacent[k]);
-        ret = {nodes: adjs, edges: adjs.map(a => ({source: k, target: a}))};
-    }
-    if(r === 1)
-        return ret;
-    var crad = ret.nodes.map(k2 => radius(adjacent, k2, r-1));
+function radius(adjacent, last, k, r) {
+    if(!r)
+        return {nodes: [k], edges: []};
+    var adjs = Object.keys(adjacent[k]).filter(k => k != last);
+    var edges = adjs.map(a => ({source: k, target: a, type: 'adjacent'}));
+    var crad = adjs.map(k2 => radius(adjacent, k, k2, r-1));
     return {
-        nodes: Array.prototype.concat.apply(ret.nodes, crad.map(c => c.nodes)),
-        edges: Array.prototype.concat.apply(ret.edges, crad.map(c => c.edges))
+        nodes: Array.prototype.concat.apply([k], crad.map(c => c.nodes)),
+        edges: Array.prototype.concat.apply(edges, crad.map(c => c.edges))
     };
 }
 
@@ -32,6 +29,7 @@ var clusterDiagram = dc_graph.diagram('#graph')
     .zoomExtent([0.1, 5])
     .zoomDuration(0)
     .nodeRadius(7)
+    .edgeArrowhead(e => e.value.type === 'adjacent' ? null : 'vee')
 ;
 
 function read_error(filename) {
@@ -87,7 +85,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
     });
     people.on('change', function() {
         var person = this.value;
-        var data = radius(adjacent, person, +options.r);
+        var data = radius(adjacent, null, person, +options.r);
         var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
             edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
         clusterDiagram
