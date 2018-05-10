@@ -74,14 +74,15 @@ d3.text(options.data + 'users.txt', function(error, users) {
             if(error)
                 read_error(u);
             ++nread;
-            d3.select('#progress')
-                .text(nread < users.length ? 'read ' + u : 'Done');
             read_threads(threads);
             var nodes = Object.keys(emails).map(k => k).sort();
             people.selectAll('option')
                 .data(nodes, k => k)
               .enter()
                 .append('option').text(k => k);
+            d3.select('#progress')
+                .html((nread < users.length ? 'read ' + u : 'Done') +
+                      '<br>' + nodes.length + ' addresses');
         });
     });
     people.on('change', function() {

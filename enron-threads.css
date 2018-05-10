@@ -14,4 +14,5 @@ body {
 #progress {
     position: absolute;
     right: 2em; top: 2em;
+    text-align: right;
 }
