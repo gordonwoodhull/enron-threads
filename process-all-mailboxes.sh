@@ -9,12 +9,13 @@ while [ "$1" != "" ]; do
         -slow) SLOW=$2; shift ;;
         --help) cat <<EOF
 
- Usage: $0 [-1] dir prefix command...
+ Usage: $0 [-1] dir prefix ext command...
 
  Run a command in parallel on all files found within some subdirectories
 
  'dir' is the path to look for subdirectories. fork this script in each subdirectory, then
- 'prefix' is the start of the output filename, $PREFIX-$NAME.txt
+ 'prefix' is the start of the output filename, $PREFIX-$NAME.$EXT
+ 'ext' is the filename extension
  'command...' is the script with arguments to pipe the files through
 
  -1 only one random subdirectory
@@ -30,7 +31,8 @@ done
 SDIR=`echo $0 | sed "s:/[^/]*$::"`
 DIR=`echo $1 | sed "s:/$::"`
 PREFIX=`echo $2 | sed "s:-$::"`
-shift;shift;
+EXT=$3
+shift;shift;shift;
 CMD=$*
 
 COUNT=0
@@ -45,7 +47,7 @@ echo "process command: $CMD"
 for d in `$LIST | $SHUF`; do
     sleep $SLOW
     NAME=`echo $d | sed "s:$DIR/::"`
-    ONAME="$PREFIX-$NAME.txt"
+    ONAME="$PREFIX-$NAME.$EXT"
     echo "Starting job #$COUNT $ONAME ..."
     (TIME=`(time (find -L $d -type f | (while read f; do $SDIR/process-file.sh $f; done) | $CMD > $ONAME)) 2>&1`; echo "Finished job #$COUNT $ONAME"; echo $TIME) &
     ((COUNT++))
