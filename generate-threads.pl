@@ -59,8 +59,11 @@ while (my $line = <>) {
             }
         }
         if ($SHOWFAILURES && @failures) {
-            print "\nTHREAD ", scalar @failures, " FAILURES ", $conv, "\n";
-            print @{$_}, "\n" for @failures;
+            print_object {
+                "file"=> $conv,
+                    "nfailures"=> scalar @failures,
+                    "failures"=> \@failures
+            };
         }
         @hops = ();
         @failures = ();
@@ -93,8 +96,8 @@ while (my $line = <>) {
         }
         $line =~ s/^.*To:\s*//;
         $line =~ s/\s*$//;
+        my $rawfrom = $from, my $canonical = '';
         if ($from) {
-            my $rawfrom = $from;
             $from =~ s/^\s*//;
             $from =~ s/\s*$//;
             if (!valid_email($from)) {
@@ -108,11 +111,13 @@ while (my $line = <>) {
                     if($fromname) {
                         $fromname =~ s/ +$//;
                         $from = $fromname;
-                        my $name = canonical($from);
-                        $from = $addresses{$name} if $addresses{$name};
+                        $canonical = canonical($from);
+                        $from = $addresses{$canonical};
                     }
                 }
             }
+        }
+        if ($from) {
             ++$found;
             push @hops, {
                 rawfrom=> $rawfrom,
@@ -123,16 +128,12 @@ while (my $line = <>) {
         }
         else {
             ++$failed;
-            push @hops, {
-                "from-address"=> undef,
-                    "to"=> $line,
-                    "line"=> $lineno
+            push @failures, {
+                "canonical"=> $canonical,
+                "last"=> \@last,
+                "raw"=> $rawfrom,
+                "to"=> $line
             };
-            push @failures, [
-                "need to find FROM\n",
-                @last,
-                $line
-                ];
         }
 
         $fromname = $from = '';
