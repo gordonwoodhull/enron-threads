@@ -108,6 +108,7 @@ while (my $line = <>) {
             $source = 'valid';
             if (!valid_email($from)) {
                 $from =~ s/ on .*$//;
+                $from =~ s/^=09//;
                 my @emails = Email::Address->parse($from);
                 # Email::Address will accept emails without dots in the domain, corpus has lots of bogus addresses like that
                 if (@emails && valid_email($emails[0]->address)) {
