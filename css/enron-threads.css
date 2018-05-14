@@ -1,0 +1,10 @@
+#graph {
+    position: absolute;
+    left: 0; top: 0; right: 0; bottom: 0;
+}
+
+#people {
+    position: absolute;
+    left: 2em; top: 2em;
+}
+
