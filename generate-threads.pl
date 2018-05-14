@@ -39,7 +39,7 @@ if ($options{a}) {
 # but the ones in this corpus tend to be pretty regular
 sub valid_email {
     my ($email) = @_;
-    return $email =~ m/^[A-Za-z_\.1-9-]+@[A-Za-z_-]+\.[A-Za-z_\.]+$/;
+    return $email =~ m/^[A-Za-z_\.0-9-]+@[A-Za-z_-]+\.[A-Za-z_\.]+$/;
 }
 
 print "[\n" if $SHOWTHREADS;
