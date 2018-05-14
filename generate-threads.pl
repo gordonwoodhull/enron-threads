@@ -55,7 +55,8 @@ while (my $line = <>) {
             $first = 0;
             print_object {
                 file=> $conv,
-                hops=> \@hops
+                hops=> \@hops,
+                skipped=> scalar @failures
             }
         }
         if ($SHOWFAILURES && @failures) {
