@@ -1,0 +1,1441 @@
+[
+{
+   "file" : "enron-raw/carson-m/_sent_mail/28.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/_sent_mail/29.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/_sent_mail/30.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/_sent_mail/31.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/_sent_mail/33.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "bobbyg@chbrokers.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/25/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/_sent_mail/55.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "mcarson@gtemail.net"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 09/11/2000 \n",
+         "to" : "kenrcars@aol.com, susan@metronet.com, Mike.Carson@enron.com"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 43,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "Mike.Carson@enron.com@internet"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 61,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "<scarsonpro@pga.com>"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 78,
+         "rawfrom" : "Chuck Carson/Dallas/IBM@IBMUS\n",
+         "to" : "c@e1.ny.us.ibm.com, Chuck Carson/Dallas/IBM@IBMUS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/124.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "mcarson@gtemail.net"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 09/11/2000 \n",
+         "to" : "kenrcars@aol.com, susan@metronet.com, Mike.Carson@enron.com"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 43,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "Mike.Carson@enron.com@internet"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 61,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "<scarsonpro@pga.com>"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 78,
+         "rawfrom" : "Chuck Carson/Dallas/IBM@IBMUS\n",
+         "to" : "c@e1.ny.us.ibm.com, Chuck Carson/Dallas/IBM@IBMUS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/146.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "bobbyg@chbrokers.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/25/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/148.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/149.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/150.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/151.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/all_documents/189.",
+   "hops" : [
+      {
+         "from" : "felicia.doan@enron.com",
+         "line" : 4,
+         "rawfrom" : "felicia.doan@enron.com\r\n",
+         "to" : "rudy.acevedo@enron.com, diana.allen@enron.com, russell.ballato@enron.com,"
+      },
+      {
+         "from" : "felicia.doan@enron.com",
+         "line" : 89,
+         "rawfrom" : "Felicia Doan/HOU/ECT on 12/11/2000 04:12 \n",
+         "to" : "Felicia Doan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ghopley@enron.com",
+         "line" : 115,
+         "rawfrom" : "George Hopley/HOU/ECT on 12/08/2000 05:20 \n",
+         "to" : "George Hopley/HOU/ECT@ect"
+      },
+      {
+         "from" : "ghopley@enron.com",
+         "line" : 132,
+         "rawfrom" : "George Hopley\n",
+         "to" : "Vince J Kaminski/HOU/ECT@ECT"
+      },
+      {
+         "from" : "cvernon@houston.rr.com",
+         "line" : 159,
+         "rawfrom" : "Clayton Vernon/Corp/Enron on 12/07/2000 \n",
+         "to" : "Clayton Vernon/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/deleted_items/143.",
+   "hops" : [
+      {
+         "from" : "craige@fbg.net",
+         "line" : 4,
+         "rawfrom" : "craige@fbg.net\r\n",
+         "to" : "ddavenport@multifuels.com"
+      },
+      {
+         "from" : "ddavenport@multifuels.com",
+         "line" : 32,
+         "rawfrom" : " Dave Davenport  \n",
+         "to" : "Craig"
+      },
+      {
+         "from" : "craige@fbg.net",
+         "line" : 39,
+         "rawfrom" : " Craig <craige@fbg.net >\n",
+         "to" : "Dave  Davenport <ddavenport@multifuels.com >"
+      },
+      {
+         "from" : "ddavenport@multifuels.com",
+         "line" : 46,
+         "rawfrom" : " Dave Davenport  \n",
+         "to" : "btusux@football.fantasy.sportsline.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/deleted_items/288.",
+   "hops" : [
+      {
+         "from" : "john.suarez@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.suarez@enron.com\r\n",
+         "to" : "mike.carson@enron.com"
+      },
+      {
+         "from" : "john_suarez@enron.net",
+         "line" : 22,
+         "rawfrom" : "\tSuarez, John  \n",
+         "to" : "CARSON, BILL"
+      },
+      {
+         "from" : "paul.j.broderick@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBroderick, Paul J.  \n",
+         "to" : "Suarez, John"
+      },
+      {
+         "from" : "nmisra@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMisra, Narsimha  \n",
+         "to" : "Broderick, Paul J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/deleted_items/32.",
+   "hops" : [
+      {
+         "from" : "jae.black@enron.com",
+         "line" : 4,
+         "rawfrom" : "jae.black@enron.com\r\n",
+         "to" : ""
+      },
+      {
+         "from" : "diana.allen@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tAllen, Diana  \n",
+         "to" : "Black, Tamara Jae"
+      },
+      {
+         "from" : "mable.tang@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tTang, Mable  \n",
+         "to" : "Allen, Diana; Poston, David; Luu, Duong; Lim, Francis S.; Krishnaswamy, Jayant; Chitradurga, Sundar; Powell, John D.; Ramesh, Ganapathy; Schomer, Chris; McKinney, Hal"
+      },
+      {
+         "from" : "clement.charbonnet@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tCharbonnet, Clement  \n",
+         "to" : "DL-Oracle DBA"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/deleted_items/95.",
+   "hops" : [
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.miller@enron.com\r\n",
+         "to" : "mike.carson@enron.com"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Suarez, John; Miller, Jeffrey"
+      },
+      {
+         "from" : "john_suarez@enron.net",
+         "line" : 32,
+         "rawfrom" : "\tSuarez, John  \n",
+         "to" : "Luong, Steven; Miller, Jeffrey"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Suarez, John; Miller, Jeffrey"
+      },
+      {
+         "from" : "john_suarez@enron.net",
+         "line" : 50,
+         "rawfrom" : "\tSuarez, John  \n",
+         "to" : "Miller, Jeffrey; Luong, Steven"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 60,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Suarez, John"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 68,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Carson, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/56.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "mcarson@gtemail.net"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 09/11/2000 \n",
+         "to" : "kenrcars@aol.com, susan@metronet.com, Mike.Carson@enron.com"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 43,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "Mike.Carson@enron.com@internet"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 61,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "<scarsonpro@pga.com>"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 78,
+         "rawfrom" : "Chuck Carson/Dallas/IBM@IBMUS\n",
+         "to" : "c@e1.ny.us.ibm.com, Chuck Carson/Dallas/IBM@IBMUS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/65.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "bobbyg@chbrokers.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/25/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/66.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/67.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/68.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/69.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/discussion_threads/98.",
+   "hops" : [
+      {
+         "from" : "felicia.doan@enron.com",
+         "line" : 4,
+         "rawfrom" : "felicia.doan@enron.com\r\n",
+         "to" : "rudy.acevedo@enron.com, diana.allen@enron.com, russell.ballato@enron.com,"
+      },
+      {
+         "from" : "felicia.doan@enron.com",
+         "line" : 89,
+         "rawfrom" : "Felicia Doan/HOU/ECT on 12/11/2000 04:12 \n",
+         "to" : "Felicia Doan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ghopley@enron.com",
+         "line" : 115,
+         "rawfrom" : "George Hopley/HOU/ECT on 12/08/2000 05:20 \n",
+         "to" : "George Hopley/HOU/ECT@ect"
+      },
+      {
+         "from" : "ghopley@enron.com",
+         "line" : 132,
+         "rawfrom" : "George Hopley\n",
+         "to" : "Vince J Kaminski/HOU/ECT@ECT"
+      },
+      {
+         "from" : "cvernon@houston.rr.com",
+         "line" : 159,
+         "rawfrom" : "Clayton Vernon/Corp/Enron on 12/07/2000 \n",
+         "to" : "Clayton Vernon/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/inbox/114.",
+   "hops" : [
+      {
+         "from" : "chris_jackson@txu.com",
+         "line" : 4,
+         "rawfrom" : "chris_jackson@txu.com\r\n",
+         "to" : "mike.carson@enron.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 26,
+         "rawfrom" : "Mike.Carson@enron.com on 08/16/2001 01:41:39 PM\n",
+         "to" : "Christopher W Jackson/Trading/Houston/EES/US@TU"
+      },
+      {
+         "from" : "chris_jackson@txu.com",
+         "line" : 43,
+         "rawfrom" : "  \"Chris Jackson\" <Chris_Jackson@txu.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 55,
+         "rawfrom" : "Mike.Carson@enron.com on 08/15/2001 04:06:31 PM\n",
+         "to" : "Christopher W Jackson/Trading/Houston/EES/US@TU"
+      },
+      {
+         "from" : "chris_jackson@txu.com",
+         "line" : 74,
+         "rawfrom" : "  \"Chris Jackson\" <Chris_Jackson@txu.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/inbox/39.",
+   "hops" : [
+      {
+         "from" : "kristenm@jschmid.com",
+         "line" : 4,
+         "rawfrom" : "kristenm@jschmid.com\r\n",
+         "to" : "lytle.todd@enron.com, nuss.theresa@enron.com, trollinger.steve@enron.com,"
+      },
+      {
+         "from" : "slhester@earthlink.net",
+         "line" : 33,
+         "rawfrom" : "Stacey <slhester@earthlink.net>\n",
+         "to" : "kristenm@jschmid.com <kristenm@jschmid.com>"
+      },
+      {
+         "from" : "brettgelman@aol.com",
+         "line" : 42,
+         "rawfrom" : "Brettgelman@aol.com\n",
+         "to" : "cgelman@earthlink.net, GelBros@aol.com"
+      },
+      {
+         "from" : "tevye39@hotmail.com",
+         "line" : 54,
+         "rawfrom" : "\"noah tevye warner\" <tevye39@hotmail.com>\n",
+         "to" : "abigailmecho@hotmail.com, adrianducontra@yahoo.com, ag777@earthlink.net,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/koch/35.",
+   "hops" : [
+      {
+         "from" : "no.address@enron.com",
+         "line" : 4,
+         "rawfrom" : "no.address@enron.com\r\n",
+         "to" : "corry.bentley@enron.com, m..presto@enron.com, carl.tricoli@enron.com,"
+      },
+      {
+         "from" : "david.portz@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tPortz, David  \n",
+         "to" : "Panus, Stephanie; Bailey, Susan; Sager, Elizabeth; Nettelton, Marcus; Hansen, Leslie; Murphy, Harlan; Moore, Janet H.; Bentley, Corry; White, Stacey W.; Miller, Don (Asset Mktg); Tricoli, Carl; Baughman, Edward; Miller, Jeffrey; Presto, Kevin M.; Davis, Mark Dana; Sturm, Fletcher J.; Arora, Harry; Gilbert-smith, Doug; Suarez, John; Bradford, William S."
+      },
+      {
+         "from" : "david.portz@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tPortz, David  \n",
+         "to" : "Panus, Stephanie; Bailey, Susan; Sager, Elizabeth; Nettelton, Marcus; Hansen, Leslie; Murphy, Harlan; Moore, Janet H.; Bentley, Corry; White, Stacey W.; Miller, Don (Asset Mktg); Tricoli, Carl; Baughman, Edward; Miller, Jeffrey; Presto, Kevin M.; Davis, Mark Dana; Sturm, Fletcher J.; Arora, Harry; Gilbert-smith, Doug; Suarez, John; Bradford, William S."
+      },
+      {
+         "from" : "david.portz@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tPortz, David  \n",
+         "to" : "Panus, Stephanie; Bailey, Susan; Sager, Elizabeth; Nettelton, Marcus; Hansen, Leslie; Murphy, Harlan; Moore, Janet H.; Bentley, Corry; White, Stacey W.; Miller, Don (Asset Mktg); Tricoli, Carl; Baughman, Edward; Miller, Jeffrey; Presto, Kevin M.; Davis, Mark Dana; Sturm, Fletcher J.; Arora, Harry; Gilbert-smith, Doug; Suarez, John; Bradford, William S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/notes_inbox/7.",
+   "hops" : [
+      {
+         "from" : "felicia.doan@enron.com",
+         "line" : 4,
+         "rawfrom" : "felicia.doan@enron.com\r\n",
+         "to" : "rudy.acevedo@enron.com, diana.allen@enron.com, russell.ballato@enron.com,"
+      },
+      {
+         "from" : "felicia.doan@enron.com",
+         "line" : 89,
+         "rawfrom" : "Felicia Doan/HOU/ECT on 12/11/2000 04:12 \n",
+         "to" : "Felicia Doan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ghopley@enron.com",
+         "line" : 115,
+         "rawfrom" : "George Hopley/HOU/ECT on 12/08/2000 05:20 \n",
+         "to" : "George Hopley/HOU/ECT@ect"
+      },
+      {
+         "from" : "ghopley@enron.com",
+         "line" : 132,
+         "rawfrom" : "George Hopley\n",
+         "to" : "Vince J Kaminski/HOU/ECT@ECT"
+      },
+      {
+         "from" : "cvernon@houston.rr.com",
+         "line" : 159,
+         "rawfrom" : "Clayton Vernon/Corp/Enron on 12/07/2000 \n",
+         "to" : "Clayton Vernon/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent/122.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "mcarson@gtemail.net"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 09/11/2000 \n",
+         "to" : "kenrcars@aol.com, susan@metronet.com, Mike.Carson@enron.com"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 43,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "Mike.Carson@enron.com@internet"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 61,
+         "rawfrom" : "Chuck Carson/Dallas/IBM on 09/11/2000\n",
+         "to" : "<scarsonpro@pga.com>"
+      },
+      {
+         "from" : "cwcarso@yahoo.com",
+         "line" : 78,
+         "rawfrom" : "Chuck Carson/Dallas/IBM@IBMUS\n",
+         "to" : "c@e1.ny.us.ibm.com, Chuck Carson/Dallas/IBM@IBMUS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent/144.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "bobbyg@chbrokers.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/25/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent/146.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent/147.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent/148.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent/149.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "carson@us.ibm.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mike Carson/Corp/Enron on 10/27/2000 \n",
+         "to" : "<mike.carson@enron.com>"
+      },
+      {
+         "from" : "nanette_ramsey@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "\"Nanette Ramsey\" <nanette_ramsey@hotmail.com>\n",
+         "to" : "<hhill@houston.rr.com>"
+      },
+      {
+         "from" : "jklinger73@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "\"Jan Klinger\" <jklinger73@hotmail.com>\n",
+         "to" : "nanette_ramsey@hotmail.com, jklinger73@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/102.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "rogers.herndon@enron.com"
+      },
+      {
+         "from" : "=09herndon, rogers =20",
+         "line" : 31,
+         "rawfrom" : "=09Herndon, Rogers =20\r\n",
+         "to" : "=09Carson, Mike"
+      },
+      {
+         "from" : "cwarre1@entergy.com",
+         "line" : 45,
+         "rawfrom" : "=09\"WARREN, CAMERON\" <CWARRE1@entergy.com>@ENRON [mailto:IMCEANOTES-+=\r\n",
+         "to" : "=09Jackson, Alton; Rogers, Benjamin; Rust, Bill; CPRICE@ect.enron.com; S="
+      },
+      {
+         "from" : "swalton2@ect.enron.com",
+         "line" : 75,
+         "rawfrom" : "swalton2@ect.enron.com",
+         "to" : "=09Entergy Transmission Customers"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/106.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "ken.merideth@entergykoch.com"
+      },
+      {
+         "from" : "chrisdorland@msn.com",
+         "line" : 22,
+         "rawfrom" : "\tDorland, Chris  \n",
+         "to" : "Ballato, Russell; Lorenz, Matt; Carson, Mike; King, Jeff"
+      },
+      {
+         "from" : "migeorge@deloitte.ca",
+         "line" : 30,
+         "rawfrom" : "\t\"George, Mike (CA - Calgary)\" <migeorge@deloitte.ca>@ENRON [mailto:IMCEANOTES-+22George+2C+20Mike+20+28CA+20-+20Calgary+29+22+20+3Cmigeorge+40deloitte+2Eca+3E+40ENRON@ENRON.com] \n",
+         "to" : "Dorland, Chris"
+      },
+      {
+         "from" : "jschoenhals@cicorp.sk.ca",
+         "line" : 38,
+         "rawfrom" : "Schoenhals, Jeff CIC  [mailto:JSchoenhals@cicorp.sk.ca]\n",
+         "to" : "'George, Mike (CA - Calgary)'"
+      },
+      {
+         "from" : "migeorge@deloitte.ca",
+         "line" : 44,
+         "rawfrom" : "George, Mike (CA - Calgary)  [mailto:migeorge@deloitte.ca]\n",
+         "to" : "'Schoenhals, Jeff CIC'"
+      },
+      {
+         "from" : "jschoenhals@cicorp.sk.ca",
+         "line" : 50,
+         "rawfrom" : " Schoenhals, Jeff CIC [mailto:JSchoenhals@cicorp.sk.ca ]  \n",
+         "to" : "Brent Ehrich (E-mail); C. A. Hatlelid (E-mail); Colin Clements (CA"
+      },
+      {
+         "from" : "brett.selinger@sasktel.sk.ca",
+         "line" : 59,
+         "rawfrom" : " brett.selinger@sasktel.sk.ca [mailto:brett.selinger@sasktel.sk.ca ]  \n",
+         "to" : "Craig  Bryksa; eharmel; Mike Harmel; jjknoll@jpm.hewitt.com; C."
+      },
+      {
+         "from" : "brett.selinger@sasktel.sk.ca",
+         "line" : 65,
+         "rawfrom" : "Brett Selinger/SaskTel/CA on 07/30/2001  04:49 PM ----- \n",
+         "to" : "Brett"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/59.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "tpape@satake-usa.com"
+      },
+      {
+         "from" : "tpape@satake-usa.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Pape, Travis\" <tpape@satake-usa.com>@ENRON [mailto:IMCEANOTES-+22Pape+2C+20Travis+22+20+3Ctpape+40satake-usa+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 34,
+         "rawfrom" : "Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "tpape@satake-usa.com"
+      },
+      {
+         "from" : "tpape@satake-usa.com",
+         "line" : 83,
+         "rawfrom" : "  \"Pape, Travis\" <tpape@satake-usa.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 91,
+         "rawfrom" : "Carson, Mike [mailto:Mike.Carson@ENRON.com]\n",
+         "to" : "Trpape@aol.com; tpape@satake-usa.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "mikef@amerexenergy.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCarson, Mike  \n",
+         "to" : "'ken.merideth@entergykoch.com'; 'mikef@amerex.com'"
+      },
+      {
+         "from" : "heather@classicmom.com",
+         "line" : 30,
+         "rawfrom" : "\t\"Classic Mom\" <heather@classicmom.com>@ENRON [mailto:IMCEANOTES-+22Classic+20Mom+22+20+3Cheather+40classicmom+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "rebeccab@nol.net",
+         "line" : 79,
+         "rawfrom" : "\"Becky Broesche\" <rebeccab@nol.net>\n",
+         "to" : "\"Anne Edwards Johnson\" <ajohnson82@aol.com>,        \"Mangine, Cookie\" <fcmangine@yahoo.com>,        \"Krenek, Sharon\" <mkrenek@swbell.net>,        \"Morgan, Charles\" <chasmorgan@aol.com>,        \"Ondrias, David\" <deondrias@worldnet.att.net>,        \"Segrest, Gary\" <segresg@ls1.dsc.k12.ar.us>,        \"Ali, Laura\" <lali@mccoyinc.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/66.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "mikef@amerexenergy.com"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCarson, Mike  \n",
+         "to" : "'mikef@amerexenergy.com'"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCarson, Mike  \n",
+         "to" : "'ken.merideth@entergykoch.com'; 'mikef@amerex.com'"
+      },
+      {
+         "from" : "heather@classicmom.com",
+         "line" : 38,
+         "rawfrom" : "\t\"Classic Mom\" <heather@classicmom.com>@ENRON [mailto:IMCEANOTES-+22Classic+20Mom+22+20+3Cheather+40classicmom+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "rebeccab@nol.net",
+         "line" : 87,
+         "rawfrom" : "\"Becky Broesche\" <rebeccab@nol.net>\n",
+         "to" : "\"Anne Edwards Johnson\" <ajohnson82@aol.com>,        \"Mangine, Cookie\" <fcmangine@yahoo.com>,        \"Krenek, Sharon\" <mkrenek@swbell.net>,        \"Morgan, Charles\" <chasmorgan@aol.com>,        \"Ondrias, David\" <deondrias@worldnet.att.net>,        \"Segrest, Gary\" <segresg@ls1.dsc.k12.ar.us>,        \"Ali, Laura\" <lali@mccoyinc.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/95.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "wentapb@phoenix-cement.com"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON [mailto:IMCEANOTES-+22Wenta+2C+20Phillip+22+20+3CWentaPB+40phoenix-cement+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tMike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "Wenta, Phillip"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 55,
+         "rawfrom" : "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/96.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "wentapb@phoenix-cement.com"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON [mailto:IMCEANOTES-+22Wenta+2C+20Phillip+22+20+3CWentaPB+40phoenix-cement+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "Wenta, Phillip"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 56,
+         "rawfrom" : "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 72,
+         "rawfrom" : "  Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "Wenta, Phillip"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 93,
+         "rawfrom" : "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/carson-m/sent_items/97.",
+   "hops" : [
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.carson@enron.com\r\n",
+         "to" : "wentapb@phoenix-cement.com"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 25,
+         "rawfrom" : "\t\"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON [mailto:IMCEANOTES-+22Wenta+2C+20Phillip+22+20+3CWentaPB+40phoenix-cement+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tMike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "Wenta, Phillip"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 60,
+         "rawfrom" : "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 79,
+         "rawfrom" : "  Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "Wenta, Phillip"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 95,
+         "rawfrom" : "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      },
+      {
+         "from" : "mike.carson@enron.com",
+         "line" : 112,
+         "rawfrom" : "  Mike.Carson@enron.com [mailto:Mike.Carson@enron.com]\n",
+         "to" : "Wenta, Phillip"
+      },
+      {
+         "from" : "wentapb@phoenix-cement.com",
+         "line" : 136,
+         "rawfrom" : "  \"Wenta, Phillip\" <WentaPB@phoenix-cement.com>@ENRON\n",
+         "to" : "Carson, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+]

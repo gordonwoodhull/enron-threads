@@ -1,0 +1,1503 @@
+[
+{
+   "file" : "enron-raw/staab-t/contract_bids/4.",
+   "hops" : [
+      {
+         "from" : "robert.poole@atmosenergy.com",
+         "line" : 4,
+         "rawfrom" : "robert.poole@atmosenergy.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 24,
+         "rawfrom" : "Theresa.Staab@enron.com [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Poole Jr., Robert W."
+      },
+      {
+         "from" : "\"poole jr., robert",
+         "line" : 40,
+         "rawfrom" : "\"Poole Jr., Robert\n",
+         "to" : ""
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 73,
+         "rawfrom" : "Theresa.Staab@enron.com [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Poole Jr., Robert W."
+      },
+      {
+         "from" : "\"poole jr., robert",
+         "line" : 94,
+         "rawfrom" : "\"Poole Jr., Robert\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/169.",
+   "hops" : [
+      {
+         "from" : "amy.felling@enron.com",
+         "line" : 4,
+         "rawfrom" : "amy.felling@enron.com\r\n",
+         "to" : "e-mail <.damion@enron.com>, e-mail <.cody@enron.com>,"
+      },
+      {
+         "from" : "brittanyou@yahoo.com",
+         "line" : 25,
+         "rawfrom" : "Brittany Jacobs [mailto:brittanyou@yahoo.com]\n",
+         "to" : "April Sullivan; Amy Lynn Surjaatmadja; Cory Hoffart; Hunter Lane Jacobs; Jenn Knox; Brandon LaValley; Trevor Mann; andrew Sandubrae; Brian Carey; Jeff Coates; Chris Cohenour; Amy Lyn Felling; Greg Felling; Nathan Hall"
+      },
+      {
+         "from" : "masterpete43@hotmail.com",
+         "line" : 42,
+         "rawfrom" : " <masterpete43@hotmail.com>\n",
+         "to" : "bobby_lg@address.com, brianstacycolton@hotmail.com, brittanyou@yahoo.com, camrenmichelle@hotmail.com, jerry_l74128@yahoo.com, johnrj@okstate.edu, lbkissee@yahoo.com, meadmatt119@msn.com, petersp@pryorok.org, PPeterscc@aol.com, sewerjuice@hotmail.com, stacy_7029@hotmail.com"
+      },
+      {
+         "from" : "pryordesire@hotmail.com",
+         "line" : 55,
+         "rawfrom" : "\"Greg Keirsey\" <pryordesire@hotmail.com>\n",
+         "to" : "a_lloyd82@hotmail.com, calorenz@sgc.edu, lamsail@aol.com,"
+      },
+      {
+         "from" : "daviholland@hotmail.com",
+         "line" : 75,
+         "rawfrom" : "\"david holland\" <daviholland@hotmail.com>\n",
+         "to" : "rogowska@urbanretail.com, gmbgolf@hotmail.com, bdkjellander@yahoo.com,"
+      },
+      {
+         "from" : "tandk@sirinet.net",
+         "line" : 94,
+         "rawfrom" : "Kelli Williams <tandk@sirinet.net>\n",
+         "to" : "cheryl white <fotofool@qwest.net>, david holland"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/170.",
+   "hops" : [
+      {
+         "from" : "valerie.vela@enron.com",
+         "line" : 4,
+         "rawfrom" : "valerie.vela@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Vela, Valerie"
+      },
+      {
+         "from" : "valerie.vela@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tVela, Valerie  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Vela, Valerie; 'robert.poole@atmosenergy.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/217.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "bamendol@westerngas.com",
+         "line" : 25,
+         "rawfrom" : " <BAMENDOL@westerngas.com>\r\n",
+         "to" : "Amy Bennett <ABENNETT.MKTPO.D1DOMAIN@westerngas.com>, Beth Beck <Bbeck.="
+      },
+      {
+         "from" : "lwhite13@houston.rr.com",
+         "line" : 59,
+         "rawfrom" : " <lwhite13@houston.rr.com>\r\n",
+         "to" : "Tracie Steele <tsteele@westerngas.com>, randy lay <randylay@msn.com>, P="
+      },
+      {
+         "from" : "patricia.maldonado@cfisd.net",
+         "line" : 71,
+         "rawfrom" : "\"PATRICIA MALDONADO\" <PATRICIA.MALDONADO@cfisd.net>\r\n",
+         "to" : "<gesqueda@americorp.com>; <FamiliaLopez00@aol.com>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/218.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, girly069buf@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "bduncan@westerngas.com",
+         "line" : 25,
+         "rawfrom" : " <Bduncan@westerngas.com>\n",
+         "to" : "Beth_Blasius@keebler.com, Kathy_Fernandez@keebler.com, Arodriguez@Ltgc.com, lcraig@Ltgc.com, klmatt@MetLife.com, Barbara Amendolari <BAMENDOL.MKTPO.D1DOMAIN@westerngas.com>, Beth Beck <Bbeck.MKTPO.D1DOMAIN@westerngas.com>, Jennifer Buffington <JBUFFING.MKTPO.D1DOMAIN@westerngas.com>, Robert Wasilowski <Rwasilow.ADMPO.D1DOMAIN@westerngas.com>, Terri  Delellis <TDELELLI.MKTPO.D1DOMAIN@westerngas.com>"
+      },
+      {
+         "from" : "<grandprix01@msn.com>",
+         "line" : 36,
+         "rawfrom" : " <grandprix01@msn.com>\n",
+         "to" : "bduncan@westerngas.com"
+      },
+      {
+         "from" : "sac29786@saclink.csus.edu",
+         "line" : 43,
+         "rawfrom" : "Joy Slattery <sac29786@saclink.csus.edu>\n",
+         "to" : "Julie Cloman <juliecloman1@yahoo.com>; Nancy Carlton <bug@oro.net>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/219.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, girly069buf@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "vbrustue@info-link.net",
+         "line" : 34,
+         "rawfrom" : " <vbrustue@info-link.net>\n",
+         "to" : "Terry Johnson <animalhouse@fedteldirect.net>, Sherolyn Bahl <jbahl@info-link.net>, MaryAnn Polosky <gngpol@gwtc.net>, Lyle & Linda Galow <lmk@pmt.org>, Lucille Hering <HERINGLMH@aol.com>, Linda <scottlindawasmund@hometownsolutions.net>, Kari Brustuen <brustuen@hotmail.com>, Joann Schliep <joschliep@ll.net>, Beth Brustuen <beth_brustuen@hotmail.com>, Audrey Arneson <atarneson@willmar.com>"
+      },
+      {
+         "from" : "smu@uslink.net",
+         "line" : 50,
+         "rawfrom" : "Marie Brewster-Christy [mailto:smu@uslink.net]\n",
+         "to" : "Jayne Case; Karen Partlow; Bob Blase; Dick Brundidge; Jeff Heinrich; Jerry Lawler; Neil Byrd; Paul Sword; Tim Lessman; Mary Spaid; Lorrayne Mester; Lisa Maasch; Lisa Gilbert Maasch; Julie Halvorson; Eileen Boelter; Becky Christiansen; Alexia Janecek; Denise Kessler; Jane Cook; Jenny Fulton; K Jones; Katie Thies; Kellie Jo Loberg; Kim Jones; Marie Gibbons; Sharon P. Varin; Val Toivonen; Stan Konz; Zoe Hill; Della Larson"
+      },
+      {
+         "from" : "jchristy@paulbunyan.net",
+         "line" : 57,
+         "rawfrom" : "Jean Christy <jchristy@paulbunyan.net>\n",
+         "to" : "Chub&Marie Christy <smu@uslink.net>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/229.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "cdecotea@westerngas.com",
+         "line" : 26,
+         "rawfrom" : " <Cdecotea@westerngas.com>\r\n",
+         "to" : "Darci Haueisen <Dhaueise.MKTPO.D1DOMAIN@westerngas.com>, Jennifer Buffi="
+      },
+      {
+         "from" : "cambriagrl@aol.com",
+         "line" : 37,
+         "rawfrom" : " <CAMBRIAGRL@aol.com>\r\n",
+         "to" : "Denverjsk@aol.com"
+      },
+      {
+         "from" : "cristando@aol.com",
+         "line" : 77,
+         "rawfrom" : " <Cristando@aol.com>\r\n",
+         "to" : "CAMBRIAGRL@aol.com"
+      },
+      {
+         "from" : "stsbvs@aol.com",
+         "line" : 86,
+         "rawfrom" : " <Stsbvs@aol.com>\r\n",
+         "to" : "Cristando@aol.com"
+      },
+      {
+         "from" : "gassett1922@aol.com",
+         "line" : 95,
+         "rawfrom" : " <Gassett1922@aol.com>\r\n",
+         "to" : "bchampion@iopener.net, Sjfan94@aol.com, PDietz7321@aol.com, lgaf37@yaho="
+      },
+      {
+         "from" : "pdietz7321@aol.com",
+         "line" : 108,
+         "rawfrom" : " <PDietz7321@aol.com>\r\n",
+         "to" : "Gassett1922@aol.com"
+      },
+      {
+         "from" : "<sew334660@aol.com>",
+         "line" : 117,
+         "rawfrom" : " <Sew334660@aol.com>\r\n",
+         "to" : "PDietz7321@aol.com"
+      },
+      {
+         "from" : "glangeway@powerlink.net",
+         "line" : 126,
+         "rawfrom" : " <glangeway@PowerLink.net>\r\n",
+         "to" : "Linda Warner <us4544@home.com>, Myron Verner <Verner812@aol.com>, Joy T="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/242.",
+   "hops" : [
+      {
+         "from" : "bamendol@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "bamendol@westerngas.com\r\n",
+         "to" : "theresa_staab@enron.com"
+      },
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 22,
+         "rawfrom" : " <JBUFFING@westerngas.com>\n",
+         "to" : "Deannathaut@aol.com, Girly069Buf@aol.com, Theresa_Staab@enron.com, Andrea Mosley <AMOSLEY.houpo.Houston@westerngas.com>, Barbara Amendolari <BAMENDOL.MKTPO.D1DOMAIN@westerngas.com>, Candy Decoteau <Cdecotea.MKTPO.D1DOMAIN@westerngas.com>, KAREN LACOMBE <KLACOMBE.houpo.Houston@westerngas.com>, Tamra Haueisen <THAUEISE.MKTPO.D1DOMAIN@westerngas.com>"
+      },
+      {
+         "from" : "parker@ctel.net",
+         "line" : 31,
+         "rawfrom" : " <parker@ctel.net>\n",
+         "to" : "Gwen H. Howard <carogweneth@juno.com>, Joan Scialdone <kollie@nh.ultranet.com>, Liz Klein <lizk@monad.net>, Susan Martin <slarsen@midcoast.com>, Mary Mulhern <lochnorfm@aol.com>, anne lively <ilcoles@maine.rr.com>, Terri Delellis <tdelelli@westerngas.com>"
+      },
+      {
+         "from" : "crystal_j_stoner@hotmail.com",
+         "line" : 38,
+         "rawfrom" : "\"Crystal Stoner\" <crystal_j_stoner@hotmail.com>\n",
+         "to" : "<shadowmont@aol.com>; <capella@cvtv.net>; <Dorelaine1@aol.com>;"
+      },
+      {
+         "from" : "hendrix@hiwaay.net",
+         "line" : 50,
+         "rawfrom" : "\"Rayleen Hendrix\" <hendrix@hiwaay.net>\n",
+         "to" : "\"Sarah Garrison\" <talalove@hotmail.com>,       \"Millie Meyer\""
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/245.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, girly069buf@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "cbrewer@westerngas.com",
+         "line" : 24,
+         "rawfrom" : " <Cbrewer@westerngas.com>\n",
+         "to" : "clm@swgd.com, Heather Sena <Hsena.ENGPO.D1DOMAIN@westerngas.com>, Jennifer Buffington <JBUFFING.MKTPO.D1DOMAIN@westerngas.com>, Linda Haynes <LHAYNES.Remotepo.D1DOMAIN@westerngas.com>, Liz Stumm <LSTUMM.ADMPO.D1DOMAIN@westerngas.com>, Marla Hoffman <MHOFFMAN.ENGPO.D1DOMAIN@westerngas.com>, Terri  Delellis <TDELELLI.MKTPO.D1DOMAIN@westerngas.com>, Tammy O'Keefe <TOKEEFE.ADMPO.D1DOMAIN@westerngas.com>"
+      },
+      {
+         "from" : "clm@swgd.com",
+         "line" : 33,
+         "rawfrom" : " <clm@swgd.com>\n",
+         "to" : "cindy <cbrewer@westerngas.com>"
+      },
+      {
+         "from" : "jdixon@telapex.com",
+         "line" : 48,
+         "rawfrom" : "Jeannine Dixon <mailto:jdixon@telapex.com> \n",
+         "to" : "Undisclosed-Recipient:; <mailto:Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/246.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, girly069buf@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "parker@ctel.net",
+         "line" : 27,
+         "rawfrom" : " <parker@ctel.net>\n",
+         "to" : "Gwen H. Howard <carogweneth@juno.com>, Joan Scialdone <kollie@nh.ultranet.com>, Liz Klein <lizk@monad.net>, Susan Martin <slarsen@midcoast.com>, Mary Mulhern <lochnorfm@aol.com>, anne lively <ilcoles@maine.rr.com>, Terri Delellis <tdelelli@westerngas.com>"
+      },
+      {
+         "from" : "crystal_j_stoner@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "\"Crystal Stoner\" <crystal_j_stoner@hotmail.com>\n",
+         "to" : "<shadowmont@aol.com>; <capella@cvtv.net>; <Dorelaine1@aol.com>;"
+      },
+      {
+         "from" : "hendrix@hiwaay.net",
+         "line" : 46,
+         "rawfrom" : "\"Rayleen Hendrix\" <hendrix@hiwaay.net>\n",
+         "to" : "\"Sarah Garrison\" <talalove@hotmail.com>,       \"Millie Meyer\""
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/staab-t/deleted_items/268.",
+   "hops" : [
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 4,
+         "rawfrom" : "jbuffing@westerngas.com\r\n",
+         "to" : "deannathaut@aol.com, girly069buf@aol.com, theresa_staab@enron.com,"
+      },
+      {
+         "from" : "tdelelli@westerngas.com",
+         "line" : 25,
+         "rawfrom" : " <TDELELLI@westerngas.com>\n",
+         "to" : "Mimi Ramer <Mimi.Ramer@allegro-coffee.com>, sbush@enserco.com, Pam Rogers <rogers@iqcisp.com>, Kristy Olson <KristyO@NEXUSCORP.com>, jchris@qadas.com, Barbara Duncan <Bduncan.MKTPO.D1DOMAIN@westerngas.com>, Cynthia Brewer <Cbrewer.MKTPO.D1DOMAIN@westerngas.com>, Jennifer Buffington <JBUFFING.MKTPO.D1DOMAIN@westerngas.com>"
+      },
+      {
+         "from" : "lorrainecen21@hotmail.com",
+         "line" : 34,
+         "rawfrom" : " <lorrainecen21@hotmail.com>\n",
+         "to" : "grebenc@webtv.com, greenisthecolour_777@yahoo.com, helen.husiak@gwl.com, jennalazo@hotmail.com, jimineycricket21@hotmail.com, Katie.Oakman@lmco.com, KBRADSHAWC21@aol.com, Margaritaville@hotmail.com, Martina_Balfour@stream.com, mgrebenc@ci.thornton.co.us, salcome@juno.com, TDELELLI@westerngas.com"
+      },
+      {
+         "from" : "martina_balfour@stream.com",
+         "line" : 42,
+         "rawfrom" : "Martina_Balfour@Stream.com\n",
+         "to" : "Keavsa_Wilson@Stream.com, neadmcdermott@hotmail.com,"
+      },
+      {
+         "from" : "jem_kennedy@hotmail.com",
+         "line" : 67,
+         "rawfrom" : "\"Jemma Kennedy\" <jem_kennedy@hotmail.com>\n",
+         "to" : "c.p.g.cosgrove@dundee.ac.uk, eilidhgalbraith@hotmail.com,"
+      },
+      {
+         "from" : "\"neil cummings\"",
+         "line" : 88,
+         "rawfrom" : "\"neil cummings\"\n",
+         "to" : "broome_office@arrowpearl.com.au, deborah_duffy@hotmail.com,"
+      },
+      {
+         "from" : "\"fiona mcpherson\"",
+         "line" : 98,
+         "rawfrom" : "\"Fiona McPherson\"\n",
+         "to" : "Alan.Reid@ntu.edu.au, arsummerfield@bigpond.com,"
+      },
+      {
+         "from" : "fionamac33@hotmail.com",
+         "line" : 109,
+         "rawfrom" : "fionamac33@hotmail.com",
+         "to" : "Alan.Reid@ntu.edu.au, arsummerfield@bigpond.com,"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/staab-t/inbox/16.",
+   "hops" : [
+      {
+         "from" : "sean.riordan@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.riordan@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Riordan, Sean"
+      },
+      {
+         "from" : "sean.riordan@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tRiordan, Sean  \n",
+         "to" : "Richardson, Stacey"
+      },
+      {
+         "from" : "sean.riordan@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tRiordan, Sean  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/inbox/58.",
+   "hops" : [
+      {
+         "from" : "g..barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "g..barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/inbox/62.",
+   "hops" : [
+      {
+         "from" : "g..barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "g..barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/inbox/63.",
+   "hops" : [
+      {
+         "from" : "g..barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "g..barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 106,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/inbox/65.",
+   "hops" : [
+      {
+         "from" : "g..barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "g..barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/inbox/7.",
+   "hops" : [
+      {
+         "from" : "g..barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "g..barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 23,
+         "rawfrom" : "Staab, Theresa \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 40,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "cmcdonal@mtpower.com",
+         "line" : 49,
+         "rawfrom" : "McDonald, Connie A [mailto:cmcdonal@mtpower.com]\n",
+         "to" : "Whitt, Mark; Ogunbunmi, Hakeem; Adams, Jacqueline P.; Mendel, Shelly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/mark_whitt/5.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "t..lucci@enron.com, tyrell.harrison@enron.com, heidi.dubose@enron.com,"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tSlone, Jeanie  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Slone, Jeanie"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON [mailto:IMCEANOTES-Enron+20Announcements_Corp_Enron+40ENRON@ENRON.com]  On Behalf Of Enron Announcements@ENRON\n",
+         "to" : "Training List@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/personal/4.",
+   "hops" : [
+      {
+         "from" : "carmen.peters@nissan-usa.com",
+         "line" : 4,
+         "rawfrom" : "carmen.peters@nissan-usa.com\r\n",
+         "to" : "tstaab@enron.com"
+      },
+      {
+         "from" : "> from:\twilliams, joan",
+         "line" : 31,
+         "rawfrom" : "> From:\tWilliams, Joan\n",
+         "to" : "Peters, Carmen"
+      },
+      {
+         "from" : "> from:\tpeters, carmen",
+         "line" : 51,
+         "rawfrom" : "> From:\tPeters, Carmen\n",
+         "to" : "Williams, Joan"
+      },
+      {
+         "from" : "> \tfrom:\twilliams, joan",
+         "line" : 65,
+         "rawfrom" : "> \tFrom:\tWilliams, Joan\n",
+         "to" : "Peters, Carmen"
+      },
+      {
+         "from" : "> \t\tfrom:\tpeters, carmen",
+         "line" : 81,
+         "rawfrom" : "> \t\tFrom:\tPeters, Carmen\n",
+         "to" : "Williams, Joan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/post_bankruptcy/6.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 32,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Sewell, Doug; Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle; Deane, Ryan"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 44,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/116.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "g..barkowsky@enron.com"
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/117.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "g..barkowsky@enron.com"
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/118.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "t..lucci@enron.com"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tLucci, Paul T.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Reitmeyer, Jay; 'sscott5@enron.com'; Adams, Jacqueline P.; Mendel, Shelly; Lucci, Paul T.; Felling, Amy"
+      },
+      {
+         "from" : "dinah.schlecht@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tSchlecht, Dinah  \n",
+         "to" : "Sitter, Scott; Serrano, Walt; Fresquez, Rick; Wiederholt, Barry; Rafter, Mick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/119.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "g..barkowsky@enron.com"
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa; Felling, Amy"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/126.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "jay.reitmeyer@enron.com"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Reitmeyer, Jay; Lucci, Paul T."
+      },
+      {
+         "from" : "scott.sitter@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tSitter, Scott  \n",
+         "to" : "Staab, Theresa; Sylvia Reza (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/133.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "megan.parker@enron.com"
+      },
+      {
+         "from" : "megan.parker@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tParker, Megan  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Parker, Megan"
+      },
+      {
+         "from" : "megan.parker@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tParker, Megan  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "'peters@enron.com, carmen.peters@nissan-usa.com"
+      },
+      {
+         "from" : "carmen.peters@nissan-usa.com",
+         "line" : 28,
+         "rawfrom" : "Peters, Carmen [mailto:carmen.peters@nissan-usa.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 38,
+         "rawfrom" : "> From:\tStaab, Theresa [SMTP:Theresa.Staab@enron.com]\n",
+         "to" : "Serrano, Walt; Sitter, Scott; Schlecht, Dinah; Fresquez, Rick;"
+      },
+      {
+         "from" : "feliciagarcia@aec.ca",
+         "line" : 48,
+         "rawfrom" : "Garcia, Felicia (Denver) [mailto:FeliciaGarcia@aec.ca]\n",
+         "to" : "Felling, Amy; 'mwhitt@enron.com'; 'tstaab@enron.com'; Harrison,"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "'jernigan@enron.com, sjernig@entergy.com"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 23,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 42,
+         "rawfrom" : "Staab, Theresa [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Jernigan, Steven"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 63,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 82,
+         "rawfrom" : "Staab, Theresa [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Jernigan, Steven"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 92,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "'tstaab@enron.com'; 'ncortez@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/64.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "'jernigan@enron.com, sjernig@entergy.com"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 26,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 45,
+         "rawfrom" : "Staab, Theresa [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Jernigan, Steven"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 66,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 85,
+         "rawfrom" : "Staab, Theresa [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Jernigan, Steven"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 95,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "'tstaab@enron.com'; 'ncortez@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "'jernigan@enron.com, sjernig@entergy.com"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 31,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 48,
+         "rawfrom" : "Staab, Theresa [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Jernigan, Steven"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 58,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "'tstaab@enron.com'; 'ncortez@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/66.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "'jernigan@enron.com, sjernig@entergy.com"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 22,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 31,
+         "rawfrom" : "Staab, Theresa [mailto:Theresa.Staab@enron.com]\n",
+         "to" : "Jernigan, Steven"
+      },
+      {
+         "from" : "sjernig@entergy.com",
+         "line" : 41,
+         "rawfrom" : "Jernigan, Steven [mailto:SJernig@entergy.com]\n",
+         "to" : "'tstaab@enron.com'; 'ncortez@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/7.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "g..barkowsky@enron.com"
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/sent_items/8.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "g..barkowsky@enron.com"
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Staab, Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/staab-t/to_do_list/12.",
+   "hops" : [
+      {
+         "from" : "laurie.ellis@enron.com",
+         "line" : 4,
+         "rawfrom" : "laurie.ellis@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "laurie.ellis@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tEllis, Laurie  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "(303) 575-6485",
+         "line" : 46,
+         "rawfrom" : "(303) 575-6485\n",
+         "to" : "Theresa Staab/Corp/Enron@ENRON  cc:   Subject: RE: 0701 Sales to Retex at FUGG"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 103,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 130,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/staab-t/to_do_list/3.",
+   "hops" : [
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "gloria.barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "jacqueline.adams@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tAdams, Jacqueline P.  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Adams, Jacqueline P."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/staab-t/to_do_list/5.",
+   "hops" : [
+      {
+         "from" : "laurie.ellis@enron.com",
+         "line" : 4,
+         "rawfrom" : "laurie.ellis@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "laurie.ellis@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tEllis, Laurie  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "laurie.ellis@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tEllis, Laurie  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "(303) 575-6485",
+         "line" : 75,
+         "rawfrom" : "(303) 575-6485\n",
+         "to" : "Theresa Staab/Corp/Enron@ENRON  cc:   Subject: RE: 0701 Sales to Retex at FUGG"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 107,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 132,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 159,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Ellis, Laurie"
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/staab-t/to_do_list/8.",
+   "hops" : [
+      {
+         "from" : "g..barkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "g..barkowsky@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "(303) 575-6485",
+         "line" : 38,
+         "rawfrom" : "(303) 575-6485\n",
+         "to" : "Theresa Staab/Corp/Enron@ENRON  cc:   Subject: RE: FW: Public Service Company of Colorado"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "jacqueline.adams@enron.com",
+         "line" : 124,
+         "rawfrom" : "\tAdams, Jacqueline P.  \n",
+         "to" : "Barkowsky, Gloria G."
+      },
+      {
+         "from" : "gloria.barkowsky@enron.com",
+         "line" : 136,
+         "rawfrom" : "\tBarkowsky, Gloria G.  \n",
+         "to" : "Adams, Jacqueline P."
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/staab-t/unify/4.",
+   "hops" : [
+      {
+         "from" : "mary.alba@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.alba@enron.com\r\n",
+         "to" : "cheryl.johnson@enron.com, elizabeth.hernandez@enron.com,"
+      },
+      {
+         "from" : "mary.alba@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tAlba, Mary  \n",
+         "to" : "Johnson, Cheryl"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Alba, Mary"
+      },
+      {
+         "from" : "elizabeth.hernandez@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tHernandez, Elizabeth L.  \n",
+         "to" : "Alba, Mary"
+      },
+      {
+         "from" : "mary.alba@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tAlba, Mary  \n",
+         "to" : "Hernandez, Elizabeth L.; Hamic, Priscilla"
+      }
+   ],
+   "skipped" : 1
+}
+]

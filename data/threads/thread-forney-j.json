@@ -1,0 +1,2075 @@
+[
+{
+   "file" : "enron-raw/forney-j/deleted_items/90.",
+   "hops" : [
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.miller@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "david.haddock@jacobs.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Haddock, David\" <David.Haddock@jacobs.com>@ENRON  \n",
+         "to" : "Bernard Teal (E-mail); David Giancola (Home) (E-mail); Dwayne Young (E-mail); Heath Trousdale (E-mail); Miller, Jeffrey; Kevin Dixon (E-mail); Martin Thomas (E-mail); Matt Donnell (E-mail); Melissa Heier (E-mail); Rhett Horton (E-mail); Rob Porchey (E-mail); Robert Renner (E-mail); Stephan Eckhardt (E-mail); Steve Snyder (E-mail); Tom Franzone (E-mail); Tom Ivester (E-mail); Walter Chance (E-mail)"
+      },
+      {
+         "from" : "runyanj@bek.com",
+         "line" : 30,
+         "rawfrom" : "Runyan, Jim (Decatur) [mailto:RunyanJ@bek.com]\n",
+         "to" : "Whitley, Joyce (Decatur)"
+      },
+      {
+         "from" : "> from:\tray, joanne (decatur)",
+         "line" : 40,
+         "rawfrom" : "> From:\tRay, JoAnne (Decatur)\n",
+         "to" : "Runyan, Jim (Decatur); abrams, daryl (000138); Pugh, Larry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/107.",
+   "hops" : [
+      {
+         "from" : "george.phillips@enron.com",
+         "line" : 4,
+         "rawfrom" : "george.phillips@enron.com\r\n",
+         "to" : "m..forney@enron.com, joe.capasso@enron.com"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 34,
+         "rawfrom" : "Forney, John M. \n",
+         "to" : "Phillips, George; Capasso, Joe"
+      },
+      {
+         "from" : "michael.jacobson@enron.com",
+         "line" : 49,
+         "rawfrom" : "  Jacobson, Michael  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 57,
+         "rawfrom" : "  Forney, John M.  \n",
+         "to" : "Jacobson, Michael"
+      },
+      {
+         "from" : "michael.jacobson@enron.com",
+         "line" : 65,
+         "rawfrom" : "  Jacobson, Michael  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/125.",
+   "hops" : [
+      {
+         "from" : "michael.jacobson@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.jacobson@enron.com\r\n",
+         "to" : "george.phillips@enron.com, m..forney@enron.com"
+      },
+      {
+         "from" : "george.phillips@enron.com",
+         "line" : 27,
+         "rawfrom" : "Phillips, George \n",
+         "to" : "Forney, John M.; Capasso, Joe"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 47,
+         "rawfrom" : "Forney, John M. \n",
+         "to" : "Phillips, George; Capasso, Joe"
+      },
+      {
+         "from" : "michael.jacobson@enron.com",
+         "line" : 62,
+         "rawfrom" : "  Jacobson, Michael  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 70,
+         "rawfrom" : "  Forney, John M.  \n",
+         "to" : "Jacobson, Michael"
+      },
+      {
+         "from" : "michael.jacobson@enron.com",
+         "line" : 78,
+         "rawfrom" : "  Jacobson, Michael  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/134.",
+   "hops" : [
+      {
+         "from" : "matthew.duffy@enron.com",
+         "line" : 4,
+         "rawfrom" : "matthew.duffy@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 25,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Duffy, Matthew"
+      },
+      {
+         "from" : "mpatterson@testmail.ercot.com",
+         "line" : 44,
+         "rawfrom" : "\t\"Patterson, Mark\" <mpatterson@testmail.ercot.com>@ENRON  \n",
+         "to" : "Miller, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 56,
+         "rawfrom" : "Miller, Jeffrey [mailto:Jeffrey.Miller@ENRON.com]\n",
+         "to" : "Day, Smith"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/137.",
+   "hops" : [
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.miller@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "smith.l.day@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tDay, Smith L.  \n",
+         "to" : "Forney, John M.; Miller, Jeffrey"
+      },
+      {
+         "from" : "thailu@testmail.ercot.com",
+         "line" : 38,
+         "rawfrom" : "\t\"Hailu, Ted\" <thailu@testmail.ercot.com>@ENRON  \n",
+         "to" : "1 2001 WMS and others(Wholesale Market Sub.)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/153.",
+   "hops" : [
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 4,
+         "rawfrom" : "laurel.bolt@enron.com\r\n",
+         "to" : "steve.olinde@enron.com"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Olinde Jr., Steve"
+      },
+      {
+         "from" : "joe.capasso@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tCapasso, Joe  \n",
+         "to" : "Forney, John M.; Bolt, Laurel"
+      },
+      {
+         "from" : "george.phillips@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tPhillips, George  \n",
+         "to" : "Olinde Jr., Steve; Capasso, Joe"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/155.",
+   "hops" : [
+      {
+         "from" : "david.portz@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.portz@enron.com\r\n",
+         "to" : "thane.twiggs@enron.com"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 41,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 66,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 113,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/156.",
+   "hops" : [
+      {
+         "from" : "thane.twiggs@enron.com",
+         "line" : 4,
+         "rawfrom" : "thane.twiggs@enron.com\r\n",
+         "to" : "m..forney@enron.com, l..nicolay@enron.com, david.portz@enron.com,"
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 27,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Twiggs, Thane; Nicolay, Christi L.; Portz, David; Gilbert-smith, Doug"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 53,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 78,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 125,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/158.",
+   "hops" : [
+      {
+         "from" : "thane.twiggs@enron.com",
+         "line" : 4,
+         "rawfrom" : "thane.twiggs@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 22,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Twiggs, Thane"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 35,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Forney, John M.; Nicolay, Christi L.; Portz, David; Gilbert-smith, Do="
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 47,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Twiggs, Thane; Nicolay, Christi L.; Portz, David; Gilbert-smith, Doug"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 73,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 98,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 145,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/159.",
+   "hops" : [
+      {
+         "from" : "doug.gilbert-smith@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.gilbert-smith@enron.com\r\n",
+         "to" : "lance.cunningham@enron.com"
+      },
+      {
+         "from" : "lbcunningham@mail.utexas.edu",
+         "line" : 24,
+         "rawfrom" : "\tCunningham, Lance  \n",
+         "to" : "Gilbert-smith, Doug"
+      },
+      {
+         "from" : "gilsmith@houston.rr.com",
+         "line" : 40,
+         "rawfrom" : "\tGilbert-smith, Doug  \n",
+         "to" : "Cunningham, Lance"
+      },
+      {
+         "from" : "lbcunningham@mail.utexas.edu",
+         "line" : 48,
+         "rawfrom" : "\tCunningham, Lance  \n",
+         "to" : "Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/160.",
+   "hops" : [
+      {
+         "from" : "m..grace@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..grace@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/162.",
+   "hops" : [
+      {
+         "from" : "david.portz@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.portz@enron.com\r\n",
+         "to" : "thane.twiggs@enron.com"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 36,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Forney, John M.; Nicolay, Christi L.; Portz, David; Gilbert-smith, Do="
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 48,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Twiggs, Thane; Nicolay, Christi L.; Portz, David; Gilbert-smith, Doug"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 74,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 99,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 146,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/163.",
+   "hops" : [
+      {
+         "from" : "thane.twiggs@enron.com",
+         "line" : 4,
+         "rawfrom" : "thane.twiggs@enron.com\r\n",
+         "to" : "david.portz@enron.com"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 27,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Twiggs, Thane"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 47,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Forney, John M.; Nicolay, Christi L.; Portz, David; Gilbert-smith, Do="
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 59,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Twiggs, Thane; Nicolay, Christi L.; Portz, David; Gilbert-smith, Doug"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 85,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 110,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 157,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/17.",
+   "hops" : [
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 4,
+         "rawfrom" : "william.crooks@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/175.",
+   "hops" : [
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.melodick@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Corporate Benefits@ENRON\n",
+         "to" : "All Enron Employees United States Group@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/42.",
+   "hops" : [
+      {
+         "from" : "m..grace@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..grace@enron.com\r\n",
+         "to" : "m..forney@enron.com"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/inbox/64.",
+   "hops" : [
+      {
+         "from" : "lloyd.will@enron.com",
+         "line" : 4,
+         "rawfrom" : "lloyd.will@enron.com\r\n",
+         "to" : "m..forney@enron.com, keith.comeaux@enron.com, l..day@enron.com"
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 21,
+         "rawfrom" : "\tWill, Lloyd  \n",
+         "to" : "May, Tom; Gilbert-smith, Doug; Baughman, Edward D."
+      },
+      {
+         "from" : "thailu@ercot.com",
+         "line" : 29,
+         "rawfrom" : "\t\"Hailu, Ted\" <thailu@ercot.com>@ENRON  \n",
+         "to" : "Hailu, Ted"
+      },
+      {
+         "from" : "thailu@testmail.ercot.com",
+         "line" : 42,
+         "rawfrom" : "Hailu, Ted \n",
+         "to" : "Hailu, Ted"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/101.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "william.crooks@enron.com"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "duong.luu@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tLuu, Duong  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Luu, Duong"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/102.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "kim.melodick@enron.com"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Kallus, Deborah"
+      },
+      {
+         "from" : "deborah.kallus@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tKallus, Deborah  \n",
+         "to" : "Melodick, Kim; 'Camill_Mursch@afcc.com'; 'Derek_Bird@afcc.com'; Whiteurst, Lloyd"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Kallus, Deborah"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Melodick, Kim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/112.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "kim.melodick@enron.com"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Kallus, Deborah"
+      },
+      {
+         "from" : "deborah.kallus@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tKallus, Deborah  \n",
+         "to" : "Melodick, Kim; 'Camill_Mursch@afcc.com'; 'Derek_Bird@afcc.com'; Whiteurst, Lloyd"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Kallus, Deborah"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Melodick, Kim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/130.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "william.crooks@enron.com"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/131.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "george.phillips@enron.com"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/147.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "m..grace@enron.com"
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/15.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "joe.capasso@enron.com, l..day@enron.com, joe.errigo@enron.com,"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 31,
+         "rawfrom" : "\t\"Hunsucker, Brett\" <Bhunsucker@ercot.com>@ENRON [mailto:IMCEANOTES-+22Hunsucker+2C+20Brett+22+20+3CBhunsucker+40ercot+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Miller, Jeffrey; Patterson, Mark"
+      },
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 52,
+         "rawfrom" : "Jeffrey.Miller@enron.com  mailto:Jeffrey.Miller@enron.com ]\n",
+         "to" : "Bhunsucker@ercot.com"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 75,
+         "rawfrom" : "  \"Hunsucker, Brett\"  <Bhunsucker@ercot.com>@ENRON\n",
+         "to" : "Miller,  Jeffrey"
+      },
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 82,
+         "rawfrom" : "Miller, Jeffrey [mailto:Jeffrey.Miller@ENRON.com  <<  File:\n",
+         "to" : "Brett Hunsucker (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/182.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "kim.melodick@enron.com"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.forney@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tForney, John  \n",
+         "to" : "Melodick, Kim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/227.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "amy.fitzpatrick@enron.com"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Fitzpatrick, Amy"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/23.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "bhunsucker@ercot.com"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Hunsucker, Brett\" <Bhunsucker@ercot.com>@ENRON [mailto:IMCEANOTES-+22Hunsucker+2C+20Brett+22+20+3CBhunsucker+40ercot+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Miller, Jeffrey; Patterson, Mark"
+      },
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 45,
+         "rawfrom" : "Jeffrey.Miller@enron.com  mailto:Jeffrey.Miller@enron.com << File: mailto:Jeffrey.Miller@enron.com >> ]\n",
+         "to" : "Bhunsucker@ercot.com"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 68,
+         "rawfrom" : "  \"Hunsucker, Brett\"  <Bhunsucker@ercot.com>@ENRON\n",
+         "to" : "Miller,  Jeffrey"
+      },
+      {
+         "from" : "jeffrey.miller@enron.com",
+         "line" : 75,
+         "rawfrom" : "Miller, Jeffrey [mailto:Jeffrey.Miller@ENRON.com << File: mailto:Jeffrey.Miller@ENRON.com >>  <<  File:\n",
+         "to" : "Brett Hunsucker (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/232.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "saji.john@enron.com"
+      },
+      {
+         "from" : "saji_john@yahoo.com",
+         "line" : 27,
+         "rawfrom" : "\tJohn, Saji  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "(713) 853-3036",
+         "line" : 41,
+         "rawfrom" : "(713) 853-3036\n",
+         "to" : "Saji John/Enron Communications@Enron Communications  cc:   Subject: RE:"
+      },
+      {
+         "from" : "saji_john@yahoo.com",
+         "line" : 52,
+         "rawfrom" : "\tJohn, Saji  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/236.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "joy.werner@enron.com"
+      },
+      {
+         "from" : "joy.werner@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tWerner, Joy  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Werner, Joy"
+      },
+      {
+         "from" : "joy.werner@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tWerner, Joy  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "ajackson@btutilities.com",
+         "line" : 61,
+         "rawfrom" : "\t\"Amie Jackson\" <ajackson@btutilities.com>@ENRON [mailto:IMCEANOTES-+22Amie+20Jackson+22+20+3Cajackson+40btutilities+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Werner, Joy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/254.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "deolande@srpnet.com"
+      },
+      {
+         "from" : "deolande@srpnet.com",
+         "line" : 30,
+         "rawfrom" : "\tdeolande@srpnet.com@ENRON [mailto:IMCEANOTES-deolande+40srpnet+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 65,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "IMCEANOTES-deolande+40srpnet+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "deolande@srpnet.com",
+         "line" : 91,
+         "rawfrom" : "  deolande@srpnet.com@ENRON\n",
+         "to" : "jforney@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/255.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "christopher.watts@enron.com, alexander.mcelreath@enron.com"
+      },
+      {
+         "from" : "christopher.watts@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWatts, Christopher  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "christopher.watts@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tWatts, Christopher  \n",
+         "to" : "'John.Forney@enron.com'"
+      },
+      {
+         "from" : "christopher.watts@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tWatts, Christopher  \n",
+         "to" : "'jforney@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/263.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "doug.gilbert-smith@enron.com"
+      },
+      {
+         "from" : "gilsmith@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "\tGilbert-smith, Doug  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "smith.l.day@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tDay, Smith L.  \n",
+         "to" : "Portz, David; Gilbert-smith, Doug; Miller, Jeffrey; Forney, John M.; Twiggs, Thane"
+      },
+      {
+         "from" : "thailu@ercot.com",
+         "line" : 43,
+         "rawfrom" : "\t\"Hailu, Ted\" <THailu@ercot.com>@ENRON [mailto:IMCEANOTES-+22Hailu+2C+20Ted+22+20+3CTHailu+40ercot+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Hailu, Ted"
+      },
+      {
+         "from" : "kdonohoo@ercot.com",
+         "line" : 51,
+         "rawfrom" : "Donohoo, Ken \n",
+         "to" : "1 2001 TAC and others; 1 RMS and others(Retail Market Sub.); 1 ROS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/308.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "jeffrey.miller@enron.com"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Jacobucci+2C+20Scott+22+20+3CScott+2EJacobucci+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 39,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 59,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "'jforney@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/312.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "scott.jacobucci@elpaso.com"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 26,
+         "rawfrom" : "\t\"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Jacobucci+2C+20Scott+22+20+3CScott+2EJacobucci+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 40,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 60,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "'jforney@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/313.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "scott.jacobucci@elpaso.com"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Jacobucci+2C+20Scott+22+20+3CScott+2EJacobucci+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 36,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 58,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 74,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 96,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "'jforney@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/314.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "scott.jacobucci@elpaso.com"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Jacobucci+2C+20Scott+22+20+3CScott+2EJacobucci+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 34,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 50,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 64,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 89,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 106,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Jacobucci, Scott"
+      },
+      {
+         "from" : "scott.jacobucci@elpaso.com",
+         "line" : 130,
+         "rawfrom" : "  \"Jacobucci, Scott\" <Scott.Jacobucci@ElPaso.com>@ENRON\n",
+         "to" : "'jforney@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/32.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "jae.black@enron.com"
+      },
+      {
+         "from" : "tamarajae.black@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBlack, Tamara Jae  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Black, Tamara Jae"
+      },
+      {
+         "from" : "tamarajae.black@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tBlack, Tamara Jae  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Black, Tamara Jae"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/325.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "doug.gilbert-smith@enron.com, lloyd.will@enron.com"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Miller, Jeffrey \n",
+         "to" : "Allen, Thresa A."
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 34,
+         "rawfrom" : "Will, Lloyd \n",
+         "to" : "Allen, Thresa A.; Day, Smith L.; Bailey, Debra; Sacks, Edward; Miller, Jeffrey"
+      },
+      {
+         "from" : "clientrelations@ercot.com",
+         "line" : 48,
+         "rawfrom" : "Client Relations <ClientRelations@ercot.com>@ENRON \n",
+         "to" : "Hailu, Ted"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/335.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "lloyd.will@enron.com"
+      },
+      {
+         "from" : "george.phillips@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tPhillips, George  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 34,
+         "rawfrom" : "From:\tJohn M Forney/ENRON@enronXgate on 08/08/2001 08:16 AM\n",
+         "to" : "George Phillips/HOU/EES@EES"
+      },
+      {
+         "from" : "george.phillips@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tPhillips, George  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/343.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "claudia.guerra@enron.com"
+      },
+      {
+         "from" : "claudia.guerra@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tGuerra, Claudia  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Guerra, Claudia"
+      },
+      {
+         "from" : "claudia.guerra@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tGuerra, Claudia  \n",
+         "to" : "Forney, John M.; Baughman Jr., Don; Hernandez, Juan"
+      },
+      {
+         "from" : "claudia.guerra@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tGuerra, Claudia  \n",
+         "to" : "Baughman Jr., Don; Hernandez, Juan; Will, Lloyd; Day, Smith L.; Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/345.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "erik.simpson@enron.com"
+      },
+      {
+         "from" : "erik.simpson@enron.com",
+         "line" : 27,
+         "rawfrom" : "Simpson, Erik \n",
+         "to" : "Will, Lloyd; Gilbert-smith, Doug; Forney, John M."
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 41,
+         "rawfrom" : "Will, Lloyd \n",
+         "to" : "Simpson, Erik"
+      },
+      {
+         "from" : "erik.simpson@enron.com",
+         "line" : 54,
+         "rawfrom" : "Simpson, Erik \n",
+         "to" : "Will, Lloyd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/348.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "erik.simpson@enron.com"
+      },
+      {
+         "from" : "erik.simpson@enron.com",
+         "line" : 26,
+         "rawfrom" : "Simpson, Erik \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 35,
+         "rawfrom" : "Forney, John M. \n",
+         "to" : "Simpson, Erik"
+      },
+      {
+         "from" : "erik.simpson@enron.com",
+         "line" : 49,
+         "rawfrom" : "Simpson, Erik \n",
+         "to" : "Will, Lloyd; Gilbert-smith, Doug; Forney, John M."
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 63,
+         "rawfrom" : "Will, Lloyd \n",
+         "to" : "Simpson, Erik"
+      },
+      {
+         "from" : "erik.simpson@enron.com",
+         "line" : 76,
+         "rawfrom" : "Simpson, Erik \n",
+         "to" : "Will, Lloyd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/354.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "m..presto@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 35,
+         "rawfrom" : "\tPresto, Kevin M.  \n",
+         "to" : "Forney, John M.; Gilbert-smith, Doug"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "jeff.merola@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tMerola, Jeff  \n",
+         "to" : "Herndon, Rogers"
+      },
+      {
+         "from" : "jeff.merola@enron.com",
+         "line" : 65,
+         "rawfrom" : "Jeff Merola/HOU/EES on 08/20/2001 03:12 PM ---------------------------\n",
+         "to" : "Jeff Merola/HOU/EES@EES, Preston Ochsner/Enron@EnronXGate, nhetrick@enron.com, Patricia Collins/HOU/EES@EES, David Salley/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/359.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "sharen.cason@enron.com"
+      },
+      {
+         "from" : "sharen.cason@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tCason, Sharen  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "sharen.cason@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tCason, Sharen  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "sharen.cason@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tCason, Sharen  \n",
+         "to" : "Portz, David; Dean, Clint; Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/388.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "doug.gilbert-smith@enron.com"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPoston, David  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "susan.amador@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tAmador, Susan  \n",
+         "to" : "Poston, David"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 38,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "DL-Portland World Trade Center"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/408.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "finance485@email.msn.com"
+      },
+      {
+         "from" : "finance485@email.msn.com",
+         "line" : 23,
+         "rawfrom" : "\t\"finance485\" <finance485@email.msn.com>@ENRON  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 34,
+         "rawfrom" : "<John.M.Forney@enron.com>\n",
+         "to" : "<finance485@email.msn.com>"
+      },
+      {
+         "from" : "finance485@email.msn.com",
+         "line" : 46,
+         "rawfrom" : "  \"finance485\" <finance485@email.msn.com>@ENRON\n",
+         "to" : "jforney@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/410.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "michael.corley@elpaso.com"
+      },
+      {
+         "from" : "michael.corley@elpaso.com",
+         "line" : 26,
+         "rawfrom" : "\t\"Corley, Michael\" <Michael.Corley@ElPaso.com>@ENRON  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 38,
+         "rawfrom" : "John.M.Forney@enron.com [mailto:John.M.Forney@enron.com]\n",
+         "to" : "Corley, Michael"
+      },
+      {
+         "from" : "michael.corley@elpaso.com",
+         "line" : 58,
+         "rawfrom" : "  \"Corley, Michael\" <Michael.Corley@ElPaso.com>@ENRON\n",
+         "to" : "'jforney@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/412.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "thane.twiggs@enron.com, l..nicolay@enron.com, david.portz@enron.com,"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 42,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 67,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 114,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/413.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "thane.twiggs@enron.com"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 27,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Forney, John M.; Nicolay, Christi L.; Portz, David; Gilbert-smith, Do="
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 39,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Twiggs, Thane; Nicolay, Christi L.; Portz, David; Gilbert-smith, Doug"
+      },
+      {
+         "from" : "=09twiggs, thane =20",
+         "line" : 65,
+         "rawfrom" : "=09Twiggs, Thane =20\r\n",
+         "to" : "=09Nicolay, Christi L.; Yeung, Charles; Maurer, Luiz"
+      },
+      {
+         "from" : "=09portz, david =20",
+         "line" : 90,
+         "rawfrom" : "=09Portz, David =20\r\n",
+         "to" : "=09Nicolay, Christi L."
+      },
+      {
+         "from" : "=09forney, john m. =20",
+         "line" : 137,
+         "rawfrom" : "=09Forney, John M. =20\r\n",
+         "to" : "=09Portz, David; Gilbert-smith, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/419.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "m..grace@enron.com, jeffrey.miller@enron.com"
+      },
+      {
+         "from" : "ttwiggs@apx.com",
+         "line" : 28,
+         "rawfrom" : "Twiggs, Thane \n",
+         "to" : "Forney, John M.; Gilbert-smith, Doug; Portz, David"
+      },
+      {
+         "from" : "ksaathoff@ercot.com",
+         "line" : 38,
+         "rawfrom" : "\"Saathoff, Kent\" <KSaathoff@ercot.com>@ENRON \n",
+         "to" : "Twiggs, Thane"
+      },
+      {
+         "from" : "ttwiggs@apx.com",
+         "line" : 64,
+         "rawfrom" : "Twiggs, Thane\n",
+         "to" : "Saathoff, Kent"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/421.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "thane.twiggs@enron.com"
+      },
+      {
+         "from" : "ttwiggs@apx.com",
+         "line" : 24,
+         "rawfrom" : "Twiggs, Thane \n",
+         "to" : "Forney, John M.; Gilbert-smith, Doug; Portz, David"
+      },
+      {
+         "from" : "ksaathoff@ercot.com",
+         "line" : 34,
+         "rawfrom" : "\"Saathoff, Kent\" <KSaathoff@ercot.com>@ENRON \n",
+         "to" : "Twiggs, Thane"
+      },
+      {
+         "from" : "ttwiggs@apx.com",
+         "line" : 60,
+         "rawfrom" : "Twiggs, Thane\n",
+         "to" : "Saathoff, Kent"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/430.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "madhup.kumar@enron.com"
+      },
+      {
+         "from" : "george.phillips@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tPhillips, George  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "joe.capasso@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCapasso, Joe  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "joe.capasso@enron.com",
+         "line" : 115,
+         "rawfrom" : "\tCapasso, Joe  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/66.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "joan.quick@enron.com"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Quick, Joan"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/67.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "joan.quick@enron.com"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Quick, Joan"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Quick, Joan"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/70.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "marie.newhouse@enron.com"
+      },
+      {
+         "from" : "marie.newhouse@enron.com",
+         "line" : 28,
+         "rawfrom" : "Newhouse, Marie \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "garyp@microsoft.com",
+         "line" : 44,
+         "rawfrom" : "Gary Price [mailto:garyp@microsoft.com]\n",
+         "to" : "Newhouse, Marie"
+      },
+      {
+         "from" : "clickathome@enron.com",
+         "line" : 56,
+         "rawfrom" : "ClickatHome [mailto:clickathome@enron.com] \n",
+         "to" : "Gary Price"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "ClickatHome"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/72.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "chris.stokley@enron.com"
+      },
+      {
+         "from" : "ravsav@msn.com",
+         "line" : 25,
+         "rawfrom" : "\tStokley, Chris  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Stokley, Chris"
+      },
+      {
+         "from" : "ravsav@msn.com",
+         "line" : 47,
+         "rawfrom" : "\tStokley, Chris  \n",
+         "to" : "Forney, John M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/86.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "m..grace@enron.com"
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Forney, John M."
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Grace, Rebecca M.; Jacobson, Michael"
+      },
+      {
+         "from" : "john.m.forney@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tForney, John M.  \n",
+         "to" : "Kenneth Parker (E-mail); May, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/forney-j/sent_items/91.",
+   "hops" : [
+      {
+         "from" : "m..forney@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..forney@enron.com\r\n",
+         "to" : "jeffrey.miller@enron.com"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 26,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Harmon, Kayla"
+      },
+      {
+         "from" : "kayla.harmon@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tHarmon, Kayla  \n",
+         "to" : "Miller, Jeffrey"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Harmon, Kayla"
+      },
+      {
+         "from" : "kayla.harmon@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tHarmon, Kayla  \n",
+         "to" : "Miller, Jeffrey"
+      }
+   ],
+   "skipped" : 0
+}
+]

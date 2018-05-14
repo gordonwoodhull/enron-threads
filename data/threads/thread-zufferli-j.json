@@ -1,0 +1,1655 @@
+[
+{
+   "file" : "enron-raw/zufferli-j/deleted_items/101.",
+   "hops" : [
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "danielle.marcinkowski@enron.com\r\n",
+         "to" : "john.zufferli@enron.com"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tGaskill, Chris  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Gaskill, Chris; Will, Lloyd"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 55,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/deleted_items/63.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "john.zufferli@enron.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 26,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Lambie, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/deleted_items/99.",
+   "hops" : [
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "danielle.marcinkowski@enron.com\r\n",
+         "to" : "john.zufferli@enron.com, calgary.dl-it@enron.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 24,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tGaskill, Chris  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Gaskill, Chris; Will, Lloyd"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 75,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 87,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/inbox/22.",
+   "hops" : [
+      {
+         "from" : "debra.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.bailey@enron.com\r\n",
+         "to" : "john.zufferli@enron.com"
+      },
+      {
+         "from" : "debra_bailey@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tBailey, Debra  \n",
+         "to" : "Steffes, James D.; Reeves, Leslie"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Bailey, Debra; Will, Lloyd"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Guadarrama, Michael; DL-EOL eCommerce Support; Becker, Lorraine; Mandola, Teresa; Mcquade, Jennifer; Carter, Carl; Diamond, Daniel; Jafry, Rahil; Shults, Bob"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/inbox/31.",
+   "hops" : [
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "danielle.marcinkowski@enron.com\r\n",
+         "to" : "john.zufferli@enron.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 24,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John; DL-IT Calgary"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 42,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tGaskill, Chris  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Gaskill, Chris; Will, Lloyd"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 93,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 105,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/inbox/quotes/32.",
+   "hops" : [
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 4,
+         "rawfrom" : "clinton.kripki@gfinet.com\r\n",
+         "to" : "john.zufferli@enron.com"
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 55,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : "\"John Zufferli (E-mail)\" <john.zufferli@enron.com>"
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 83,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : "\"John Zufferli (E-mail)\" <john.zufferli@enron.com>"
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 107,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : "\"John Zufferli (E-mail)\" <john.zufferli@enron.com>"
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 133,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : ""
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 145,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : ""
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 157,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : ""
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 169,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : ""
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 181,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : ""
+      },
+      {
+         "from" : "clinton.kripki@gfinet.com",
+         "line" : 193,
+         "rawfrom" : "Clinton Kripki <Clinton.Kripki@GFInet.com>\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/107.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "livia_zufferli@monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 22,
+         "rawfrom" : "\tLivia_Zufferli@Monitor.com@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "staffojt@ucarb.com",
+         "line" : 32,
+         "rawfrom" : "John.Zufferli@\n",
+         "to" : "Livia_Zufferli@Monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 47,
+         "rawfrom" : "  Livia_Zufferli@Monitor.com@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/110.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "jzufferli@shaw.ca"
+      },
+      {
+         "from" : "jzufferli@shaw.ca",
+         "line" : 22,
+         "rawfrom" : "\tJ&J Zufferli <jzufferli@shaw.ca>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 35,
+         "rawfrom" : "<John.Zufferli@enron.com>\n",
+         "to" : "<jzufferli@shaw.ca>"
+      },
+      {
+         "from" : "jzufferli@shaw.ca",
+         "line" : 45,
+         "rawfrom" : "  J&J Zufferli <jzufferli@shaw.ca>@ENRON\n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "canrights@aol.com",
+         "line" : 56,
+         "rawfrom" : "Canrights@aol.com << File: mailto:Canrights@aol.com >>\n",
+         "to" : "jzufferli@shaw.ca << File: mailto:jzufferli@shaw.ca >>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/111.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "livia_zufferli@monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 22,
+         "rawfrom" : "\tLivia_Zufferli@Monitor.com@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "staffojt@ucarb.com",
+         "line" : 36,
+         "rawfrom" : "John.Zufferli@\n",
+         "to" : "Livia_Zufferli@Monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 52,
+         "rawfrom" : "  Livia_Zufferli@Monitor.com@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/115.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "livia_zufferli@monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 22,
+         "rawfrom" : "\tLivia_Zufferli@Monitor.com@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "staffojt@ucarb.com",
+         "line" : 34,
+         "rawfrom" : "John.Zufferli@\n",
+         "to" : "Livia_Zufferli@Monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 52,
+         "rawfrom" : "  Livia_Zufferli@Monitor.com@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/127.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "allison.healy-poe@enron.com"
+      },
+      {
+         "from" : "allison.healy-poe@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tHealy-Poe, Allison  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 32,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Healy-Poe, Allison"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 40,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "'jzufferli@shaw.ca'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/134.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "cheryl.runge@powerpool.ab.ca"
+      },
+      {
+         "from" : "cheryl.runge@powerpool.ab.ca",
+         "line" : 22,
+         "rawfrom" : "\tCheryl Runge <cheryl.runge@powerpool.ab.ca>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 33,
+         "rawfrom" : "John.Zufferli@enron.com [mailto:John.Zufferli@enron.com]\n",
+         "to" : "cheryl.runge@powerpool.ab.ca"
+      },
+      {
+         "from" : "cheryl.runge@powerpool.ab.ca",
+         "line" : 42,
+         "rawfrom" : "  Cheryl Runge <cheryl.runge@powerpool.ab.ca>@ENRON\n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 58,
+         "rawfrom" : "Zufferli, John [mailto:John.Zufferli@ENRON.com]\n",
+         "to" : "Lavorato, John; Milnthorp, Rob; Davies, Derek; Hemstock, Robert;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/146.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "michelle.wells@enron.com"
+      },
+      {
+         "from" : "michelle.wells@enron.com",
+         "line" : 22,
+         "rawfrom" : "Wells, Michelle \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 36,
+         "rawfrom" : "Zufferli, John \n",
+         "to" : "Wells, Michelle"
+      },
+      {
+         "from" : "michelle.wells@enron.com",
+         "line" : 45,
+         "rawfrom" : "Wells, Michelle \n",
+         "to" : "Afseth, Stacy; Clark, Chad; Bowen, Todd; Davies, Derek; Dawes, Cheryl; Dupuy, Mark; Garcia, Sebastien; Hrap, Gerry; Keohane, Peter; Lambie, Chris; Laporte, Nicole; Messenger, John P.; Patterson, Grant; Rogers, Glenn; Rondeau, Clayton; Sangwine, Howard; Seminuk, Tyler; Unger, Chris; Vallejo, Stacey; Vander velde, Nikole; Watt, Ryan; Zufferli, John; Assaf, Lisa; Borg, Jeff; Burnham, Steven; Del Moral, Joseph; Devries, Paul; Dorland, Dan; Hanley, JB; Loy, Brian; Stuchbury, Neil; Wilson, Jan; Ellis, Dave; Sangermano, Nick; Dion, Nicole; Giampa, Micheline; Pizzuto, Grace; Toy, Shirley; Bingham, Carey; Butt, Sarah; Flaman, Derek; Hoogendoorn, Frank; Poffenroth, Lori; Tiberi, Fino"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/149.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "brian.gillis@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGillis, Brian  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=fhayden>",
+         "line" : 36,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FHAYDEN>\n",
+         "to" : "Gillis, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bgillis>"
+      },
+      {
+         "from" : "brian.gillis@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tGillis, Brian  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Gillis, Brian"
+      },
+      {
+         "from" : "brian.gillis@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tGillis, Brian  \n",
+         "to" : "Brackett, Debbie R."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/171.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Milnthorp, Rob; Devries, Paul; Zufferli, John; Kitagawa, Kyle; Davies, Derek"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Devries, Paul; Zufferli, John; Kitagawa, Kyle; Davies, Derek"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 40,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Perlman, Beth; Beck, Sally; Pickering, Mark; Piper, Greg"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/191.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "mark.dupuy@enron.com"
+      },
+      {
+         "from" : "mark.dupuy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDupuy, Mark  \n",
+         "to" : "Hemstock, Robert"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tHemstock, Robert  \n",
+         "to" : "Dupuy, Mark; Greenizan, Bill"
+      },
+      {
+         "from" : "quen.tan@powerpool.ab.ca",
+         "line" : 48,
+         "rawfrom" : "\tQuen Tan <quen.tan@powerpool.ab.ca>@ENRON [mailto:IMCEANOTES-Quen+20Tan+20+3Cquen+2Etan+40powerpool+2Eab+2Eca+3E+40ENRON@ENRON.com] \n",
+         "to" : "'rhemsto@ect.enron.com'; Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/194.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "cooper.richey@enron.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 22,
+         "rawfrom" : "=09\"J&J Zufferli\" <jzufferli@home.com>@ENRON =20\r\n",
+         "to" : "=09Zufferli, John; BFisher71@aol.com; ahealypo@enron.com; Alethia Theise="
+      },
+      {
+         "from" : "hollitah@aol.com",
+         "line" : 30,
+         "rawfrom" : "<HollitaH@aol.com>\r\n",
+         "to" : "<jzufferli@home.com>"
+      },
+      {
+         "from" : "diane.korach@verizon.net",
+         "line" : 54,
+         "rawfrom" : "Diane Korach <diane.korach@verizon.net>\r\n",
+         "to" : "Alice Korach <akorach@kalmbach.com>,        Catherine Cairns <chachacha="
+      },
+      {
+         "from" : "shstack@yahoo.com",
+         "line" : 84,
+         "rawfrom" : "Shari Stachowiak <shstack@yahoo.com>\r\n",
+         "to" : "Sue Rinker <rosethorne@home.com>, Evelyn Sample <evesample@aol.com>,  e="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/203.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "jzufferli@home.com"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKeohane, Peter  \n",
+         "to" : "Milnthorp, Rob; Davies, Derek; Zufferli, John; Cappelletto, Nella"
+      },
+      {
+         "from" : "derek.flaman@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tFlaman, Derek  \n",
+         "to" : "Keohane, Peter"
+      },
+      {
+         "from" : "derek.flaman@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tFlaman, Derek  \n",
+         "to" : "Butt, Sarah"
+      },
+      {
+         "from" : "scott.negraiff@macleoddixon.com",
+         "line" : 46,
+         "rawfrom" : "\t\"Scott Negraiff\" <Scott.Negraiff@macleoddixon.com>@ENRON [mailto:IMCEANOTES-+22Scott+20Negraiff+22+20+3CScott+2ENegraiff+40macleoddixon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Flaman, Derek"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/21.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "david.forster@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Lambie, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/228.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "livia_zufferli@monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 22,
+         "rawfrom" : "\tLivia_Zufferli@Monitor.com@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 42,
+         "rawfrom" : "John.Zufferli@enron.com on 08/21/2001 03:32:02 PM\n",
+         "to" : "Livia_Zufferli@Monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 52,
+         "rawfrom" : "  Livia_Zufferli@Monitor.com@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/233.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "nella.cappelletto@enron.com"
+      },
+      {
+         "from" : "nella.cappelletto@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCappelletto, Nella  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "nella.cappelletto@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tCappelletto, Nella  \n",
+         "to" : "Le Dain, Eric"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Cappelletto, Nella"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/24.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 22,
+         "rawfrom" : "Reeves, Kathy \n",
+         "to" : "Hedstrom, Peggy; Zufferli, John"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 37,
+         "rawfrom" : "Abel, Chris \n",
+         "to" : "Hall Jr., Robert L.; Gossett, Jeffrey C.; White, Stacey W.; Albrecht, Kristin; Reeves, Kathy; Gillis, Brian; Pearce, Barry; Miralles, Albert; Hall, D. Todd; Sweeney, Kevin; Earnest, Scott; Fondren, Mark; Swinney, John; Prejean, Frank; Horn, Cindy; Thurbin, Simon; Sharma, Shifali; Mao, Shari; Postlethwaite, John; Evans, Casey; Glover, Sheila; Carrington, Clara; Best, John"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 51,
+         "rawfrom" : "Abel, Chris \n",
+         "to" : "Hall Jr., Robert L.; Gossett, Jeffrey C.; White, Stacey W.; Albrecht, Kristin; Reeves, Kathy; Gillis, Brian; Pearce, Barry; Miralles, Albert; Hall, D. Todd; Sweeney, Kevin; Earnest, Scott; Fondren, Mark; Swinney, John; Prejean, Frank; Horn, Cindy; Thurbin, Simon; Sharma, Shifali; Mao, Shari; Postlethwaite, John; Evans, Casey; Glover, Sheila; Carrington, Clara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/243.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "angela.mcculloch@enron.com"
+      },
+      {
+         "from" : "angela.mcculloch@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMcCulloch, Angela  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 32,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "McCulloch, Angela"
+      },
+      {
+         "from" : "angela.mcculloch@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMcCulloch, Angela  \n",
+         "to" : "Milnthorp, Rob; Davies, Derek; Le Dain, Eric; Zufferli, John; Hedstrom, Peggy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/249.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "cheryl.runge@powerpool.ab.ca"
+      },
+      {
+         "from" : "cheryl.runge@powerpool.ab.ca",
+         "line" : 22,
+         "rawfrom" : "\tCheryl Runge <cheryl.runge@powerpool.ab.ca>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "cheryl.runge@powerpool.ab.ca",
+         "line" : 30,
+         "rawfrom" : "Cheryl Runge\n",
+         "to" : "'derek.davies@enron.com'"
+      },
+      {
+         "from" : "kenneth.burgoyne@powerpool.ab.ca",
+         "line" : 45,
+         "rawfrom" : "Kenneth Burgoyne\n",
+         "to" : "Cheryl Runge"
+      },
+      {
+         "from" : "kathy.m.moore@enron.com",
+         "line" : 50,
+         "rawfrom" : "Moore, Kathy M. [mailto:Kathy.M.Moore@ENRON.com]\n",
+         "to" : "kenneth.burgoyne@powerpool.ab.ca"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/258.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "help@enrononline.com"
+      },
+      {
+         "from" : "cheryl.runge@powerpool.ab.ca",
+         "line" : 27,
+         "rawfrom" : "Cheryl Runge\n",
+         "to" : "'derek.davies@enron.com'"
+      },
+      {
+         "from" : "kenneth.burgoyne@powerpool.ab.ca",
+         "line" : 42,
+         "rawfrom" : "Kenneth Burgoyne\n",
+         "to" : "Cheryl Runge"
+      },
+      {
+         "from" : "kathy.m.moore@enron.com",
+         "line" : 47,
+         "rawfrom" : "Moore, Kathy M. [mailto:Kathy.M.Moore@ENRON.com]\n",
+         "to" : "kenneth.burgoyne@powerpool.ab.ca"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/259.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "david.forster@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 32,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/270.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "peggy.hedstrom@ubsw.com",
+         "line" : 31,
+         "rawfrom" : "\tHedstrom, Peggy  \n",
+         "to" : "Milnthorp, Rob"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Hedstrom, Peggy; Patterson, Grant"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/276.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "albert.luc@enron.com"
+      },
+      {
+         "from" : "albert.luc@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tLuc, Albert  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 34,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Luc, Albert"
+      },
+      {
+         "from" : "albert.luc@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tLuc, Albert  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/28.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "danielle.marcinkowski@enron.com"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John; DL-IT Calgary"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 32,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tGaskill, Chris  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Gaskill, Chris; Will, Lloyd"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 83,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/280.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "nella.cappelletto@enron.com"
+      },
+      {
+         "from" : "nella.cappelletto@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCappelletto, Nella  \n",
+         "to" : "Le Dain, Eric; Zufferli, John"
+      },
+      {
+         "from" : "nella.cappelletto@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tCappelletto, Nella  \n",
+         "to" : "Davies, Derek; Hedstrom, Peggy; Keohane, Peter; Milnthorp, Rob; Scott, Laura"
+      },
+      {
+         "from" : "nella.cappelletto@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tCappelletto, Nella  \n",
+         "to" : "Davies, Derek; Hedstrom, Peggy; Keohane, Peter; Milnthorp, Rob; Scott, Laura"
+      },
+      {
+         "from" : "dawn.doucet@home.com",
+         "line" : 61,
+         "rawfrom" : "\tDoucet, Dawn  \n",
+         "to" : "Milnthorp, Rob; Kitagawa, Kyle; Davies, Derek; Devries, Paul; Zufferli, John; Hedstrom, Peggy; Scott, Laura; Keohane, Peter"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/291.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "robert.hemstock@enron.com"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHemstock, Robert  \n",
+         "to" : "Hemstock, Robert; 'wes.green@engageenergy.com'; 'Christopher_Mcdowall@transalta.com'; 'Derekl@encoreenergy.com'; 'garyh@encoreenergy.com'; Zufferli, John; ''Martin. Merritt (E-mail)'; ''Peter. Karl (E-mail)'"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tHemstock, Robert  \n",
+         "to" : "'wes.green@engageenergy.com'; 'Christopher_Mcdowall@transalta.com'; 'Derekl@encoreenergy.com'; 'garyh@encoreenergy.com'; Zufferli, John; 'Martin. Merritt (E-mail); 'Peter. Karl (E-mail)"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tHemstock, Robert  \n",
+         "to" : "'wes.green@engageenergy.com'; 'Christopher_Mcdowall@transalta.com'; 'Derekl@encoreenergy.com'; 'garyh@encoreenergy.com'; Zufferli, John; ''Martin. Merritt (E-mail)'; ''Peter. Karl (E-mail)'"
+      },
+      {
+         "from" : "rfagan@tca-us.com",
+         "line" : 63,
+         "rawfrom" : "\t\"Fagan, Bob\" <rfagan@tca-us.com>@ENRON [mailto:IMCEANOTES-+22Fagan+2C+20Bob+22+20+3Crfagan+40tca-us+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Hemstock, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/294.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "karim.punja@enron.com"
+      },
+      {
+         "from" : "karim.punja@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPunja, Karim  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 37,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Punja, Karim"
+      },
+      {
+         "from" : "karim.punja@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tPunja, Karim  \n",
+         "to" : "Postlethwaite, John; Meira, Marcelo"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Meira, Marcelo"
+      },
+      {
+         "from" : "marcelo.meira@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tMeira, Marcelo  \n",
+         "to" : "Postlethwaite, John"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Meira, Marcelo"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/295.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "karim.punja@enron.com"
+      },
+      {
+         "from" : "karim.punja@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPunja, Karim  \n",
+         "to" : "Postlethwaite, John; Meira, Marcelo"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Meira, Marcelo"
+      },
+      {
+         "from" : "marcelo.meira@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tMeira, Marcelo  \n",
+         "to" : "Postlethwaite, John"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Meira, Marcelo"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/30.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "danielle.marcinkowski@enron.com"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tGaskill, Chris  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Gaskill, Chris; Will, Lloyd"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 65,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Marcinkowski, Danielle"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tMarcinkowski, Danielle  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/318.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "john.postlethwaite@enron.com"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 30,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Postlethwaite, John"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/338.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 22,
+         "rawfrom" : "\t\"J&J Zufferli\" <jzufferli@home.com>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "nhall1@txu.com",
+         "line" : 30,
+         "rawfrom" : "\"Nancy Hall\" <nhall1@txu.com>\n",
+         "to" : "<jzufferli@home.com>"
+      },
+      {
+         "from" : "nhall1@txu.com",
+         "line" : 48,
+         "rawfrom" : "Nancy Hall/ENERGY/TXU on 06/12/2001\n",
+         "to" : "Toastmasters"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/343.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "robert.hemstock@enron.com"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHemstock, Robert  \n",
+         "to" : "Zufferli, John; Greenizan, Bill; Davies, Derek"
+      },
+      {
+         "from" : "jennifer.churchill-brown@eal.ab.ca",
+         "line" : 30,
+         "rawfrom" : "\t\"Churchill-Brown, Jennifer\" <Jennifer.Churchill-Brown@eal.ab.ca>@ENRON [mailto:IMCEANOTES-+22Churchill-Brown+2C+20Jennifer+22+20+3CJennifer+2EChurchill-Brown+40eal+2Eab+2Eca+3E+40ENRON@ENRON.com] \n",
+         "to" : "Churchill-Brown, Jennifer; 'Cheryl.Runge@powerpool.ab.ca'; 'dmacnamara@home.com'; 'brian.bullen@candelaenergy.com'; 'christopher_mcdowall@transalta.com'; 'Garyh@encoreenergy.com'; 'gkmacintyre@duke-energy.com'; 'hly@enmax.com'; Zufferli, John; 'pbartsch@utilicorp.com'; 'wayne_oconnor@transcanada.com'; Hemstock, Robert; 'ksdukart@duke-energy.com'; 'Anita Lee'; Bert Adam (E-mail); Bob Low (E-mail); Byron Dudley (E-mail); Dale Mitchell (E-mail); Don Adair (E-mail); Doug Hincks (E-mail); Doug Little (E-mail); Doug Smeall (E-mail); Geoff Wagner (E-mail); Glen Sutton (E-mail); Jim Balshaw (E-mail); Jim Capp (E-mail); Ken Willis (E-mail); Kevin Berg (E-mail); Kevin Billinton (E-mail); Kim Logan (E-mail); Ligong Gan (E-mail); Mike Asgar-Deen (E-mail); Mike MacDougall (E-mail); Mike Windsor (E-mail); Nigel T. J. Pimblett (E-mail); Otto Lenz (E-mail); Peter Schubert (E-mail); Randy Rowland (E-mail); Taras J. Konowalec (E-mail); Tony Rutkunas (E-mail); Vipin Prasad (E-mail)"
+      },
+      {
+         "from" : "> from:\tchurchill-brown, jennifer",
+         "line" : 57,
+         "rawfrom" : "> From:\tChurchill-Brown, Jennifer\n",
+         "to" : "'Cheryl.Runge@powerpool.ab.ca'; 'dmacnamara@home.com';"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/37.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "jzufferli@shaw.ca"
+      },
+      {
+         "from" : "jzufferli@shaw.ca",
+         "line" : 22,
+         "rawfrom" : "\tJ&J Zufferli <jzufferli@shaw.ca>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 30,
+         "rawfrom" : "<John.Zufferli@enron.com>\n",
+         "to" : "<jzufferli@shaw.ca>"
+      },
+      {
+         "from" : "jzufferli@shaw.ca",
+         "line" : 40,
+         "rawfrom" : "  J&J Zufferli <jzufferli@shaw.ca>@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/42.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "dawn.doucet@enron.com"
+      },
+      {
+         "from" : "dawn.doucet@home.com",
+         "line" : 22,
+         "rawfrom" : "\tDoucet, Dawn  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "tylerseminuk@hotmail.com",
+         "line" : 30,
+         "rawfrom" : "\t\"Tyler Seminuk\" <tylerseminuk@hotmail.com>@ENRON  \n",
+         "to" : "Doucet, Dawn"
+      },
+      {
+         "from" : "\"doucet, dawn\"",
+         "line" : 39,
+         "rawfrom" : "\"Doucet, Dawn\" \n",
+         "to" : "\"Bali Dey\" , \"Barry Powley\" , \"Bill Greenizan\" , \"Carey Bingham\" , \"Catherine Rothrock\" , \"Cliff Lawrick\" , \"Coreen Herring\" , \"Deanne Morgan\" , \"Derek Lynn\" , \"Ernie Robert\" , \"Greg Frers\" , \"Greg Mann\" , \"James Rook\" , \"Jeanne Cummings\" , \"Jennifer McCombie\" , \"Jodie Brisbane\" , \"Joelle Gilkes\" , \"John Disturnal\" , \"John Messenger\" , \"Karen Maskwa\" , \"Karen Politsky\" , \"Karim Punja\" , \"Kathryn Lamb\" , \"Kerry Young\" , \"Lara Dzi! urdzy\" , \"Laura Renouf\" , \"Mark D'Arcangelo\" , \"Mark Dickin\" , \"Mark Renneberg\" , \"Matilda Machado\" , \"Michael Law\" , \"Michael Wong\" , \"Michelle Wells\" , \"Murray Fichten\" , \"Randel Dalgleish\" , \"Rob Downer\" , \"Ron Demers\" , \"Rosselli Sipin\" , \"Scott Grier\" , \"Scott Randall\" , \"Sebastien Garcia\" , \"Shawn Anderson\" , \"Sherri Pickering\" , \"Stacey Vallejo\" , \"Stacy Afseth\" , \"Tamara Kezama\" , \"Tannis Herauf\" , \"Todd Bowen\" , \"Tracey Regner\" , \"Tyler Seminuk\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "chris.lambie@enron.com"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 30,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Lambie, Chris"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 46,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Lambie, Chris"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/51.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "chris.lambie@enron.com"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 30,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Lambie, Chris"
+      },
+      {
+         "from" : "chris.lambie@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLambie, Chris  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/57.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "garrett.tripp@enron.com"
+      },
+      {
+         "from" : "garrett.tripp@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTripp, Garrett  \n",
+         "to" : "Milnthorp, Rob"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Tripp, Garrett"
+      },
+      {
+         "from" : "garrett.tripp@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tTripp, Garrett  \n",
+         "to" : "Devries, Paul"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/59.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "john.postlethwaite@enron.com"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 38,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Postlethwaite, John"
+      },
+      {
+         "from" : "john.postlethwaite@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tPostlethwaite, John  \n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/70.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "livia_zufferli@monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 22,
+         "rawfrom" : "\tLivia_Zufferli@Monitor.com@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "staffojt@ucarb.com",
+         "line" : 32,
+         "rawfrom" : "John.Zufferli@\n",
+         "to" : "Livia_Zufferli@Monitor.com"
+      },
+      {
+         "from" : "livia_zufferli@monitor.com",
+         "line" : 81,
+         "rawfrom" : "  Livia_Zufferli@Monitor.com@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/75.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "karen.mazuryk@powerpool.ab.ca"
+      },
+      {
+         "from" : "karen.mazuryk@powerpool.ab.ca",
+         "line" : 24,
+         "rawfrom" : "\tkaren.mazuryk@powerpool.ab.ca@ENRON  \n",
+         "to" : "Zufferli, John; karen.mazuryk@powerpool.ab.ca"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 82,
+         "rawfrom" : "Zufferli, John [mailto:John.Zufferli@ENRON.com]\n",
+         "to" : "karen.mazuryk@powerpool.ab.ca"
+      },
+      {
+         "from" : "karen.mazuryk@powerpool.ab.ca",
+         "line" : 113,
+         "rawfrom" : "karen.mazuryk@powerpool.ab.ca\n",
+         "to" : "katrina@valeopower.com"
+      },
+      {
+         "from" : "katrina@valeopower.com",
+         "line" : 126,
+         "rawfrom" : "Katrina Ferguson [mailto:katrina@valeopower.com]\n",
+         "to" : "karen.mazuryk@powerpool.ab.ca"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zufferli-j/sent_items/86.",
+   "hops" : [
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.zufferli@enron.com\r\n",
+         "to" : "jzufferli@shaw.ca"
+      },
+      {
+         "from" : "\"john berger\" <wberger@mba2003.hbs.edu>@enron",
+         "line" : 22,
+         "rawfrom" : "\t\"John Berger\" <wberger@mba2003.hbs.edu>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "john.zufferli@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tZufferli, John [mailto:John.Zufferli@enron.com]\n",
+         "to" : "wberger@mba2003.hbs.edu"
+      },
+      {
+         "from" : "\"john berger\" <wberger@mba2003.hbs.edu>@enron",
+         "line" : 43,
+         "rawfrom" : "\t\"John Berger\" <wberger@mba2003.hbs.edu>@ENRON\n",
+         "to" : "Zufferli, John"
+      }
+   ],
+   "skipped" : 0
+}
+]

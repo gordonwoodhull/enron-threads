@@ -1,0 +1,2383 @@
+[
+{
+   "file" : "enron-raw/gang-l/deleted_items/106.",
+   "hops" : [
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.sewell@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 21,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 100,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 111,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/107.",
+   "hops" : [
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.sewell@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 94,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/108.",
+   "hops" : [
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 4,
+         "rawfrom" : "edward.baughman@enron.com\r\n",
+         "to" : "julie.sarnowski@enron.com"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "O'Neil, Murray P.; Baughman, Edward"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 62,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Baughman, Edward; Sarnowski, Julie"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "O'Neil, Murray P.; Sarnowski, Julie"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 84,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Sarnowski, Julie; Baughman, Edward"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; O'Neil, Murray P."
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 108,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie; O'Neil, Murray P."
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 120,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; O'Neil, Murray P."
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 130,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 140,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; Gang, Lisa; Cavanaugh, Darren"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 152,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Baughman, Edward; Gang, Lisa; Sarnowski, Julie; Cavanaugh, Darren"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 163,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Gang, Lisa; Sarnowski, Julie; Cavanaugh, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/109.",
+   "hops" : [
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.sewell@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 21,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/110.",
+   "hops" : [
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 4,
+         "rawfrom" : "steven.luong@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/111.",
+   "hops" : [
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "julie.sarnowski@enron.com\r\n",
+         "to" : "edward.baughman@enron.com"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "O'Neil, Murray P.; Baughman, Edward"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 50,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Baughman, Edward; Sarnowski, Julie"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "O'Neil, Murray P.; Sarnowski, Julie"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 72,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Sarnowski, Julie; Baughman, Edward"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; O'Neil, Murray P."
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie; O'Neil, Murray P."
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 108,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; O'Neil, Murray P."
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 118,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 128,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; Gang, Lisa; Cavanaugh, Darren"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 140,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Baughman, Edward; Gang, Lisa; Sarnowski, Julie; Cavanaugh, Darren"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 151,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Gang, Lisa; Sarnowski, Julie; Cavanaugh, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/112.",
+   "hops" : [
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 4,
+         "rawfrom" : "edward.baughman@enron.com\r\n",
+         "to" : "julie.sarnowski@enron.com"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "O'Neil, Murray P.; Baughman, Edward"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 39,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Baughman, Edward; Sarnowski, Julie"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "O'Neil, Murray P.; Sarnowski, Julie"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 61,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Sarnowski, Julie; Baughman, Edward"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; O'Neil, Murray P."
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie; O'Neil, Murray P."
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; O'Neil, Murray P."
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 107,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Sarnowski, Julie"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 117,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "Baughman, Edward; Gang, Lisa; Cavanaugh, Darren"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 129,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Baughman, Edward; Gang, Lisa; Sarnowski, Julie; Cavanaugh, Darren"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 140,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Gang, Lisa; Sarnowski, Julie; Cavanaugh, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/175.",
+   "hops" : [
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 4,
+         "rawfrom" : "virginia.thompson@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Thompson, Virginia"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Grace, Rebecca M."
+      },
+      {
+         "from" : "rebecca.grace@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tGrace, Rebecca M.  \n",
+         "to" : "Thompson, Virginia"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Grace, Rebecca M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/207.",
+   "hops" : [
+      {
+         "from" : "timesheets@iconconsultants.com",
+         "line" : 4,
+         "rawfrom" : "timesheets@iconconsultants.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 29,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "to" : "Time Sheets"
+      },
+      {
+         "from" : "timesheets@iconconsultants.com",
+         "line" : 36,
+         "rawfrom" : "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 49,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "to" : "Time Sheets"
+      },
+      {
+         "from" : "timesheets@iconconsultants.com",
+         "line" : 58,
+         "rawfrom" : "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "to" : "lgang@enron.com; gang00@msn.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/228.",
+   "hops" : [
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.confer@enron.com\r\n",
+         "to" : "lisa.gang@enron.com, julie.sarnowski@enron.com, mo.elafandi@enron.com"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Confer, Mark"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/286.",
+   "hops" : [
+      {
+         "from" : "mo.elafandi@enron.com",
+         "line" : 4,
+         "rawfrom" : "mo.elafandi@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "garrick.hill@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tHill, Garrick  \n",
+         "to" : "Elafandi, Mo"
+      },
+      {
+         "from" : "mo.elafandi@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tElafandi, Mo  \n",
+         "to" : "Baughman, Edward; Hill, Garrick"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Hill, Garrick"
+      },
+      {
+         "from" : "garrick.hill@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tHill, Garrick  \n",
+         "to" : "Baughman, Edward"
+      },
+      {
+         "from" : "kenton_erwin@enron.net",
+         "line" : 78,
+         "rawfrom" : "\tErwin, Kenton  \n",
+         "to" : "Ward, Charles; Hill, Garrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/41.",
+   "hops" : [
+      {
+         "from" : "kathryn.sheppard@enron.com",
+         "line" : 4,
+         "rawfrom" : "kathryn.sheppard@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "bill@wecc.biz",
+         "line" : 22,
+         "rawfrom" : "Bill Comish [mailto:bill@wecc.biz]\n",
+         "to" : "Sheppard, Kathryn"
+      },
+      {
+         "from" : "kathryn.sheppard@enron.com",
+         "line" : 42,
+         "rawfrom" : "          \t\"Sheppard, Kathryn\" <Kathryn.Sheppard@ENRON.com>\n",
+         "to" : "<bill@wecc.biz>"
+      },
+      {
+         "from" : "bill@wecc.biz",
+         "line" : 55,
+         "rawfrom" : "Bill Comish [mailto:bill@wecc.biz]\n",
+         "to" : "Heizenrader, Tim"
+      },
+      {
+         "from" : "tim.heizenrader@ubswenergy.com",
+         "line" : 67,
+         "rawfrom" : "          \t\"Heizenrader, Tim\" <Tim.Heizenrader@ubswenergy.com>\n",
+         "to" : "<bill@wecc.biz>"
+      },
+      {
+         "from" : "bill@wecc.biz",
+         "line" : 89,
+         "rawfrom" : "Bill Comish [mailto:bill@wecc.biz]\n",
+         "to" : "Heizenrader, Tim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/424.",
+   "hops" : [
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.cutsforth@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Cutsforth, Diane"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Cutsforth, Diane"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/489.",
+   "hops" : [
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 4,
+         "rawfrom" : "laurel.bolt@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 98,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 111,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 125,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/490.",
+   "hops" : [
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 4,
+         "rawfrom" : "laurel.bolt@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 102,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/491.",
+   "hops" : [
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 4,
+         "rawfrom" : "laurel.bolt@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/492.",
+   "hops" : [
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 4,
+         "rawfrom" : "kroum.kroumov@enron.com\r\n",
+         "to" : "laurel.bolt@enron.com"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/deleted_items/529.",
+   "hops" : [
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 4,
+         "rawfrom" : "dave.steiner@enron.com\r\n",
+         "to" : "cindy.wessels@enron.com, p..o'neil@enron.com, kathy.link@enron.com,"
+      },
+      {
+         "from" : "cindy.wessels@enron.com",
+         "line" : 37,
+         "rawfrom" : "Wessels, Cindy \n",
+         "to" : "Wessels, Cindy; O'Neil, Murray P.; Steiner, Dave; Link, Kathy; Bulbes, Victor; Ash, Ruth; Dietrich, Dan"
+      },
+      {
+         "from" : "cindy.wessels@enron.com",
+         "line" : 51,
+         "rawfrom" : "Wessels, Cindy \n",
+         "to" : "Wessels, Cindy; O'Neil, Murray P.; Steiner, Dave; Link, Kathy; Bulbes, Victor; Ash, Ruth; Dietrich, Dan"
+      },
+      {
+         "from" : "cindy.wessels@enron.com",
+         "line" : 63,
+         "rawfrom" : "Wessels, Cindy \n",
+         "to" : "O'Neil, Murray P.; Steiner, Dave; Link, Kathy; Bulbes, Victor; Ash, Ruth; Dietrich, Dan"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 75,
+         "rawfrom" : "O'Neil, Murray P. \n",
+         "to" : "Steiner, Dave; Wessels, Cindy; Link, Kathy; Bulbes, Victor; Ash, Ruth; Dietrich, Dan"
+      },
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 95,
+         "rawfrom" : "Steiner, Dave \n",
+         "to" : "Wessels, Cindy; Link, Kathy; Bulbes, Victor; Ash, Ruth; Dietrich, Dan; O'Neil, Murray P."
+      },
+      {
+         "from" : "cindy.wessels@enron.com",
+         "line" : 109,
+         "rawfrom" : "Wessels, Cindy \n",
+         "to" : "Link, Kathy; Steiner, Dave; Bulbes, Victor; Ash, Ruth; Dietrich, Dan; O'Neil, Murray P."
+      },
+      {
+         "from" : "kathy.link@enron.com",
+         "line" : 118,
+         "rawfrom" : "Link, Kathy \n",
+         "to" : "Steiner, Dave; Bulbes, Victor; Ash, Ruth; Dietrich, Dan; O'Neil, Murray P."
+      },
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 132,
+         "rawfrom" : "Steiner, Dave \n",
+         "to" : "Bulbes, Victor; Ash, Ruth; Link, Kathy; Dietrich, Dan; O'Neil, Murray P."
+      },
+      {
+         "from" : "kathy.link@enron.com",
+         "line" : 154,
+         "rawfrom" : "Link, Kathy \n",
+         "to" : "Bulbes, Victor; Steiner, Dave"
+      },
+      {
+         "from" : "victor.bulbes@enron.com",
+         "line" : 175,
+         "rawfrom" : "Bulbes, Victor \n",
+         "to" : "Steiner, Dave; Link, Kathy"
+      },
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 202,
+         "rawfrom" : "Steiner, Dave \n",
+         "to" : "Link, Kathy; Bulbes, Victor"
+      },
+      {
+         "from" : "kathy.link@enron.com",
+         "line" : 220,
+         "rawfrom" : "Link, Kathy \n",
+         "to" : "Steiner, Dave"
+      },
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 230,
+         "rawfrom" : "Steiner, Dave \n",
+         "to" : "Link, Kathy"
+      },
+      {
+         "from" : "kathy.link@enron.com",
+         "line" : 242,
+         "rawfrom" : "Link, Kathy \n",
+         "to" : "Steiner, Dave"
+      },
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 254,
+         "rawfrom" : "Steiner, Dave \n",
+         "to" : "Link, Kathy"
+      },
+      {
+         "from" : "kathy.link@enron.com",
+         "line" : 266,
+         "rawfrom" : "Link, Kathy \n",
+         "to" : "Steiner, Dave"
+      },
+      {
+         "from" : "dave.steiner@enron.com",
+         "line" : 278,
+         "rawfrom" : "Steiner, Dave \n",
+         "to" : "Link, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/19.",
+   "hops" : [
+      {
+         "from" : "jennifer.thome@enron.com",
+         "line" : 4,
+         "rawfrom" : "jennifer.thome@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tConfer, Mark  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Confer, Mark"
+      },
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tConfer, Mark  \n",
+         "to" : "Smith, Katina; Gang, Lisa"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Smith, Katina"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/21.",
+   "hops" : [
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.confer@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Confer, Mark"
+      },
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tConfer, Mark  \n",
+         "to" : "Smith, Katina; Gang, Lisa"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Smith, Katina"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/22.",
+   "hops" : [
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 4,
+         "rawfrom" : "edward.baughman@enron.com\r\n",
+         "to" : "lisa.gang@enron.com, mo.elafandi@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Baughman, Edward; Elafandi, Mo"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Elafandi, Mo"
+      },
+      {
+         "from" : "mo.elafandi@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tElafandi, Mo  \n",
+         "to" : "Baughman, Edward"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/28.",
+   "hops" : [
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.confer@enron.com\r\n",
+         "to" : "katina.smith@enron.com, lisa.gang@enron.com"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Smith, Katina"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/39.",
+   "hops" : [
+      {
+         "from" : "jennifer.thome@enron.com",
+         "line" : 4,
+         "rawfrom" : "jennifer.thome@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 44,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 77,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 97,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 111,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 120,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer; Thompson, Virginia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/41.",
+   "hops" : [
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 4,
+         "rawfrom" : "steven.luong@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/42.",
+   "hops" : [
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 4,
+         "rawfrom" : "elsie.lew@enron.com\r\n",
+         "to" : "jennifer.thome@enron.com"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 29,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 62,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 82,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 105,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer; Thompson, Virginia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/43.",
+   "hops" : [
+      {
+         "from" : "serena.bishop@merant.com",
+         "line" : 4,
+         "rawfrom" : "serena.bishop@merant.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 22,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@enron.com]\n",
+         "to" : "Serena Bishop"
+      },
+      {
+         "from" : "serena.bishop@merant.com",
+         "line" : 33,
+         "rawfrom" : "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 44,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@enron.com]\n",
+         "to" : "Serena Bishop"
+      },
+      {
+         "from" : "serena.bishop@merant.com",
+         "line" : 56,
+         "rawfrom" : "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/44.",
+   "hops" : [
+      {
+         "from" : "jennifer.thome@enron.com",
+         "line" : 4,
+         "rawfrom" : "jennifer.thome@enron.com\r\n",
+         "to" : "elsie.lew@enron.com"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 48,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 68,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Lew, Elsie"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer"
+      },
+      {
+         "from" : "elsie.lew@enron.com",
+         "line" : 91,
+         "rawfrom" : "\tLew, Elsie  \n",
+         "to" : "Thome, Jennifer; Thompson, Virginia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/inbox/7.",
+   "hops" : [
+      {
+         "from" : "jennifer.thome@enron.com",
+         "line" : 4,
+         "rawfrom" : "jennifer.thome@enron.com\r\n",
+         "to" : "lisa.gang@enron.com"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Gang, Lisa; Elafandi, Mo"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Baughman, Edward; Elafandi, Mo"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Elafandi, Mo"
+      },
+      {
+         "from" : "mo.elafandi@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tElafandi, Mo  \n",
+         "to" : "Baughman, Edward"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/1.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "julie.sarnowski@enron.com, darren.cavanaugh@enron.com"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "O'Neil, Murray P."
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 31,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Sarnowski, Julie; Sheppard, Kathryn; Gang, Lisa; Cavanaugh, Darren"
+      },
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tSarnowski, Julie  \n",
+         "to" : "O'Neil, Murray P.; Sheppard, Kathryn; Gang, Lisa; Cavanaugh, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/15.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "jennifer.thome@enron.com"
+      },
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tConfer, Mark  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Confer, Mark"
+      },
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tConfer, Mark  \n",
+         "to" : "Smith, Katina; Gang, Lisa"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Smith, Katina"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/18.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "mark.confer@enron.com"
+      },
+      {
+         "from" : "mark.confer@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tConfer, Mark  \n",
+         "to" : "Smith, Katina; Gang, Lisa"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Smith, Katina"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/21.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "jennifer.thome@enron.com"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Smith, Katina"
+      },
+      {
+         "from" : "katina.smith@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tSmith, Katina  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/25.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "darren.cavanaugh@enron.com"
+      },
+      {
+         "from" : "darren.dkc.cavanaugh@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCavanaugh, Darren  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Cavanaugh, Darren"
+      },
+      {
+         "from" : "darren.dkc.cavanaugh@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCavanaugh, Darren  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/35.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "doug.sewell@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 92,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 103,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 110,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 121,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/36.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "doug.sewell@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 104,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/37.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "doug.sewell@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/38.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "doug.sewell@enron.com"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/40.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "steven.luong@enron.com"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tSewell, Doug  \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Sewell, Doug"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/43.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "serena.bishop@merant.com"
+      },
+      {
+         "from" : "serena.bishop@merant.com",
+         "line" : 24,
+         "rawfrom" : "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 35,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@enron.com]\n",
+         "to" : "Serena Bishop"
+      },
+      {
+         "from" : "serena.bishop@merant.com",
+         "line" : 47,
+         "rawfrom" : "Serena Bishop [mailto:Serena.Bishop@merant.com]\n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/44.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "timesheets@iconconsultants.com"
+      },
+      {
+         "from" : "timesheets@iconconsultants.com",
+         "line" : 21,
+         "rawfrom" : "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 36,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "to" : "Time Sheets"
+      },
+      {
+         "from" : "timesheets@iconconsultants.com",
+         "line" : 45,
+         "rawfrom" : "Time Sheets [mailto:timesheets@iconconsultants.com]\n",
+         "to" : "lgang@enron.com; gang00@msn.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/6.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "jennifer.thome@enron.com"
+      },
+      {
+         "from" : "jzales@fletcher.alumlink.com",
+         "line" : 24,
+         "rawfrom" : "\tThome, Jennifer  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Gang, Lisa; Elafandi, Mo"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Baughman, Edward; Elafandi, Mo"
+      },
+      {
+         "from" : "edward.baughman@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBaughman, Edward  \n",
+         "to" : "Elafandi, Mo"
+      },
+      {
+         "from" : "mo.elafandi@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tElafandi, Mo  \n",
+         "to" : "Baughman, Edward"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "diane.cutsforth@enron.com"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 21,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Cutsforth, Diane"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Cutsforth, Diane"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/64.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "diane.cutsforth@enron.com"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Cutsforth, Diane"
+      },
+      {
+         "from" : "diane.cutsforth@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCutsforth, Diane  \n",
+         "to" : "Gang, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/74.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "julie.kearney@enron.com"
+      },
+      {
+         "from" : "julie_kearney@hotmail.com",
+         "line" : 23,
+         "rawfrom" : "Kearney, Julie \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "corporate_security@pgn.com",
+         "line" : 36,
+         "rawfrom" : "ID for Corporate Security [mailto:Corporate_Security@pgn.com]\n",
+         "to" : "Kearney, Julie; Valerie Schauer"
+      },
+      {
+         "from" : "grace.rodriguez@enron.com",
+         "line" : 68,
+         "rawfrom" : "    Rodriguez, Grace  \n",
+         "to" : "Blackburn, Jody; Kearney, Julie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/75.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "laurel.bolt@enron.com"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 107,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 120,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 134,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/76.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "laurel.bolt@enron.com"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tGang, Lisa  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 98,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 112,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/77.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "laurel.bolt@enron.com"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      },
+      {
+         "from" : "laurel.bolt@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tBolt, Laurel  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 92,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Bolt, Laurel"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/gang-l/sent_items/9.",
+   "hops" : [
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.gang@enron.com\r\n",
+         "to" : "plarue@iconconsultants.com"
+      },
+      {
+         "from" : "plarue@iconconsultants.com",
+         "line" : 23,
+         "rawfrom" : "Pam LaRue [mailto:plarue@iconconsultants.com]\n",
+         "to" : "Gang, Lisa"
+      },
+      {
+         "from" : "rmalley@iconconsultants.com",
+         "line" : 39,
+         "rawfrom" : "Rhonda Malley \n",
+         "to" : "'Gang, Lisa'"
+      },
+      {
+         "from" : "lisa.gang@enron.com",
+         "line" : 52,
+         "rawfrom" : "Gang, Lisa [mailto:Lisa.Gang@ENRON.com] \n",
+         "to" : "Rhonda Malley"
+      }
+   ],
+   "skipped" : 0
+}
+]

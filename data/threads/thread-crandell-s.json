@@ -1,0 +1,1578 @@
+[
+{
+   "file" : "enron-raw/crandell-s/deleted_items/22.",
+   "hops" : [
+      {
+         "from" : "cara.semperger@enron.com",
+         "line" : 4,
+         "rawfrom" : "cara.semperger@enron.com\r\n",
+         "to" : "tom.may@enron.com"
+      },
+      {
+         "from" : "tom.may@enron.com",
+         "line" : 31,
+         "rawfrom" : "May, Tom \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 43,
+         "rawfrom" : "Semperger, Cara \n",
+         "to" : "May, Tom"
+      },
+      {
+         "from" : "tom.may@enron.com",
+         "line" : 53,
+         "rawfrom" : "May, Tom \n",
+         "to" : "Choate, Jason; Laurent, Dean; Bentley, Corry; Crooks, William; Serio, Erik; Morse, Brad; Suarez, John"
+      },
+      {
+         "from" : "jason.choate@enron.com",
+         "line" : 69,
+         "rawfrom" : "Choate, Jason \n",
+         "to" : "Laurent, Dean; Bentley, Corry; May, Tom; Crooks, William; Serio, Erik; Morse, Brad; Suarez, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/deleted_items/27.",
+   "hops" : [
+      {
+         "from" : "alan.comnes@enron.com",
+         "line" : 4,
+         "rawfrom" : "alan.comnes@enron.com\r\n",
+         "to" : "sean.crandall@enron.com, diana.scholtes@enron.com, chris.mallory@enron.com"
+      },
+      {
+         "from" : "jmcclain@caiso.com",
+         "line" : 24,
+         "rawfrom" : "McClain, Jim [mailto:JMcClain@caiso.com]\n",
+         "to" : "Comnes, Alan"
+      },
+      {
+         "from" : "alan.comnes@enron.com",
+         "line" : 46,
+         "rawfrom" : "Comnes, Alan [mailto:Alan.Comnes@ENRON.com]\n",
+         "to" : "McClain, Jim"
+      },
+      {
+         "from" : "jmcclain@caiso.com",
+         "line" : 61,
+         "rawfrom" : "McClain, Jim [mailto:JMcClain@caiso.com]\n",
+         "to" : "Comnes, Alan"
+      },
+      {
+         "from" : "alan.comnes@enron.com",
+         "line" : 82,
+         "rawfrom" : "Comnes, Alan [mailto:Alan.Comnes@ENRON.com]\n",
+         "to" : "jmcclain@caiso.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/deleted_items/34.",
+   "hops" : [
+      {
+         "from" : "stephen.thome@enron.com",
+         "line" : 4,
+         "rawfrom" : "stephen.thome@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 23,
+         "rawfrom" : "Crandall, Sean \n",
+         "to" : "Thome, Stephen"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 34,
+         "rawfrom" : "Thome, Stephen \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 48,
+         "rawfrom" : "Crandall, Sean \n",
+         "to" : "Thome, Stephen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/deleted_items/4.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "kwampa01@yahoo.com"
+      },
+      {
+         "from" : "=0e",
+         "line" : 23,
+         "rawfrom" : "=0E\r\n",
+         "to" : "=09Sean Crandall/PDX/ECT@ECT"
+      },
+      {
+         "from" : "crandall@notes.enron.com",
+         "line" : 25,
+         "rawfrom" : "Crandall/PDX/ECT@ECT",
+         "to" : "=09Sean Crandall/PDX/ECT@ECT"
+      },
+      {
+         "from" : "firenza_@yahoo.com",
+         "line" : 38,
+         "rawfrom" : " Steve Jackson <firenza_@yahoo.com>                           12/2=\r\n",
+         "to" : "Diana <dscholt@ect.enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/deleted_items/44.",
+   "hops" : [
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 4,
+         "rawfrom" : "steven.luong@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 22,
+         "rawfrom" : "Crandall, Sean \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 32,
+         "rawfrom" : "Luong, Steven \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 45,
+         "rawfrom" : "Crandall, Sean \n",
+         "to" : "Luong, Steven; Thome, Stephen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/106.",
+   "hops" : [
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 4,
+         "rawfrom" : "fran.chang@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 30,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tSemperger, Cara  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 50,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/109.",
+   "hops" : [
+      {
+         "from" : "alan.comnes@enron.com",
+         "line" : 4,
+         "rawfrom" : "alan.comnes@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 22,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Comnes, Alan"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 32,
+         "rawfrom" : "\tComnes, Alan  \n",
+         "to" : "Alvarez, Ray"
+      },
+      {
+         "from" : "dperrino@apx.com",
+         "line" : 51,
+         "rawfrom" : "\tPerrino, Dave  \n",
+         "to" : "Comnes, Alan; Mara, Susan"
+      },
+      {
+         "from" : "jpayton@caiso.com",
+         "line" : 67,
+         "rawfrom" : "\t\"Payton, Julia\" <JPayton@caiso.com>@ENRON  \n",
+         "to" : "ISO Market Participants"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/119.",
+   "hops" : [
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 4,
+         "rawfrom" : "fran.chang@enron.com\r\n",
+         "to" : "diana.scholtes@enron.com"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana; Crandall, Sean"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana; Crandall, Sean"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana; Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/133.",
+   "hops" : [
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 4,
+         "rawfrom" : "fran.chang@enron.com\r\n",
+         "to" : "diana.scholtes@enron.com"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana; Crandall, Sean"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana; Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/145.",
+   "hops" : [
+      {
+         "from" : "hall@enron.com",
+         "line" : 4,
+         "rawfrom" : "legal <.hall@enron.com>\r\n",
+         "to" : "melba.lozano@enron.com"
+      },
+      {
+         "from" : "=09lozano, melba =20",
+         "line" : 39,
+         "rawfrom" : "=09Lozano, Melba =20\r\n",
+         "to" : "=09Yoder, Christian; Hall, Steve C. (Legal)"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 62,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Lozano, Melba; Walker, Chris"
+      },
+      {
+         "from" : "=09puthigai, savita =20",
+         "line" : 70,
+         "rawfrom" : "=09Puthigai, Savita =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 82,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Puthigai, Savita"
+      },
+      {
+         "from" : "=09puthigai, savita =20",
+         "line" : 93,
+         "rawfrom" : "=09Puthigai, Savita =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 109,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Puthigai, Savita"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 117,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 155,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 198,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 211,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 222,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/146.",
+   "hops" : [
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 4,
+         "rawfrom" : "melba.lozano@enron.com\r\n",
+         "to" : "christian.yoder@enron.com, legal <.hall@enron.com>"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 37,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Lozano, Melba; Walker, Chris"
+      },
+      {
+         "from" : "=09puthigai, savita =20",
+         "line" : 45,
+         "rawfrom" : "=09Puthigai, Savita =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 57,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Puthigai, Savita"
+      },
+      {
+         "from" : "=09puthigai, savita =20",
+         "line" : 68,
+         "rawfrom" : "=09Puthigai, Savita =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 84,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Puthigai, Savita"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 92,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 130,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 173,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 186,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 197,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/151.",
+   "hops" : [
+      {
+         "from" : "cara.semperger@enron.com",
+         "line" : 4,
+         "rawfrom" : "cara.semperger@enron.com\r\n",
+         "to" : "diana.scholtes@enron.com, donald.robinson@enron.com, sean.crandall@enron.com,"
+      },
+      {
+         "from" : "monica.lande@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tLande, Monica  \n",
+         "to" : "Dunton, Heather; Wente, Laura; Semperger, Cara"
+      },
+      {
+         "from" : "merritt.thomas@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tThomas, Merritt  \n",
+         "to" : "Kemp, John; Boxall, Emily; Lande, Monica; Champion, Chris; Tufano, Betsey; Hokmark, Erik"
+      },
+      {
+         "from" : "tiffany.cochran@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCochran, Tiffany  \n",
+         "to" : "Thomas, Merritt"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/168.",
+   "hops" : [
+      {
+         "from" : "savita.puthigai@enron.com",
+         "line" : 4,
+         "rawfrom" : "savita.puthigai@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 31,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Puthigai, Savita"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 39,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 77,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 120,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 133,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 144,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/191.",
+   "hops" : [
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 4,
+         "rawfrom" : "kevin.meredith@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 57,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 70,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 81,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/197.",
+   "hops" : [
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 4,
+         "rawfrom" : "diana.scholtes@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 22,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Scholtes, Diana"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 42,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Fitzpatrick, Amy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/206.",
+   "hops" : [
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 4,
+         "rawfrom" : "diana.scholtes@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "mike_purcell@pgn.com",
+         "line" : 22,
+         "rawfrom" : "\tPurcell, Mike  \n",
+         "to" : "Scholtes, Diana"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Purcell, Mike"
+      },
+      {
+         "from" : "mike_purcell@pgn.com",
+         "line" : 43,
+         "rawfrom" : "\tPurcell, Mike  \n",
+         "to" : "Scholtes, Diana"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/207.",
+   "hops" : [
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 4,
+         "rawfrom" : "diana.scholtes@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "stewart.rosman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRosman, Stewart  \n",
+         "to" : "Choi, Paul"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tMehrer, Anna  \n",
+         "to" : "Rosman, Stewart"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tMehrer, Anna  \n",
+         "to" : "Foster, Chris H.; Krebs, Holli; Rosman, Stewart; Choi, Paul; Malowney, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/208.",
+   "hops" : [
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 4,
+         "rawfrom" : "virginia.thompson@enron.com\r\n",
+         "to" : "diana.scholtes@enron.com"
+      },
+      {
+         "from" : "paul.sims@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSims, Paul  \n",
+         "to" : "Thompson, Virginia"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Clemons, Amy"
+      },
+      {
+         "from" : "rhonda.robinson@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tRobinson, Rhonda  \n",
+         "to" : "Thompson, Virginia"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Robinson, Rhonda"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/240.",
+   "hops" : [
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 4,
+         "rawfrom" : "kevin.meredith@enron.com\r\n",
+         "to" : "sean.crandall@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 22,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Meredith, Kevin"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMeredith, Kevin  \n",
+         "to" : "Crandall, Sean; Badeer, Robert"
+      },
+      {
+         "from" : "marcus.nettelton@mondex.com",
+         "line" : 42,
+         "rawfrom" : "\tNettelton, Marcus  \n",
+         "to" : "Meredith, Kevin"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/94.",
+   "hops" : [
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 4,
+         "rawfrom" : "fran.chang@enron.com\r\n",
+         "to" : "diana.scholtes@enron.com"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Scholtes, Diana; Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/97.",
+   "hops" : [
+      {
+         "from" : "cara.semperger@enron.com",
+         "line" : 4,
+         "rawfrom" : "cara.semperger@enron.com\r\n",
+         "to" : "fran.chang@enron.com"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "nikolay.kraltchev@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tKraltchev, Nikolay  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 113,
+         "rawfrom" : "\tSemperger, Cara  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 125,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 134,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/inbox/99.",
+   "hops" : [
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 4,
+         "rawfrom" : "fran.chang@enron.com\r\n",
+         "to" : "sean.crandall@enron.com, cara.semperger@enron.com"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crooks, William"
+      },
+      {
+         "from" : "william.crooks@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tCrooks, William  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crooks, William"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/102.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "amy.fitzpatrick@enron.com"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "carmen.chavira@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tChavira, Carmen  \n",
+         "to" : "Mccain, Ginger"
+      },
+      {
+         "from" : "ginger.mccain@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tMccain, Ginger  \n",
+         "to" : "Chavira, Carmen"
+      },
+      {
+         "from" : "carmen.chavira@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tChavira, Carmen  \n",
+         "to" : "Mccain, Ginger"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/115.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON [mailto:IMCEANOTES-+22Sukaly+2C+20Bruce+22+20+3Cbruce+2Esukaly+40cinergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 31,
+         "rawfrom" : "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 54,
+         "rawfrom" : "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 67,
+         "rawfrom" : "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/118.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "kevin.meredith@enron.com"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMeredith, Kevin  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 30,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Meredith, Kevin"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMeredith, Kevin  \n",
+         "to" : "Crandall, Sean; Badeer, Robert"
+      },
+      {
+         "from" : "marcus.nettelton@mondex.com",
+         "line" : 50,
+         "rawfrom" : "\tNettelton, Marcus  \n",
+         "to" : "Meredith, Kevin"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/120.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "chris.mallory@enron.com"
+      },
+      {
+         "from" : "lcrane@prebon.com",
+         "line" : 22,
+         "rawfrom" : "\tLex Crane <LCrane@prebon.com>@ENRON [mailto:IMCEANOTES-Lex+20Crane+20+3CLCrane+40prebon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "james.smith@natoil.com",
+         "line" : 30,
+         "rawfrom" : " James Smith\n",
+         "to" : "Anthony Farinacci; Lex Crane; Mike Loria"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 47,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 56,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; <mailto:patrickw@Youthstream.com;>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/121.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 30,
+         "rawfrom" : "\t\"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON [mailto:IMCEANOTES-+22Sukaly+2C+20Bruce+22+20+3Cbruce+2Esukaly+40cinergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 50,
+         "rawfrom" : "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 77,
+         "rawfrom" : "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 112,
+         "rawfrom" : "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 170,
+         "rawfrom" : "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 185,
+         "rawfrom" : "     Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "to" : "Sukaly, Bruce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/122.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 30,
+         "rawfrom" : "\t\"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON [mailto:IMCEANOTES-+22Sukaly+2C+20Bruce+22+20+3Cbruce+2Esukaly+40cinergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 55,
+         "rawfrom" : "Sean.Crandall@enron.com [mailto:Sean.Crandall@enron.com]\n",
+         "to" : "bruce.sukaly@cinergy.com"
+      },
+      {
+         "from" : "bruce.sukaly@cinergy.com",
+         "line" : 98,
+         "rawfrom" : "  \"Sukaly, Bruce\" <bruce.sukaly@cinergy.com>@ENRON\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 111,
+         "rawfrom" : "     Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "to" : "Sukaly, Bruce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/47.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "tim.belden@enron.com"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 22,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 30,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Belden, Tim"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 39,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/53.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "fran.chang@enron.com"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 40,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Chang, Fran"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tSemperger, Cara  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 60,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/54.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "fran.chang@enron.com"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSemperger, Cara  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 34,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "fran.chang@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tChang, Fran  \n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/58.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "alan.comnes@enron.com"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 24,
+         "rawfrom" : "\tComnes, Alan  \n",
+         "to" : "Alvarez, Ray"
+      },
+      {
+         "from" : "dperrino@apx.com",
+         "line" : 43,
+         "rawfrom" : "\tPerrino, Dave  \n",
+         "to" : "Comnes, Alan; Mara, Susan"
+      },
+      {
+         "from" : "jpayton@caiso.com",
+         "line" : 59,
+         "rawfrom" : "\t\"Payton, Julia\" <JPayton@caiso.com>@ENRON  \n",
+         "to" : "ISO Market Participants"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/59.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "jeff.shields@enron.com"
+      },
+      {
+         "from" : "jeff.shields@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tShields, Jeff  \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 31,
+         "rawfrom" : "\tCrandall, Sean  \n",
+         "to" : "Shields, Jeff"
+      },
+      {
+         "from" : "jeff.shields@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tShields, Jeff  \n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "'gill@enron.com, kiran.gill@neg.pge.com"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 36,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 72,
+         "rawfrom" : "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "to" : "Gill, Kiran"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 89,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 98,
+         "rawfrom" : "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "to" : "Gill, Kiran"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 107,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/69.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "'gill@enron.com, kiran.gill@neg.pge.com"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 24,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 33,
+         "rawfrom" : "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "to" : "Gill, Kiran"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 42,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/70.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "'gill@enron.com, kiran.gill@neg.pge.com"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 24,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 33,
+         "rawfrom" : "Crandall, Sean [mailto:Sean.Crandall@ENRON.com]\n",
+         "to" : "Gill, Kiran"
+      },
+      {
+         "from" : "kiran.gill@neg.pge.com",
+         "line" : 42,
+         "rawfrom" : "Gill, Kiran [mailto:kiran.gill@neg.pge.com]\n",
+         "to" : "Crandall, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/72.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "alan.comnes@enron.com"
+      },
+      {
+         "from" : "=09comnes, alan =20",
+         "line" : 22,
+         "rawfrom" : "=09Comnes, Alan =20\r\n",
+         "to" : "=09Crandall, Sean; Belden, Tim; Scholtes, Diana"
+      },
+      {
+         "from" : "=09novosel, sarah =20",
+         "line" : 41,
+         "rawfrom" : "=09Novosel, Sarah =20\r\n",
+         "to" : "=09Shapiro, Richard; Palmer, Mark A. (PR); Denne, Karen; Philipp, Meredi="
+      },
+      {
+         "from" : "=09dernehl, ginger   on behalf of shapiro, richard",
+         "line" : 96,
+         "rawfrom" : "=09Dernehl, Ginger   On Behalf Of Shapiro, Richard\r\n",
+         "to" : "=09Palmer, Mark A. (PR); Denne, Karen; Philipp, Meredith; Alamo, Joseph;="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/74.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "savita.puthigai@enron.com"
+      },
+      {
+         "from" : "=09puthigai, savita =20",
+         "line" : 25,
+         "rawfrom" : "=09Puthigai, Savita =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 41,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Puthigai, Savita"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 49,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 87,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 130,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 143,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 154,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/76.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "kevin.meredith@enron.com"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 52,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 95,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      },
+      {
+         "from" : "=09meredith, kevin =20",
+         "line" : 108,
+         "rawfrom" : "=09Meredith, Kevin =20\r\n",
+         "to" : "=09Crandall, Sean"
+      },
+      {
+         "from" : "=09crandall, sean =20",
+         "line" : 119,
+         "rawfrom" : "=09Crandall, Sean =20\r\n",
+         "to" : "=09Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/77.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "alan.comnes@enron.com"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 22,
+         "rawfrom" : "Comnes, Alan \n",
+         "to" : "Crandall, Sean; Belden, Tim"
+      },
+      {
+         "from" : "snovose@enron.com",
+         "line" : 32,
+         "rawfrom" : "Novosel, Sarah \n",
+         "to" : "Comnes, Alan"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 49,
+         "rawfrom" : "Comnes, Alan \n",
+         "to" : "Comnes, Alan; Alvarez, Ray; Hawkins, Bernadette; Steffes, James D.; Novosel, Sarah; Mara, Susan; Perrino, Dave; Belden, Tim; Crandall, Sean; Kaufman, Paul"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 61,
+         "rawfrom" : "Comnes, Alan \n",
+         "to" : "Alvarez, Ray; Hawkins, Bernadette; Steffes, James D.; Novosel, Sarah; Mara, Susan; Perrino, Dave; Belden, Tim; Crandall, Sean; Kaufman, Paul"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/crandell-s/sent_items/9.",
+   "hops" : [
+      {
+         "from" : "sean.crandall@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.crandall@enron.com\r\n",
+         "to" : "mo.elafandi@enron.com"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 21,
+         "rawfrom" : "Crandall, Sean \n",
+         "to" : "Luong, Steven"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 31,
+         "rawfrom" : "Luong, Steven \n",
+         "to" : "Crandall, Sean"
+      },
+      {
+         "from" : "sean_crandall@pgn.com",
+         "line" : 44,
+         "rawfrom" : "Crandall, Sean \n",
+         "to" : "Luong, Steven; Thome, Stephen"
+      }
+   ],
+   "skipped" : 0
+}
+]

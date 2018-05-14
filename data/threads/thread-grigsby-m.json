@@ -1,0 +1,3007 @@
+[
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/129.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "chris.h.foster@enron.com",
+         "line" : 25,
+         "rawfrom" : " Chris H Foster                           01/23/2001 06:24 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 39,
+         "rawfrom" : "Jeff Dasovich@ENRON on 01/23/2001 04:57 PM CST\n",
+         "to" : "Alan Comnes/PDX/ECT@ECT, Angela Schwarz/HOU/EES@EES, Beverly"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 82,
+         "rawfrom" : "Jeff Dasovich/NA/Enron on 01/23/2001 04:55 PM -----\n",
+         "to" : "Chris H Foster/HOU/ECT@ECT, Alan Comnes/PDX/ECT@ECT, Frank W"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 94,
+         "rawfrom" : "Susan J Mara/NA/Enron on 01/23/2001 02:42 PM -----\n",
+         "to" : "\"'Bill Carlson \\(E-mail\\)'\" <william_carlson@wastemanagement.com>, \"Bill"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/169.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "keith.holst@enron.com, carey.metz@enron.com"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 20,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 27,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 39,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 50,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 60,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/17.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matt.motley@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 25,
+         "rawfrom" : " Phillip K Allen                           04/24/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT, Keith Holst/HOU/ECT@ect, Matthew"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 39,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "eric.benson@enron.com",
+         "line" : 61,
+         "rawfrom" : "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "to" : "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from" : "janet.butler@enron.com",
+         "line" : 76,
+         "rawfrom" : "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "to" : "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/267.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 07/07/2000 11:14 \n",
+         "to" : "biggsbg@bp.com, mike.grigsby@enron.com, jdownie@rstw.com,"
+      },
+      {
+         "from" : "joseph_b_knauth@reliantenergy.com",
+         "line" : 36,
+         "rawfrom" : "Joseph B Knauth/TTG/HouInd on\n",
+         "to" : "Joseph B Knauth/TTG/HouInd@HouInd"
+      },
+      {
+         "from" : "dgagliardi@reliantenergy.com",
+         "line" : 50,
+         "rawfrom" : "David M Gagliardi/TTG/HouInd on\n",
+         "to" : "\"Pat Murphy\" <pmurphy@knight-cap.com>, \"Paul Giordano\""
+      },
+      {
+         "from" : "thfrain@rcn.com",
+         "line" : 78,
+         "rawfrom" : "thfrain [mailto:thfrain@rcn.com]\n",
+         "to" : "RICK TRIOLA; Sharon Rayner; Ric McAdams; MARGARET FRAIN; Mike Rose;"
+      },
+      {
+         "from" : "wcalderaro@altuspartners.com",
+         "line" : 87,
+         "rawfrom" : "\"William Calderaro\" <wcalderaro@altuspartners.com>\n",
+         "to" : "\"Tom Lester\" <tlesterhome@aol.com>; \"Tom Frain\" <thfrain@rcn.com>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/46.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 03/20/2001 04:41 \n",
+         "to" : "michael.grigsby@enron.com"
+      },
+      {
+         "from" : "darla.saucier@enron.com",
+         "line" : 42,
+         "rawfrom" : "Darla Saucier/NA/Enron on 03/20/2001 \n",
+         "to" : "\"'darla.saucier@enron.com'\" <darla.saucier@enron.com>"
+      },
+      {
+         "from" : "hgong@tngus.com",
+         "line" : 58,
+         "rawfrom" : "Gong, Heidi\n",
+         "to" : "'darla.saucier@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/74.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 29,
+         "rawfrom" : " Phillip K Allen                           03/05/2001 07:05 AM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 40,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "to" : "Anne.Bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 58,
+         "rawfrom" : "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "to" : "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from" : "liane_kucher@mcgraw-hill.com",
+         "line" : 78,
+         "rawfrom" : "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "to" : "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/_sent_mail/90.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "patti.sullivan@enron.com"
+      },
+      {
+         "from" : "dgiron@enron.com",
+         "line" : 33,
+         "rawfrom" : " Darron C Giron                           02/28/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 52,
+         "rawfrom" : " Bryce Baxter                           02/28/2001 02:02 PM\n",
+         "to" : "Darron C Giron/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 64,
+         "rawfrom" : "Bryce Baxter/HOU/ECT on 02/28/2001 02:02 \n",
+         "to" : "Bryce Baxter/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 89,
+         "rawfrom" : "Lisa Valderrama/HOU/ECT on 02/23/2001 \n",
+         "to" : "Lisa Valderrama/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 104,
+         "rawfrom" : "Lisa Valderrama@ECT\n",
+         "to" : "Isabel Y Resendez/HOU/ECT@ECT, Pam B Boxx/HOU/ECT@ECT, Willie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/117.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com, phillip.allen@enron.com"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 23,
+         "rawfrom" : "Danielle Marcinkowski/ENRON@enronXgate on 05/08/2001 03:18 PM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 37,
+         "rawfrom" : " Marcinkowski, Danielle  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 66,
+         "rawfrom" : " Rangel, Ina  \n",
+         "to" : "Marcinkowski, Danielle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/188.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matt.motley@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 25,
+         "rawfrom" : " Phillip K Allen                           04/24/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT, Keith Holst/HOU/ECT@ect, Matthew"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 39,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "eric.benson@enron.com",
+         "line" : 61,
+         "rawfrom" : "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "to" : "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from" : "janet.butler@enron.com",
+         "line" : 76,
+         "rawfrom" : "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "to" : "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/217.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 03/20/2001 04:41 \n",
+         "to" : "michael.grigsby@enron.com"
+      },
+      {
+         "from" : "darla.saucier@enron.com",
+         "line" : 42,
+         "rawfrom" : "Darla Saucier/NA/Enron on 03/20/2001 \n",
+         "to" : "\"'darla.saucier@enron.com'\" <darla.saucier@enron.com>"
+      },
+      {
+         "from" : "hgong@tngus.com",
+         "line" : 58,
+         "rawfrom" : "Gong, Heidi\n",
+         "to" : "'darla.saucier@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/245.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 29,
+         "rawfrom" : " Phillip K Allen                           03/05/2001 07:05 AM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 40,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "to" : "Anne.Bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 58,
+         "rawfrom" : "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "to" : "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from" : "liane_kucher@mcgraw-hill.com",
+         "line" : 78,
+         "rawfrom" : "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "to" : "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/261.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "patti.sullivan@enron.com"
+      },
+      {
+         "from" : "dgiron@enron.com",
+         "line" : 33,
+         "rawfrom" : " Darron C Giron                           02/28/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 52,
+         "rawfrom" : " Bryce Baxter                           02/28/2001 02:02 PM\n",
+         "to" : "Darron C Giron/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 64,
+         "rawfrom" : "Bryce Baxter/HOU/ECT on 02/28/2001 02:02 \n",
+         "to" : "Bryce Baxter/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 89,
+         "rawfrom" : "Lisa Valderrama/HOU/ECT on 02/23/2001 \n",
+         "to" : "Lisa Valderrama/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 104,
+         "rawfrom" : "Lisa Valderrama@ECT\n",
+         "to" : "Isabel Y Resendez/HOU/ECT@ECT, Pam B Boxx/HOU/ECT@ECT, Willie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/300.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "chris.h.foster@enron.com",
+         "line" : 25,
+         "rawfrom" : " Chris H Foster                           01/23/2001 06:24 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 39,
+         "rawfrom" : "Jeff Dasovich@ENRON on 01/23/2001 04:57 PM CST\n",
+         "to" : "Alan Comnes/PDX/ECT@ECT, Angela Schwarz/HOU/EES@EES, Beverly"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 82,
+         "rawfrom" : "Jeff Dasovich/NA/Enron on 01/23/2001 04:55 PM -----\n",
+         "to" : "Chris H Foster/HOU/ECT@ECT, Alan Comnes/PDX/ECT@ECT, Frank W"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 94,
+         "rawfrom" : "Susan J Mara/NA/Enron on 01/23/2001 02:42 PM -----\n",
+         "to" : "\"'Bill Carlson \\(E-mail\\)'\" <william_carlson@wastemanagement.com>, \"Bill"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/340.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "keith.holst@enron.com, carey.metz@enron.com"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 20,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 27,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 39,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 50,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 60,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/all_documents/438.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 07/07/2000 11:14 \n",
+         "to" : "biggsbg@bp.com, mike.grigsby@enron.com, jdownie@rstw.com,"
+      },
+      {
+         "from" : "joseph_b_knauth@reliantenergy.com",
+         "line" : 36,
+         "rawfrom" : "Joseph B Knauth/TTG/HouInd on\n",
+         "to" : "Joseph B Knauth/TTG/HouInd@HouInd"
+      },
+      {
+         "from" : "dgagliardi@reliantenergy.com",
+         "line" : 50,
+         "rawfrom" : "David M Gagliardi/TTG/HouInd on\n",
+         "to" : "\"Pat Murphy\" <pmurphy@knight-cap.com>, \"Paul Giordano\""
+      },
+      {
+         "from" : "thfrain@rcn.com",
+         "line" : 78,
+         "rawfrom" : "thfrain [mailto:thfrain@rcn.com]\n",
+         "to" : "RICK TRIOLA; Sharon Rayner; Ric McAdams; MARGARET FRAIN; Mike Rose;"
+      },
+      {
+         "from" : "wcalderaro@altuspartners.com",
+         "line" : 87,
+         "rawfrom" : "\"William Calderaro\" <wcalderaro@altuspartners.com>\n",
+         "to" : "\"Tom Lester\" <tlesterhome@aol.com>; \"Tom Frain\" <thfrain@rcn.com>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/105.",
+   "hops" : [
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 4,
+         "rawfrom" : "anne.bike@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 35,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 44,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne; Ward, Kim S (Houston)"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 56,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 66,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 79,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 94,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 103,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 135,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 153,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 177,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 187,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/113.",
+   "hops" : [
+      {
+         "from" : "david.dronet@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.dronet@enron.com\r\n",
+         "to" : "franky.sulistio@enron.com, mike.grigsby@enron.com"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 29,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Grigsby, Mike; Dronet, David"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 43,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Berutti, Aaron; Gaskill, Chris"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 59,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 71,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 87,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Sulistio, Franky"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/114.",
+   "hops" : [
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 4,
+         "rawfrom" : "franky.sulistio@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com, david.dronet@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 28,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Berutti, Aaron; Gaskill, Chris"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 44,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 56,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 72,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Sulistio, Franky"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/166.",
+   "hops" : [
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 4,
+         "rawfrom" : "anne.bike@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne; Ward, Kim S (Houston)"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 34,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 44,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 57,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 72,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 81,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 113,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 131,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 155,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 165,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/358.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/365.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 105,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/368.",
+   "hops" : [
+      {
+         "from" : "ward@enron.com",
+         "line" : 4,
+         "rawfrom" : "houston <.ward@enron.com>\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Gay, Randall L."
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tWard, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike; Gay, Randall L."
+      },
+      {
+         "from" : "sbreen@czn.com",
+         "line" : 49,
+         "rawfrom" : "\t\"Breen, Sean\" <SBreen@czn.com>@ENRON  \n",
+         "to" : "Foster, Chris H.; Ward, Kim S (Houston)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/378.",
+   "hops" : [
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "karen.buckley@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 37,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 50,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 62,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Will, Lloyd; Superty, Robert; White, Stacey W.; McMichael Jr., Ed; Gossett, Jeffrey C.; Grigsby, Mike; Gaskill, Chris; Meyn, Jim; Baughman Jr., Don"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/415.",
+   "hops" : [
+      {
+         "from" : "elizabeth.shim@enron.com",
+         "line" : 4,
+         "rawfrom" : "elizabeth.shim@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Shim, Elizabeth; Holst, Keith"
+      },
+      {
+         "from" : "elizabeth.shim@enron.com",
+         "line" : 37,
+         "rawfrom" : "Shim, Elizabeth \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "elizabeth.shim@enron.com",
+         "line" : 54,
+         "rawfrom" : "  Shim, Elizabeth  \n",
+         "to" : "Holst, Keith"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/431.",
+   "hops" : [
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeanie.slone@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Slone, Jeanie"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tSlone, Jeanie  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 43,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Slone, Jeanie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/89.",
+   "hops" : [
+      {
+         "from" : "patti.sullivan@enron.com",
+         "line" : 4,
+         "rawfrom" : "patti.sullivan@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Sullivan, Patti"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 68,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Hodge, Jeffrey T."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/90.",
+   "hops" : [
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "karen.buckley@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 36,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 49,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 58,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Allen, Phillip K.; Arnold, John; Aucoin, Berney C. ; Black, Don; Bentley, Corry; Davis, Mark Dana; Gaskill, Chris; Gossett, Jeffrey C.; Grigsby, Mike; Herndon, Rogers; Martin, Thomas A.; Meyn, Jim; McMichael Jr., Ed; Neal, Scott; Presto, Kevin M.; Schwieger, Jim; Shively, Hunter S.; Sturm, Fletcher J.; Superty, Robert; Will, Lloyd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/deleted_items/95.",
+   "hops" : [
+      {
+         "from" : "john.harmon@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.harmon@enron.com\r\n",
+         "to" : "press.jameson@enron.com, mike.grigsby@enron.com, e-mail <.dan@enron.com>"
+      },
+      {
+         "from" : "jameson.press@virgin.net",
+         "line" : 23,
+         "rawfrom" : "Jameson Press [mailto:jameson.press@virgin.net]\n",
+         "to" : "Harmon, John; greig, michael; dan fisher (e-mail)"
+      },
+      {
+         "from" : "john.harmon@enron.com",
+         "line" : 32,
+         "rawfrom" : "\"Harmon, John\" <john.harmon@enron.com>\n",
+         "to" : "\"Jameson Press\" <jameson.press@virgin.net>, \"Greig, Michael\""
+      },
+      {
+         "from" : "jameson.press@virgin.net",
+         "line" : 49,
+         "rawfrom" : "Jameson Press [mailto:jameson.press@virgin.net]\n",
+         "to" : "Greig, Michael; Harmon, John; dan fisher (e-mail)"
+      },
+      {
+         "from" : "michael.greig@amlin.co.uk",
+         "line" : 72,
+         "rawfrom" : "\"Greig, Michael\" <Michael.Greig@amlin.co.uk>\n",
+         "to" : "\"'Harmon, John'\" <john.harmon@enron.com>, \"Dan Fisher (E-mail)\""
+      },
+      {
+         "from" : "john.harmon@enron.com",
+         "line" : 86,
+         "rawfrom" : "Harmon, John [mailto:john.harmon@enron.com]\n",
+         "to" : "Dan Fisher (E-mail); Mike Grieg (E-mail); Brad King (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/109.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "patti.sullivan@enron.com"
+      },
+      {
+         "from" : "dgiron@enron.com",
+         "line" : 33,
+         "rawfrom" : " Darron C Giron                           02/28/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 52,
+         "rawfrom" : " Bryce Baxter                           02/28/2001 02:02 PM\n",
+         "to" : "Darron C Giron/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 64,
+         "rawfrom" : "Bryce Baxter/HOU/ECT on 02/28/2001 02:02 \n",
+         "to" : "Bryce Baxter/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 89,
+         "rawfrom" : "Lisa Valderrama/HOU/ECT on 02/23/2001 \n",
+         "to" : "Lisa Valderrama/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 104,
+         "rawfrom" : "Lisa Valderrama@ECT\n",
+         "to" : "Isabel Y Resendez/HOU/ECT@ECT, Pam B Boxx/HOU/ECT@ECT, Willie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/11.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 07/07/2000 11:14 \n",
+         "to" : "biggsbg@bp.com, mike.grigsby@enron.com, jdownie@rstw.com,"
+      },
+      {
+         "from" : "joseph_b_knauth@reliantenergy.com",
+         "line" : 36,
+         "rawfrom" : "Joseph B Knauth/TTG/HouInd on\n",
+         "to" : "Joseph B Knauth/TTG/HouInd@HouInd"
+      },
+      {
+         "from" : "dgagliardi@reliantenergy.com",
+         "line" : 50,
+         "rawfrom" : "David M Gagliardi/TTG/HouInd on\n",
+         "to" : "\"Pat Murphy\" <pmurphy@knight-cap.com>, \"Paul Giordano\""
+      },
+      {
+         "from" : "thfrain@rcn.com",
+         "line" : 78,
+         "rawfrom" : "thfrain [mailto:thfrain@rcn.com]\n",
+         "to" : "RICK TRIOLA; Sharon Rayner; Ric McAdams; MARGARET FRAIN; Mike Rose;"
+      },
+      {
+         "from" : "wcalderaro@altuspartners.com",
+         "line" : 87,
+         "rawfrom" : "\"William Calderaro\" <wcalderaro@altuspartners.com>\n",
+         "to" : "\"Tom Lester\" <tlesterhome@aol.com>; \"Tom Frain\" <thfrain@rcn.com>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/124.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 29,
+         "rawfrom" : " Phillip K Allen                           03/05/2001 07:05 AM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 40,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "to" : "Anne.Bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 58,
+         "rawfrom" : "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "to" : "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from" : "liane_kucher@mcgraw-hill.com",
+         "line" : 78,
+         "rawfrom" : "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "to" : "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/143.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 03/20/2001 04:41 \n",
+         "to" : "michael.grigsby@enron.com"
+      },
+      {
+         "from" : "darla.saucier@enron.com",
+         "line" : 42,
+         "rawfrom" : "Darla Saucier/NA/Enron on 03/20/2001 \n",
+         "to" : "\"'darla.saucier@enron.com'\" <darla.saucier@enron.com>"
+      },
+      {
+         "from" : "hgong@tngus.com",
+         "line" : 58,
+         "rawfrom" : "Gong, Heidi\n",
+         "to" : "'darla.saucier@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/157.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matt.motley@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 25,
+         "rawfrom" : " Phillip K Allen                           04/24/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT, Keith Holst/HOU/ECT@ect, Matthew"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 39,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "eric.benson@enron.com",
+         "line" : 61,
+         "rawfrom" : "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "to" : "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from" : "janet.butler@enron.com",
+         "line" : 76,
+         "rawfrom" : "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "to" : "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/221.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com, phillip.allen@enron.com"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 23,
+         "rawfrom" : "Danielle Marcinkowski/ENRON@enronXgate on 05/08/2001 03:18 PM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 37,
+         "rawfrom" : " Marcinkowski, Danielle  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 66,
+         "rawfrom" : " Rangel, Ina  \n",
+         "to" : "Marcinkowski, Danielle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/62.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "keith.holst@enron.com, carey.metz@enron.com"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 20,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 27,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 39,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 50,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 60,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/discussion_threads/89.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "chris.h.foster@enron.com",
+         "line" : 25,
+         "rawfrom" : " Chris H Foster                           01/23/2001 06:24 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 39,
+         "rawfrom" : "Jeff Dasovich@ENRON on 01/23/2001 04:57 PM CST\n",
+         "to" : "Alan Comnes/PDX/ECT@ECT, Angela Schwarz/HOU/EES@EES, Beverly"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 82,
+         "rawfrom" : "Jeff Dasovich/NA/Enron on 01/23/2001 04:55 PM -----\n",
+         "to" : "Chris H Foster/HOU/ECT@ECT, Alan Comnes/PDX/ECT@ECT, Frank W"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 94,
+         "rawfrom" : "Susan J Mara/NA/Enron on 01/23/2001 02:42 PM -----\n",
+         "to" : "\"'Bill Carlson \\(E-mail\\)'\" <william_carlson@wastemanagement.com>, \"Bill"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/inbox/17.",
+   "hops" : [
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 4,
+         "rawfrom" : "anne.bike@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 35,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 50,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 59,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 91,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 109,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 133,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 143,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/inbox/8.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, stephanie.miller@enron.com, phil.polsky@enron.com,"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Stephanie; Polsky, Phil; Tycholiz, Barry"
+      },
+      {
+         "from" : "phil.polsky@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tPolsky, Phil  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "dale.t.sanders@williams.com",
+         "line" : 67,
+         "rawfrom" : "\t\"Sanders, Dale T.\" <Dale.T.Sanders@Williams.com>@ENRON  \n",
+         "to" : "Polsky, Phil"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/notes_inbox/117.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com, phillip.allen@enron.com"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 23,
+         "rawfrom" : "Danielle Marcinkowski/ENRON@enronXgate on 05/08/2001 03:18 PM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "danielle.marcinkowski@enron.com",
+         "line" : 37,
+         "rawfrom" : " Marcinkowski, Danielle  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 66,
+         "rawfrom" : " Rangel, Ina  \n",
+         "to" : "Marcinkowski, Danielle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/129.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "chris.h.foster@enron.com",
+         "line" : 25,
+         "rawfrom" : " Chris H Foster                           01/23/2001 06:24 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 39,
+         "rawfrom" : "Jeff Dasovich@ENRON on 01/23/2001 04:57 PM CST\n",
+         "to" : "Alan Comnes/PDX/ECT@ECT, Angela Schwarz/HOU/EES@EES, Beverly"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 82,
+         "rawfrom" : "Jeff Dasovich/NA/Enron on 01/23/2001 04:55 PM -----\n",
+         "to" : "Chris H Foster/HOU/ECT@ECT, Alan Comnes/PDX/ECT@ECT, Frank W"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 94,
+         "rawfrom" : "Susan J Mara/NA/Enron on 01/23/2001 02:42 PM -----\n",
+         "to" : "\"'Bill Carlson \\(E-mail\\)'\" <william_carlson@wastemanagement.com>, \"Bill"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/169.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "keith.holst@enron.com, carey.metz@enron.com"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 20,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 27,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 39,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 50,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 60,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/17.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matt.motley@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 25,
+         "rawfrom" : " Phillip K Allen                           04/24/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT, Keith Holst/HOU/ECT@ect, Matthew"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 39,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 04/24/2001 \n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "eric.benson@enron.com",
+         "line" : 61,
+         "rawfrom" : "Eric Benson/NA/Enron on 04/24/2001 01:45 PM -----\n",
+         "to" : "Eric.Benson@enron.com, Steve.Kean@enron.com, Richard.Shapiro@enron.com"
+      },
+      {
+         "from" : "janet.butler@enron.com",
+         "line" : 76,
+         "rawfrom" : "Janet Butler/ET&S/Enron on 11/06/2000 \n",
+         "to" : "Christi.L.Nicolay@enron.com, James D Steffes/NA/Enron@Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/267.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 07/07/2000 11:14 \n",
+         "to" : "biggsbg@bp.com, mike.grigsby@enron.com, jdownie@rstw.com,"
+      },
+      {
+         "from" : "joseph_b_knauth@reliantenergy.com",
+         "line" : 36,
+         "rawfrom" : "Joseph B Knauth/TTG/HouInd on\n",
+         "to" : "Joseph B Knauth/TTG/HouInd@HouInd"
+      },
+      {
+         "from" : "dgagliardi@reliantenergy.com",
+         "line" : 50,
+         "rawfrom" : "David M Gagliardi/TTG/HouInd on\n",
+         "to" : "\"Pat Murphy\" <pmurphy@knight-cap.com>, \"Paul Giordano\""
+      },
+      {
+         "from" : "thfrain@rcn.com",
+         "line" : 78,
+         "rawfrom" : "thfrain [mailto:thfrain@rcn.com]\n",
+         "to" : "RICK TRIOLA; Sharon Rayner; Ric McAdams; MARGARET FRAIN; Mike Rose;"
+      },
+      {
+         "from" : "wcalderaro@altuspartners.com",
+         "line" : 87,
+         "rawfrom" : "\"William Calderaro\" <wcalderaro@altuspartners.com>\n",
+         "to" : "\"Tom Lester\" <tlesterhome@aol.com>; \"Tom Frain\" <thfrain@rcn.com>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/46.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "Mike Grigsby/HOU/ECT on 03/20/2001 04:41 \n",
+         "to" : "michael.grigsby@enron.com"
+      },
+      {
+         "from" : "darla.saucier@enron.com",
+         "line" : 42,
+         "rawfrom" : "Darla Saucier/NA/Enron on 03/20/2001 \n",
+         "to" : "\"'darla.saucier@enron.com'\" <darla.saucier@enron.com>"
+      },
+      {
+         "from" : "hgong@tngus.com",
+         "line" : 58,
+         "rawfrom" : "Gong, Heidi\n",
+         "to" : "'darla.saucier@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/74.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 29,
+         "rawfrom" : " Phillip K Allen                           03/05/2001 07:05 AM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 40,
+         "rawfrom" : "Phillip K Allen/HOU/ECT on 03/05/2001 \n",
+         "to" : "Anne.Bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 58,
+         "rawfrom" : "Anne.Bike@enron.com on 02/28/2001 04:57:52 PM\n",
+         "to" : "Liane Kucher/Wash/Magnews@Magnews"
+      },
+      {
+         "from" : "liane_kucher@mcgraw-hill.com",
+         "line" : 78,
+         "rawfrom" : "liane_kucher@mcgraw-hill.com on 02/28/2001 01:43:44 PM\n",
+         "to" : "Anne.Bike@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent/90.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "patti.sullivan@enron.com"
+      },
+      {
+         "from" : "dgiron@enron.com",
+         "line" : 33,
+         "rawfrom" : " Darron C Giron                           02/28/2001 02:26 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 52,
+         "rawfrom" : " Bryce Baxter                           02/28/2001 02:02 PM\n",
+         "to" : "Darron C Giron/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 64,
+         "rawfrom" : "Bryce Baxter/HOU/ECT on 02/28/2001 02:02 \n",
+         "to" : "Bryce Baxter/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 89,
+         "rawfrom" : "Lisa Valderrama/HOU/ECT on 02/23/2001 \n",
+         "to" : "Lisa Valderrama/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lisa.valderrama@enron.com",
+         "line" : 104,
+         "rawfrom" : "Lisa Valderrama@ECT\n",
+         "to" : "Isabel Y Resendez/HOU/ECT@ECT, Pam B Boxx/HOU/ECT@ECT, Willie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/106.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "m..tholt@enron.com"
+      },
+      {
+         "from" : "jane.m.tholt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tholt, Jane M. \n",
+         "to" : "Grigsby, Mike; Ermis, Frank; Lenhart, Matthew; South, Steven P.;"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 33,
+         "rawfrom" : "Dasovich, Jeff \n",
+         "to" : "Tycholiz, Barry; Tholt, Jane M.; Miller, Stephanie; Lawner, Leslie;"
+      },
+      {
+         "from" : "jcsv@pge.com",
+         "line" : 47,
+         "rawfrom" : "Stewart, John C [mailto:JCSv@pge.com]\n",
+         "to" : "'alan_reid@pcp.ca'; 'andy.bettwy@swgas.com'; 'aod@newsdata.com';"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/108.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "paul.jordan@enron.com"
+      },
+      {
+         "from" : "paul.jordan@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tJordan, Paul  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 30,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Jordan, Paul"
+      },
+      {
+         "from" : "paul.jordan@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tJordan, Paul  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/119.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "ina.rangel@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 27,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 35,
+         "rawfrom" : "Rangel, Ina \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 45,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Rangel, Ina; Slone, Jeanie"
+      },
+      {
+         "from" : "mhubley@execsearchusa.com",
+         "line" : 57,
+         "rawfrom" : "Michael Hubley [mailto:mhubley@execsearchusa.com]\n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/124.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tArnold, John  \n",
+         "to" : "Lavorato, John; Gaskill, Chris"
+      },
+      {
+         "from" : "caroline.abramo@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tAbramo, Caroline  \n",
+         "to" : "Arnold, John; Quigley, Dutch"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/127.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "dipak.agarwalla@enron.com"
+      },
+      {
+         "from" : "dipak.agarwalla@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tAgarwalla, Dipak  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Agarwalla, Dipak"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 51,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Agarwalla, Dipak"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tWard, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/129.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 27,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 42,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 51,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 83,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 101,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 125,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 135,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/139.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 22,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 54,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 72,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 96,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 106,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/16.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "winston.jia@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tJia, Winston  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Jia, Winston"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/174.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "ina.rangel@enron.com"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 21,
+         "rawfrom" : "Rangel, Ina \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Rangel, Ina; Slone, Jeanie"
+      },
+      {
+         "from" : "mhubley@execsearchusa.com",
+         "line" : 43,
+         "rawfrom" : "Michael Hubley [mailto:mhubley@execsearchusa.com]\n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/175.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "aaron.berutti@enron.com"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tBerutti, Aaron  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tBerutti, Aaron  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/183.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/198.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "jeanie.slone@enron.com"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tSlone, Jeanie  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Slone, Jeanie"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tSlone, Jeanie  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 54,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Slone, Jeanie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/207.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "kam.keiser@enron.com, michelle.akers@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 25,
+         "rawfrom" : "Keiser, Kam \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "michelle.akers@enron.com",
+         "line" : 34,
+         "rawfrom" : "Akers, Michelle \n",
+         "to" : "Keiser, Kam"
+      },
+      {
+         "from" : "mhenergy@yahoo.com",
+         "line" : 47,
+         "rawfrom" : "mhenergy [mailto:mhenergy@yahoo.com]\n",
+         "to" : "kelley_doolan@platts.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/223.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 22,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Grigsby, Mike; Oxley, David; Slone, Jeanie"
+      },
+      {
+         "from" : "christopher.f.calger@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCalger, Christopher F.  \n",
+         "to" : "Kitchen, Louise"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 41,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Calger, Christopher F.; Belden, Tim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/226.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "dale.rasmussen@enron.com"
+      },
+      {
+         "from" : "patti.sullivan@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tSullivan, Patti  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 38,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Sullivan, Patti; Christiansen, Suzanne"
+      },
+      {
+         "from" : "drasmus@ect.enron.com",
+         "line" : 49,
+         "rawfrom" : "\tRasmussen, Dale  \n",
+         "to" : "Grigsby, Mike; Sullivan, Patti"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/33.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "karen.buckley@enron.com"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 25,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 38,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 47,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Allen, Phillip K.; Arnold, John; Aucoin, Berney C. ; Black, Don; Bentley, Corry; Davis, Mark Dana; Gaskill, Chris; Gossett, Jeffrey C.; Grigsby, Mike; Herndon, Rogers; Martin, Thomas A.; Meyn, Jim; McMichael Jr., Ed; Neal, Scott; Presto, Kevin M.; Schwieger, Jim; Shively, Hunter S.; Sturm, Fletcher J.; Superty, Robert; Will, Lloyd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/336.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Grigsby, Mike; Gossett, Jeffrey C.; Mike Grigsby @ Home (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/357.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "zachary.mccarroll@enron.com"
+      },
+      {
+         "from" : "zachary_mccarroll@enron.net",
+         "line" : 22,
+         "rawfrom" : "McCarroll, Zachary \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "McCarroll, Zachary"
+      },
+      {
+         "from" : "zachary_mccarroll@enron.net",
+         "line" : 45,
+         "rawfrom" : "McCarroll, Zachary \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/375.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "chris.gaskill@enron.com"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGaskill, Chris  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 32,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Gaskill, Chris; Holst, Keith"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 58,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Buckley, Karen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/376.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "aaron.berutti@enron.com"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBerutti, Aaron  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBerutti, Aaron  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/379.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "chris.dorland@enron.com"
+      },
+      {
+         "from" : "chrisdorland@msn.com",
+         "line" : 22,
+         "rawfrom" : "\tDorland, Chris  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Dorland, Chris"
+      },
+      {
+         "from" : "chrisdorland@msn.com",
+         "line" : 44,
+         "rawfrom" : "\tDorland, Chris  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/404.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "zachary_mccarroll@enron.net",
+         "line" : 22,
+         "rawfrom" : "\tMcCarroll, Zachary  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "jennifer_mcclain@enron.net",
+         "line" : 30,
+         "rawfrom" : "\tMcClain, Jennifer  \n",
+         "to" : "McCarroll, Zachary"
+      },
+      {
+         "from" : "shalesh_ganjoo@enron.net",
+         "line" : 38,
+         "rawfrom" : "\tGanjoo, Shalesh  \n",
+         "to" : "McClain, Jennifer; Masani, Zal; Freeman, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/405.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "karen.buckley@enron.com"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 26,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 39,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Will, Lloyd; Superty, Robert; White, Stacey W.; McMichael Jr., Ed; Gossett, Jeffrey C.; Grigsby, Mike; Gaskill, Chris; Meyn, Jim; Baughman Jr., Don"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/46.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "houston <.ward@enron.com>, anne.bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 24,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne; Ward, Kim S (Houston)"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 45,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 55,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 68,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 83,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 92,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 124,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 142,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 166,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 176,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/47.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "david.dronet@enron.com"
+      },
+      {
+         "from" : "david.dronet@enron.com",
+         "line" : 24,
+         "rawfrom" : "Dronet, David \n",
+         "to" : "Sulistio, Franky; Grigsby, Mike"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 39,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Grigsby, Mike; Dronet, David"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 53,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Berutti, Aaron; Gaskill, Chris"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 69,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 81,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 97,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Sulistio, Franky"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/48.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "aaron.berutti@enron.com"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 26,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 38,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 54,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Sulistio, Franky"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/49.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "aaron.berutti@enron.com, chris.gaskill@enron.com"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 30,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 42,
+         "rawfrom" : "Sulistio, Franky \n",
+         "to" : "Berutti, Aaron"
+      },
+      {
+         "from" : "aaron.berutti@enron.com",
+         "line" : 58,
+         "rawfrom" : "Berutti, Aaron \n",
+         "to" : "Sulistio, Franky"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "matt.motley@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLenhart, Matthew  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "chad.landry@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLandry, Chad  \n",
+         "to" : "Lenhart, Matthew; Bass, Eric; Plauche, Stephen"
+      },
+      {
+         "from" : "john.kiani-aslani@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tKiani-Aslani, John  \n",
+         "to" : "Gonzalez, Andrea"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/57.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "'hutcheson@enron.com, curtis.hutcheson@compaq.com"
+      },
+      {
+         "from" : "curtis.hutcheson@compaq.com",
+         "line" : 22,
+         "rawfrom" : "Hutcheson, Curtis [mailto:Curtis.Hutcheson@COMPAQ.com]\n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 34,
+         "rawfrom" : "Grigsby, Mike [mailto:Mike.Grigsby@ENRON.com]\n",
+         "to" : "Hutcheson, Curtis"
+      },
+      {
+         "from" : "curtis.hutcheson@compaq.com",
+         "line" : 47,
+         "rawfrom" : "Hutcheson, Curtis [mailto:Curtis.Hutcheson@COMPAQ.com]\n",
+         "to" : "Grigsby, Mike; Joe Knauth (E-mail)"
+      },
+      {
+         "from" : "mcook1@tulane.edu",
+         "line" : 68,
+         "rawfrom" : "mcook1@tulane.edu [mailto:mcook1@tulane.edu]\n",
+         "to" : "Hutcheson, Curtis"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/6.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "ryan.o'rourke@enron.com"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 22,
+         "rawfrom" : "\tO'Rourke, Ryan  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 30,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "O'Rourke, Ryan"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 41,
+         "rawfrom" : "\tO'Rourke, Ryan  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/71.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Grigsby, Mike; Gossett, Jeffrey C."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/grigsby-m/sent_items/78.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "anne.bike@enron.com, houston <.ward@enron.com>"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 25,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 35,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 48,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 63,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 72,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 104,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 122,
+         "rawfrom" : "Bike, Anne \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 146,
+         "rawfrom" : "  Grigsby, Mike  \n",
+         "to" : "Ward, Kim S (Houston); Bike, Anne"
+      },
+      {
+         "from" : "kim.ward@enron.com",
+         "line" : 156,
+         "rawfrom" : "  Ward, Kim S (Houston)  \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+]

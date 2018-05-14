@@ -1,0 +1,1074 @@
+[
+{
+   "file" : "enron-raw/platter-p/inbox/103.",
+   "hops" : [
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 4,
+         "rawfrom" : "platter.oregon@verizon.net\r\n",
+         "to" : "phillip.platter@enron.com"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 22,
+         "rawfrom" : "Platter [mailto:platter.oregon@verizon.net]\n",
+         "to" : "KAPUSTKA, LAURA L"
+      },
+      {
+         "from" : "lkapustka@oppd.com",
+         "line" : 33,
+         "rawfrom" : "KAPUSTKA, LAURA L [mailto:lkapustka@oppd.com]\n",
+         "to" : "Platter"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 53,
+         "rawfrom" : "> From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "to" : "lkapustka@oppd.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/138.",
+   "hops" : [
+      {
+         "from" : "dried@oppd.com",
+         "line" : 4,
+         "rawfrom" : "dried@oppd.com\r\n",
+         "to" : "phillip.platter@enron.com"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 38,
+         "rawfrom" : "> From:\tPlatter, Phillip [SMTP:Phillip.Platter@enron.com]\n",
+         "to" : "RIED, DAVID G"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 58,
+         "rawfrom" : "Platter [mailto:platter.oregon@verizon.net]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "dried@oppd.com",
+         "line" : 67,
+         "rawfrom" : "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "to" : "Platter"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 98,
+         "rawfrom" : "> > From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "to" : "dried@oppd.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/240.",
+   "hops" : [
+      {
+         "from" : "hall@enron.com",
+         "line" : 4,
+         "rawfrom" : "legal <.hall@enron.com>\r\n",
+         "to" : "mark.fischer@enron.com, diana.scholtes@enron.com, tom.alonso@enron.com,"
+      },
+      {
+         "from" : "christopher.f.calger@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCalger, Christopher F.  \n",
+         "to" : "Yoder, Christian; Hall, Steve C. (Legal)"
+      },
+      {
+         "from" : "esager2@ect.enron.com",
+         "line" : 39,
+         "rawfrom" : "\tSager, Elizabeth  \n",
+         "to" : "Calger, Christopher F.; Hall, Steve C. (Legal); Belden, Tim"
+      },
+      {
+         "from" : "stacey.w.white@enron.|",
+         "line" : 53,
+         "rawfrom" : "\tWhite, Stacey W.  \n",
+         "to" : "Sager, Elizabeth; St. Clair, Carol; Bradford, William S.; Fallon, Jim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/281.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/28/2001",
+         "line" : 32,
+         "rawfrom" : "11/01/2001   To: 11/28/2001\t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 46,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 59,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 66,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 72,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/28/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/283.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/27/2001",
+         "line" : 32,
+         "rawfrom" : "11/01/2001   To: 11/27/2001\t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 46,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 59,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 66,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 72,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/27/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/288.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/26/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/26/2001\t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 47,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 60,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 67,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 73,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/26/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/304.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/13/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/13/2001\t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 41,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 54,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 61,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 67,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/13/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/309.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/09/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 41,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 54,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 61,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 67,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/09/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/311.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/12/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/12/2001\t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 41,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 54,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 61,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 67,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/12/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/319.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/08/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 41,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 54,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 61,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 67,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/08/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/324.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/06/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/06/2001\t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 41,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 54,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 60,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 66,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/06/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/326.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/06/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/06/2001\t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 41,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 54,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 60,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/06/2001"
+      },
+      {
+         "from" : "11/06/2001   to: 11/06/2001",
+         "line" : 66,
+         "rawfrom" : "11/06/2001   To: 11/06/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/06/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/337.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/05/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/05/2001\t  \t \n",
+         "to" : "11/05/2001"
+      },
+      {
+         "from" : "11/05/2001   to: 11/05/2001",
+         "line" : 41,
+         "rawfrom" : "11/05/2001   To: 11/05/2001\t  \t \n",
+         "to" : "11/05/2001"
+      },
+      {
+         "from" : "11/05/2001   to: 11/05/2001",
+         "line" : 54,
+         "rawfrom" : "11/05/2001   To: 11/05/2001\t  \t \n",
+         "to" : "11/05/2001"
+      },
+      {
+         "from" : "11/05/2001   to: 11/05/2001",
+         "line" : 60,
+         "rawfrom" : "11/05/2001   To: 11/05/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/05/2001"
+      },
+      {
+         "from" : "11/05/2001   to: 11/05/2001",
+         "line" : 66,
+         "rawfrom" : "11/05/2001   To: 11/05/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/05/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/338.",
+   "hops" : [
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 4,
+         "rawfrom" : "bhunsucker@ercot.com\r\n",
+         "to" : "phillip.platter@enron.com"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 28,
+         "rawfrom" : "Platter, Phillip [mailto:Phillip.Platter@ENRON.com]\n",
+         "to" : "Hunsucker, Brett"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 43,
+         "rawfrom" : "Hunsucker, Brett [mailto:Bhunsucker@ercot.com]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 57,
+         "rawfrom" : "Phillip.Platter@enron.com [mailto:Phillip.Platter@enron.com]\n",
+         "to" : "Bhunsucker@ercot.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/36.",
+   "hops" : [
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.poston@enron.com\r\n",
+         "to" : "jeff.richter@enron.com, phillip.platter@enron.com, corry.bentley@enron.com"
+      },
+      {
+         "from" : "leah.arsdall@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tVan Arsdall, Leah  \n",
+         "to" : "Poston, David"
+      },
+      {
+         "from" : "bob_martinez@greatsouthwestern.com",
+         "line" : 41,
+         "rawfrom" : "\tMartinez, Bob  \n",
+         "to" : "Van Arsdall, Leah"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tPoston, David  \n",
+         "to" : "Martinez, Bob"
+      },
+      {
+         "from" : "corry.bentley@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tBentley, Corry  \n",
+         "to" : "Poston, David"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 101,
+         "rawfrom" : "\tPoston, David  \n",
+         "to" : "Bentley, Corry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/362.",
+   "hops" : [
+      {
+         "from" : "rfranksen@usg.com",
+         "line" : 4,
+         "rawfrom" : "rfranksen@usg.com\r\n",
+         "to" : "marwede'.'andy@enron.com, montgomery'.'brian@enron.com,"
+      },
+      {
+         "from" : "janet_wrenn@freddiemac.com",
+         "line" : 50,
+         "rawfrom" : "  janet_wrenn@freddiemac.com [SMTP:janet_wrenn@freddiemac.com] \n",
+         "to" : "jbrophy@usg.com"
+      },
+      {
+         "from" : "janet_wrenn@freddiemac.com",
+         "line" : 57,
+         "rawfrom" : "Janet L Wrenn/NC/FHLMC on 10/04/2001 04:39 PM ----- \n",
+         "to" : "pattybertucci@juno.com,"
+      },
+      {
+         "from" : "don_strahanoski@freddiemac.com",
+         "line" : 88,
+         "rawfrom" : "Don Strahanoski/CSC/NC/FHLMC on 10/04/2001 08:49 AM \n",
+         "to" : "STRAHRO@OOCL.COM, cgrlica@ameritech.net,"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/platter-p/inbox/377.",
+   "hops" : [
+      {
+         "from" : "paul.choi@enron.com",
+         "line" : 4,
+         "rawfrom" : "paul.choi@enron.com\r\n",
+         "to" : "h..foster@enron.com, phillip.platter@enron.com, serena.bishop@enron.com,"
+      },
+      {
+         "from" : "leo.weaver@edwards.af.mil",
+         "line" : 23,
+         "rawfrom" : "Weaver Paul Civ 95 CEG/CEOEE [mailto:Leo.Weaver@edwards.af.mil]\n",
+         "to" : "Choi, Paul; 'kingjc@sce.com'; 'haugrd@sce.com'"
+      },
+      {
+         "from" : "> from:\tmiller cindy e civ 95 ces/cc",
+         "line" : 36,
+         "rawfrom" : "> From:\tMiller Cindy E Civ 95 CES/CC \n",
+         "to" : "Weaver Paul Civ 95 CEG/CEOEE"
+      },
+      {
+         "from" : "> from:\tweaver paul civ 95 ceg/ceoee",
+         "line" : 45,
+         "rawfrom" : "> From:\tWeaver Paul Civ 95 CEG/CEOEE \n",
+         "to" : "Miller Cindy E Civ 95 CES/CC"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/10.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "'franksen@enron.com, rfranksen@lwsupply.com"
+      },
+      {
+         "from" : "rfranksen@lwsupply.com",
+         "line" : 24,
+         "rawfrom" : "Franksen, Robert [mailto:RFranksen@lwsupply.com]\r\n",
+         "to" : "Platter, Phillip; 'Molly Elvig'"
+      },
+      {
+         "from" : "rfranksen@usg.com",
+         "line" : 43,
+         "rawfrom" : "  Franksen, Robert=20\r\n",
+         "to" : "'Lisa Platter'=20"
+      },
+      {
+         "from" : "lplatter@tconl.com",
+         "line" : 51,
+         "rawfrom" : "  Lisa Platter [SMTP:lplatter@tconl.com] ?Se=\r\n",
+         "to" : "Betty Johnson; Bob Frank="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/14.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "platter.oregon@verizon.net"
+      },
+      {
+         "from" : "mailer-daemon@ruf.rice.edu",
+         "line" : 23,
+         "rawfrom" : "Mail Delivery Subsystem\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 61,
+         "rawfrom" : "\"Platter, Phillip\" <Phillip.Platter@ENRON.com>\n",
+         "to" : "<platter.oregon@verison.net>"
+      },
+      {
+         "from" : "jmvkad@earthlink.net",
+         "line" : 78,
+         "rawfrom" : "Jim Vojtech & Kristen Deal [mailto:jmvkad@earthlink.net]\n",
+         "to" : "Troy Witkovic; Michael Wilhelm; Weisfeldt, Sara ; Brent Weber;"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/28.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "'franksen@enron.com, rfranksen@lwsupply.com"
+      },
+      {
+         "from" : "rfranksen@lwsupply.com",
+         "line" : 22,
+         "rawfrom" : "Franksen, Robert [mailto:RFranksen@lwsupply.com]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 41,
+         "rawfrom" : "  Platter, Phillip [SMTP:Phillip.Platter@ENRON.com] \n",
+         "to" : "Franksen, Robert"
+      },
+      {
+         "from" : "rfranksen@lwsupply.com",
+         "line" : 51,
+         "rawfrom" : "Franksen, Robert [ <mailto:RFranksen@lwsupply.com>]\n",
+         "to" : "Platter, Phillip"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/30.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "'hunsucker@enron.com, bhunsucker@ercot.com"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 23,
+         "rawfrom" : "Hunsucker, Brett [mailto:Bhunsucker@ercot.com]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 38,
+         "rawfrom" : "Platter, Phillip [mailto:Phillip.Platter@ENRON.com]\n",
+         "to" : "Hunsucker, Brett"
+      },
+      {
+         "from" : "bhunsucker@ercot.com",
+         "line" : 53,
+         "rawfrom" : "Hunsucker, Brett [mailto:Bhunsucker@ercot.com]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 67,
+         "rawfrom" : "Phillip.Platter@enron.com [mailto:Phillip.Platter@enron.com]\n",
+         "to" : "Bhunsucker@ercot.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/41.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "platter.oregon@verizon.net"
+      },
+      {
+         "from" : "rfranksen@usg.com",
+         "line" : 21,
+         "rawfrom" : "Franksen, Robert [mailto:RFranksen@usg.com]\n",
+         "to" : "'Andy Marwede'; 'Brian Montgomery'; 'Craig Riege (amfam)'; 'Dave Abbott'; 'Don Hutcheson'; 'James Kueck'; 'John Barth'; 'John Powers'; 'John Spethman'; 'Karen Sacks'; 'Melissa Defalco-Menge'; 'Michael Brooks'; 'Mike Turchi (work)'; 'Molly Elvig'; 'Peter Crabtree'; Platter, Phillip; 'Randy Lund'; 'Reid Wilson'; 'Rob Hoglund'"
+      },
+      {
+         "from" : "petermcrabtree@yahoo.com",
+         "line" : 41,
+         "rawfrom" : "  Peter Crabtree [SMTP:petermcrabtree@yahoo.com] \n",
+         "to" : "Bob Franksen"
+      },
+      {
+         "from" : "paul.deboer@motorola.com",
+         "line" : 50,
+         "rawfrom" : "Deboer Paul-W10469 [ <mailto:Paul.Deboer@motorola.com>] \n",
+         "to" : "Tracy McCabe; 'Tracy McCabe (Work)'; vicken_alexanian@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/57.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "anna.mehrer@enron.com"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 31,
+         "rawfrom" : "Platter, Phillip \n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 40,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Alonso, Tom; Anderson, Bob; Anderson, John; Badeer, Robert; Belden, Tim; Bishop, Serena; Blair, Kit; Bryson, Jesse; Buerkle, Jim; Chang, Fran; Chen, Lei; Cocke Jr., Stanley; Cox, Chip; Crandall, Sean; Cutsforth, Diane; Dean, Craig; Deas, Patty; Donovan, Terry W.; Driscoll, Michael M.; Dunton, Heather; Emmert, Caroline; Erwin, Kenton; Fischer, Mark; Freeman, Scott; Frost, David; Gang, Lisa; Gilbert, Scotty; Gray, Stan; Guzman, Mark; Hall, Steve C. (Legal); Hammond, Debra; Harasin, Leaf; Kaufman, Paul; Lackey, Chris; Law, Samantha; Lee, Eugene; Linder, Eric; Mainzer, Elliot; Mallory, Chris; Malowney, John; Maxwell, Dan; Mays, Wayne; McCarrel, Steven; Merriss, Steven; Meyers, Bert; Motley, Matt; Platter, Phillip; Porter, David V.; Poston, David; Purcell, Mike; Rosman, Stewart; Runswick, Stacy; Sarnowski, Julie; Sheidun, Donna; Slinger, Ryan; Solberg, Geir; Stokley, Chris; Swain, Steve; Swerzbin, Mike; Thomas, Jake; Villeggiante, Theresa; Warner, Nicholas; Williams III, Bill"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/6.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "platter.oregon@verizon.net"
+      },
+      {
+         "from" : "dried@oppd.com",
+         "line" : 22,
+         "rawfrom" : "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 47,
+         "rawfrom" : "> From:\tPlatter, Phillip [SMTP:Phillip.Platter@enron.com]\n",
+         "to" : "RIED, DAVID G"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 67,
+         "rawfrom" : "Platter [mailto:platter.oregon@verizon.net]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "dried@oppd.com",
+         "line" : 76,
+         "rawfrom" : "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "to" : "Platter"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 107,
+         "rawfrom" : "> > From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "to" : "dried@oppd.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/67.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "jeffrey.miller@enron.com"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tPlatter, Phillip  \n",
+         "to" : "Miller, Jeffrey"
+      },
+      {
+         "from" : "jmiller79@houston.rr.com",
+         "line" : 58,
+         "rawfrom" : "\tMiller, Jeffrey  \n",
+         "to" : "Platter, Phillip"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/7.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "dried@oppd.com"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 27,
+         "rawfrom" : "Platter [mailto:platter.oregon@verizon.net]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "dried@oppd.com",
+         "line" : 36,
+         "rawfrom" : "RIED, DAVID G [mailto:dried@oppd.com]\n",
+         "to" : "Platter"
+      },
+      {
+         "from" : "platter.oregon@verizon.net",
+         "line" : 66,
+         "rawfrom" : "> From:\tPlatter [SMTP:platter.oregon@verizon.net]\n",
+         "to" : "dried@oppd.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/76.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "'franksen@enron.com, rfranksen@usg.com"
+      },
+      {
+         "from" : "rfranksen@usg.com",
+         "line" : 22,
+         "rawfrom" : "Franksen, Robert [mailto:RFranksen@usg.com]\n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 41,
+         "rawfrom" : "  Platter, Phillip [SMTP:Phillip.Platter@ENRON.com] \n",
+         "to" : "Franksen, Robert"
+      },
+      {
+         "from" : "rfranksen@usg.com",
+         "line" : 49,
+         "rawfrom" : "Franksen, Robert [ <mailto:RFranksen@usg.com>] \n",
+         "to" : "'John Barth'; 'John Powers'; 'Mike Turchi'; 'Mike Turchi (work)';"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/82.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "dennis.benevides@enron.com"
+      },
+      {
+         "from" : "dennis.benevides@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBenevides, Dennis  \n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "dennis.benevides@enron.com",
+         "line" : 40,
+         "rawfrom" : " Dennis Benevides                           07/10/2001 04:11 PM Phone No: 713 853-9609\t\n",
+         "to" : "Phillip Platter/Enron@EnronXGate"
+      },
+      {
+         "from" : "dennis.benevides@enron.com",
+         "line" : 53,
+         "rawfrom" : " Dennis Benevides                           07/10/2001 12:22 PM Phone No: 713 853-9609\t\n",
+         "to" : "Neil Bresnan/HOU/EES@EES"
+      },
+      {
+         "from" : "dennis.benevides@enron.com",
+         "line" : 63,
+         "rawfrom" : "Dennis Benevides/HOU/EES on 07/10/2001 12:22 PM ---------------------------\n",
+         "to" : "<keroberts@pplant.UCDavis.edu>, <sssandhu@pplant.ucdavis.edu>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/platter-p/sent_items/86.",
+   "hops" : [
+      {
+         "from" : "phillip.platter@enron.com",
+         "line" : 4,
+         "rawfrom" : "phillip.platter@enron.com\r\n",
+         "to" : "neil.bresnan@enron.com"
+      },
+      {
+         "from" : "neil.bresnan@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBresnan, Neil  \n",
+         "to" : "Platter, Phillip"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tCara Semperger/ENRON@enronXgate on 06/26/2001 09:51 AM\n",
+         "to" : "Neil Bresnan/HOU/EES@EES"
+      },
+      {
+         "from" : "neil.bresnan@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBresnan, Neil  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 55,
+         "rawfrom" : "From:\tCara Semperger/ENRON@enronXgate on 06/26/2001 09:25 AM\n",
+         "to" : "Neil Bresnan/HOU/EES@EES"
+      },
+      {
+         "from" : "neil.bresnan@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tBresnan, Neil  \n",
+         "to" : "Semperger, Cara"
+      }
+   ],
+   "skipped" : 0
+}
+]

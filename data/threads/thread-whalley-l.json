@@ -1,0 +1,2854 @@
+[
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/11.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.frevert@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 34,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 49,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/128.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "pam.benson@enron.com"
+      },
+      {
+         "from" : "pam.benson@enron.com",
+         "line" : 29,
+         "rawfrom" : "Pam Benson@ENRON_DEVELOPMENT\n",
+         "to" : "Greg Whalley@ECT, Liz M Taylor@ECT"
+      },
+      {
+         "from" : "jsuttonventures@myarc.com",
+         "line" : 44,
+         "rawfrom" : "Joseph W Sutton\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "whalley@enron.com",
+         "line" : 57,
+         "rawfrom" : "Whalley@ECT",
+         "to" : "Joseph W Sutton@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/199.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "christie.patrick@enron.com"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 27,
+         "rawfrom" : "Christie Patrick on 03/15/2001 04:20 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 50,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/15/2001 04:12 PM -----\n",
+         "to" : "<Christie.Patrick@enron.com>"
+      },
+      {
+         "from" : "christie.patrick@enron.com",
+         "line" : 85,
+         "rawfrom" : "<Christie.Patrick@enron.com>\n",
+         "to" : "<haimmendelson@home.com>"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 104,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/15/2001 07:28 AM -----\n",
+         "to" : ""
+      },
+      {
+         "from" : "christie.patrick@enron.com",
+         "line" : 149,
+         "rawfrom" : "<Christie.Patrick@enron.com>\n",
+         "to" : "<haimmendelson@home.com>"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 172,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/14/2001 06:47 PM -----\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/230.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "khoskins@dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 27,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 12:00:24 PM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "khoskins@Dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 68,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 83,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "Hoskins, Kenneth"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 99,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "to" : "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/231.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "khoskins@dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 36,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "Hoskins, Kenneth"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 67,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "to" : "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/46.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 26,
+         "rawfrom" : "bnimocks@zeusdevelopment.com",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 39,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 60,
+         "rawfrom" : "bnimocks@zeusdevelopment.com",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/48.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "jetchart@tavaero.com"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 31,
+         "rawfrom" : "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 39,
+         "rawfrom" : "<Greg.Whalley@enron.com>\n",
+         "to" : "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 56,
+         "rawfrom" : "JETCHART@TAVAERO.COM",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/49.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "jetchart@tavaero.com"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 29,
+         "rawfrom" : "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 37,
+         "rawfrom" : "<Greg.Whalley@enron.com>\n",
+         "to" : "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 54,
+         "rawfrom" : "JETCHART@TAVAERO.COM",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/55.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:11 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/56.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:08 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/57.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.palmer@enron.com, steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 09:28 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/62.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 29,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 88,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 107,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 118,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 139,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 155,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/66.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 30,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 89,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 108,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 119,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 140,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 156,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/_sent_mail/70.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 30,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 41,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 62,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 78,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1038.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "kenneth.lay@enron.com"
+      },
+      {
+         "from" : "rex_shelby@enron.net",
+         "line" : 34,
+         "rawfrom" : " Shelby, Rex  \n",
+         "to" : "Piper, Greg"
+      },
+      {
+         "from" : "litebulb@amelectric.com",
+         "line" : 43,
+         "rawfrom" : " Greg_Brady@i2.com@ENRON \n",
+         "to" : "Shelby, Rex"
+      },
+      {
+         "from" : "rex.shelby@enron.com",
+         "line" : 62,
+         "rawfrom" : "\"Shelby, Rex\" <Rex.Shelby@ENRON.com> on 05/15/2001 07:20:21 AM\n",
+         "to" : "<greg_brady@i2.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1104.",
+   "hops" : [
+      {
+         "from" : "michael.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.brown@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 27,
+         "rawfrom" : " Lewis, Richard  \n",
+         "to" : "Brown, Michael"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 37,
+         "rawfrom" : "Richard Lewis/LON/ECT on 23/05/2001 08:45 \n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "chris.thrall@enron.com",
+         "line" : 93,
+         "rawfrom" : "Chris Thrall/LON/ECT on 22/05/2001 17:22 \n",
+         "to" : "Mark Dobler/HOU/EES@EES"
+      },
+      {
+         "from" : "mark.dobler@enron.com",
+         "line" : 122,
+         "rawfrom" : " Mark Dobler @ EES                           \n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1225.",
+   "hops" : [
+      {
+         "from" : "jeffrey.mcmahon@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.mcmahon@enron.com\r\n",
+         "to" : "mark.frevert@enron.com, greg.whalley@enron.com"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 26,
+         "rawfrom" : " Garner, Bruce =20\r\n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 38,
+         "rawfrom" : "Bruce Garner/LON/ECT on 11/05/2001 14:2=\r\n",
+         "to" : "Bruce Garner/LON/ECT@ECT, Greg Hermans/Enron@EnronXGate, Kevin=20"
+      },
+      {
+         "from" : "jason.seigal@enron.com",
+         "line" : 52,
+         "rawfrom" : "Jason Seigal/LON/ECT on 11/05/2001 09:2=\r\n",
+         "to" : "Jason Seigal/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1302.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "christie.patrick@enron.com"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 27,
+         "rawfrom" : "Christie Patrick on 03/15/2001 04:20 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 50,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/15/2001 04:12 PM -----\n",
+         "to" : "<Christie.Patrick@enron.com>"
+      },
+      {
+         "from" : "christie.patrick@enron.com",
+         "line" : 85,
+         "rawfrom" : "<Christie.Patrick@enron.com>\n",
+         "to" : "<haimmendelson@home.com>"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 104,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/15/2001 07:28 AM -----\n",
+         "to" : ""
+      },
+      {
+         "from" : "christie.patrick@enron.com",
+         "line" : 149,
+         "rawfrom" : "<Christie.Patrick@enron.com>\n",
+         "to" : "<haimmendelson@home.com>"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 172,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/14/2001 06:47 PM -----\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1333.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "khoskins@dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 27,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 12:00:24 PM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "khoskins@Dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 68,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 83,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "Hoskins, Kenneth"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 99,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "to" : "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1334.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "khoskins@dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 36,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "Hoskins, Kenneth"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 67,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "to" : "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/1603.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "rebecca.mcdonald@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 39,
+         "rawfrom" : "David W Delainey/HOU/ECT on 11/30/2000 \n",
+         "to" : "David W Delainey@ECT"
+      },
+      {
+         "from" : "rebecca_mcdonald@enronxgate.enron.enron.net",
+         "line" : 63,
+         "rawfrom" : "Rebecca McDonald/ENRON_DEVELOPMENT on \n",
+         "to" : "Rebecca McDonald/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 152,
+         "rawfrom" : "Peter E Weidler/NA/Enron on 11/29/2000 \n",
+         "to" : "James M Bannantine/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joe"
+      },
+      {
+         "from" : "brett_r_wiggs@enron.com",
+         "line" : 167,
+         "rawfrom" : "Brett R Wiggs/SA/Enron on 11/28/2000 \n",
+         "to" : "Miguel Padron/SA/Enron@Enron, Brett R Wiggs/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/220.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "greg.whalley@enron.com, john.lavorato@enron.com, janet.dietrich@enron.com,"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 24,
+         "rawfrom" : "David W Delainey/HOU/EES on 05/17/2001 \n",
+         "to" : "David W Delainey/HOU/EES@EES"
+      },
+      {
+         "from" : "ken_rice@enron.net",
+         "line" : 39,
+         "rawfrom" : "Ken Rice/Enron Communications on 05/16/01 09:26 AM -----\n",
+         "to" : "RMSherrill@duke-energy.com, lance_riley@anadarko.com, Ken Rice/Enron"
+      },
+      {
+         "from" : "bsbprkns@jump.net",
+         "line" : 51,
+         "rawfrom" : "Bob and Sharyn Perkins [mailto:bsbprkns@jump.net]\n",
+         "to" : "Undisclosed-Recipient:;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/257.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.frevert@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 34,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 49,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/346.",
+   "hops" : [
+      {
+         "from" : "jeffrey.shankman@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.shankman@enron.com\r\n",
+         "to" : "john.nowlan@enron.com, brent.price@enron.com, greg.whalley@enron.com,"
+      },
+      {
+         "from" : "jennifer.burns@enron.com",
+         "line" : 23,
+         "rawfrom" : " Burns, Jennifer  \n",
+         "to" : "Shankman, Jeffrey A."
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 31,
+         "rawfrom" : " Abel, Chris  \n",
+         "to" : "Burns, Jennifer"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 46,
+         "rawfrom" : "Chris Abel/HOU/ECT on 06/21/2001 09:25 AM -----\n",
+         "to" : "Chris Abel/HOU/ECT@ECT <mailto:Abel/HOU/ECT@ECT>,"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 75,
+         "rawfrom" : " Abel, Chris  \n",
+         "to" : "Buy, Rick; Nowlan Jr., John L.; Murphy, Ted; Port, David; Schultz,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/417.",
+   "hops" : [
+      {
+         "from" : "richard.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "richard.lewis@enron.com\r\n",
+         "to" : "greg.whalley@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 35,
+         "rawfrom" : "Greg Whalley\n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 44,
+         "rawfrom" : "     Richard Lewis/LON/ECT\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 79,
+         "rawfrom" : "Richard Lewis/LON/ECT on 07/12/2000 \n",
+         "to" : "John S"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/42.",
+   "hops" : [
+      {
+         "from" : "herbert_molina@juno.com",
+         "line" : 4,
+         "rawfrom" : "herbert_molina@juno.com\r\n",
+         "to" : "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from" : "postoffice@staff.juno.com",
+         "line" : 24,
+         "rawfrom" : "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "to" : "herbert_molina@juno.com"
+      },
+      {
+         "from" : "ken_rice@enron.com",
+         "line" : 38,
+         "rawfrom" : "ken_rice@enron.com",
+         "to" : "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from" : "mike.mcconnel@enron.com",
+         "line" : 41,
+         "rawfrom" : "mike.mcconnel@enron.com",
+         "to" : "<ken_rice@enron.com>"
+      },
+      {
+         "from" : "herbert_molina@juno.com",
+         "line" : 51,
+         "rawfrom" : "herbert_molina@juno.com",
+         "to" : "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/589.",
+   "hops" : [
+      {
+         "from" : "eric.thode@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.thode@enron.com\r\n",
+         "to" : "mark.frevert@enron.com, greg.whalley@enron.com, mike.mcconnell@enron.com,"
+      },
+      {
+         "from" : "ethode@enron.com",
+         "line" : 32,
+         "rawfrom" : "Eric Thode/Corp/Enron on 11/22/2000 02:41 \n",
+         "to" : "Mark Palmer/Corp/Enron@ENRON, Eric Thode/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "carla.galvan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Carla Galvan/ENRON_DEVELOPMENT on \n",
+         "to" : "John Ambler/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "charles.e.cheek@enron.com",
+         "line" : 60,
+         "rawfrom" : "Charles Cheek@ENRON on 11/20/2000 05:41 PM\n",
+         "to" : "Dennis Vegas/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "charles.e.cheek@enron.com",
+         "line" : 71,
+         "rawfrom" : "Charles Cheek/Corp/Enron on 11/20/2000 05:40 PM -----\n",
+         "to" : "Charles Cheek/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/670.",
+   "hops" : [
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 4,
+         "rawfrom" : "d'arcy.carroll@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 33,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 11/15/2000 \n",
+         "to" : "Joe Kishkill/SA/Enron@Enron"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 126,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 11/07/2000 \n",
+         "to" : "Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joao"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 175,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 10/25/2000 \n",
+         "to" : "Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 205,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 10/18/2000 \n",
+         "to" : "Keith Miceli/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/688.",
+   "hops" : [
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 4,
+         "rawfrom" : "louise.kitchen@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 47,
+         "rawfrom" : "Louise Kitchen\n",
+         "to" : "Jonathan Whitehead/AP/Enron@ENRON"
+      },
+      {
+         "from" : "debora.whitehead@enron.com",
+         "line" : 65,
+         "rawfrom" : "Whitehead@ENRON",
+         "to" : "Morten E Pettersen/AP/Enron@Enron, Joseph P Hirl/AP/ENRON@ENRON, Anthony"
+      },
+      {
+         "from" : "jonathan.whitehead@enron.com",
+         "line" : 83,
+         "rawfrom" : "Jonathan Whitehead/AP/Enron on 11/14/2000 07:31 AM -----\n",
+         "to" : "Atkins@aronsonpartners.com, Fitzgerald@aronsonpartners.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/736.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 26,
+         "rawfrom" : "bnimocks@zeusdevelopment.com",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 39,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 60,
+         "rawfrom" : "bnimocks@zeusdevelopment.com",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/739.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "jetchart@tavaero.com"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 31,
+         "rawfrom" : "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 39,
+         "rawfrom" : "<Greg.Whalley@enron.com>\n",
+         "to" : "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 56,
+         "rawfrom" : "JETCHART@TAVAERO.COM",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/740.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "jetchart@tavaero.com"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 29,
+         "rawfrom" : "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 37,
+         "rawfrom" : "<Greg.Whalley@enron.com>\n",
+         "to" : "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 54,
+         "rawfrom" : "JETCHART@TAVAERO.COM",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/773.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:11 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/774.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:08 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/775.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.palmer@enron.com, steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 09:28 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/780.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 29,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 88,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 107,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 118,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 139,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 155,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/784.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 30,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 89,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 108,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 119,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 140,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 156,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/790.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 30,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 41,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 62,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 78,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/883.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "pam.benson@enron.com"
+      },
+      {
+         "from" : "pam.benson@enron.com",
+         "line" : 29,
+         "rawfrom" : "Pam Benson@ENRON_DEVELOPMENT\n",
+         "to" : "Greg Whalley@ECT, Liz M Taylor@ECT"
+      },
+      {
+         "from" : "jsuttonventures@myarc.com",
+         "line" : 44,
+         "rawfrom" : "Joseph W Sutton\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "whalley@enron.com",
+         "line" : 57,
+         "rawfrom" : "Whalley@ECT",
+         "to" : "Joseph W Sutton@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/all_documents/928.",
+   "hops" : [
+      {
+         "from" : "mark.frevert@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.frevert@enron.com\r\n",
+         "to" : "greg.whalley@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 24,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 45,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 53,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 60,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/connect_deletes/182.",
+   "hops" : [
+      {
+         "from" : "herbert_molina@juno.com",
+         "line" : 4,
+         "rawfrom" : "herbert_molina@juno.com\r\n",
+         "to" : "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from" : "postoffice@staff.juno.com",
+         "line" : 24,
+         "rawfrom" : "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "to" : "herbert_molina@juno.com"
+      },
+      {
+         "from" : "ken_rice@enron.com",
+         "line" : 38,
+         "rawfrom" : "ken_rice@enron.com",
+         "to" : "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from" : "mike.mcconnel@enron.com",
+         "line" : 41,
+         "rawfrom" : "mike.mcconnel@enron.com",
+         "to" : "<ken_rice@enron.com>"
+      },
+      {
+         "from" : "herbert_molina@juno.com",
+         "line" : 51,
+         "rawfrom" : "herbert_molina@juno.com",
+         "to" : "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/connect_deletes/19.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "greg.whalley@enron.com, john.lavorato@enron.com, janet.dietrich@enron.com,"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 24,
+         "rawfrom" : "David W Delainey/HOU/EES on 05/17/2001 \n",
+         "to" : "David W Delainey/HOU/EES@EES"
+      },
+      {
+         "from" : "ken_rice@enron.net",
+         "line" : 39,
+         "rawfrom" : "Ken Rice/Enron Communications on 05/16/01 09:26 AM -----\n",
+         "to" : "RMSherrill@duke-energy.com, lance_riley@anadarko.com, Ken Rice/Enron"
+      },
+      {
+         "from" : "bsbprkns@jump.net",
+         "line" : 51,
+         "rawfrom" : "Bob and Sharyn Perkins [mailto:bsbprkns@jump.net]\n",
+         "to" : "Undisclosed-Recipient:;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/1094.",
+   "hops" : [
+      {
+         "from" : "jeffrey.mcmahon@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.mcmahon@enron.com\r\n",
+         "to" : "mark.frevert@enron.com, greg.whalley@enron.com"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 26,
+         "rawfrom" : " Garner, Bruce =20\r\n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 38,
+         "rawfrom" : "Bruce Garner/LON/ECT on 11/05/2001 14:2=\r\n",
+         "to" : "Bruce Garner/LON/ECT@ECT, Greg Hermans/Enron@EnronXGate, Kevin=20"
+      },
+      {
+         "from" : "jason.seigal@enron.com",
+         "line" : 52,
+         "rawfrom" : "Jason Seigal/LON/ECT on 11/05/2001 09:2=\r\n",
+         "to" : "Jason Seigal/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/1214.",
+   "hops" : [
+      {
+         "from" : "michael.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.brown@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 27,
+         "rawfrom" : " Lewis, Richard  \n",
+         "to" : "Brown, Michael"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 37,
+         "rawfrom" : "Richard Lewis/LON/ECT on 23/05/2001 08:45 \n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "chris.thrall@enron.com",
+         "line" : 93,
+         "rawfrom" : "Chris Thrall/LON/ECT on 22/05/2001 17:22 \n",
+         "to" : "Mark Dobler/HOU/EES@EES"
+      },
+      {
+         "from" : "mark.dobler@enron.com",
+         "line" : 122,
+         "rawfrom" : " Mark Dobler @ EES                           \n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/1279.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "kenneth.lay@enron.com"
+      },
+      {
+         "from" : "rex_shelby@enron.net",
+         "line" : 34,
+         "rawfrom" : " Shelby, Rex  \n",
+         "to" : "Piper, Greg"
+      },
+      {
+         "from" : "litebulb@amelectric.com",
+         "line" : 43,
+         "rawfrom" : " Greg_Brady@i2.com@ENRON \n",
+         "to" : "Shelby, Rex"
+      },
+      {
+         "from" : "rex.shelby@enron.com",
+         "line" : 62,
+         "rawfrom" : "\"Shelby, Rex\" <Rex.Shelby@ENRON.com> on 05/15/2001 07:20:21 AM\n",
+         "to" : "<greg_brady@i2.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/1378.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.frevert@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 34,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 49,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/1385.",
+   "hops" : [
+      {
+         "from" : "mark.frevert@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.frevert@enron.com\r\n",
+         "to" : "greg.whalley@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 24,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 45,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 53,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 60,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/1411.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "rebecca.mcdonald@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 39,
+         "rawfrom" : "David W Delainey/HOU/ECT on 11/30/2000 \n",
+         "to" : "David W Delainey@ECT"
+      },
+      {
+         "from" : "rebecca_mcdonald@enronxgate.enron.enron.net",
+         "line" : 63,
+         "rawfrom" : "Rebecca McDonald/ENRON_DEVELOPMENT on \n",
+         "to" : "Rebecca McDonald/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 152,
+         "rawfrom" : "Peter E Weidler/NA/Enron on 11/29/2000 \n",
+         "to" : "James M Bannantine/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joe"
+      },
+      {
+         "from" : "brett_r_wiggs@enron.com",
+         "line" : 167,
+         "rawfrom" : "Brett R Wiggs/SA/Enron on 11/28/2000 \n",
+         "to" : "Miguel Padron/SA/Enron@Enron, Brett R Wiggs/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/210.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "greg.whalley@enron.com, john.lavorato@enron.com, janet.dietrich@enron.com,"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 24,
+         "rawfrom" : "David W Delainey/HOU/EES on 05/17/2001 \n",
+         "to" : "David W Delainey/HOU/EES@EES"
+      },
+      {
+         "from" : "ken_rice@enron.net",
+         "line" : 39,
+         "rawfrom" : "Ken Rice/Enron Communications on 05/16/01 09:26 AM -----\n",
+         "to" : "RMSherrill@duke-energy.com, lance_riley@anadarko.com, Ken Rice/Enron"
+      },
+      {
+         "from" : "bsbprkns@jump.net",
+         "line" : 51,
+         "rawfrom" : "Bob and Sharyn Perkins [mailto:bsbprkns@jump.net]\n",
+         "to" : "Undisclosed-Recipient:;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/324.",
+   "hops" : [
+      {
+         "from" : "jeffrey.shankman@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.shankman@enron.com\r\n",
+         "to" : "john.nowlan@enron.com, brent.price@enron.com, greg.whalley@enron.com,"
+      },
+      {
+         "from" : "jennifer.burns@enron.com",
+         "line" : 23,
+         "rawfrom" : " Burns, Jennifer  \n",
+         "to" : "Shankman, Jeffrey A."
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 31,
+         "rawfrom" : " Abel, Chris  \n",
+         "to" : "Burns, Jennifer"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 46,
+         "rawfrom" : "Chris Abel/HOU/ECT on 06/21/2001 09:25 AM -----\n",
+         "to" : "Chris Abel/HOU/ECT@ECT <mailto:Abel/HOU/ECT@ECT>,"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 75,
+         "rawfrom" : " Abel, Chris  \n",
+         "to" : "Buy, Rick; Nowlan Jr., John L.; Murphy, Ted; Port, David; Schultz,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/415.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.palmer@enron.com, steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 09:28 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/416.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:08 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/417.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:11 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/43.",
+   "hops" : [
+      {
+         "from" : "herbert_molina@juno.com",
+         "line" : 4,
+         "rawfrom" : "herbert_molina@juno.com\r\n",
+         "to" : "ken_rice@enron.net, mike.mcconnel@enron.net"
+      },
+      {
+         "from" : "postoffice@staff.juno.com",
+         "line" : 24,
+         "rawfrom" : "Mail Delivery Subsystem <postoffice@staff.juno.com>\n",
+         "to" : "herbert_molina@juno.com"
+      },
+      {
+         "from" : "ken_rice@enron.com",
+         "line" : 38,
+         "rawfrom" : "ken_rice@enron.com",
+         "to" : "<mike.mcconnel@enron.com>"
+      },
+      {
+         "from" : "mike.mcconnel@enron.com",
+         "line" : 41,
+         "rawfrom" : "mike.mcconnel@enron.com",
+         "to" : "<ken_rice@enron.com>"
+      },
+      {
+         "from" : "herbert_molina@juno.com",
+         "line" : 51,
+         "rawfrom" : "herbert_molina@juno.com",
+         "to" : "ken_rice@enron.com, Jeff.skilling@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/507.",
+   "hops" : [
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 4,
+         "rawfrom" : "d'arcy.carroll@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 33,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 11/15/2000 \n",
+         "to" : "Joe Kishkill/SA/Enron@Enron"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 126,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 11/07/2000 \n",
+         "to" : "Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joao"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 175,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 10/25/2000 \n",
+         "to" : "Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 205,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 10/18/2000 \n",
+         "to" : "Keith Miceli/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/583.",
+   "hops" : [
+      {
+         "from" : "eric.thode@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.thode@enron.com\r\n",
+         "to" : "mark.frevert@enron.com, greg.whalley@enron.com, mike.mcconnell@enron.com,"
+      },
+      {
+         "from" : "ethode@enron.com",
+         "line" : 32,
+         "rawfrom" : "Eric Thode/Corp/Enron on 11/22/2000 02:41 \n",
+         "to" : "Mark Palmer/Corp/Enron@ENRON, Eric Thode/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "carla.galvan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Carla Galvan/ENRON_DEVELOPMENT on \n",
+         "to" : "John Ambler/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "charles.e.cheek@enron.com",
+         "line" : 60,
+         "rawfrom" : "Charles Cheek@ENRON on 11/20/2000 05:41 PM\n",
+         "to" : "Dennis Vegas/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "charles.e.cheek@enron.com",
+         "line" : 71,
+         "rawfrom" : "Charles Cheek/Corp/Enron on 11/20/2000 05:40 PM -----\n",
+         "to" : "Charles Cheek/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/discussion_threads/740.",
+   "hops" : [
+      {
+         "from" : "richard.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "richard.lewis@enron.com\r\n",
+         "to" : "greg.whalley@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 35,
+         "rawfrom" : "Greg Whalley\n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 44,
+         "rawfrom" : "     Richard Lewis/LON/ECT\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 79,
+         "rawfrom" : "Richard Lewis/LON/ECT on 07/12/2000 \n",
+         "to" : "John S"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/141.",
+   "hops" : [
+      {
+         "from" : "richard.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "richard.lewis@enron.com\r\n",
+         "to" : "greg.whalley@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 35,
+         "rawfrom" : "Greg Whalley\n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 44,
+         "rawfrom" : "     Richard Lewis/LON/ECT\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 79,
+         "rawfrom" : "Richard Lewis/LON/ECT on 07/12/2000 \n",
+         "to" : "John S"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/18.",
+   "hops" : [
+      {
+         "from" : "jeffrey.shankman@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.shankman@enron.com\r\n",
+         "to" : "john.nowlan@enron.com, brent.price@enron.com, greg.whalley@enron.com,"
+      },
+      {
+         "from" : "jennifer.burns@enron.com",
+         "line" : 23,
+         "rawfrom" : " Burns, Jennifer  \n",
+         "to" : "Shankman, Jeffrey A."
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 31,
+         "rawfrom" : " Abel, Chris  \n",
+         "to" : "Burns, Jennifer"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 46,
+         "rawfrom" : "Chris Abel/HOU/ECT on 06/21/2001 09:25 AM -----\n",
+         "to" : "Chris Abel/HOU/ECT@ECT <mailto:Abel/HOU/ECT@ECT>,"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 75,
+         "rawfrom" : " Abel, Chris  \n",
+         "to" : "Buy, Rick; Nowlan Jr., John L.; Murphy, Ted; Port, David; Schultz,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/248.",
+   "hops" : [
+      {
+         "from" : "eric.thode@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.thode@enron.com\r\n",
+         "to" : "mark.frevert@enron.com, greg.whalley@enron.com, mike.mcconnell@enron.com,"
+      },
+      {
+         "from" : "ethode@enron.com",
+         "line" : 32,
+         "rawfrom" : "Eric Thode/Corp/Enron on 11/22/2000 02:41 \n",
+         "to" : "Mark Palmer/Corp/Enron@ENRON, Eric Thode/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "carla.galvan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Carla Galvan/ENRON_DEVELOPMENT on \n",
+         "to" : "John Ambler/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "charles.e.cheek@enron.com",
+         "line" : 60,
+         "rawfrom" : "Charles Cheek@ENRON on 11/20/2000 05:41 PM\n",
+         "to" : "Dennis Vegas/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "charles.e.cheek@enron.com",
+         "line" : 71,
+         "rawfrom" : "Charles Cheek/Corp/Enron on 11/20/2000 05:40 PM -----\n",
+         "to" : "Charles Cheek/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/327.",
+   "hops" : [
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 4,
+         "rawfrom" : "d'arcy.carroll@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 33,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 11/15/2000 \n",
+         "to" : "Joe Kishkill/SA/Enron@Enron"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 126,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 11/07/2000 \n",
+         "to" : "Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joao"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 175,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 10/25/2000 \n",
+         "to" : "Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "d@simmaxenergy.com",
+         "line" : 205,
+         "rawfrom" : "D'Arcy Carroll/SA/Enron on 10/18/2000 \n",
+         "to" : "Keith Miceli/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/344.",
+   "hops" : [
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 4,
+         "rawfrom" : "louise.kitchen@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 47,
+         "rawfrom" : "Louise Kitchen\n",
+         "to" : "Jonathan Whitehead/AP/Enron@ENRON"
+      },
+      {
+         "from" : "debora.whitehead@enron.com",
+         "line" : 65,
+         "rawfrom" : "Whitehead@ENRON",
+         "to" : "Morten E Pettersen/AP/Enron@Enron, Joseph P Hirl/AP/ENRON@ENRON, Anthony"
+      },
+      {
+         "from" : "jonathan.whitehead@enron.com",
+         "line" : 83,
+         "rawfrom" : "Jonathan Whitehead/AP/Enron on 11/14/2000 07:31 AM -----\n",
+         "to" : "Atkins@aronsonpartners.com, Fitzgerald@aronsonpartners.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/407.",
+   "hops" : [
+      {
+         "from" : "mark.frevert@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.frevert@enron.com\r\n",
+         "to" : "greg.whalley@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 24,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 45,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 53,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 60,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/497.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "kenneth.lay@enron.com"
+      },
+      {
+         "from" : "rex_shelby@enron.net",
+         "line" : 34,
+         "rawfrom" : " Shelby, Rex  \n",
+         "to" : "Piper, Greg"
+      },
+      {
+         "from" : "litebulb@amelectric.com",
+         "line" : 43,
+         "rawfrom" : " Greg_Brady@i2.com@ENRON \n",
+         "to" : "Shelby, Rex"
+      },
+      {
+         "from" : "rex.shelby@enron.com",
+         "line" : 62,
+         "rawfrom" : "\"Shelby, Rex\" <Rex.Shelby@ENRON.com> on 05/15/2001 07:20:21 AM\n",
+         "to" : "<greg_brady@i2.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/561.",
+   "hops" : [
+      {
+         "from" : "michael.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.brown@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 27,
+         "rawfrom" : " Lewis, Richard  \n",
+         "to" : "Brown, Michael"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 37,
+         "rawfrom" : "Richard Lewis/LON/ECT on 23/05/2001 08:45 \n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "chris.thrall@enron.com",
+         "line" : 93,
+         "rawfrom" : "Chris Thrall/LON/ECT on 22/05/2001 17:22 \n",
+         "to" : "Mark Dobler/HOU/EES@EES"
+      },
+      {
+         "from" : "mark.dobler@enron.com",
+         "line" : 122,
+         "rawfrom" : " Mark Dobler @ EES                           \n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/645.",
+   "hops" : [
+      {
+         "from" : "jeffrey.mcmahon@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.mcmahon@enron.com\r\n",
+         "to" : "mark.frevert@enron.com, greg.whalley@enron.com"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 26,
+         "rawfrom" : " Garner, Bruce =20\r\n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 38,
+         "rawfrom" : "Bruce Garner/LON/ECT on 11/05/2001 14:2=\r\n",
+         "to" : "Bruce Garner/LON/ECT@ECT, Greg Hermans/Enron@EnronXGate, Kevin=20"
+      },
+      {
+         "from" : "jason.seigal@enron.com",
+         "line" : 52,
+         "rawfrom" : "Jason Seigal/LON/ECT on 11/05/2001 09:2=\r\n",
+         "to" : "Jason Seigal/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/notes_inbox/685.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "rebecca.mcdonald@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 39,
+         "rawfrom" : "David W Delainey/HOU/ECT on 11/30/2000 \n",
+         "to" : "David W Delainey@ECT"
+      },
+      {
+         "from" : "rebecca_mcdonald@enronxgate.enron.enron.net",
+         "line" : 63,
+         "rawfrom" : "Rebecca McDonald/ENRON_DEVELOPMENT on \n",
+         "to" : "Rebecca McDonald/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 152,
+         "rawfrom" : "Peter E Weidler/NA/Enron on 11/29/2000 \n",
+         "to" : "James M Bannantine/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joe"
+      },
+      {
+         "from" : "brett_r_wiggs@enron.com",
+         "line" : 167,
+         "rawfrom" : "Brett R Wiggs/SA/Enron on 11/28/2000 \n",
+         "to" : "Miguel Padron/SA/Enron@Enron, Brett R Wiggs/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/147.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "pam.benson@enron.com"
+      },
+      {
+         "from" : "pam.benson@enron.com",
+         "line" : 29,
+         "rawfrom" : "Pam Benson@ENRON_DEVELOPMENT\n",
+         "to" : "Greg Whalley@ECT, Liz M Taylor@ECT"
+      },
+      {
+         "from" : "jsuttonventures@myarc.com",
+         "line" : 44,
+         "rawfrom" : "Joseph W Sutton\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "whalley@enron.com",
+         "line" : 57,
+         "rawfrom" : "Whalley@ECT",
+         "to" : "Joseph W Sutton@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/219.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "christie.patrick@enron.com"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 27,
+         "rawfrom" : "Christie Patrick on 03/15/2001 04:20 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 50,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/15/2001 04:12 PM -----\n",
+         "to" : "<Christie.Patrick@enron.com>"
+      },
+      {
+         "from" : "christie.patrick@enron.com",
+         "line" : 85,
+         "rawfrom" : "<Christie.Patrick@enron.com>\n",
+         "to" : "<haimmendelson@home.com>"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 104,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/15/2001 07:28 AM -----\n",
+         "to" : ""
+      },
+      {
+         "from" : "christie.patrick@enron.com",
+         "line" : 149,
+         "rawfrom" : "<Christie.Patrick@enron.com>\n",
+         "to" : "<haimmendelson@home.com>"
+      },
+      {
+         "from" : "christie_patrick@enron.com",
+         "line" : 172,
+         "rawfrom" : "Christie Patrick/HOU/ECT on 03/14/2001 06:47 PM -----\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/250.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "khoskins@dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 27,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 12:00:24 PM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "khoskins@Dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 68,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 83,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "Hoskins, Kenneth"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 99,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "to" : "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/251.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "khoskins@dlj.com"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 36,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 11:02:55 AM\n",
+         "to" : "\"'Greg.Whalley@enron.com'\" <Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Greg.Whalley@enron.com [mailto:Greg.Whalley@enron.com]\n",
+         "to" : "Hoskins, Kenneth"
+      },
+      {
+         "from" : "khoskins@dlj.com",
+         "line" : 67,
+         "rawfrom" : "\"Hoskins, Kenneth\" <khoskins@dlj.com> on 01/29/2001 10:11:18 AM\n",
+         "to" : "\"'whalley@enron.com'\" <whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/28.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.frevert@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 34,
+         "rawfrom" : "Mark Frevert/ENRON@enronXgate on 06/06/2001 03:17 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 42,
+         "rawfrom" : " Whalley, Greg  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "kevin.garland@enron.com",
+         "line" : 49,
+         "rawfrom" : "Kevin Garland/ENRON@enronXgate on 06/03/2001 11:08 PM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/65.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 26,
+         "rawfrom" : "bnimocks@zeusdevelopment.com",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 39,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 60,
+         "rawfrom" : "bnimocks@zeusdevelopment.com",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/67.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "jetchart@tavaero.com"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 31,
+         "rawfrom" : "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 39,
+         "rawfrom" : "<Greg.Whalley@enron.com>\n",
+         "to" : "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 56,
+         "rawfrom" : "JETCHART@TAVAERO.COM",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/68.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "jetchart@tavaero.com"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 29,
+         "rawfrom" : "\"MARCELA WHITE\" <JETCHART@TAVAERO.COM> on 10/09/2000 04:16:33 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 37,
+         "rawfrom" : "<Greg.Whalley@enron.com>\n",
+         "to" : "<JETCHART@TAVAERO.COM>"
+      },
+      {
+         "from" : "jetchart@tavaero.com",
+         "line" : 54,
+         "rawfrom" : "JETCHART@TAVAERO.COM",
+         "to" : "<Greg.Whalley@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/74.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:11 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/75.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 10:08 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/76.",
+   "hops" : [
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.whalley@enron.com\r\n",
+         "to" : "mark.palmer@enron.com, steve.kean@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 23,
+         "rawfrom" : "Greg Whalley/HOU/ECT on 09/13/2000 09:28 \n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 31,
+         "rawfrom" : "Bob Shults@ECT on 09/13/2000 09:03 AM\n",
+         "to" : "Andy Zipper/Corp/Enron@Enron, Louise Kitchen"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 49,
+         "rawfrom" : " Rahil Jafry                                                            \n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Daniel Diamond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/81.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 29,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 88,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 107,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 118,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 139,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 155,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/85.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 30,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/23/2000 09:05:45 AM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 89,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 108,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 119,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 140,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 156,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whalley-l/sent/89.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 30,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 04:31:21 PM\n",
+         "to" : "<Greg.Whalley@enron.com>"
+      },
+      {
+         "from" : "liz.m.taylor@enron.com",
+         "line" : 41,
+         "rawfrom" : "Liz.M.Taylor@enron.com [mailto:Liz.M.Taylor@enron.com]On Behalf Of\n",
+         "to" : "bnimocks@zeusdevelopment.com"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 62,
+         "rawfrom" : "\"Bob Nimocks\" <bnimocks@zeusdevelopment.com> on 08/22/2000 11:18:54 AM\n",
+         "to" : "<whalley@enron.com>"
+      },
+      {
+         "from" : "bnimocks@zeusdevelopment.com",
+         "line" : 78,
+         "rawfrom" : "Bob Nimocks [mailto:bnimocks@zeusdevelopment.com]\n",
+         "to" : "whalley@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+]

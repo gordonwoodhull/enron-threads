@@ -1,0 +1,2548 @@
+[
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/166.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 32,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "rhaygood@darbylaw.com; jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 42,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001\n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 54,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 62,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 70,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/167.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "rhaygood@darbylaw.com, jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 34,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 42,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 50,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/24.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/07/2000 \n",
+         "to" : "Suzanne Christiansen/HOU/ECT@ECT, Tori Kuykendall/HOU/ECT@ECT, Kimberly S"
+      },
+      {
+         "from" : "randall.l.gay@enron.com",
+         "line" : 34,
+         "rawfrom" : "Randall L Gay/HOU/ECT on 11/07/2000 01:24 \n",
+         "to" : "randall.l.gay@enron.com"
+      },
+      {
+         "from" : "rick_gay@msn.com",
+         "line" : 42,
+         "rawfrom" : "\"Rick Gay\" <rick_gay@msn.com>\n",
+         "to" : "\"Bryant Johnson\" <brjohns@freewwweb.com>, \"Bill Biehl\""
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/26.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/01/2000 \n",
+         "to" : "Tori Kuykendall/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 36,
+         "rawfrom" : " George Smith                           11/01/2000 11:23 AM\n",
+         "to" : "Randall L Gay/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 47,
+         "rawfrom" : "George Smith/HOU/ECT on 11/01/2000 11:22 \n",
+         "to" : "Mark L Schrab/HOU/ECT@ECT, George Smith/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "dolores.muzzy@enron.com",
+         "line" : 61,
+         "rawfrom" : " Dolores Muzzy                           11/01/2000 09:54 AM\n",
+         "to" : "Charles T Muzzy/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/29.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "randall.gay@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 10/31/2000 \n",
+         "to" : "\"'lisa.walters@mail.state.ky.us'\" <lisa.walters@mail.state.ky.us>,"
+      },
+      {
+         "from" : "hnshowley@ameritech.net",
+         "line" : 44,
+         "rawfrom" : "Holly Showley [SMTP:hnshowley@ameritech.net]\n",
+         "to" : "Bobby; DOUG MOORE; Jessie; >; John Perdew; NANCY ROCKHILL"
+      },
+      {
+         "from" : "johneleisure@hotmail.com",
+         "line" : 52,
+         "rawfrom" : "John Leisure [mailto:johneleisure@hotmail.com]\n",
+         "to" : "Nikkia34@aol.com; auntmaude@webtv.net; lomond@mac.com;"
+      },
+      {
+         "from" : "sbriere@mediaone.net",
+         "line" : 64,
+         "rawfrom" : "\"sbriere\" <sbriere@mediaone.net>\n",
+         "to" : "\"John Leisure\" <johneleisure@hotmail.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/44.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, jennifer_lamprecht@oxy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 33,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 43,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001\n",
+         "to" : "\"Bridget Andriani\" <BANDRIANI@Darbylaw.com>, \"Kathleen Giorgi\""
+      },
+      {
+         "from" : "akratish@gscpartners.com",
+         "line" : 57,
+         "rawfrom" : "\" Kratish, Alison\" <akratish@gscpartners.com>\n",
+         "to" : "\"'rhaygood@darbylaw.com'\" <rhaygood@darbylaw.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/7.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 25,
+         "rawfrom" : " Kenneth Shulklapper                           11/22/2000 10:36 AM\n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Jay Reitmeyer/HOU/ECT@ECT, Tori"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 36,
+         "rawfrom" : "Kenneth Shulklapper/HOU/ECT on 11/22/2000 \n",
+         "to" : "kenneth.shulklapper@enron.com, David.aronica@Sun.COM, kal24@cornell.edu,"
+      },
+      {
+         "from" : "jay.okieffe@xpedior.com",
+         "line" : 46,
+         "rawfrom" : "\"Okieffe, Jay\" <jay.okieffe@xpedior.com>\n",
+         "to" : "\"Biria St.John (E-mail)\" <bstjohn@cbcwhittier.com>, \"Charles Cooper"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/_sent_mail/75.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, rhaygood@darbylaw.com, jennifer_lamprecht@oxy.com,"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 22,
+         "rawfrom" : "Matthew Lenhart on 04/24/2001 09:47 AM\n",
+         "to" : "Timothy Blanchard/HOU/EES@EES, Chad Landry/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 39,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 04/24/2001 \n",
+         "to" : "\"Andrew Clark\" <amc_97@yahoo.com>, \" Andrew Evans\""
+      },
+      {
+         "from" : "cmaley@integerdenver.com",
+         "line" : 79,
+         "rawfrom" : "\"Chris Maley\" <cmaley@integerdenver.com>\n",
+         "to" : "\"ann fisher\" <Annfishernyc@aol.com>,  \"bill maley\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/111.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, rhaygood@darbylaw.com, jennifer_lamprecht@oxy.com,"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 22,
+         "rawfrom" : "Matthew Lenhart on 04/24/2001 09:47 AM\n",
+         "to" : "Timothy Blanchard/HOU/EES@EES, Chad Landry/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 39,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 04/24/2001 \n",
+         "to" : "\"Andrew Clark\" <amc_97@yahoo.com>, \" Andrew Evans\""
+      },
+      {
+         "from" : "cmaley@integerdenver.com",
+         "line" : 79,
+         "rawfrom" : "\"Chris Maley\" <cmaley@integerdenver.com>\n",
+         "to" : "\"ann fisher\" <Annfishernyc@aol.com>,  \"bill maley\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/204.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 32,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "rhaygood@darbylaw.com; jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 42,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001\n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 54,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 62,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 70,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/205.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "rhaygood@darbylaw.com, jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 34,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 42,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 50,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/31.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 25,
+         "rawfrom" : " Kenneth Shulklapper                           11/22/2000 10:36 AM\n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Jay Reitmeyer/HOU/ECT@ECT, Tori"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 36,
+         "rawfrom" : "Kenneth Shulklapper/HOU/ECT on 11/22/2000 \n",
+         "to" : "kenneth.shulklapper@enron.com, David.aronica@Sun.COM, kal24@cornell.edu,"
+      },
+      {
+         "from" : "jay.okieffe@xpedior.com",
+         "line" : 46,
+         "rawfrom" : "\"Okieffe, Jay\" <jay.okieffe@xpedior.com>\n",
+         "to" : "\"Biria St.John (E-mail)\" <bstjohn@cbcwhittier.com>, \"Charles Cooper"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/52.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/07/2000 \n",
+         "to" : "Suzanne Christiansen/HOU/ECT@ECT, Tori Kuykendall/HOU/ECT@ECT, Kimberly S"
+      },
+      {
+         "from" : "randall.l.gay@enron.com",
+         "line" : 34,
+         "rawfrom" : "Randall L Gay/HOU/ECT on 11/07/2000 01:24 \n",
+         "to" : "randall.l.gay@enron.com"
+      },
+      {
+         "from" : "rick_gay@msn.com",
+         "line" : 42,
+         "rawfrom" : "\"Rick Gay\" <rick_gay@msn.com>\n",
+         "to" : "\"Bryant Johnson\" <brjohns@freewwweb.com>, \"Bill Biehl\""
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/54.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/01/2000 \n",
+         "to" : "Tori Kuykendall/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 36,
+         "rawfrom" : " George Smith                           11/01/2000 11:23 AM\n",
+         "to" : "Randall L Gay/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 47,
+         "rawfrom" : "George Smith/HOU/ECT on 11/01/2000 11:22 \n",
+         "to" : "Mark L Schrab/HOU/ECT@ECT, George Smith/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "dolores.muzzy@enron.com",
+         "line" : 61,
+         "rawfrom" : " Dolores Muzzy                           11/01/2000 09:54 AM\n",
+         "to" : "Charles T Muzzy/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/57.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "randall.gay@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 10/31/2000 \n",
+         "to" : "\"'lisa.walters@mail.state.ky.us'\" <lisa.walters@mail.state.ky.us>,"
+      },
+      {
+         "from" : "hnshowley@ameritech.net",
+         "line" : 44,
+         "rawfrom" : "Holly Showley [SMTP:hnshowley@ameritech.net]\n",
+         "to" : "Bobby; DOUG MOORE; Jessie; >; John Perdew; NANCY ROCKHILL"
+      },
+      {
+         "from" : "johneleisure@hotmail.com",
+         "line" : 52,
+         "rawfrom" : "John Leisure [mailto:johneleisure@hotmail.com]\n",
+         "to" : "Nikkia34@aol.com; auntmaude@webtv.net; lomond@mac.com;"
+      },
+      {
+         "from" : "sbriere@mediaone.net",
+         "line" : 64,
+         "rawfrom" : "\"sbriere\" <sbriere@mediaone.net>\n",
+         "to" : "\"John Leisure\" <johneleisure@hotmail.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/76.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "carmen.chavira@enron.com",
+         "line" : 26,
+         "rawfrom" : "Carmen Chavira/ENRON@enronXgate on 05/10/2001 09:28 AM\n",
+         "to" : "Ben Brasseaux/ENRON@enronXgate"
+      },
+      {
+         "from" : "ben.brasseaux@enron.com",
+         "line" : 43,
+         "rawfrom" : " Brasseaux, Ben  \n",
+         "to" : "Chavira, Carmen"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 56,
+         "rawfrom" : " Rangel, Ina  \n",
+         "to" : "Brasseaux, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/all_documents/78.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, jennifer_lamprecht@oxy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 33,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 43,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001\n",
+         "to" : "\"Bridget Andriani\" <BANDRIANI@Darbylaw.com>, \"Kathleen Giorgi\""
+      },
+      {
+         "from" : "akratish@gscpartners.com",
+         "line" : 57,
+         "rawfrom" : "\" Kratish, Alison\" <akratish@gscpartners.com>\n",
+         "to" : "\"'rhaygood@darbylaw.com'\" <rhaygood@darbylaw.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/deleted_items/144.",
+   "hops" : [
+      {
+         "from" : "d.alexander@enron.com",
+         "line" : 4,
+         "rawfrom" : "d.alexander@enron.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/deleted_items/150.",
+   "hops" : [
+      {
+         "from" : "mike.grigsby@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.grigsby@enron.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/deleted_items/60.",
+   "hops" : [
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 4,
+         "rawfrom" : "andrewhescock@hotmail.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 21,
+         "rawfrom" : "\"Kuykendall, Tori\" <TORI.KUYKENDALL@ENRON.COM>\n",
+         "to" : "\"Andrew Hescock\" <ANDREWHESCOCK@HOTMAIL.COM>"
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 32,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "\"kuykendall, tori\"",
+         "line" : 45,
+         "rawfrom" : "\"Kuykendall, Tori\" \n",
+         "to" : "\"andrew\" , \"Cathy Morse\" , \"haylee\" , \"john perdew\" , \"monique\" ,"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 55,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/deleted_items/91.",
+   "hops" : [
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 4,
+         "rawfrom" : "pkuykendall@wm.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 22,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 46,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'Jake Hadix'"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 67,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 81,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'Jake Hadix'"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 93,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 124,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'jhadix@calpine.com'; 'jake.hadix@calpine.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/deleted_items/92.",
+   "hops" : [
+      {
+         "from" : "l..gay@enron.com",
+         "line" : 4,
+         "rawfrom" : "l..gay@enron.com\r\n",
+         "to" : "m..tholt@enron.com, p..south@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from" : "george.f.smith@enron.com",
+         "line" : 23,
+         "rawfrom" : "Smith, George F. \n",
+         "to" : "Gay, Randall L."
+      },
+      {
+         "from" : "james.lessor@enron.com",
+         "line" : 31,
+         "rawfrom" : "Lessor, James N. \n",
+         "to" : "Smith, George F."
+      },
+      {
+         "from" : "mary.lessor@enron.com",
+         "line" : 39,
+         "rawfrom" : "Lessor, Mary \n",
+         "to" : "Lessor, James N."
+      },
+      {
+         "from" : "tania.patel@enron.com",
+         "line" : 47,
+         "rawfrom" : "Patel, Tania \n",
+         "to" : "Acevedo, Felecia; Aguilar, Christa; Aulds, Sharon; Brown, Aaron (Executive Comp); Bryant, Dana; Butler, Pam; Carrera, Susan; Etienne, Bernadette; Garcia, Susan; Ivy, Jason; Lessor, Mary; Ratcliff, Renee; Shealor, Bob; Skarness, Susan; Ward, Cindy R.; Wright, Teresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/12.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "randall.gay@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 10/31/2000 \n",
+         "to" : "\"'lisa.walters@mail.state.ky.us'\" <lisa.walters@mail.state.ky.us>,"
+      },
+      {
+         "from" : "hnshowley@ameritech.net",
+         "line" : 44,
+         "rawfrom" : "Holly Showley [SMTP:hnshowley@ameritech.net]\n",
+         "to" : "Bobby; DOUG MOORE; Jessie; >; John Perdew; NANCY ROCKHILL"
+      },
+      {
+         "from" : "johneleisure@hotmail.com",
+         "line" : 52,
+         "rawfrom" : "John Leisure [mailto:johneleisure@hotmail.com]\n",
+         "to" : "Nikkia34@aol.com; auntmaude@webtv.net; lomond@mac.com;"
+      },
+      {
+         "from" : "sbriere@mediaone.net",
+         "line" : 64,
+         "rawfrom" : "\"sbriere\" <sbriere@mediaone.net>\n",
+         "to" : "\"John Leisure\" <johneleisure@hotmail.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/14.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/01/2000 \n",
+         "to" : "Tori Kuykendall/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 36,
+         "rawfrom" : " George Smith                           11/01/2000 11:23 AM\n",
+         "to" : "Randall L Gay/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 47,
+         "rawfrom" : "George Smith/HOU/ECT on 11/01/2000 11:22 \n",
+         "to" : "Mark L Schrab/HOU/ECT@ECT, George Smith/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "dolores.muzzy@enron.com",
+         "line" : 61,
+         "rawfrom" : " Dolores Muzzy                           11/01/2000 09:54 AM\n",
+         "to" : "Charles T Muzzy/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/140.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, rhaygood@darbylaw.com, jennifer_lamprecht@oxy.com,"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 22,
+         "rawfrom" : "Matthew Lenhart on 04/24/2001 09:47 AM\n",
+         "to" : "Timothy Blanchard/HOU/EES@EES, Chad Landry/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 39,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 04/24/2001 \n",
+         "to" : "\"Andrew Clark\" <amc_97@yahoo.com>, \" Andrew Evans\""
+      },
+      {
+         "from" : "cmaley@integerdenver.com",
+         "line" : 79,
+         "rawfrom" : "\"Chris Maley\" <cmaley@integerdenver.com>\n",
+         "to" : "\"ann fisher\" <Annfishernyc@aol.com>,  \"bill maley\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/15.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/07/2000 \n",
+         "to" : "Suzanne Christiansen/HOU/ECT@ECT, Tori Kuykendall/HOU/ECT@ECT, Kimberly S"
+      },
+      {
+         "from" : "randall.l.gay@enron.com",
+         "line" : 34,
+         "rawfrom" : "Randall L Gay/HOU/ECT on 11/07/2000 01:24 \n",
+         "to" : "randall.l.gay@enron.com"
+      },
+      {
+         "from" : "rick_gay@msn.com",
+         "line" : 42,
+         "rawfrom" : "\"Rick Gay\" <rick_gay@msn.com>\n",
+         "to" : "\"Bryant Johnson\" <brjohns@freewwweb.com>, \"Bill Biehl\""
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/158.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, jennifer_lamprecht@oxy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 33,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 43,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001\n",
+         "to" : "\"Bridget Andriani\" <BANDRIANI@Darbylaw.com>, \"Kathleen Giorgi\""
+      },
+      {
+         "from" : "akratish@gscpartners.com",
+         "line" : 57,
+         "rawfrom" : "\" Kratish, Alison\" <akratish@gscpartners.com>\n",
+         "to" : "\"'rhaygood@darbylaw.com'\" <rhaygood@darbylaw.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/160.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "carmen.chavira@enron.com",
+         "line" : 26,
+         "rawfrom" : "Carmen Chavira/ENRON@enronXgate on 05/10/2001 09:28 AM\n",
+         "to" : "Ben Brasseaux/ENRON@enronXgate"
+      },
+      {
+         "from" : "ben.brasseaux@enron.com",
+         "line" : 43,
+         "rawfrom" : " Brasseaux, Ben  \n",
+         "to" : "Chavira, Carmen"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 56,
+         "rawfrom" : " Rangel, Ina  \n",
+         "to" : "Brasseaux, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/30.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 25,
+         "rawfrom" : " Kenneth Shulklapper                           11/22/2000 10:36 AM\n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Jay Reitmeyer/HOU/ECT@ECT, Tori"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 36,
+         "rawfrom" : "Kenneth Shulklapper/HOU/ECT on 11/22/2000 \n",
+         "to" : "kenneth.shulklapper@enron.com, David.aronica@Sun.COM, kal24@cornell.edu,"
+      },
+      {
+         "from" : "jay.okieffe@xpedior.com",
+         "line" : 46,
+         "rawfrom" : "\"Okieffe, Jay\" <jay.okieffe@xpedior.com>\n",
+         "to" : "\"Biria St.John (E-mail)\" <bstjohn@cbcwhittier.com>, \"Charles Cooper"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/90.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "rhaygood@darbylaw.com, jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 34,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 42,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 50,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/discussion_threads/91.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 32,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "rhaygood@darbylaw.com; jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 42,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001\n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 54,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 62,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 70,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/inbox/37.",
+   "hops" : [
+      {
+         "from" : "chris.walker@enron.com",
+         "line" : 4,
+         "rawfrom" : "chris.walker@enron.com\r\n",
+         "to" : "anne.bike@enron.com, tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Walker, Chris"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Lozano, Melba"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Clause, Kristen; Bike, Anne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/inbox/81.",
+   "hops" : [
+      {
+         "from" : "moshuffle@hotmail.com",
+         "line" : 4,
+         "rawfrom" : "moshuffle@hotmail.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "\"Kuykendall, Tori\" <Tori.Kuykendall@ENRON.com>\n",
+         "to" : "<moshuffle@hotmail.com>"
+      },
+      {
+         "from" : "susan_m_scott@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "\tScott, Susan M.\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "moshuffle@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "\t\"Monique Sanchez\" <moshuffle@hotmail.com>@ENRON\n",
+         "to" : "emharris@dow.com; jake_scarbrough@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/notes_inbox/28.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "tori.kuykendall@enron.com"
+      },
+      {
+         "from" : "carmen.chavira@enron.com",
+         "line" : 26,
+         "rawfrom" : "Carmen Chavira/ENRON@enronXgate on 05/10/2001 09:28 AM\n",
+         "to" : "Ben Brasseaux/ENRON@enronXgate"
+      },
+      {
+         "from" : "ben.brasseaux@enron.com",
+         "line" : 43,
+         "rawfrom" : " Brasseaux, Ben  \n",
+         "to" : "Chavira, Carmen"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 56,
+         "rawfrom" : " Rangel, Ina  \n",
+         "to" : "Brasseaux, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/166.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "matthew.lenhart@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 32,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "rhaygood@darbylaw.com; jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 42,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001\n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 54,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 62,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 70,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/167.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "rhaygood@darbylaw.com, jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 01/11/2001 \n",
+         "to" : "CandMserv@aol.com, ELamprecht@encompserv.com, Chis.Gales@Compaq.com,"
+      },
+      {
+         "from" : "jim_lipka@oxy.com",
+         "line" : 34,
+         "rawfrom" : "Lipka, Jim\n",
+         "to" : "Carsten, Kim; Wilkinson, Gordon; Lamprecht, Jennifer"
+      },
+      {
+         "from" : "dhartwick@mindspring.com",
+         "line" : 42,
+         "rawfrom" : "DAN HARTWICK [mailto:dhartwick@mindspring.com]\n",
+         "to" : "Tim Shea Wadkins; SHAWN; Ruth D Motes; RICHARD KUJAY;"
+      },
+      {
+         "from" : "rperrine@one-eleven.net",
+         "line" : 50,
+         "rawfrom" : "Russell  <mailto:rperrine@one-eleven.net> Perrine\n",
+         "to" : "Travis Wilson <mailto:twilson@arthur.k12.il.us>  ; TIM STEFANIAK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/24.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/07/2000 \n",
+         "to" : "Suzanne Christiansen/HOU/ECT@ECT, Tori Kuykendall/HOU/ECT@ECT, Kimberly S"
+      },
+      {
+         "from" : "randall.l.gay@enron.com",
+         "line" : 34,
+         "rawfrom" : "Randall L Gay/HOU/ECT on 11/07/2000 01:24 \n",
+         "to" : "randall.l.gay@enron.com"
+      },
+      {
+         "from" : "rick_gay@msn.com",
+         "line" : 42,
+         "rawfrom" : "\"Rick Gay\" <rick_gay@msn.com>\n",
+         "to" : "\"Bryant Johnson\" <brjohns@freewwweb.com>, \"Bill Biehl\""
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/26.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 11/01/2000 \n",
+         "to" : "Tori Kuykendall/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 36,
+         "rawfrom" : " George Smith                           11/01/2000 11:23 AM\n",
+         "to" : "Randall L Gay/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.smith@enron.com",
+         "line" : 47,
+         "rawfrom" : "George Smith/HOU/ECT on 11/01/2000 11:22 \n",
+         "to" : "Mark L Schrab/HOU/ECT@ECT, George Smith/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "dolores.muzzy@enron.com",
+         "line" : 61,
+         "rawfrom" : " Dolores Muzzy                           11/01/2000 09:54 AM\n",
+         "to" : "Charles T Muzzy/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/29.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "randall.gay@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 10/31/2000 \n",
+         "to" : "\"'lisa.walters@mail.state.ky.us'\" <lisa.walters@mail.state.ky.us>,"
+      },
+      {
+         "from" : "hnshowley@ameritech.net",
+         "line" : 44,
+         "rawfrom" : "Holly Showley [SMTP:hnshowley@ameritech.net]\n",
+         "to" : "Bobby; DOUG MOORE; Jessie; >; John Perdew; NANCY ROCKHILL"
+      },
+      {
+         "from" : "johneleisure@hotmail.com",
+         "line" : 52,
+         "rawfrom" : "John Leisure [mailto:johneleisure@hotmail.com]\n",
+         "to" : "Nikkia34@aol.com; auntmaude@webtv.net; lomond@mac.com;"
+      },
+      {
+         "from" : "sbriere@mediaone.net",
+         "line" : 64,
+         "rawfrom" : "\"sbriere\" <sbriere@mediaone.net>\n",
+         "to" : "\"John Leisure\" <johneleisure@hotmail.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/44.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, jennifer_lamprecht@oxy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001 \n",
+         "to" : "\"'Tori.Kuykendall@enron.com'\" <Tori.Kuykendall@enron.com>"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 33,
+         "rawfrom" : "Tori.Kuykendall@enron.com [SMTP:Tori.Kuykendall@enron.com]\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 43,
+         "rawfrom" : "Tori Kuykendall/HOU/ECT on 05/09/2001\n",
+         "to" : "\"Bridget Andriani\" <BANDRIANI@Darbylaw.com>, \"Kathleen Giorgi\""
+      },
+      {
+         "from" : "akratish@gscpartners.com",
+         "line" : 57,
+         "rawfrom" : "\" Kratish, Alison\" <akratish@gscpartners.com>\n",
+         "to" : "\"'rhaygood@darbylaw.com'\" <rhaygood@darbylaw.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/7.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jperdew@apbenergy.com"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 25,
+         "rawfrom" : " Kenneth Shulklapper                           11/22/2000 10:36 AM\n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Jay Reitmeyer/HOU/ECT@ECT, Tori"
+      },
+      {
+         "from" : "kmshulklapper@hotmail.com",
+         "line" : 36,
+         "rawfrom" : "Kenneth Shulklapper/HOU/ECT on 11/22/2000 \n",
+         "to" : "kenneth.shulklapper@enron.com, David.aronica@Sun.COM, kal24@cornell.edu,"
+      },
+      {
+         "from" : "jay.okieffe@xpedior.com",
+         "line" : 46,
+         "rawfrom" : "\"Okieffe, Jay\" <jay.okieffe@xpedior.com>\n",
+         "to" : "\"Biria St.John (E-mail)\" <bstjohn@cbcwhittier.com>, \"Charles Cooper"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent/75.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "susan.hadix@elpaso.com, rhaygood@darbylaw.com, jennifer_lamprecht@oxy.com,"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 22,
+         "rawfrom" : "Matthew Lenhart on 04/24/2001 09:47 AM\n",
+         "to" : "Timothy Blanchard/HOU/EES@EES, Chad Landry/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 39,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 04/24/2001 \n",
+         "to" : "\"Andrew Clark\" <amc_97@yahoo.com>, \" Andrew Evans\""
+      },
+      {
+         "from" : "cmaley@integerdenver.com",
+         "line" : 79,
+         "rawfrom" : "\"Chris Maley\" <cmaley@integerdenver.com>\n",
+         "to" : "\"ann fisher\" <Annfishernyc@aol.com>,  \"bill maley\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/12.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "eric.bass@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 21,
+         "rawfrom" : "Tycholiz, Barry \n",
+         "to" : "Gay, Randall L.; Kuykendall, Tori"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 29,
+         "rawfrom" : "Grigsby, Mike \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 42,
+         "rawfrom" : "Tycholiz, Barry \n",
+         "to" : "Grigsby, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/138.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "'kuykendall@enron.com, pkuykendall@wm.com"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 46,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 63,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'Jake Hadix'"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 75,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Blaine Stribling (E-mail); Kyle Richardson (E-mail); Lou Fernandez"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/140.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "'kuykendall@enron.com, pkuykendall@wm.com"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 46,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 63,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'Jake Hadix'"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 75,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Blaine Stribling (E-mail); Kyle Richardson (E-mail); Lou Fernandez"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/141.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "chris.walker@enron.com"
+      },
+      {
+         "from" : "chris.walker@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWalker, Chris  \n",
+         "to" : "Bike, Anne; Kuykendall, Tori"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Walker, Chris"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Lozano, Melba"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Clause, Kristen; Bike, Anne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/142.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "david.dronet@enron.com"
+      },
+      {
+         "from" : "david.dronet@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDronet, David  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Tonks, Colin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/164.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "drrichardson@cmsenergy.com, hadix@enron.com, susan.hadix@elpaso.com"
+      },
+      {
+         "from" : "drrichardson@cmsenergy.com",
+         "line" : 24,
+         "rawfrom" : "Dana R Richardson [mailto:drrichardson@cmsenergy.com]\n",
+         "to" : "Hadix, Susan"
+      },
+      {
+         "from" : "\"hadix, susan\"",
+         "line" : 37,
+         "rawfrom" : "\"Hadix, Susan\"                                                                                 \n",
+         "to" : "\"'Macaul, Pam'\" <Pam_Macaul@bmc.com>, \"Dana Richardson (E-mail"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 67,
+         "rawfrom" : "Macaul, Pam [mailto:Pam_Macaul@bmc.com]\n",
+         "to" : "Hadix, Susan; Dana Richardson (E-mail 2); Jennifer Lamprecht"
+      },
+      {
+         "from" : "susan.hadix@elpaso.com",
+         "line" : 82,
+         "rawfrom" : "Hadix, Susan [mailto:Susan.Hadix@elpaso.com]\n",
+         "to" : "Dana Richardson (E-mail 2); Jennifer Lamprecht (E-mail); Pam Macaul"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/165.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "andrewhescock@hotmail.com"
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "\"kuykendall, tori\"",
+         "line" : 32,
+         "rawfrom" : "\"Kuykendall, Tori\" \n",
+         "to" : ", , , , , , , , , , , , , ,"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/166.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "scottymorales@home.com"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 22,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 34,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "<andrewhescock@hotmail.com>; <cathy_morse@foleys.com>;"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 50,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/168.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "scottymorales@home.com"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 22,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 45,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "Scotty Morales <scottymorales@home.com>"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 60,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 72,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "<andrewhescock@hotmail.com>; <cathy_morse@foleys.com>;"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 88,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/17.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jay.reitmeyer@enron.com"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "rrowley@houston.sns.slb.com",
+         "line" : 41,
+         "rawfrom" : "Roger Rowley [mailto:rrowley@houston.sns.slb.com]\n",
+         "to" : "BK68@aol.com; bjnugent@hewitt.com; james_brou@fmi.com;"
+      },
+      {
+         "from" : "hreed@houston.sns.slb.com",
+         "line" : 58,
+         "rawfrom" : "Hans Reed <hreed@houston.sns.slb.com>\n",
+         "to" : "Roger R <rrowley@houston.sns.slb.com>, Jeff Kahlan"
+      },
+      {
+         "from" : "wade.julian@inwoodbank.com",
+         "line" : 68,
+         "rawfrom" : "Wade Julian <wade.julian@inwoodbank.com>\n",
+         "to" : "hrogers@espivideo.com, ryan.hefton@inwoodbank.com,"
+      },
+      {
+         "from" : "cjulian@lubbocknational.com",
+         "line" : 80,
+         "rawfrom" : "<cjulian@lubbocknational.com>\n",
+         "to" : "<gbednarz@wtcat.com>; <wade.julian@inwoodbank.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/171.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "moshuffle@hotmail.com"
+      },
+      {
+         "from" : "moshuffle@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Monique Sanchez [mailto:moshuffle@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 32,
+         "rawfrom" : "\"Kuykendall, Tori\" <Tori.Kuykendall@ENRON.com>\n",
+         "to" : "<andrewhescock@hotmail.com>, <cathy_morse@foleys.com>,"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 47,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/175.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/176.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Alexander, Kim D"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "kim.d.alexander@enron.com",
+         "line" : 105,
+         "rawfrom" : "\tAlexander, Kim D  \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/34.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "anne.bike@enron.com"
+      },
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tBike, Anne  \n",
+         "to" : "Kuykendall, Tori; Love, Phillip M."
+      },
+      {
+         "from" : "wes.dempsey@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tDempsey, Wes  \n",
+         "to" : "Love, Phillip M."
+      },
+      {
+         "from" : "george.grant@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tGrant, George  \n",
+         "to" : "Sheeren, Ryan; Severson, Russ"
+      },
+      {
+         "from" : "ryan.sheeren@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tSheeren, Ryan  \n",
+         "to" : "Severson, Russ; Grant, George"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/42.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "'kuykendall@enron.com, pkuykendall@wm.com"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 35,
+         "rawfrom" : "Kuykendall, Tori [mailto:Tori.Kuykendall@ENRON.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 44,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "bk68@aol.com",
+         "line" : 62,
+         "rawfrom" : "BK68@aol.com [mailto:BK68@aol.com]\n",
+         "to" : "bosbor@yahoo.com; david.brien@transamerica.com; Ranney, Doug;"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/45.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "pkuykendall@wm.com"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 22,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Gary Magee; Kyle Richardson (E-mail); Susan Hadix (E-mail); Rick"
+      },
+      {
+         "from" : "george@mortgageloansetc.com",
+         "line" : 48,
+         "rawfrom" : "George Harsh [mailto:george@mortgageloansetc.com]\n",
+         "to" : "Dan Petters (E-mail); K Price (E-mail); Mike Mahoney (E-mail); Rob"
+      },
+      {
+         "from" : "zac@mortgageloansetc.com",
+         "line" : 59,
+         "rawfrom" : "zac [mailto:zac@mortgageloansetc.com]\n",
+         "to" : "George Harsh (E-mail)"
+      },
+      {
+         "from" : "a.halim@innovativegroup.cc",
+         "line" : 68,
+         "rawfrom" : "August Halim [mailto:a.halim@innovativegroup.cc]\n",
+         "to" : "Dallas Farrow (E-mail); Zack Polk (E-mail); Pitono Haryanto"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "david.dronet@enron.com"
+      },
+      {
+         "from" : "david.dronet@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDronet, David  \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Dronet, David"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tKuykendall, Tori  \n",
+         "to" : "Tonks, Colin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/66.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "scottymorales@home.com"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 22,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 31,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "Scotty Morales <scottymorales@home.com>"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 43,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/67.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "scottymorales@home.com"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 23,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 40,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "Scotty Morales <scottymorales@home.com>"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 53,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 62,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "Scotty Morales <scottymorales@home.com>"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 74,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/70.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "monique.sanchez@enron.com, mike.grigsby@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from" : "diane_hoyuela@foleys.com",
+         "line" : 23,
+         "rawfrom" : "Diane_Hoyuela@Foleys.com [mailto:Diane_Hoyuela@Foleys.com]\n",
+         "to" : "marcgarcia@earthlink.com; Hamm Laura; terra.henderson@accenture.com;"
+      },
+      {
+         "from" : "khoyuela@rice.edu",
+         "line" : 39,
+         "rawfrom" : "\"Kristy Hoyuela\" <khoyuela@rice.edu> on 10/11/2001 10:50 PM\n",
+         "to" : "<Diane_Hoyuela@Foleys.com>"
+      },
+      {
+         "from" : "longhornliz@mail.utexas.edu",
+         "line" : 48,
+         "rawfrom" : "\"Elizabeth Anderson\" <longhornliz@mail.utexas.edu>\n",
+         "to" : "\"Deana\" <UTde@mail.utexas.edu>; \"Bex\" <Kristin_Bexley@baylor.edu>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/75.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "andrewhescock@hotmail.com"
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "\"kuykendall, tori\"",
+         "line" : 32,
+         "rawfrom" : "\"Kuykendall, Tori\" \n",
+         "to" : "\"Andrew Hescock\""
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 42,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/78.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "drrichardson@cmsenergy.com"
+      },
+      {
+         "from" : "drrichardson@cmsenergy.com",
+         "line" : 22,
+         "rawfrom" : "Dana R Richardson [mailto:drrichardson@cmsenergy.com]\n",
+         "to" : "Macaul, Pam; 'Suzanne Sperling'; 'Susan'; 'Tori'"
+      },
+      {
+         "from" : "\"macaul, pam\"",
+         "line" : 44,
+         "rawfrom" : "\"Macaul, Pam\"                                                                                  \n",
+         "to" : "\"Macaul, Pam\" <Pam_Macaul@bmc.com>, \"'Dana'\""
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 96,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 146,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 155,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 164,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 173,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 223,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 232,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "Macaul, Pam; 'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 279,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      },
+      {
+         "from" : "pam_macaul@bmc.com",
+         "line" : 335,
+         "rawfrom" : "Macaul, Pam\n",
+         "to" : "'Dana'; 'Susan'; 'Suzanne Sperling'; 'Tori'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/80.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "andrewhescock@hotmail.com"
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "\"kuykendall, tori\"",
+         "line" : 34,
+         "rawfrom" : "\"Kuykendall, Tori\" \n",
+         "to" : "\"andrew\" , \"Cathy Morse\" , \"haylee\" , \"john perdew\" , \"monique\" , \"robert hawkins\" , \"scotty\" , \"tomandjess\""
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 43,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/81.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "andrewhescock@hotmail.com"
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "\"kuykendall, tori\"",
+         "line" : 32,
+         "rawfrom" : "\"Kuykendall, Tori\" \n",
+         "to" : "\"Andrew Hescock\""
+      },
+      {
+         "from" : "andrewhescock@hotmail.com",
+         "line" : 43,
+         "rawfrom" : "Andrew Hescock [mailto:andrewhescock@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "\"kuykendall, tori\"",
+         "line" : 56,
+         "rawfrom" : "\"Kuykendall, Tori\" \n",
+         "to" : "\"andrew\" , \"Cathy Morse\" , \"haylee\" , \"john perdew\" , \"monique\" ,"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 66,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com] \n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/89.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jennifer_lamprecht@oxy.com"
+      },
+      {
+         "from" : "jennifer_lamprecht@oxy.com",
+         "line" : 23,
+         "rawfrom" : "Jennifer_Lamprecht@oxy.com [mailto:Jennifer_Lamprecht@oxy.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 49,
+         "rawfrom" : "Kuykendall, Tori [mailto:Tori.Kuykendall@ENRON.com]\n",
+         "to" : "Jennifer_Lamprecht@oxy.com"
+      },
+      {
+         "from" : "jennifer_lamprecht@oxy.com",
+         "line" : 60,
+         "rawfrom" : "Jennifer_Lamprecht@oxy.com [mailto:Jennifer_Lamprecht@oxy.com]\n",
+         "to" : "Susan.Hadix@elpaso.com; Tiffany_Lauer@manulife.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/90.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "scottymorales@home.com"
+      },
+      {
+         "from" : "scottymorales@home.com",
+         "line" : 22,
+         "rawfrom" : "Scotty Morales [mailto:scottymorales@home.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 34,
+         "rawfrom" : "Kuykendall, Tori <Tori.Kuykendall@enron.com>\n",
+         "to" : "andrew <andrewhescock@hotmail.com>; Cathy Morse"
+      },
+      {
+         "from" : "patrick_kuykendall@hotmail.com",
+         "line" : 48,
+         "rawfrom" : "Patrick Kuykendall [mailto:patrick_kuykendall@hotmail.com]\n",
+         "to" : "Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/kuykendall-t/sent_items/92.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "'kuykendall@enron.com, pkuykendall@wm.com"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 31,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 55,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'Jake Hadix'"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 76,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 90,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'Jake Hadix'"
+      },
+      {
+         "from" : "jhadix@calpine.com",
+         "line" : 102,
+         "rawfrom" : "Jake Hadix [mailto:jhadix@calpine.com]\n",
+         "to" : "Kuykendall, Patrick M."
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 133,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "'jhadix@calpine.com'; 'jake.hadix@calpine.com'"
+      }
+   ],
+   "skipped" : 0
+}
+]

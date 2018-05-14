@@ -1,0 +1,2058 @@
+[
+{
+   "file" : "enron-raw/zipper-a/all_documents/27.",
+   "hops" : [
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.fisher@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 37,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "david.fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 70,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 100,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 139,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 212,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 249,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 282,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 311,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 351,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 379,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 405,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 430,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/31/2000 11:41:44 AM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 452,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 503,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/31/2000 07:45:57 AM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 520,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 560,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/26/2000 01:50:34 PM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 593,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 642,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "wayne@crane.net",
+         "line" : 665,
+         "rawfrom" : "Wayne Crane [mailto:wayne@crane.net]\n",
+         "to" : "Maria.O'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 681,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "Maria.O'neill@enform.com, jody.clark@truequote.com, wayne@crane.net"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 702,
+         "rawfrom" : " David Fisher @ ENRON                           11/09/2000 03:07 PM\n",
+         "to" : "Anchi Zhang/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 723,
+         "rawfrom" : "David Fisher/NA/Enron on 11/09/2000 02:53 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "wayne@crane.net",
+         "line" : 746,
+         "rawfrom" : "Wayne Crane [mailto:wayne@crane.net]\n",
+         "to" : "Maria.O'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 766,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 788,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 807,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 836,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Richard Toubia; maria.o'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 876,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 910,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 939,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 977,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1000,
+         "rawfrom" : " O'Neill, Maria\n",
+         "to" : "'chris.edmonds@truequote.com'"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1437,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1460,
+         "rawfrom" : "Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Maria.O'neill@Enform.com; brett.glass@enform.com;"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1490,
+         "rawfrom" : "O'Neill, Maria [mailto:Maria.O'neill@Enform.com]\n",
+         "to" : "brett.glass@enform.com; stewart.clark@enform.com;"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 1537,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1551,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "kimberly.hahn@enform.com",
+         "line" : 1567,
+         "rawfrom" : " Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]\n",
+         "to" : "Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1591,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1600,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Dennis Crum (E-mail); Chris Edmonds (E-mail)"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1662,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "David Fisher/NA/Enron@Enron"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1681,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 1704,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 1752,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1775,
+         "rawfrom" : "Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Maria.O'neill@Enform.com; brett.glass@enform.com;"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1807,
+         "rawfrom" : "O'Neill, Maria [mailto:Maria.O'neill@Enform.com]\n",
+         "to" : "brett.glass@enform.com; stewart.clark@enform.com;"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 1857,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1871,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "kimberly.hahn@enform.com",
+         "line" : 1887,
+         "rawfrom" : "    Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]\n",
+         "to" : "Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1914,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1923,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Dennis Crum (E-mail); Chris Edmonds (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zipper-a/all_documents/55.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 23,
+         "rawfrom" : "David Forster/Corp/Enron on 01/24/2001 \n",
+         "to" : "David Forster/Corp/Enron@Enron"
+      },
+      {
+         "from" : "naveed.ahmed@enron.com",
+         "line" : 31,
+         "rawfrom" : "Naveed Ahmed/NA/Enron on 01/24/2001 05:58 \n",
+         "to" : "Naveed Ahmed/NA/Enron@ENRON"
+      },
+      {
+         "from" : "naveed.ahmed@enron.com",
+         "line" : 57,
+         "rawfrom" : "Naveed Ahmed@ENRON\n",
+         "to" : "John Suarez/Enron Communications@ENRON COMMUNICATIONS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/broker_client/24.",
+   "hops" : [
+      {
+         "from" : "kim.theriot@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.theriot@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 26,
+         "rawfrom" : "From:\tAndy Zipper/ENRON@enronXgate on 04/06/2001 04:58 PM\n",
+         "to" : "Kim S Theriot/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kim.theriot@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tTheriot, Kim  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 51,
+         "rawfrom" : "From:\tAndy Zipper/ENRON@enronXgate on 04/06/2001 10:42 AM\n",
+         "to" : "Kim S Theriot/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kim.theriot@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tTheriot, Kim  \n",
+         "to" : "Zipper, Andy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/broker_client/6.",
+   "hops" : [
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 4,
+         "rawfrom" : "bob.shults@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tShults, Bob  \n",
+         "to" : "Lewis, Richard"
+      },
+      {
+         "from" : "john.sherriff@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tSherriff, John  \n",
+         "to" : "Shults, Bob"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 46,
+         "rawfrom" : "From:\tBob Shults/ENRON@enronXgate on 24/05/2001 10:16 CDT\n",
+         "to" : "John Sherriff/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/charges/1.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Zipper, Andy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/charges/53.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 23,
+         "rawfrom" : "David Forster/Corp/Enron on 01/24/2001 \n",
+         "to" : "David Forster/Corp/Enron@Enron"
+      },
+      {
+         "from" : "naveed.ahmed@enron.com",
+         "line" : 31,
+         "rawfrom" : "Naveed Ahmed/NA/Enron on 01/24/2001 05:58 \n",
+         "to" : "Naveed Ahmed/NA/Enron@ENRON"
+      },
+      {
+         "from" : "naveed.ahmed@enron.com",
+         "line" : 57,
+         "rawfrom" : "Naveed Ahmed@ENRON\n",
+         "to" : "John Suarez/Enron Communications@ENRON COMMUNICATIONS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/102.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "jay.webb@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWebb, Jay  \n",
+         "to" : "Piper, Greg; Zipper, Andy"
+      },
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tPiper, Greg  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Hotte, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/13.",
+   "hops" : [
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 4,
+         "rawfrom" : "franky.sulistio@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "leah.arsdall@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tVan Arsdall, Leah  \n",
+         "to" : "Sulistio, Franky"
+      },
+      {
+         "from" : "information.risk.management@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tInformation Risk Management  \n",
+         "to" : "Van Arsdall, Leah"
+      },
+      {
+         "from" : "franky.sulistio@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tSulistio, Franky  \n",
+         "to" : "Information Risk Management"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/168.",
+   "hops" : [
+      {
+         "from" : "mike.haney@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.haney@enron.com\r\n",
+         "to" : "michael.bridges@enron.com"
+      },
+      {
+         "from" : "jake.staffel@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tStaffel, Jake  \n",
+         "to" : "Haney, Mike"
+      },
+      {
+         "from" : "mark.greenberg@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tGreenberg, Mark  \n",
+         "to" : "Staffel, Jake"
+      },
+      {
+         "from" : "mark.greenberg@enron.com",
+         "line" : 64,
+         "rawfrom" : "E-Mail:      Mark.Greenberg@enron.com\n",
+         "to" : "Mark Greenberg/NA/Enron@ENRON  cc:   Subject: FW: NDA"
+      },
+      {
+         "from" : "anne_pedrero@cargill.com",
+         "line" : 74,
+         "rawfrom" : "\tAnne_Pedrero@cargill.com@ENRON [mailto:IMCEANOTES-Anne+5FPedrero+40cargill+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Staffel, Jake"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/251.",
+   "hops" : [
+      {
+         "from" : "kal.shah@enron.com",
+         "line" : 4,
+         "rawfrom" : "kal.shah@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "vance.meyer@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMeyer, Vance  \n",
+         "to" : "Shah, Kal; Piper, Greg; Zipper, Andy"
+      },
+      {
+         "from" : "vance.meyer@enron.com",
+         "line" : 48,
+         "rawfrom" : "Vance Meyer/NA/Enron on 05/24/2001 06:00 PM ---------------------------\n",
+         "to" : "Bryan Seyfried/LON/ECT@ECT, Meredith Philipp/Corp/Enron@ENRON, Kimberly Friddle/ENRON@enronXgate, Jackie Gentle/LON/ECT@ECT, Jeff Kinneman/Enron@EnronXGate"
+      },
+      {
+         "from" : "vance.meyer@enron.com",
+         "line" : 68,
+         "rawfrom" : "Vance Meyer/NA/Enron on 05/24/2001 05:53 PM ---------------------------\n",
+         "to" : "Vance Meyer/NA/Enron@ENRON"
+      },
+      {
+         "from" : "meredith_philipp@enron.com",
+         "line" : 77,
+         "rawfrom" : "Meredith Philipp/Corp/Enron on 05/24/2001 04:49 PM -----\n",
+         "to" : "Bryan Seyfried/LON/ECT@ECT, Meredith Philipp/Corp/Enron@ENRON, Kimberly Friddle/ENRON@enronXgate, Jackie Gentle/LON/ECT@ECT  cc: John Sherriff/LON/ECT@ECT  Subject: RE: ECONOMIST: Enron, Accenture - - any topics that COULD be discussed re: Accenture's eBusiness work for Enron ...(next week, in Houston)"
+      },
+      {
+         "from" : "bryan.seyfried@enron.com",
+         "line" : 90,
+         "rawfrom" : "\tSeyfried, Bryan  \n",
+         "to" : "Philipp, Meredith; Hoeffelman, Eva; Friddle, Kimberly"
+      },
+      {
+         "from" : "bryan.seyfried@enron.com",
+         "line" : 101,
+         "rawfrom" : "Bryan Seyfried/LON/ECT on 20/05/2001 15:18 ---------------------------\n",
+         "to" : "Bryan.Seyfried@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/342.",
+   "hops" : [
+      {
+         "from" : "matt.motsinger@enron.com",
+         "line" : 4,
+         "rawfrom" : "matt.motsinger@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 26,
+         "rawfrom" : "From:\tAndy Zipper/ENRON@enronXgate on 03/28/2001 01:05 PM\n",
+         "to" : "Matt Motsinger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matt.motsinger@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tMotsinger, Matt  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 47,
+         "rawfrom" : "From:\tAndy Zipper/ENRON@enronXgate on 03/28/2001 12:55 PM\n",
+         "to" : "Matt Motsinger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matt.motsinger@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tMotsinger, Matt  \n",
+         "to" : "Zipper, Andy; Bridges, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/347.",
+   "hops" : [
+      {
+         "from" : "sheri.thomas@enron.com",
+         "line" : 4,
+         "rawfrom" : "sheri.thomas@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 25,
+         "rawfrom" : "From:\tAndy Zipper/ENRON@enronXgate on 02/27/2001 08:47 AM\n",
+         "to" : "Sheri Thomas/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sheri.thomas@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tThomas, Sheri  \n",
+         "to" : "Zipper, Andy; Bridges, Michael"
+      },
+      {
+         "from" : "adam.johnson@enron.com",
+         "line" : 45,
+         "rawfrom" : " Adam Johnson @ ENRON                           02/27/2001 08:18 AM\t\n",
+         "to" : "Sheri Thomas/HOU/ECT@ECT, Torrey Moorer/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/45.",
+   "hops" : [
+      {
+         "from" : "vance.meyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "vance.meyer@enron.com\r\n",
+         "to" : "kal.shah@enron.com, greg.piper@enron.com, andy.zipper@enron.com"
+      },
+      {
+         "from" : "vance.meyer@enron.com",
+         "line" : 33,
+         "rawfrom" : "Vance Meyer/NA/Enron on 05/24/2001 06:00 PM ---------------------------\n",
+         "to" : "Bryan Seyfried/LON/ECT@ECT, Meredith Philipp/Corp/Enron@ENRON, Kimberly Friddle/ENRON@enronXgate, Jackie Gentle/LON/ECT@ECT, Jeff Kinneman/Enron@EnronXGate"
+      },
+      {
+         "from" : "vance.meyer@enron.com",
+         "line" : 53,
+         "rawfrom" : "Vance Meyer/NA/Enron on 05/24/2001 05:53 PM ---------------------------\n",
+         "to" : "Vance Meyer/NA/Enron@ENRON"
+      },
+      {
+         "from" : "meredith_philipp@enron.com",
+         "line" : 62,
+         "rawfrom" : "Meredith Philipp/Corp/Enron on 05/24/2001 04:49 PM -----\n",
+         "to" : "Bryan Seyfried/LON/ECT@ECT, Meredith Philipp/Corp/Enron@ENRON, Kimberly Friddle/ENRON@enronXgate, Jackie Gentle/LON/ECT@ECT  cc: John Sherriff/LON/ECT@ECT  Subject: RE: ECONOMIST: Enron, Accenture - - any topics that COULD be discussed re: Accenture's eBusiness work for Enron ...(next week, in Houston)"
+      },
+      {
+         "from" : "bryan.seyfried@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tSeyfried, Bryan  \n",
+         "to" : "Philipp, Meredith; Hoeffelman, Eva; Friddle, Kimberly"
+      },
+      {
+         "from" : "bryan.seyfried@enron.com",
+         "line" : 86,
+         "rawfrom" : "Bryan Seyfried/LON/ECT on 20/05/2001 15:18 ---------------------------\n",
+         "to" : "Bryan.Seyfried@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/453.",
+   "hops" : [
+      {
+         "from" : "jay.webb@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.webb@enron.com\r\n",
+         "to" : "a..bibi@enron.com, greg.piper@enron.com"
+      },
+      {
+         "from" : "philippe.a.bibi@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tBibi, Philippe A.  \n",
+         "to" : "Piper, Greg"
+      },
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tPiper, Greg  \n",
+         "to" : "Bibi, Philippe A."
+      },
+      {
+         "from" : "michael.guadarrama@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tGuadarrama, Michael  \n",
+         "to" : "Piper, Greg; Webb, Jay"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/95.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "kenneth.lay@enron.com"
+      },
+      {
+         "from" : "rex_shelby@enron.net",
+         "line" : 32,
+         "rawfrom" : "\tShelby, Rex  \n",
+         "to" : "Piper, Greg"
+      },
+      {
+         "from" : "litebulb@amelectric.com",
+         "line" : 40,
+         "rawfrom" : "\tGreg_Brady@i2.com@ENRON [mailto:IMCEANOTES-Greg+5FBrady+40i2+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Shelby, Rex"
+      },
+      {
+         "from" : "rex.shelby@enron.com",
+         "line" : 59,
+         "rawfrom" : "\"Shelby, Rex\" <Rex.Shelby@ENRON.com> on 05/15/2001 07:20:21 AM\n",
+         "to" : "<greg_brady@i2.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/deleted_items/97.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "justin.boyd@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBoyd, Justin  \n",
+         "to" : "Piper, Greg"
+      },
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tPiper, Greg  \n",
+         "to" : "Boyd, Justin"
+      },
+      {
+         "from" : "justin.boyd@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tBoyd, Justin  \n",
+         "to" : "Piper, Greg; Zipper, Andy"
+      },
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tPiper, Greg  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "justin.boyd@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tBoyd, Justin  \n",
+         "to" : "Whalley, Greg; Sherriff, John; Brown, Michael; Piper, Greg; Zipper, Andy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/discussion_threads/22.",
+   "hops" : [
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.fisher@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 37,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "david.fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 70,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 100,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 139,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 212,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 249,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 282,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 311,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 351,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 379,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 405,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 430,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/31/2000 11:41:44 AM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 452,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 503,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/31/2000 07:45:57 AM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 520,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 560,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/26/2000 01:50:34 PM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 593,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 642,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "wayne@crane.net",
+         "line" : 665,
+         "rawfrom" : "Wayne Crane [mailto:wayne@crane.net]\n",
+         "to" : "Maria.O'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 681,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "Maria.O'neill@enform.com, jody.clark@truequote.com, wayne@crane.net"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 702,
+         "rawfrom" : " David Fisher @ ENRON                           11/09/2000 03:07 PM\n",
+         "to" : "Anchi Zhang/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 723,
+         "rawfrom" : "David Fisher/NA/Enron on 11/09/2000 02:53 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "wayne@crane.net",
+         "line" : 746,
+         "rawfrom" : "Wayne Crane [mailto:wayne@crane.net]\n",
+         "to" : "Maria.O'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 766,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 788,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 807,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 836,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Richard Toubia; maria.o'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 876,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 910,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 939,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 977,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1000,
+         "rawfrom" : " O'Neill, Maria\n",
+         "to" : "'chris.edmonds@truequote.com'"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1437,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1460,
+         "rawfrom" : "Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Maria.O'neill@Enform.com; brett.glass@enform.com;"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1490,
+         "rawfrom" : "O'Neill, Maria [mailto:Maria.O'neill@Enform.com]\n",
+         "to" : "brett.glass@enform.com; stewart.clark@enform.com;"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 1537,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1551,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "kimberly.hahn@enform.com",
+         "line" : 1567,
+         "rawfrom" : " Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]\n",
+         "to" : "Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1591,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1600,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Dennis Crum (E-mail); Chris Edmonds (E-mail)"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1662,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "David Fisher/NA/Enron@Enron"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1681,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 1704,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 1752,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1775,
+         "rawfrom" : "Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Maria.O'neill@Enform.com; brett.glass@enform.com;"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1807,
+         "rawfrom" : "O'Neill, Maria [mailto:Maria.O'neill@Enform.com]\n",
+         "to" : "brett.glass@enform.com; stewart.clark@enform.com;"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 1857,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1871,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "kimberly.hahn@enform.com",
+         "line" : 1887,
+         "rawfrom" : "    Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]\n",
+         "to" : "Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1914,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1923,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Dennis Crum (E-mail); Chris Edmonds (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zipper-a/discussion_threads/50.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 23,
+         "rawfrom" : "David Forster/Corp/Enron on 01/24/2001 \n",
+         "to" : "David Forster/Corp/Enron@Enron"
+      },
+      {
+         "from" : "naveed.ahmed@enron.com",
+         "line" : 31,
+         "rawfrom" : "Naveed Ahmed/NA/Enron on 01/24/2001 05:58 \n",
+         "to" : "Naveed Ahmed/NA/Enron@ENRON"
+      },
+      {
+         "from" : "naveed.ahmed@enron.com",
+         "line" : 57,
+         "rawfrom" : "Naveed Ahmed@ENRON\n",
+         "to" : "John Suarez/Enron Communications@ENRON COMMUNICATIONS"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/espeed/2.",
+   "hops" : [
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 4,
+         "rawfrom" : "louise.kitchen@enron.com\r\n",
+         "to" : "tom.mckeever@enron.com, justin.boyd@enron.com, andy.zipper@enron.com,"
+      },
+      {
+         "from" : "juman@cantor.com",
+         "line" : 26,
+         "rawfrom" : " \"Uman, Jonathan\" <JUman@cantor.com>                           03/14/2001 01:39 PM\t\n",
+         "to" : "\"'Louise.Kitchen@enron.com'\" <Louise.Kitchen@enron.com>"
+      },
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 47,
+         "rawfrom" : "Louise.Kitchen@enron.com [mailto:Louise.Kitchen@enron.com]\n",
+         "to" : "Uman, Jonathan"
+      },
+      {
+         "from" : "\"uman, jonathan\"",
+         "line" : 92,
+         "rawfrom" : " \"Uman, Jonathan\"\n",
+         "to" : "\"Louise Kitchen (E-mail)\" <lkitchen@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/hs/14.",
+   "hops" : [
+      {
+         "from" : "travis.mccullough@enron.com",
+         "line" : 4,
+         "rawfrom" : "travis.mccullough@enron.com\r\n",
+         "to" : "dgamble@houstonstreet.com"
+      },
+      {
+         "from" : "pgoodwin@qualcomm.com",
+         "line" : 34,
+         "rawfrom" : "Fax: (713) 646-3490      \n",
+         "to" : "\"'Travis.McCullough@enron.com'\" <Travis.McCullough@enron.com>, Andy.Zipper@enron.com  cc: Derek Gamble <dgamble@houstonstreet.com>, \"Frank Getman, HSE\" <fgetman@houstonstreet.com>, MDunn@milbank.com, NAmin@milbank.com  Subject: RE: Revised HoustonStreet/Enron Letter Agreement"
+      },
+      {
+         "from" : "travis.mccullough@enron.com",
+         "line" : 57,
+         "rawfrom" : "Travis.McCullough@enron.com [mailto:Travis.McCullough@enron.com]\n",
+         "to" : "NAmin@milbank.com"
+      },
+      {
+         "from" : "travis.mccullough@enron.com",
+         "line" : 146,
+         "rawfrom" : "Travis.McCullough@enron.com\n",
+         "to" : "NAmin@milbank.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/zipper-a/inbox/101.",
+   "hops" : [
+      {
+         "from" : "jay.webb@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.webb@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Webb, Jay"
+      },
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tPiper, Greg  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Piper, Greg; Bibi, Philippe A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/inbox/137.",
+   "hops" : [
+      {
+         "from" : "mike.haney@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.haney@enron.com\r\n",
+         "to" : "david.forster@enron.com, andy.zipper@enron.com"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGarner, Bruce  \n",
+         "to" : "Haney, Mike"
+      },
+      {
+         "from" : "mike_haney@enron.net",
+         "line" : 39,
+         "rawfrom" : "\tHaney, Mike  \n",
+         "to" : "Seigal, Jason"
+      },
+      {
+         "from" : "jason.seigal@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tSeigal, Jason  \n",
+         "to" : "Haney, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/inbox/153.",
+   "hops" : [
+      {
+         "from" : "toni.graham@enron.com",
+         "line" : 4,
+         "rawfrom" : "toni.graham@enron.com\r\n",
+         "to" : "lydia.cannon@enron.com, andy.zipper@enron.com"
+      },
+      {
+         "from" : "lydia.cannon@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tCannon, Lydia  \n",
+         "to" : "Graham, Toni"
+      },
+      {
+         "from" : "toni.graham@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tGraham, Toni  \n",
+         "to" : "Cannon, Lydia"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Graham, Toni"
+      },
+      {
+         "from" : "toni.graham@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tGraham, Toni  \n",
+         "to" : "Zipper, Andy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/kiodex/9.",
+   "hops" : [
+      {
+         "from" : "jay.fitzgerald@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.fitzgerald@enron.com\r\n",
+         "to" : "andy.drew@enron.com"
+      },
+      {
+         "from" : "jay.fitzgerald@enron.com",
+         "line" : 24,
+         "rawfrom" : "Jay Fitzgerald/NY/ECT on 02/27/2001 10:12 AM ---------------------------\n",
+         "to" : "Tom McKeever/EU/Enron@ENRON"
+      },
+      {
+         "from" : "tom.mckeever@mgplc.com",
+         "line" : 40,
+         "rawfrom" : "Tom McKeever@ENRON\n",
+         "to" : "Jay Fitzgerald/NY/ECT@ECT"
+      },
+      {
+         "from" : "tom.mckeever@mgplc.com",
+         "line" : 55,
+         "rawfrom" : "Tom McKeever/EU/Enron on 16/02/2001 17:42 ---------------------------\n",
+         "to" : "Jay Fitzgerald/NY/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/133.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "michael.guadarrama@enron.com"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Puthigai, Savita; Webb, Jay"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 30,
+         "rawfrom" : "\tMcCullough, Travis  \n",
+         "to" : "Zipper, Andy; Ries, Drew; Fitzgerald, Jay"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 42,
+         "rawfrom" : "Travis McCullough/HOU/ECT on 03/15/2001 09:16 AM -----\n",
+         "to" : "\"McCullough, Travis (Enron)\" <travis.mccullough@enron.com>  cc: \"Telle, Michael S.\" <mtelle@velaw.com>, \"Breeland, Pat\" <pbreeland@velaw.com>  Subject: Kiodex"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/157.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "bob.shults@enron.com"
+      },
+      {
+         "from" : "michael.guadarrama@enron.com",
+         "line" : 21,
+         "rawfrom" : "Guadarrama, Michael \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 41,
+         "rawfrom" : "Moorer, Torrey \n",
+         "to" : "Pateder, Robbie; Cass, Robert B.; Denny, Jennifer; Meredith, Kevin"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 49,
+         "rawfrom" : "Moorer, Torrey \n",
+         "to" : "Pateder, Robbie; Meredith, Kevin; Denny, Jennifer; Cass, Robert B."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/187.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "a..bibi@enron.com, greg.piper@enron.com"
+      },
+      {
+         "from" : "savita.puthigai@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPuthigai, Savita  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMoorer, Torrey  \n",
+         "to" : "Puthigai, Savita"
+      },
+      {
+         "from" : "adam.johnson@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tJohnson, Adam  \n",
+         "to" : "Bibi, Philippe A.; Bridges, Michael; Denny, Jennifer; Hillis, Kimberly; Kitchen, Louise; Moorer, Torrey; Piper, Greg; Rosado, Jennifer; Schoppe, Tammie; Shults, Bob; Sweitzer, Tara; Whalley, Greg; Zipper, Andy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/291.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "exec.jones@enron.com"
+      },
+      {
+         "from" : "jeffreyskilling@yahoo.com",
+         "line" : 24,
+         "rawfrom" : " <jeffreyskilling@yahoo.com>\n",
+         "to" : "Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>"
+      },
+      {
+         "from" : "jeffreyskilling@yahoo.com",
+         "line" : 38,
+         "rawfrom" : " <jeffreyskilling@yahoo.com>\n",
+         "to" : "Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>"
+      },
+      {
+         "from" : "jeffrey.sprecher@intcx.com",
+         "line" : 57,
+         "rawfrom" : " <jeffrey.sprecher@intcx.com>\n",
+         "to" : "Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/300.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "mari.capestany@enron.com"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=azipper>",
+         "line" : 22,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>\n",
+         "to" : "'david.oconnor@ubsw.com'"
+      },
+      {
+         "from" : "greg.whiting@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tWhiting, Greg  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=azipper>",
+         "line" : 46,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>\n",
+         "to" : "'david.oconnor@ubsw.com'"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=azipper>",
+         "line" : 59,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>\n",
+         "to" : "'david.Oconnor@UBSW.com'"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 71,
+         "rawfrom" : "\tGriffith, John  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=azipper>",
+         "line" : 79,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>\n",
+         "to" : "'David.Oconnor@UBSW.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/338.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "aazccb@swbell.net"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 22,
+         "rawfrom" : "\tGriffith, John  \n",
+         "to" : "Zipper, Andy"
+      },
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMoon, Eric  \n",
+         "to" : "Griffith, John"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Fitzwater, Loftus; Diamond, Russell; Little, Kelli; Calcagno, Suzanne; Moon, Eric; Cramer, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/366.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "mwsou@aol.com",
+         "line" : 22,
+         "rawfrom" : "\tSmith, Mark  \n",
+         "to" : "Titus, Matthew; Zipper, Andy; May, Larry"
+      },
+      {
+         "from" : "brandi.morris@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMorris, Brandi  \n",
+         "to" : "Smith, Mark"
+      },
+      {
+         "from" : "adarsh.vakharia@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tVakharia, Adarsh  \n",
+         "to" : "Wilson, Shona; Wolfe, Stephen; Morris, Brandi; Wallace, Cassi; Thibodeaux, Kenneth"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/sent_items/54.",
+   "hops" : [
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 4,
+         "rawfrom" : "andy.zipper@enron.com\r\n",
+         "to" : "lottyplace@yahoo.com"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=jgriffit>",
+         "line" : 30,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGRIFFIT>\n",
+         "to" : "Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Azipper>"
+      },
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tHuan, George  \n",
+         "to" : "Griffith, John"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 49,
+         "rawfrom" : "\tGriffith, John  \n",
+         "to" : "Huan, George"
+      },
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tHuan, George  \n",
+         "to" : "May, Larry; Zipper, Andy; Griffith, John; Maggi, Mike"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=jgriffit>",
+         "line" : 87,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGRIFFIT>\n",
+         "to" : "Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Azipper>"
+      },
+      {
+         "from" : "bilal_bajwa@hotmail.com",
+         "line" : 96,
+         "rawfrom" : "\t\"bilal bajwa\" <bilal_bajwa@hotmail.com>@ENRON  \n",
+         "to" : "Griffith, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/tq/10.",
+   "hops" : [
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 4,
+         "rawfrom" : "bob.shults@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 22,
+         "rawfrom" : "Bob Shults/HOU/ECT on 03/06/2001 11:59 AM ---------------------------\n",
+         "to" : "<Bob.Shults@enron.com>"
+      },
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 40,
+         "rawfrom" : "<Bob.Shults@enron.com>\n",
+         "to" : "<japplegate@houstonstreet.com>"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 65,
+         "rawfrom" : "Travis McCullough on 03/05/2001 11:41 AM\n",
+         "to" : "Bob Shults/HOU/ECT@ECT, Andy Zipper/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/tq/12.",
+   "hops" : [
+      {
+         "from" : "bob.shults@enron.com",
+         "line" : 4,
+         "rawfrom" : "bob.shults@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "sheri.thomas@enron.com",
+         "line" : 24,
+         "rawfrom" : " Sheri Thomas                                                             03/02/2001 01:19 PM\t                              \t\n",
+         "to" : "Bob Shults/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matt.motsinger@enron.com",
+         "line" : 35,
+         "rawfrom" : " Matt Motsinger                                                             03/02/2001 11:52 AM\t                              \t\n",
+         "to" : "Jennifer deBoisblanc Denny/HOU/ECT@ECT, Sheri Thomas/HOU/ECT@ECT, Torrey Moorer/HOU/ECT@ECT, Savita Puthigai/NA/Enron@Enron, Thomas Engel/HOU/ECT@ECT, Robert B Cass/HOU/ECT@ECT, Kevin Meredith/Corp/Enron@ENRON, Stephanie Sever/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matt.motsinger@enron.com",
+         "line" : 44,
+         "rawfrom" : "Matt Motsinger/HOU/ECT on 03/02/2001 11:51 AM ---------------------------\n",
+         "to" : "\"Matt Motsinger \\(E-mail\\)\" <Matt.Motsinger@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/zipper-a/tq/62.",
+   "hops" : [
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.fisher@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 37,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "david.fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 70,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 100,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 139,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 212,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 249,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 282,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 311,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 351,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 379,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 405,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 430,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/31/2000 11:41:44 AM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 452,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 503,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/31/2000 07:45:57 AM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 520,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "\"o'neill, maria\" <maria.o'neill@enform.com>",
+         "line" : 560,
+         "rawfrom" : "\"O'Neill, Maria\" <Maria.O'Neill@enform.com> on 10/26/2000 01:50:34 PM\n",
+         "to" : "David.Fisher@enron.com"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 593,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 642,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "wayne@crane.net",
+         "line" : 665,
+         "rawfrom" : "Wayne Crane [mailto:wayne@crane.net]\n",
+         "to" : "Maria.O'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 681,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "Maria.O'neill@enform.com, jody.clark@truequote.com, wayne@crane.net"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 702,
+         "rawfrom" : " David Fisher @ ENRON                           11/09/2000 03:07 PM\n",
+         "to" : "Anchi Zhang/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 723,
+         "rawfrom" : "David Fisher/NA/Enron on 11/09/2000 02:53 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "wayne@crane.net",
+         "line" : 746,
+         "rawfrom" : "Wayne Crane [mailto:wayne@crane.net]\n",
+         "to" : "Maria.O'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 766,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 788,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "O'Neill, Maria"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 807,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 836,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Richard Toubia; maria.o'neill@enform.com"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 876,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 910,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 939,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 977,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1000,
+         "rawfrom" : " O'Neill, Maria\n",
+         "to" : "'chris.edmonds@truequote.com'"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1437,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1460,
+         "rawfrom" : "Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Maria.O'neill@Enform.com; brett.glass@enform.com;"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1490,
+         "rawfrom" : "O'Neill, Maria [mailto:Maria.O'neill@Enform.com]\n",
+         "to" : "brett.glass@enform.com; stewart.clark@enform.com;"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 1537,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1551,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "kimberly.hahn@enform.com",
+         "line" : 1567,
+         "rawfrom" : " Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]\n",
+         "to" : "Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1591,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1600,
+         "rawfrom" : " Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Dennis Crum (E-mail); Chris Edmonds (E-mail)"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1662,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "David Fisher/NA/Enron@Enron"
+      },
+      {
+         "from" : "david.fisher@ourclub.com",
+         "line" : 1681,
+         "rawfrom" : "David Fisher/NA/Enron on 12/11/2000 01:58 \n",
+         "to" : "<David.Fisher@enron.com>"
+      },
+      {
+         "from" : "david.fisher@enron.com",
+         "line" : 1704,
+         "rawfrom" : "David.Fisher@enron.com [mailto:David.Fisher@enron.com]\n",
+         "to" : "Maria.O'neill@Enform.com"
+      },
+      {
+         "from" : "mrf@dialdata.com.br",
+         "line" : 1752,
+         "rawfrom" : "Maria.O'neill@Enform.com",
+         "to" : "\"David Fisher \\(E-mail\\)\" <david.fisher@enron.com>"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1775,
+         "rawfrom" : "Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Maria.O'neill@Enform.com; brett.glass@enform.com;"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 1807,
+         "rawfrom" : "O'Neill, Maria [mailto:Maria.O'neill@Enform.com]\n",
+         "to" : "brett.glass@enform.com; stewart.clark@enform.com;"
+      },
+      {
+         "from" : "brett.glass@enform.com",
+         "line" : 1857,
+         "rawfrom" : "Glass, Brett [mailto:Brett.Glass@enform.com]\n",
+         "to" : "Maria O'Neill (E-mail)"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1871,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "kimberly.hahn@enform.com",
+         "line" : 1887,
+         "rawfrom" : "    Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]\n",
+         "to" : "Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1914,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn"
+      },
+      {
+         "from" : "stewart.clark@enform.com",
+         "line" : 1923,
+         "rawfrom" : "    Stewart D. Clark [mailto:Stewart.Clark@enform.com]\n",
+         "to" : "Dennis Crum (E-mail); Chris Edmonds (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+]

@@ -1,0 +1,1476 @@
+[
+{
+   "file" : "enron-raw/donohoe-t/all_documents/154.",
+   "hops" : [
+      {
+         "from" : "dean.sacerdote@enron.com",
+         "line" : 4,
+         "rawfrom" : "dean.sacerdote@enron.com\r\n",
+         "to" : "lsacerdote@prodigy.net, efitzgerald@anpower.com, ragan.bond@enron.com,"
+      },
+      {
+         "from" : "dean.sacerdote@enron.com",
+         "line" : 24,
+         "rawfrom" : "Dean Sacerdote/NA/Enron on 11/01/2000 08:37 AM -----\n",
+         "to" : "\"Daniel Ajtai\" <d_ajtai@hotmail.com>, STDAGG11@shsu.edu, Katherine"
+      },
+      {
+         "from" : "lacye.trevino@enron.com",
+         "line" : 43,
+         "rawfrom" : "Lacye Trevino/NA/Enron on 11/01/2000 07:54 AM -----\n",
+         "to" : "lulilulu@aol.com, tripeter@yahoo.com, lcerquera@aglife.com, Katherine"
+      },
+      {
+         "from" : "beth.a.ryan@enron.com",
+         "line" : 64,
+         "rawfrom" : " Beth A Ryan @ ECT                           10/31/2000 02:56 PM\n",
+         "to" : "<janie.e.paradoski@exxon.com> @ ENRON, \"Newman, Linda\" <LNewman@IKON.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/all_documents/62.",
+   "hops" : [
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ross.prevatt@enron.com\r\n",
+         "to" : "nelson.ferries@enron.com, tom.donohoe@enron.com"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/21/2000 04:26 \n",
+         "to" : "\"Wilma Raines\" <wraines@perriergroup.com>, \"Yvonne O'Meara\""
+      },
+      {
+         "from" : "bstirling@tompkinsandmcmaster.com",
+         "line" : 66,
+         "rawfrom" : "\"Bryan Stirling\" <bstirling@tompkinsandmcmaster.com>\n",
+         "to" : "<bstirl4505@aol.com>"
+      },
+      {
+         "from" : "suzanne@csaonline.com",
+         "line" : 76,
+         "rawfrom" : "Suzanne McGrane [SMTP:Suzanne@csaonline.com]\n",
+         "to" : "GBridgestone@aol.com; cmcannon@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/all_documents/76.",
+   "hops" : [
+      {
+         "from" : "mark.schrab@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.schrab@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com"
+      },
+      {
+         "from" : "tjones@spinexp.com",
+         "line" : 37,
+         "rawfrom" : "Tom Jones <tjones@spinexp.com>\n",
+         "to" : "\"William Young III (E-mail)\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 59,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "ajt3@petroquest.com, tjones@spinexp.com, mschrab@enron.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 73,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "ajt3@petroquest.com, tjones@spinexp.com, nferrie@enron.com,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 86,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 104,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Tom'\" <tjones@spinexp.com>, \"'Gary @ Home'\" <gaphouma@aol.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 126,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "victoria.versen@enron.com, mschrab@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 144,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 166,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "victoria.versen@enron.com, nferrie@enron.com, mschrab@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 182,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 203,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, nferrie@enron.com, victoria.versen@enron.com,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 227,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "nferrie@enron.com, victoria.versen@enron.com, mschrab@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 243,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 265,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "Billyoung3@aol.com @ ENRON"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 280,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, victoria.versen@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "garyp@spinexp.com",
+         "line" : 295,
+         "rawfrom" : "Gary Pierce <garyp@spinexp.com>\n",
+         "to" : "\"'Billyoung3@aol.com'\" <Billyoung3@aol.com>"
+      },
+      {
+         "from" : "billyoung3@aol.com",
+         "line" : 320,
+         "rawfrom" : "Billyoung3@aol.com  \n",
+         "to" : "wmcdougle@spinexp.com; Garyp@spinexp.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 331,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "nferrie@enron.com, mschrab@enron.com, victoria.versen@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 347,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 370,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "Billyoung3@aol.com @ ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/all_documents/9.",
+   "hops" : [
+      {
+         "from" : "ragan.bond@enron.com",
+         "line" : 4,
+         "rawfrom" : "ragan.bond@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "ragan.bond@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ragan Bond/Corp/Enron on 12/11/2000 02:39 \n",
+         "to" : "\"'ragan.bond@bhlp.com'\" <ragan.bond@bhlp.com>"
+      },
+      {
+         "from" : "dougk@amerexenergy.com",
+         "line" : 33,
+         "rawfrom" : "Doug Kuni [mailto:dougk@amerexenergy.com]\n",
+         "to" : "Walls, Rob; Thevenot, Skip; Snodgrass, Kevin; Scott, Allen;"
+      },
+      {
+         "from" : "mwicklund@tractebelpowerinc.com",
+         "line" : 43,
+         "rawfrom" : "\"Wicklund, Michael\" <MWicklund@tractebelpowerinc.com>\n",
+         "to" : "\"AMEREX (E-mail)\" <dougk@amerexenergy.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/discussion_threads/109.",
+   "hops" : [
+      {
+         "from" : "mark.schrab@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.schrab@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com"
+      },
+      {
+         "from" : "tjones@spinexp.com",
+         "line" : 37,
+         "rawfrom" : "Tom Jones <tjones@spinexp.com>\n",
+         "to" : "\"William Young III (E-mail)\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 59,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "ajt3@petroquest.com, tjones@spinexp.com, mschrab@enron.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 73,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "ajt3@petroquest.com, tjones@spinexp.com, nferrie@enron.com,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 86,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 104,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Tom'\" <tjones@spinexp.com>, \"'Gary @ Home'\" <gaphouma@aol.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 126,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "victoria.versen@enron.com, mschrab@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 144,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 166,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "victoria.versen@enron.com, nferrie@enron.com, mschrab@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 182,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 203,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, nferrie@enron.com, victoria.versen@enron.com,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 227,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "nferrie@enron.com, victoria.versen@enron.com, mschrab@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 243,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 265,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "Billyoung3@aol.com @ ENRON"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 280,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, victoria.versen@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "garyp@spinexp.com",
+         "line" : 295,
+         "rawfrom" : "Gary Pierce <garyp@spinexp.com>\n",
+         "to" : "\"'Billyoung3@aol.com'\" <Billyoung3@aol.com>"
+      },
+      {
+         "from" : "billyoung3@aol.com",
+         "line" : 320,
+         "rawfrom" : "Billyoung3@aol.com  \n",
+         "to" : "wmcdougle@spinexp.com; Garyp@spinexp.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 331,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "nferrie@enron.com, mschrab@enron.com, victoria.versen@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 347,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 370,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "Billyoung3@aol.com @ ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/discussion_threads/121.",
+   "hops" : [
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ross.prevatt@enron.com\r\n",
+         "to" : "nelson.ferries@enron.com, tom.donohoe@enron.com"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/21/2000 04:26 \n",
+         "to" : "\"Wilma Raines\" <wraines@perriergroup.com>, \"Yvonne O'Meara\""
+      },
+      {
+         "from" : "bstirling@tompkinsandmcmaster.com",
+         "line" : 66,
+         "rawfrom" : "\"Bryan Stirling\" <bstirling@tompkinsandmcmaster.com>\n",
+         "to" : "<bstirl4505@aol.com>"
+      },
+      {
+         "from" : "suzanne@csaonline.com",
+         "line" : 76,
+         "rawfrom" : "Suzanne McGrane [SMTP:Suzanne@csaonline.com]\n",
+         "to" : "GBridgestone@aol.com; cmcannon@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/discussion_threads/171.",
+   "hops" : [
+      {
+         "from" : "ragan.bond@enron.com",
+         "line" : 4,
+         "rawfrom" : "ragan.bond@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "ragan.bond@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ragan Bond/Corp/Enron on 12/11/2000 02:39 \n",
+         "to" : "\"'ragan.bond@bhlp.com'\" <ragan.bond@bhlp.com>"
+      },
+      {
+         "from" : "dougk@amerexenergy.com",
+         "line" : 33,
+         "rawfrom" : "Doug Kuni [mailto:dougk@amerexenergy.com]\n",
+         "to" : "Walls, Rob; Thevenot, Skip; Snodgrass, Kevin; Scott, Allen;"
+      },
+      {
+         "from" : "mwicklund@tractebelpowerinc.com",
+         "line" : 43,
+         "rawfrom" : "\"Wicklund, Michael\" <MWicklund@tractebelpowerinc.com>\n",
+         "to" : "\"AMEREX (E-mail)\" <dougk@amerexenergy.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/discussion_threads/32.",
+   "hops" : [
+      {
+         "from" : "dean.sacerdote@enron.com",
+         "line" : 4,
+         "rawfrom" : "dean.sacerdote@enron.com\r\n",
+         "to" : "lsacerdote@prodigy.net, efitzgerald@anpower.com, ragan.bond@enron.com,"
+      },
+      {
+         "from" : "dean.sacerdote@enron.com",
+         "line" : 24,
+         "rawfrom" : "Dean Sacerdote/NA/Enron on 11/01/2000 08:37 AM -----\n",
+         "to" : "\"Daniel Ajtai\" <d_ajtai@hotmail.com>, STDAGG11@shsu.edu, Katherine"
+      },
+      {
+         "from" : "lacye.trevino@enron.com",
+         "line" : 43,
+         "rawfrom" : "Lacye Trevino/NA/Enron on 11/01/2000 07:54 AM -----\n",
+         "to" : "lulilulu@aol.com, tripeter@yahoo.com, lcerquera@aglife.com, Katherine"
+      },
+      {
+         "from" : "beth.a.ryan@enron.com",
+         "line" : 64,
+         "rawfrom" : " Beth A Ryan @ ECT                           10/31/2000 02:56 PM\n",
+         "to" : "<janie.e.paradoski@exxon.com> @ ENRON, \"Newman, Linda\" <LNewman@IKON.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/240.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com, sean.riordan@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom; Riordan, Sean"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 42,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom; Chang, Bonnie; Love, Phillip M."
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 69,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 94,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 106,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 114,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 124,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 132,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/244.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com, sean.riordan@enron.com"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 32,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom; Chang, Bonnie; Love, Phillip M."
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 59,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 96,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 104,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 114,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 122,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/245.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com, bonnie.chang@enron.com, m..love@enron.com"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 32,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 69,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 87,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/246.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 43,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 61,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/265.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 26,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 44,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/290.",
+   "hops" : [
+      {
+         "from" : "souad.mahmassani@enron.com",
+         "line" : 4,
+         "rawfrom" : "souad.mahmassani@enron.com\r\n",
+         "to" : "denver.plachy@enron.com, martin.cuilla@enron.com, geoff.storey@enron.com,"
+      },
+      {
+         "from" : "souad.mahmassani@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMahmassani, Souad  \n",
+         "to" : "Plachy, Denver; Cuilla, Martin; Storey, Geoff; Yawapongsiri, Virawan; Kinsey, Lisa; Donohoe, Tom; Ruscitti, Kevin; Lewis, Andrew H.; Williams, Jason (Trading); Frihart, Bryant; Tucker, Patrick; Giron, Darron C.; Pollan, Sylvia S.; Murrell, Russell E; Culotta, Lindsay; O'Malley, Justin; Love, Phillip M."
+      },
+      {
+         "from" : "souad.mahmassani@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMahmassani, Souad  \n",
+         "to" : "Plachy, Denver; Cuilla, Martin; Storey, Geoff; Yawapongsiri, Virawan; Kinsey, Lisa; Donohoe, Tom; Ruscitti, Kevin; Lewis, Andrew H.; Williams, Jason (Trading); Frihart, Bryant; Tucker, Patrick; Giron, Darron C.; Pollan, Sylvia S.; Murrell, Russell E; Culotta, Lindsay; O'Malley, Justin; Love, Phillip M."
+      },
+      {
+         "from" : "souad.mahmassani@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tMahmassani, Souad  \n",
+         "to" : "Plachy, Denver; Cuilla, Martin; Storey, Geoff; Yawapongsiri, Virawan; Kinsey, Lisa; Donohoe, Tom; Ruscitti, Kevin; Lewis, Andrew H.; Williams, Jason (Trading); Frihart, Bryant; Tucker, Patrick; Giron, Darron C.; Pollan, Sylvia S.; Murrell, Russell E; Culotta, Lindsay; O'Malley, Justin; Love, Phillip M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/36.",
+   "hops" : [
+      {
+         "from" : "donnie.myers@enron.com",
+         "line" : 22,
+         "rawfrom" : "Donnie Myers/NA/Enron on 04/24/2001 09:13 AM ---------------------------\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 37,
+         "rawfrom" : "Dan Masters/HOU/ECT on 04/12/2001 03:28 PM ---------------------------\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 51,
+         "rawfrom" : "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "tammy.gilmore@enron.com",
+         "line" : 77,
+         "rawfrom" : " Tammy Gilmore\n",
+         "to" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com>"
+      },
+      {
+         "from" : "dabradbury@cmsenergy.com",
+         "line" : 90,
+         "rawfrom" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 107,
+         "rawfrom" : "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 130,
+         "rawfrom" : "Dan Masters\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/41.",
+   "hops" : [
+      {
+         "from" : "40ect@enron.com",
+         "line" : 23,
+         "rawfrom" : "40ect@enron.com\r\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 38,
+         "rawfrom" : "Dan Masters/HOU/ECT on 04/12/2001 03:28 PM ---------------------------\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 52,
+         "rawfrom" : "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "tammy.gilmore@enron.com",
+         "line" : 78,
+         "rawfrom" : " Tammy Gilmore\n",
+         "to" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com>"
+      },
+      {
+         "from" : "dabradbury@cmsenergy.com",
+         "line" : 91,
+         "rawfrom" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 108,
+         "rawfrom" : "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 131,
+         "rawfrom" : "Dan Masters\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/42.",
+   "hops" : [
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 4,
+         "rawfrom" : "dan.masters@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 24,
+         "rawfrom" : "From:\tTom Donohoe/ENRON@enronXgate on 04/24/2001 03:21 PM\n",
+         "to" : "Donnie Myers/NA/Enron@ENRON"
+      },
+      {
+         "from" : "donnie.myers@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMyers, Donnie  \n",
+         "to" : "Tom Donohoe/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "donnie.myers@enron.com",
+         "line" : 41,
+         "rawfrom" : "Donnie Myers/NA/Enron on 04/24/2001 09:13 AM ---------------------------\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 56,
+         "rawfrom" : "Dan Masters/HOU/ECT on 04/12/2001 03:28 PM ---------------------------\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 70,
+         "rawfrom" : "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "tammy.gilmore@enron.com",
+         "line" : 96,
+         "rawfrom" : " Tammy Gilmore\n",
+         "to" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com>"
+      },
+      {
+         "from" : "dabradbury@cmsenergy.com",
+         "line" : 109,
+         "rawfrom" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 126,
+         "rawfrom" : "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 149,
+         "rawfrom" : "Dan Masters\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/468.",
+   "hops" : [
+      {
+         "from" : "alexandra.villarreal@enron.com",
+         "line" : 4,
+         "rawfrom" : "alexandra.villarreal@enron.com\r\n",
+         "to" : "martin.cuilla@enron.com, tom.donohoe@enron.com, h..lewis@enron.com,"
+      },
+      {
+         "from" : "daniel.muschar@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tMuschar, Daniel  \n",
+         "to" : "Villarreal, Alexandra"
+      },
+      {
+         "from" : "alexandra.villarreal@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tVillarreal, Alexandra  \n",
+         "to" : "Muschar, Daniel"
+      },
+      {
+         "from" : "daniel.muschar@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tMuschar, Daniel  \n",
+         "to" : "Brooks, Loretta; Clyatt, Julie; Coleman, Venita; Jackson, Brandee; Jones, Melissa; Moore, Kevin G.; Romero, Araceli; Saldana, Alex; Schoppe, Tammie; Showers, Digna; Solis, Melissa; Tijerina, Shirley; Velasco, Xochitl-Alexis; Villarreal, Alexandra; Vuittonet, Laura; Young, Becky"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/inbox/98.",
+   "hops" : [
+      {
+         "from" : "elizabeth.hernandez@enron.com",
+         "line" : 4,
+         "rawfrom" : "elizabeth.hernandez@enron.com\r\n",
+         "to" : "scott.dozier@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 28,
+         "rawfrom" : " Scott Dozier @ ENRON                           05/09/2001 01:39 PM\t\n",
+         "to" : "Tom Donohoe/Enron@EnronXGate, Phillip M Love/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 43,
+         "rawfrom" : " Scott Dozier                           05/08/2001 11:17 AM\t\n",
+         "to" : "Tom Donohoe/Enron@EnronXGate, Phillip M Love/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 58,
+         "rawfrom" : " Scott Dozier                           05/08/2001 10:53 AM\t\n",
+         "to" : "Tom Donohoe/Enron@EnronXGate, Phillip M Love/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/notes_inbox/138.",
+   "hops" : [
+      {
+         "from" : "dean.sacerdote@enron.com",
+         "line" : 4,
+         "rawfrom" : "dean.sacerdote@enron.com\r\n",
+         "to" : "lsacerdote@prodigy.net, efitzgerald@anpower.com, ragan.bond@enron.com,"
+      },
+      {
+         "from" : "dean.sacerdote@enron.com",
+         "line" : 24,
+         "rawfrom" : "Dean Sacerdote/NA/Enron on 11/01/2000 08:37 AM -----\n",
+         "to" : "\"Daniel Ajtai\" <d_ajtai@hotmail.com>, STDAGG11@shsu.edu, Katherine"
+      },
+      {
+         "from" : "lacye.trevino@enron.com",
+         "line" : 43,
+         "rawfrom" : "Lacye Trevino/NA/Enron on 11/01/2000 07:54 AM -----\n",
+         "to" : "lulilulu@aol.com, tripeter@yahoo.com, lcerquera@aglife.com, Katherine"
+      },
+      {
+         "from" : "beth.a.ryan@enron.com",
+         "line" : 64,
+         "rawfrom" : " Beth A Ryan @ ECT                           10/31/2000 02:56 PM\n",
+         "to" : "<janie.e.paradoski@exxon.com> @ ENRON, \"Newman, Linda\" <LNewman@IKON.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/notes_inbox/62.",
+   "hops" : [
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ross.prevatt@enron.com\r\n",
+         "to" : "nelson.ferries@enron.com, tom.donohoe@enron.com"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/21/2000 04:26 \n",
+         "to" : "\"Wilma Raines\" <wraines@perriergroup.com>, \"Yvonne O'Meara\""
+      },
+      {
+         "from" : "bstirling@tompkinsandmcmaster.com",
+         "line" : 66,
+         "rawfrom" : "\"Bryan Stirling\" <bstirling@tompkinsandmcmaster.com>\n",
+         "to" : "<bstirl4505@aol.com>"
+      },
+      {
+         "from" : "suzanne@csaonline.com",
+         "line" : 76,
+         "rawfrom" : "Suzanne McGrane [SMTP:Suzanne@csaonline.com]\n",
+         "to" : "GBridgestone@aol.com; cmcannon@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/notes_inbox/76.",
+   "hops" : [
+      {
+         "from" : "mark.schrab@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.schrab@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com"
+      },
+      {
+         "from" : "tjones@spinexp.com",
+         "line" : 37,
+         "rawfrom" : "Tom Jones <tjones@spinexp.com>\n",
+         "to" : "\"William Young III (E-mail)\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 59,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "ajt3@petroquest.com, tjones@spinexp.com, mschrab@enron.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 73,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "ajt3@petroquest.com, tjones@spinexp.com, nferrie@enron.com,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 86,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 104,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Tom'\" <tjones@spinexp.com>, \"'Gary @ Home'\" <gaphouma@aol.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 126,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "victoria.versen@enron.com, mschrab@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 144,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 166,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "victoria.versen@enron.com, nferrie@enron.com, mschrab@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 182,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 203,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, nferrie@enron.com, victoria.versen@enron.com,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 227,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "nferrie@enron.com, victoria.versen@enron.com, mschrab@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 243,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Gary'\" <garyp@spinexp.com>, \"'Bill'\" <billyoung3@aol.com>"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 265,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "Billyoung3@aol.com @ ENRON"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 280,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "mschrab@enron.com, victoria.versen@enron.com, nferrie@enron.com"
+      },
+      {
+         "from" : "garyp@spinexp.com",
+         "line" : 295,
+         "rawfrom" : "Gary Pierce <garyp@spinexp.com>\n",
+         "to" : "\"'Billyoung3@aol.com'\" <Billyoung3@aol.com>"
+      },
+      {
+         "from" : "billyoung3@aol.com",
+         "line" : 320,
+         "rawfrom" : "Billyoung3@aol.com  \n",
+         "to" : "wmcdougle@spinexp.com; Garyp@spinexp.com"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 331,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "nferrie@enron.com, mschrab@enron.com, victoria.versen@enron.com"
+      },
+      {
+         "from" : "wmcdougle@spinexp.com",
+         "line" : 347,
+         "rawfrom" : "\" Walter McDougle\" <wmcdougle@spinexp.com>\n",
+         "to" : "\"'Bill'\" <billyoung3@aol.com>, \"'Gary'\" <garyp@spinexp.com>,"
+      },
+      {
+         "from" : "mark.l.schrab@enron.com",
+         "line" : 370,
+         "rawfrom" : "Mark L Schrab/HOU/ECT on 11/20/2000 11:41 \n",
+         "to" : "Billyoung3@aol.com @ ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/notes_inbox/9.",
+   "hops" : [
+      {
+         "from" : "ragan.bond@enron.com",
+         "line" : 4,
+         "rawfrom" : "ragan.bond@enron.com\r\n",
+         "to" : "tom.donohoe@enron.com"
+      },
+      {
+         "from" : "ragan.bond@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ragan Bond/Corp/Enron on 12/11/2000 02:39 \n",
+         "to" : "\"'ragan.bond@bhlp.com'\" <ragan.bond@bhlp.com>"
+      },
+      {
+         "from" : "dougk@amerexenergy.com",
+         "line" : 33,
+         "rawfrom" : "Doug Kuni [mailto:dougk@amerexenergy.com]\n",
+         "to" : "Walls, Rob; Thevenot, Skip; Snodgrass, Kevin; Scott, Allen;"
+      },
+      {
+         "from" : "mwicklund@tractebelpowerinc.com",
+         "line" : 43,
+         "rawfrom" : "\"Wicklund, Michael\" <MWicklund@tractebelpowerinc.com>\n",
+         "to" : "\"AMEREX (E-mail)\" <dougk@amerexenergy.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/sent_items/11.",
+   "hops" : [
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.donohoe@enron.com\r\n",
+         "to" : "scott.dozier@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 32,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/sent_items/15.",
+   "hops" : [
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.donohoe@enron.com\r\n",
+         "to" : "donohoet@msn.com"
+      },
+      {
+         "from" : "craig_taylor67@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tTaylor, Craig  \n",
+         "to" : "Griffith, John; May, Larry; Zipper, Andy; Donohoe, Tom; Otto, Charles H.; Diamond, Daniel"
+      },
+      {
+         "from" : "mcooley@ridgways.com",
+         "line" : 30,
+         "rawfrom" : "\t\"COOLEY, MATTHEW\" <MCOOLEY@ridgways.com>@ENRON  \n",
+         "to" : "Taylor, Craig"
+      },
+      {
+         "from" : "eric_anderson@transwestern.net",
+         "line" : 44,
+         "rawfrom" : "Eric Anderson [mailto:Eric_Anderson@transwestern.net]\n",
+         "to" : "David Anderson (E-mail); COOLEY, MATTHEW; David Shavlan (E-mail);"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/sent_items/29.",
+   "hops" : [
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.donohoe@enron.com\r\n",
+         "to" : "todd@mrienergy.com"
+      },
+      {
+         "from" : "todd@mrienergy.com",
+         "line" : 22,
+         "rawfrom" : "todd@mrienergy.com [mailto:todd@mrienergy.com]\n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 31,
+         "rawfrom" : "Donohoe, Tom [mailto:Tom.Donohoe@ENRON.com]\n",
+         "to" : "todd@mrienergy.com"
+      },
+      {
+         "from" : "todd@mrienergy.com",
+         "line" : 41,
+         "rawfrom" : "todd@mrienergy.com [mailto:todd@mrienergy.com]\n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/sent_items/5.",
+   "hops" : [
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.donohoe@enron.com\r\n",
+         "to" : "donnie.myers@enron.com"
+      },
+      {
+         "from" : "donnie.myers@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tMyers, Donnie  \n",
+         "to" : "Tom Donohoe/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "donnie.myers@enron.com",
+         "line" : 32,
+         "rawfrom" : "Donnie Myers/NA/Enron on 04/24/2001 09:13 AM ---------------------------\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 47,
+         "rawfrom" : "Dan Masters/HOU/ECT on 04/12/2001 03:28 PM ---------------------------\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 61,
+         "rawfrom" : "Dan.Masters@enron.com on 04/06/2001 05:43:24 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "tammy.gilmore@enron.com",
+         "line" : 87,
+         "rawfrom" : " Tammy Gilmore\n",
+         "to" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com>"
+      },
+      {
+         "from" : "dabradbury@cmsenergy.com",
+         "line" : 100,
+         "rawfrom" : "\"Debbie A. Bradbury\" <dabradbury@cmsenergy.com> on 04/06/2001 02:07:43 PM\n",
+         "to" : "\"Dan.Masters\" <Dan.Masters@enron.com>"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 117,
+         "rawfrom" : "Dan.Masters@enron.com on 04/03/2001 01:08:52 PM\n",
+         "to" : "Tammy.Gilmore@enron.com"
+      },
+      {
+         "from" : "dan.masters@enron.com",
+         "line" : 140,
+         "rawfrom" : "Dan Masters\n",
+         "to" : "Tammy Gilmore/NA/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/sent_items/7.",
+   "hops" : [
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.donohoe@enron.com\r\n",
+         "to" : "scott.dozier@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom; Chang, Bonnie; Love, Phillip M."
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 41,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 78,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 96,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 104,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/donohoe-t/sent_items/8.",
+   "hops" : [
+      {
+         "from" : "tom.donohoe@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.donohoe@enron.com\r\n",
+         "to" : "scott.dozier@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 51,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      },
+      {
+         "from" : "tomcdonohoe@netzero.net",
+         "line" : 69,
+         "rawfrom" : "\tDonohoe, Tom  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Donohoe, Tom"
+      }
+   ],
+   "skipped" : 0
+}
+]

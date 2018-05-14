@@ -1,0 +1,125 @@
+[
+{
+   "file" : "enron-raw/linder-e/all_documents/370.",
+   "hops" : [
+      {
+         "from" : "rudy.sutherland@enron.com",
+         "line" : 4,
+         "rawfrom" : "rudy.sutherland@enron.com\r\n",
+         "to" : "anthony.tran@enron.com"
+      },
+      {
+         "from" : "anthony.tran@enron.com",
+         "line" : 33,
+         "rawfrom" : " Anthony Tran @ EES                           04/11/2001 09:35 AM\n",
+         "to" : "Chad Landry/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "chad.landry@enron.com",
+         "line" : 59,
+         "rawfrom" : "Chad Landry@ECT\n",
+         "to" : "Marc Pederson/Contractor/Enron Communications@ENRON COMMUNICATIONS@ENRON"
+      },
+      {
+         "from" : "marc.pederson@enron.com",
+         "line" : 70,
+         "rawfrom" : "Marc Pederson@ENRON COMMUNICATIONS on 04/11/2001 09:12 AM\n",
+         "to" : "Sheila A Knudsen/ENRON@enronXgate@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/linder-e/all_documents/375.",
+   "hops" : [
+      {
+         "from" : "prashant.bhairgond@enron.com",
+         "line" : 4,
+         "rawfrom" : "prashant.bhairgond@enron.com\r\n",
+         "to" : "millie.gautam@enron.com"
+      },
+      {
+         "from" : "millie.gautam@enron.com",
+         "line" : 32,
+         "rawfrom" : "Millie Gautam@EES\n",
+         "to" : "Marie Newhouse/ENRON@enronXgate @ ENRON"
+      },
+      {
+         "from" : "marie.newhouse@enron.com",
+         "line" : 45,
+         "rawfrom" : "Marie Newhouse/ENRON@enronXgate on 04/11/2001 09:38 AM\n",
+         "to" : "\"iBuyit@ENRON\" <IMCEANOTES-iBuyit+40ENRON@ENRON.com>@SMTP@enronXgate, All"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 69,
+         "rawfrom" : " Enron Announcements/Corp/Enron@ENRON \n",
+         "to" : "All Enron Employees United States@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/linder-e/notes_inbox/566.",
+   "hops" : [
+      {
+         "from" : "prashant.bhairgond@enron.com",
+         "line" : 4,
+         "rawfrom" : "prashant.bhairgond@enron.com\r\n",
+         "to" : "millie.gautam@enron.com"
+      },
+      {
+         "from" : "millie.gautam@enron.com",
+         "line" : 32,
+         "rawfrom" : "Millie Gautam@EES\n",
+         "to" : "Marie Newhouse/ENRON@enronXgate @ ENRON"
+      },
+      {
+         "from" : "marie.newhouse@enron.com",
+         "line" : 45,
+         "rawfrom" : "Marie Newhouse/ENRON@enronXgate on 04/11/2001 09:38 AM\n",
+         "to" : "\"iBuyit@ENRON\" <IMCEANOTES-iBuyit+40ENRON@ENRON.com>@SMTP@enronXgate, All"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 69,
+         "rawfrom" : " Enron Announcements/Corp/Enron@ENRON \n",
+         "to" : "All Enron Employees United States@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/linder-e/notes_inbox/571.",
+   "hops" : [
+      {
+         "from" : "rudy.sutherland@enron.com",
+         "line" : 4,
+         "rawfrom" : "rudy.sutherland@enron.com\r\n",
+         "to" : "anthony.tran@enron.com"
+      },
+      {
+         "from" : "anthony.tran@enron.com",
+         "line" : 33,
+         "rawfrom" : " Anthony Tran @ EES                           04/11/2001 09:35 AM\n",
+         "to" : "Chad Landry/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "chad.landry@enron.com",
+         "line" : 59,
+         "rawfrom" : "Chad Landry@ECT\n",
+         "to" : "Marc Pederson/Contractor/Enron Communications@ENRON COMMUNICATIONS@ENRON"
+      },
+      {
+         "from" : "marc.pederson@enron.com",
+         "line" : 70,
+         "rawfrom" : "Marc Pederson@ENRON COMMUNICATIONS on 04/11/2001 09:12 AM\n",
+         "to" : "Sheila A Knudsen/ENRON@enronXgate@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,2413 @@
+[
+{
+   "file" : "enron-raw/salisbury-h/holden_s/4.",
+   "hops" : [
+      {
+         "from" : "tom.alonso@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.alonso@enron.com\r\n",
+         "to" : "mark.fischer@enron.com, holden.salisbury@enron.com"
+      },
+      {
+         "from" : "lcrane@prebon.com",
+         "line" : 22,
+         "rawfrom" : "\tLex Crane <LCrane@prebon.com>@ENRON [mailto:IMCEANOTES-Lex+20Crane+20+3CLCrane+40prebon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Alonso, Tom"
+      },
+      {
+         "from" : "james.smith@natoil.com",
+         "line" : 30,
+         "rawfrom" : " James Smith\n",
+         "to" : "Anthony Farinacci; Lex Crane; Mike Loria"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 47,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 56,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; <mailto:patrickw@Youthstream.com;>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/107.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "legal <.hall@enron.com>, tim.belden@enron.com"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tFischer, Mark  \n",
+         "to" : "Belden, Tim; Alonso, Tom; Salisbury, Holden"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 39,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "Alonso, Tom; Fischer, Mark; Salisbury, Holden"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 47,
+         "rawfrom" : "\tThome, Stephen  \n",
+         "to" : "Schneider, Chip; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/127.",
+   "hops" : [
+      {
+         "from" : "chris.lackey@enron.com",
+         "line" : 4,
+         "rawfrom" : "chris.lackey@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "jbutler@pnm.com",
+         "line" : 23,
+         "rawfrom" : "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "to" : "Lackey, Chris"
+      },
+      {
+         "from" : "chris.lackey@enron.com",
+         "line" : 34,
+         "rawfrom" : "Lackey, Chris [mailto:Chris.Lackey@ENRON.com]\n",
+         "to" : "Butler, Jim"
+      },
+      {
+         "from" : "jbutler@pnm.com",
+         "line" : 46,
+         "rawfrom" : "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "to" : "Lackey, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/226.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/28/2001",
+         "line" : 32,
+         "rawfrom" : "11/01/2001   To: 11/28/2001\t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 46,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 59,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 66,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/28/2001"
+      },
+      {
+         "from" : "11/28/2001   to: 11/28/2001",
+         "line" : 72,
+         "rawfrom" : "11/28/2001   To: 11/28/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/28/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/231.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/27/2001",
+         "line" : 32,
+         "rawfrom" : "11/01/2001   To: 11/27/2001\t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 46,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 59,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 66,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/27/2001"
+      },
+      {
+         "from" : "11/27/2001   to: 11/27/2001",
+         "line" : 72,
+         "rawfrom" : "11/27/2001   To: 11/27/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/27/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/238.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/26/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/26/2001\t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 47,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 60,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 67,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/26/2001"
+      },
+      {
+         "from" : "11/26/2001   to: 11/26/2001",
+         "line" : 73,
+         "rawfrom" : "11/26/2001   To: 11/26/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/26/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/244.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/21/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/21/2001\t  \t \n",
+         "to" : "11/21/2001"
+      },
+      {
+         "from" : "11/21/2001   to: 11/21/2001",
+         "line" : 47,
+         "rawfrom" : "11/21/2001   To: 11/21/2001\t  \t \n",
+         "to" : "11/21/2001"
+      },
+      {
+         "from" : "11/21/2001   to: 11/21/2001",
+         "line" : 60,
+         "rawfrom" : "11/21/2001   To: 11/21/2001\t  \t \n",
+         "to" : "11/21/2001"
+      },
+      {
+         "from" : "11/21/2001   to: 11/21/2001",
+         "line" : 67,
+         "rawfrom" : "11/21/2001   To: 11/21/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/21/2001"
+      },
+      {
+         "from" : "11/21/2001   to: 11/21/2001",
+         "line" : 73,
+         "rawfrom" : "11/21/2001   To: 11/21/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/21/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/250.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/20/2001",
+         "line" : 35,
+         "rawfrom" : "11/01/2001   To: 11/20/2001\t  \t \n",
+         "to" : "11/20/2001"
+      },
+      {
+         "from" : "11/20/2001   to: 11/20/2001",
+         "line" : 49,
+         "rawfrom" : "11/20/2001   To: 11/20/2001\t  \t \n",
+         "to" : "11/20/2001"
+      },
+      {
+         "from" : "11/20/2001   to: 11/20/2001",
+         "line" : 62,
+         "rawfrom" : "11/20/2001   To: 11/20/2001\t  \t \n",
+         "to" : "11/20/2001"
+      },
+      {
+         "from" : "11/20/2001   to: 11/20/2001",
+         "line" : 69,
+         "rawfrom" : "11/20/2001   To: 11/20/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/20/2001"
+      },
+      {
+         "from" : "11/20/2001   to: 11/20/2001",
+         "line" : 75,
+         "rawfrom" : "11/20/2001   To: 11/20/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/20/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/252.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/19/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/19/2001\t  \t \n",
+         "to" : "11/19/2001"
+      },
+      {
+         "from" : "11/19/2001   to: 11/19/2001",
+         "line" : 47,
+         "rawfrom" : "11/19/2001   To: 11/19/2001\t  \t \n",
+         "to" : "11/19/2001"
+      },
+      {
+         "from" : "11/19/2001   to: 11/19/2001",
+         "line" : 60,
+         "rawfrom" : "11/19/2001   To: 11/19/2001\t  \t \n",
+         "to" : "11/19/2001"
+      },
+      {
+         "from" : "11/19/2001   to: 11/19/2001",
+         "line" : 67,
+         "rawfrom" : "11/19/2001   To: 11/19/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/19/2001"
+      },
+      {
+         "from" : "11/19/2001   to: 11/19/2001",
+         "line" : 73,
+         "rawfrom" : "11/19/2001   To: 11/19/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/19/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/256.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/16/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/16/2001\t  \t \n",
+         "to" : "11/16/2001"
+      },
+      {
+         "from" : "11/16/2001   to: 11/16/2001",
+         "line" : 47,
+         "rawfrom" : "11/16/2001   To: 11/16/2001\t  \t \n",
+         "to" : "11/16/2001"
+      },
+      {
+         "from" : "11/16/2001   to: 11/16/2001",
+         "line" : 60,
+         "rawfrom" : "11/16/2001   To: 11/16/2001\t  \t \n",
+         "to" : "11/16/2001"
+      },
+      {
+         "from" : "11/16/2001   to: 11/16/2001",
+         "line" : 67,
+         "rawfrom" : "11/16/2001   To: 11/16/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/16/2001"
+      },
+      {
+         "from" : "11/16/2001   to: 11/16/2001",
+         "line" : 73,
+         "rawfrom" : "11/16/2001   To: 11/16/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/16/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/265.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/14/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/14/2001\t  \t \n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/15/2001   to: 11/15/2001",
+         "line" : 47,
+         "rawfrom" : "11/15/2001   To: 11/15/2001\t  \t \n",
+         "to" : "11/15/2001"
+      },
+      {
+         "from" : "11/15/2001   to: 11/15/2001",
+         "line" : 60,
+         "rawfrom" : "11/15/2001   To: 11/15/2001\t  \t \n",
+         "to" : "11/15/2001"
+      },
+      {
+         "from" : "11/15/2001   to: 11/15/2001",
+         "line" : 67,
+         "rawfrom" : "11/15/2001   To: 11/15/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/15/2001"
+      },
+      {
+         "from" : "11/15/2001   to: 11/15/2001",
+         "line" : 73,
+         "rawfrom" : "11/15/2001   To: 11/15/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/15/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/278.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/14/2001",
+         "line" : 33,
+         "rawfrom" : "11/01/2001   To: 11/14/2001\t  \t \n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 47,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t \n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 60,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t \n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 67,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 73,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/14/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/283.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/13/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/13/2001\t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 41,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 54,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 61,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/13/2001"
+      },
+      {
+         "from" : "11/13/2001   to: 11/13/2001",
+         "line" : 67,
+         "rawfrom" : "11/13/2001   To: 11/13/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/13/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/289.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/09/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 41,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 54,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 61,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 67,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/09/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/291.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/12/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/12/2001\t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 41,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 54,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 61,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/12/2001"
+      },
+      {
+         "from" : "11/12/2001   to: 11/12/2001",
+         "line" : 67,
+         "rawfrom" : "11/12/2001   To: 11/12/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/12/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/300.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/09/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 41,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 54,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 61,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/09/2001"
+      },
+      {
+         "from" : "11/09/2001   to: 11/09/2001",
+         "line" : 67,
+         "rawfrom" : "11/09/2001   To: 11/09/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/09/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/303.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/08/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 41,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 54,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 61,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 67,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/08/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/311.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/08/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 41,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 54,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 61,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/08/2001"
+      },
+      {
+         "from" : "11/08/2001   to: 11/08/2001",
+         "line" : 67,
+         "rawfrom" : "11/08/2001   To: 11/08/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/08/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/326.",
+   "hops" : [
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 4,
+         "rawfrom" : "kysa.alport@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, robert.badeer@enron.com, tim.belden@enron.com,"
+      },
+      {
+         "from" : "11/01/2001   to: 11/07/2001",
+         "line" : 27,
+         "rawfrom" : "11/01/2001   To: 11/07/2001\t  \t \n",
+         "to" : "11/07/2001"
+      },
+      {
+         "from" : "11/07/2001   to: 11/07/2001",
+         "line" : 41,
+         "rawfrom" : "11/07/2001   To: 11/07/2001\t  \t \n",
+         "to" : "11/07/2001"
+      },
+      {
+         "from" : "11/07/2001   to: 11/07/2001",
+         "line" : 54,
+         "rawfrom" : "11/07/2001   To: 11/07/2001\t  \t \n",
+         "to" : "11/07/2001"
+      },
+      {
+         "from" : "11/07/2001   to: 11/07/2001",
+         "line" : 61,
+         "rawfrom" : "11/07/2001   To: 11/07/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/07/2001"
+      },
+      {
+         "from" : "11/07/2001   to: 11/07/2001",
+         "line" : 67,
+         "rawfrom" : "11/07/2001   To: 11/07/2001\t  \t  \t  \t  \t  \t \n",
+         "to" : "11/07/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/383.",
+   "hops" : [
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "julie.sarnowski@enron.com\r\n",
+         "to" : "mike.swerzbin@enron.com, chris.mallory@enron.com, sean.crandall@enron.com,"
+      },
+      {
+         "from" : "trycooper@hotmail.com",
+         "line" : 26,
+         "rawfrom" : "\tRichey, Cooper  \n",
+         "to" : "Heizenrader, Tim; Sarnowski, Julie"
+      },
+      {
+         "from" : "mike.macphee@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMacphee, Mike  \n",
+         "to" : "Keohane, Peter; Crawford, Sharon; Davies, Derek; Zufferli, John; Greenizan, Bill; Richey, Cooper; Seminuk, Tyler; Dupuy, Mark; Punja, Karim; Wong, Michael F"
+      },
+      {
+         "from" : "jim_paton@transalta.com",
+         "line" : 42,
+         "rawfrom" : "\tJim_Paton@transalta.com@ENRON  \n",
+         "to" : "bbaker@enmax.com; kolsen@enmax.com; Macphee, Mike; Dupuy, Mark; robert_cooper@transcanada.com; candice_thiessen@transcanada.com; jimo@encoreenergy.com; clast@enmax.com; rhay@epcor.ca; gwen_wenstrom@transcanada.com; doug.heath@powerpool.ab.ca; bpinfo@powerpool.ab.ca; Howie_Thomas@transalta.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/384.",
+   "hops" : [
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "julie.sarnowski@enron.com\r\n",
+         "to" : "mike.swerzbin@enron.com, holden.salisbury@enron.com, tom.alonso@enron.com,"
+      },
+      {
+         "from" : "trycooper@hotmail.com",
+         "line" : 26,
+         "rawfrom" : "\tRichey, Cooper  \n",
+         "to" : "Heizenrader, Tim; Sarnowski, Julie"
+      },
+      {
+         "from" : "mike.macphee@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMacphee, Mike  \n",
+         "to" : "Davies, Derek; Keohane, Peter; Crawford, Sharon; Zufferli, John; Richey, Cooper; Greenizan, Bill; Seminuk, Tyler"
+      },
+      {
+         "from" : "jim_paton@transalta.com",
+         "line" : 42,
+         "rawfrom" : "\tJim_Paton@transalta.com@ENRON  \n",
+         "to" : "bbaker@enmax.com; kolsen@enmax.com; Macphee, Mike; Dupuy, Mark; robert_cooper@transcanada.com; candice_thiessen@transcanada.com; jimo@encoreenergy.com; clast@enmax.com; rhay@epcor.ca; gwen_wenstrom@transcanada.com; doug.heath@powerpool.ab.ca; bpinfo@powerpool.ab.ca; Howie_Thomas@transalta.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/395.",
+   "hops" : [
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "julie.sarnowski@enron.com\r\n",
+         "to" : "mike.swerzbin@enron.com, m..driscoll@enron.com, sean.crandall@enron.com,"
+      },
+      {
+         "from" : "trycooper@hotmail.com",
+         "line" : 26,
+         "rawfrom" : "\tRichey, Cooper  \n",
+         "to" : "Heizenrader, Tim; Sarnowski, Julie"
+      },
+      {
+         "from" : "mike.macphee@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMacphee, Mike  \n",
+         "to" : "Keohane, Peter; Crawford, Sharon; Zufferli, John; Greenizan, Bill; Richey, Cooper; Fichten, Murray; Davies, Derek"
+      },
+      {
+         "from" : "jim_paton@transalta.com",
+         "line" : 42,
+         "rawfrom" : "\tJim_Paton@transalta.com@ENRON  \n",
+         "to" : "Howie_Thomas@transalta.com; bbaker@enmax.com; kolsen@enmax.com; Macphee, Mike; Dupuy, Mark; robert_cooper@transcanada.com; candice_thiessen@transcanada.com; jimo@encoreenergy.com; clast@enmax.com; rhay@epcor.ca; gwen_wenstrom@transcanada.com; doug.heath@powerpool.ab.ca; bpinfo@powerpool.ab.ca"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/424.",
+   "hops" : [
+      {
+         "from" : "julie.sarnowski@enron.com",
+         "line" : 4,
+         "rawfrom" : "julie.sarnowski@enron.com\r\n",
+         "to" : "sean.crandall@enron.com, diana.scholtes@enron.com, chris.mallory@enron.com,"
+      },
+      {
+         "from" : "trycooper@hotmail.com",
+         "line" : 24,
+         "rawfrom" : "\tRichey, Cooper  \n",
+         "to" : "Sarnowski, Julie"
+      },
+      {
+         "from" : "mike.macphee@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMacphee, Mike  \n",
+         "to" : "Keohane, Peter; Davies, Derek; Taylor, Michael J.; Greenizan, Bill; Zufferli, John; Richey, Cooper"
+      },
+      {
+         "from" : "jim_paton@transalta.com",
+         "line" : 40,
+         "rawfrom" : "\tJim_Paton@transalta.com@ENRON  \n",
+         "to" : "Howie_Thomas@transalta.com; bbaker@enmax.com; kolsen@enmax.com; Macphee, Mike; Dupuy, Mark; robert_cooper@transcanada.com; candice_thiessen@transcanada.com; jimo@encoreenergy.com; clast@enmax.com; rhay@epcor.ca; gwen_wenstrom@transcanada.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/425.",
+   "hops" : [
+      {
+         "from" : "stacy.runswick@enron.com",
+         "line" : 4,
+         "rawfrom" : "stacy.runswick@enron.com\r\n",
+         "to" : "cara.semperger@enron.com, diana.scholtes@enron.com,"
+      },
+      {
+         "from" : "srunswick@aol.com",
+         "line" : 24,
+         "rawfrom" : "Srunswick@aol.com [mailto:Srunswick@aol.com]\n",
+         "to" : "Runswick, Stacy"
+      },
+      {
+         "from" : "mlrosales@netzero.net",
+         "line" : 33,
+         "rawfrom" : " <mlrosales@netzero.net>\n",
+         "to" : "mlrosales@netzero.net"
+      },
+      {
+         "from" : "twink@fuse.net",
+         "line" : 42,
+         "rawfrom" : " <twink@fuse.net>\n",
+         "to" : "~Twink~ <twink@fuse.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/459.",
+   "hops" : [
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 4,
+         "rawfrom" : "leslie.hansen@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 24,
+         "rawfrom" : "Salisbury, Holden \n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 37,
+         "rawfrom" : "Hansen, Leslie \n",
+         "to" : "Walker, Chris; Salisbury, Holden"
+      },
+      {
+         "from" : "chris.walker@enron.com",
+         "line" : 48,
+         "rawfrom" : "Walker, Chris \n",
+         "to" : "Hansen, Leslie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/49.",
+   "hops" : [
+      {
+         "from" : "hall@enron.com",
+         "line" : 4,
+         "rawfrom" : "legal <.hall@enron.com>\r\n",
+         "to" : "john.malowney@neg.pge.com"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 32,
+         "rawfrom" : "Dunton, Heather \n",
+         "to" : "Hall, Steve C. (Legal)"
+      },
+      {
+         "from" : "john.malowney@neg.pge.com",
+         "line" : 42,
+         "rawfrom" : "Malowney, John [mailto:john.malowney@neg.pge.com]\n",
+         "to" : "Dunton, Heather"
+      },
+      {
+         "from" : "john.malowney@neg.pge.com",
+         "line" : 53,
+         "rawfrom" : "\tMalowney, John  \n",
+         "to" : "'Steve.Hall@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/501.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "dperrino@apx.com",
+         "line" : 22,
+         "rawfrom" : "\tPerrino, Dave  \n",
+         "to" : "Steffes, James D.; Alvarez, Ray; Walton, Steve; Comnes, Alan; Fischer, Mark; Belden, Tim; Alonso, Tom"
+      },
+      {
+         "from" : "dperrino@apx.com",
+         "line" : 44,
+         "rawfrom" : "\tPerrino, Dave  \n",
+         "to" : "Steffes, James D.; Alvarez, Ray; Walton, Steve; Comnes, Alan; Fischer, Mark; Belden, Tim; Alonso, Tom"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tSteffes, James D.  \n",
+         "to" : "'Perrino, Dave'; Alvarez, Ray; Walton, Steve"
+      },
+      {
+         "from" : "dperrino@apx.com",
+         "line" : 79,
+         "rawfrom" : "\tPerrino, Dave  \n",
+         "to" : "Comnes, Alan; Nicolay, Christi L.; Steffes, James D.; Fischer, Mark; Alvarez, Ray; Novosel, Sarah; Crandall, Sean; Walton, Steve; Belden, Tim; Alonso, Tom"
+      },
+      {
+         "from" : "listmanager@dstarnet.com",
+         "line" : 99,
+         "rawfrom" : "\t\"Listmanager\" <listmanager@dstarnet.com>@ENRON [mailto:IMCEANOTES-+22Listmanager+22+20+3Clistmanager+40dstarnet+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "dstarwdoc@dstarnet.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/506.",
+   "hops" : [
+      {
+         "from" : "chris.walker@enron.com",
+         "line" : 4,
+         "rawfrom" : "chris.walker@enron.com\r\n",
+         "to" : "leslie.hansen@enron.com"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 31,
+         "rawfrom" : "Hansen, Leslie \n",
+         "to" : "Walker, Chris"
+      },
+      {
+         "from" : "chris.walker@enron.com",
+         "line" : 44,
+         "rawfrom" : "Walker, Chris \n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 59,
+         "rawfrom" : "  Hansen, Leslie  \n",
+         "to" : "Walker, Chris; Meredith, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/512.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Amador, Susan; Bishop, Serena; Mallory, Chris; Alonso, Tom; Fischer, Mark; Postlethwaite, John; Gilbert, Scotty; Williams III, Bill"
+      },
+      {
+         "from" : "susan.amador@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tAmador, Susan  \n",
+         "to" : "Scholtes, Diana"
+      },
+      {
+         "from" : "diana.scholtes@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tScholtes, Diana  \n",
+         "to" : "Postlethwaite, John; Mallory, Chris; Bishop, Serena; Amador, Susan; Semperger, Cara; Alonso, Tom; Fischer, Mark; Gilbert, Scotty"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/517.",
+   "hops" : [
+      {
+         "from" : "tom.alonso@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.alonso@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 23,
+         "rawfrom" : "\tComnes, Alan  \n",
+         "to" : "Alonso, Tom; Alvarez, Ray; Badeer, Robert; Belden, Tim; Blair, Kit; Calger, Christopher F.; Choi, Paul; Dasovich, Jeff; Driscoll, Michael M.; Fischer, Mark; Foster, Chris H.; Gang, Lisa; Guzman, Mark; Hall, Steve C. (Legal); Heizenrader, Tim; Kaufman, Paul; Mainzer, Elliot; Mallory, Chris; Malowney, John; Mara, Susan; Motley, Matt; Perrino, Dave; Platter, Phillip; Rance, Susan; Rawson, Lester; Richter, Jeff; Rosman, Stewart; Savage, Gordon; Scholtes, Diana; Semperger, Cara; Stokley, Chris; Swain, Steve; Swerzbin, Mike; Symes, Kate; Walton, Steve; Williams III, Bill"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tDasovich, Jeff  \n",
+         "to" : "Dasovich, Jeff; Kean, Steven J.; Belden, Tim; Sharp, Vicki; Blachman, Jeremy; Comnes, Alan; Tribolet, Michael; Walsh, Kristin; Delainey, David; Leff, Dan; Frazier, Lamar; Keeney, Kevin; Gahn, Scott; Swain, Steve; Lavorato, John; Kaufman, Paul; Steffes, James D.; Calger, Christopher F.; Mara, Susan; Black, Don; Richter, Jeff; Kitchen, Louise; Dietrich, Janet; Mara, Susan; Robertson, Linda; Kingerski, Harry; Denne, Karen; Palmer, Mark A. (PR); Shapiro, Richard; Curry, Wanda; Mellencamp, Lisa; Higgason, Kelly; Whalley, Greg; Mellencamp, Lisa; Comnes, Alan"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tDasovich, Jeff  \n",
+         "to" : "Dasovich, Jeff; Kean, Steven J.; Belden, Tim; Sharp, Vicki; Blachman, Jeremy; Comnes, Alan; Tribolet, Michael; Walsh, Kristin; Delainey, David; Leff, Dan; Frazier, Lamar; Keeney, Kevin; Gahn, Scott; Swain, Steve; Lavorato, John; Kaufman, Paul; Steffes, James D.; Calger, Christopher F.; Mara, Susan; Black, Don; Richter, Jeff; Kitchen, Louise; Dietrich, Janet; Mara, Susan; Robertson, Linda; Kingerski, Harry; Denne, Karen; Palmer, Mark A. (PR); Shapiro, Richard; Curry, Wanda; Mellencamp, Lisa; Higgason, Kelly; Whalley, Greg; Mellencamp, Lisa; Comnes, Alan"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tDasovich, Jeff  \n",
+         "to" : "Kean, Steven J.; Belden, Tim; Sharp, Vicki; Blachman, Jeremy; Comnes, Alan; Tribolet, Michael; Walsh, Kristin; Delainey, David; Leff, Dan; Frazier, Lamar; Keeney, Kevin; Gahn, Scott; Swain, Steve; Lavorato, John; Kaufman, Paul; Steffes, James D.; Calger, Christopher F.; Mara, Susan; Black, Don; Richter, Jeff; Kitchen, Louise; Dietrich, Janet; Mara, Susan; Robertson, Linda; Kingerski, Harry; Denne, Karen; Palmer, Mark A. (PR); Shapiro, Richard; Curry, Wanda; Mellencamp, Lisa; Higgason, Kelly; Whalley, Greg; Mellencamp, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/522.",
+   "hops" : [
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 4,
+         "rawfrom" : "anna.mehrer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "cynthia.biggs@travelpark.com",
+         "line" : 22,
+         "rawfrom" : "Cynthia Biggs [mailto:cynthia.biggs@travelpark.com]\n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tMehrer, Anna[SMTP:Anna.Mehrer@ENRON.com]\n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 49,
+         "rawfrom" : "Salisbury, Holden \n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 64,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "cynthia.biggs@travelpark.com",
+         "line" : 76,
+         "rawfrom" : "Cynthia Biggs [mailto:cynthia.biggs@travelpark.com]\n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tMehrer, Anna[SMTP:Anna.Mehrer@ENRON.com]\n",
+         "to" : "Cynthia (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/523.",
+   "hops" : [
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 4,
+         "rawfrom" : "anna.mehrer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 26,
+         "rawfrom" : "Salisbury, Holden \n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 40,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "cynthia.biggs@travelpark.com",
+         "line" : 52,
+         "rawfrom" : "Cynthia Biggs [mailto:cynthia.biggs@travelpark.com]\n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tMehrer, Anna[SMTP:Anna.Mehrer@ENRON.com]\n",
+         "to" : "Cynthia (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/542.",
+   "hops" : [
+      {
+         "from" : "mike.purcell@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.purcell@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 24,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Purcell, Mike; Semperger, Cara"
+      },
+      {
+         "from" : "mike_purcell@pgn.com",
+         "line" : 34,
+         "rawfrom" : "\tPurcell, Mike  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tSemperger, Cara  \n",
+         "to" : "Purcell, Mike"
+      },
+      {
+         "from" : "mike_purcell@pgn.com",
+         "line" : 60,
+         "rawfrom" : "\tPurcell, Mike  \n",
+         "to" : "Semperger, Cara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/571.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "paul.choi@enron.com",
+         "line" : 21,
+         "rawfrom" : "Choi, Paul \n",
+         "to" : "Motley, Matt; Alonso, Tom; Fischer, Mark"
+      },
+      {
+         "from" : "jim.schroeder@pacificorp.com",
+         "line" : 30,
+         "rawfrom" : "Schroeder, Jim [mailto:Jim.Schroeder@PacifiCorp.com]\n",
+         "to" : "Choi, Paul"
+      },
+      {
+         "from" : "jim.schroeder@pacificorp.com",
+         "line" : 40,
+         "rawfrom" : "  Schroeder, Jim \n",
+         "to" : "Eastern RFP"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/572.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "steve.c.hall@enron.com",
+         "line" : 21,
+         "rawfrom" : "Hall, Steve C. (Legal) \n",
+         "to" : "Choi, Paul; Motley, Matt; Alonso, Tom; Fischer, Mark"
+      },
+      {
+         "from" : "paul.choi@enron.com",
+         "line" : 31,
+         "rawfrom" : "Choi, Paul \n",
+         "to" : "Motley, Matt; Alonso, Tom; Fischer, Mark"
+      },
+      {
+         "from" : "jim.schroeder@pacificorp.com",
+         "line" : 41,
+         "rawfrom" : "Schroeder, Jim [mailto:Jim.Schroeder@PacifiCorp.com]\n",
+         "to" : "Choi, Paul"
+      },
+      {
+         "from" : "jim.schroeder@pacificorp.com",
+         "line" : 51,
+         "rawfrom" : "  Schroeder, Jim \n",
+         "to" : "Eastern RFP"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/587.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, holden.salisbury@enron.com"
+      },
+      {
+         "from" : "stewart.rosman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRosman, Stewart  \n",
+         "to" : "Fischer, Mark"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 28,
+         "rawfrom" : "From:\tStewart Rosman/ENRON@enronXgate on 09/18/2001 04:02 PM CDT\n",
+         "to" : "Tim Heizenrader/ENRON@enronXgate, Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "rhardy@hardyenergy.com",
+         "line" : 38,
+         "rawfrom" : "Randy Hardy [mailto:rhardy@hardyenergy.com]\n",
+         "to" : "Rosman, Stewart"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/669.",
+   "hops" : [
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 4,
+         "rawfrom" : "anna.mehrer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 25,
+         "rawfrom" : "Salisbury, Holden \n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 39,
+         "rawfrom" : "Fischer, Mark \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "paul.choi@enron.com",
+         "line" : 47,
+         "rawfrom" : "Choi, Paul \n",
+         "to" : "Alonso, Tom; Fischer, Mark; Lackey, Chris; Danielson, Michael; Wong, Michael"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 55,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Choi, Paul"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/705.",
+   "hops" : [
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 4,
+         "rawfrom" : "heather.dunton@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Dunton, Heather; Yang, Zhiyun; Lee, Norman; Crooks, William"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Yang, Zhiyun; Lee, Norman; Luu, Duong; Gupta, Sanjay; Crooks, William; Kroumov, Kroum"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 100,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Motley, Matt"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/706.",
+   "hops" : [
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 4,
+         "rawfrom" : "heather.dunton@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Dunton, Heather; Yang, Zhiyun; Lee, Norman; Crooks, William"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Yang, Zhiyun; Lee, Norman; Luu, Duong; Gupta, Sanjay; Crooks, William; Kroumov, Kroum"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 90,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Motley, Matt"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/79.",
+   "hops" : [
+      {
+         "from" : "stephen.thome@enron.com",
+         "line" : 4,
+         "rawfrom" : "stephen.thome@enron.com\r\n",
+         "to" : "kroum.kroumov@enron.com"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Thome, Stephen; Luong, Steven; Evans, Casey"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 52,
+         "rawfrom" : "\tThome, Stephen  \n",
+         "to" : "Kroumov, Kroum; Luong, Steven; Evans, Casey"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Luong, Steven; Evans, Casey"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 103,
+         "rawfrom" : "\tThome, Stephen  \n",
+         "to" : "Luong, Steven; Evans, Casey; Kroumov, Kroum"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 112,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Evans, Casey; Kroumov, Kroum"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/804.",
+   "hops" : [
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 4,
+         "rawfrom" : "heather.dunton@enron.com\r\n",
+         "to" : "virginia.thompson@enron.com, holden.salisbury@enron.com"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 44,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Thompson, Virginia"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Fischer, Mark; Alonso, Tom; Salisbury, Holden"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/814.",
+   "hops" : [
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 4,
+         "rawfrom" : "amy.fitzpatrick@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Steiner, David"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 42,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Fitzpatrick, Amy; Rodriguez, Grace"
+      },
+      {
+         "from" : "salisbury@spiretech.com",
+         "line" : 52,
+         "rawfrom" : "\t\"Salisbury\" <salisbury@spiretech.com>@ENRON [mailto:IMCEANOTES-+22Salisbury+22+20+3Csalisbury+40spiretech+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Salisbury, Holden"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/815.",
+   "hops" : [
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 4,
+         "rawfrom" : "heather.dunton@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com, mark.fischer@enron.com, tom.alonso@enron.com"
+      },
+      {
+         "from" : "nikolay.kraltchev@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tKraltchev, Nikolay  \n",
+         "to" : "Dunton, Heather"
+      },
+      {
+         "from" : "will.smith@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tSmith, Will  \n",
+         "to" : "Kraltchev, Nikolay"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Smith, Will"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/934.",
+   "hops" : [
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 4,
+         "rawfrom" : "virginia.thompson@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Dunton, Heather"
+      },
+      {
+         "from" : "amy.clemons@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tClemons, Amy  \n",
+         "to" : "Thompson, Virginia"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Clemons, Amy"
+      },
+      {
+         "from" : "amy.clemons@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tClemons, Amy  \n",
+         "to" : "Thompson, Virginia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/953.",
+   "hops" : [
+      {
+         "from" : "v..porter@enron.com",
+         "line" : 4,
+         "rawfrom" : "v..porter@enron.com\r\n",
+         "to" : "shift.portland@enron.com"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tThompson, Virginia  \n",
+         "to" : "Porter, David V."
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 30,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "DL-Portland Volume Mgmt"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tPoston, David  \n",
+         "to" : "Morris, Jeremy; Realtime,; O'Neil, Murray P."
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON <mailto:Announcements/Corp/Enron@ENRON>   On Behalf Of Distributed Application Management@ENRON <mailto:Management@ENRON>\n",
+         "to" : "All Enron CORP Users Special@ENRON <mailto:Special@ENRON>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/inbox/99.",
+   "hops" : [
+      {
+         "from" : "s.thome@alum.mit.edu",
+         "line" : 4,
+         "rawfrom" : "s.thome@alum.mit.edu\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 29,
+         "rawfrom" : "\"Salisbury, Holden\" <Holden.Salisbury@enron.com>\n",
+         "to" : "\"Stephen Thome\" <s.thome@alum.mit.edu>"
+      },
+      {
+         "from" : "s.thome@alum.mit.edu",
+         "line" : 44,
+         "rawfrom" : "Stephen Thome [mailto:s.thome@alum.mit.edu]\n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 54,
+         "rawfrom" : "\"Salisbury, Holden\" <Holden.Salisbury@enron.com>\n",
+         "to" : "<s.thome@alum.mit.edu>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/12.",
+   "hops" : [
+      {
+         "from" : "asem.atta@enron.com",
+         "line" : 4,
+         "rawfrom" : "asem.atta@enron.com\r\n",
+         "to" : "s..white@enron.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 35,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Atta, Asem; Cox, Chip"
+      },
+      {
+         "from" : "asem.atta@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tAtta, Asem  \n",
+         "to" : "Cox, Chip"
+      },
+      {
+         "from" : "chip.cox@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tCox, Chip  \n",
+         "to" : "Atta, Asem"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/147.",
+   "hops" : [
+      {
+         "from" : "johng@pira.com",
+         "line" : 4,
+         "rawfrom" : "johng@pira.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 41,
+         "rawfrom" : "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "to" : "johng@pira.com"
+      },
+      {
+         "from" : "johng@pira.com",
+         "line" : 69,
+         "rawfrom" : "johng@pira.com",
+         "to" : "<Holden.Salisbury@enron.com>"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 104,
+         "rawfrom" : "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "to" : "support@pira.com; alex@pira.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 125,
+         "rawfrom" : "Holden Salisbury/PDX/ECT on 05/02/2001\n",
+         "to" : "Holden Salisbury/PDX/ECT@ECT"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 137,
+         "rawfrom" : "Mark Fischer/PDX/ECT on 05/01/2001\n",
+         "to" : "\"PIRA Electricity Daily Demand Client\" <alex@pira.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/151.",
+   "hops" : [
+      {
+         "from" : "johng@pira.com",
+         "line" : 4,
+         "rawfrom" : "johng@pira.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 48,
+         "rawfrom" : "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "to" : "support@pira.com; alex@pira.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 69,
+         "rawfrom" : "Holden Salisbury/PDX/ECT on 05/02/2001\n",
+         "to" : "Holden Salisbury/PDX/ECT@ECT"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 81,
+         "rawfrom" : "Mark Fischer/PDX/ECT on 05/01/2001\n",
+         "to" : "\"PIRA Electricity Daily Demand Client\" <alex@pira.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/155.",
+   "hops" : [
+      {
+         "from" : "mneeley@caiso.com",
+         "line" : 4,
+         "rawfrom" : "mneeley@caiso.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 33,
+         "rawfrom" : "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "to" : "mneeley@caiso.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 54,
+         "rawfrom" : "Holden Salisbury/PDX/ECT on 05/02/2001\n",
+         "to" : "Holden Salisbury/PDX/ECT@ECT"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 66,
+         "rawfrom" : "Mark Fischer/PDX/ECT on 05/02/2001\n",
+         "to" : "Cheri Pryor <CPryor@caiso.com>, Market Status"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/167.",
+   "hops" : [
+      {
+         "from" : "cara.semperger@enron.com",
+         "line" : 4,
+         "rawfrom" : "cara.semperger@enron.com\r\n",
+         "to" : "virginia.thompson@enron.com"
+      },
+      {
+         "from" : "virginia.thompson@enron.com",
+         "line" : 30,
+         "rawfrom" : "Virginia Thompson\n",
+         "to" : "Cara Semperger/PDX/ECT@ECT, Bill Williams III/PDX/ECT@ECT"
+      },
+      {
+         "from" : "amy.clemons@enron.com",
+         "line" : 47,
+         "rawfrom" : " Amy Clemons @ ENRON                           04/17/2001 05:56 AM\t\n",
+         "to" : "Virginia Thompson/PDX/ECT@ECT"
+      },
+      {
+         "from" : "amy.clemons@enron.com",
+         "line" : 61,
+         "rawfrom" : "Amy Clemons/Corp/Enron on 04/17/2001 07:53 AM ---------------------------\n",
+         "to" : "<amy.clemons@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/22.",
+   "hops" : [
+      {
+         "from" : "david.steiner@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.steiner@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com, asem.atta@enron.com, chip.cox@enron.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 29,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Atta, Asem; Cox, Chip"
+      },
+      {
+         "from" : "asem.atta@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tAtta, Asem  \n",
+         "to" : "Cox, Chip"
+      },
+      {
+         "from" : "chip.cox@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tCox, Chip  \n",
+         "to" : "Atta, Asem"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/3.",
+   "hops" : [
+      {
+         "from" : "s..white@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..white@enron.com\r\n",
+         "to" : "asem.atta@enron.com"
+      },
+      {
+         "from" : "asem.atta@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tAtta, Asem  \n",
+         "to" : "White, Michael S."
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 49,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Atta, Asem; Cox, Chip"
+      },
+      {
+         "from" : "asem.atta@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tAtta, Asem  \n",
+         "to" : "Cox, Chip"
+      },
+      {
+         "from" : "chip.cox@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tCox, Chip  \n",
+         "to" : "Atta, Asem"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/316.",
+   "hops" : [
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.poston@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 23,
+         "rawfrom" : "David Poston/PDX/ECT on 04/03/2001 03:33 PM ---------------------------\n",
+         "to" : "David Poston/PDX/ECT@ECT"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 45,
+         "rawfrom" : "David Poston\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.poston@enron.com",
+         "line" : 65,
+         "rawfrom" : "David Poston/PDX/ECT on 04/03/2001 02:07 PM ---------------------------\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/read/57.",
+   "hops" : [
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.fischer@enron.com\r\n",
+         "to" : "holden.salisbury@enron.com"
+      },
+      {
+         "from" : "tom.alonso@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tAlonso, Tom  \n",
+         "to" : "Fischer, Mark"
+      },
+      {
+         "from" : "gac@mrwassoc.com",
+         "line" : 30,
+         "rawfrom" : "\tComnes, Alan  \n",
+         "to" : "Alonso, Tom; Alvarez, Ray; Badeer, Robert; Belden, Tim; Crandall, Sean; Driscoll, Michael M.; Fisher, Mark; Guzman, Mark; Heizenrader, Timothy; Mallory, Chris; Mara, Susan; Motley, Matt; Platter, Phillip; Richter, Jeff; Scholtes, Diana; Swain, Steve; Swerzbin, Mike; Williams III, Bill"
+      },
+      {
+         "from" : "rcarroll@bracepatt.com",
+         "line" : 40,
+         "rawfrom" : "\t\"Ronald Carroll\" <rcarroll@bracepatt.com>@ENRON [mailto:IMCEANOTES-+22Ronald+20Carroll+22+20+3Crcarroll+40bracepatt+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "mmilner@coral-energy.com; rreilley@coral-energy.com; ray.alvarez@ei.enron.com; acomnes@enron.com; dfulton@enron.com; jsteffe@enron.com; smara@enron.com; snovose@enron.com; seabron.adamson@frontier-economics.com; gackerman@wptf.org"
+      },
+      {
+         "from" : "tbradley@bracepatt.com",
+         "line" : 46,
+         "rawfrom" : "\"Tracey Bradley\" <tbradley@bracepatt.com>\n",
+         "to" : "\"Deanna King\" <dking@bracepatt.com>,\t\"Justin Long\" <jlong@bracepatt.com>,\t\"Paul Fox\" <pfox@bracepatt.com>,\t\"Ronald Carroll\" <rcarroll@bracepatt.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/139.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "johng@pira.com"
+      },
+      {
+         "from" : "johng@pira.com",
+         "line" : 37,
+         "rawfrom" : "johng@pira.com",
+         "to" : "<Holden.Salisbury@enron.com>"
+      },
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 71,
+         "rawfrom" : "Holden.Salisbury@enron.com [mailto:Holden.Salisbury@enron.com]\n",
+         "to" : "support@pira.com; alex@pira.com"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 92,
+         "rawfrom" : "Holden Salisbury/PDX/ECT on 05/02/2001\n",
+         "to" : "Holden Salisbury/PDX/ECT@ECT"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 104,
+         "rawfrom" : "Mark Fischer/PDX/ECT on 05/01/2001\n",
+         "to" : "\"PIRA Electricity Daily Demand Client\" <alex@pira.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/17.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "chris.lackey@enron.com"
+      },
+      {
+         "from" : "chris.lackey@enron.com",
+         "line" : 27,
+         "rawfrom" : "Lackey, Chris \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "jbutler@pnm.com",
+         "line" : 36,
+         "rawfrom" : "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "to" : "Lackey, Chris"
+      },
+      {
+         "from" : "chris.lackey@enron.com",
+         "line" : 47,
+         "rawfrom" : "Lackey, Chris [mailto:Chris.Lackey@ENRON.com]\n",
+         "to" : "Butler, Jim"
+      },
+      {
+         "from" : "jbutler@pnm.com",
+         "line" : 59,
+         "rawfrom" : "Butler, Jim [mailto:JBUTLER@pnm.com]\n",
+         "to" : "Lackey, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/25.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "mark.fischer@enron.com"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 22,
+         "rawfrom" : "Fischer, Mark \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "tim.heizenrader@ubswenergy.com",
+         "line" : 30,
+         "rawfrom" : "Heizenrader, Tim \n",
+         "to" : "Swain, Steve; Gilbert, Scotty; Steiner, David; Williams III, Bill; Semperger, Cara; Amador, Susan; Thomas, Jake; Mainzer, Elliot; Alonso, Tom; Badeer, Robert; Belden, Tim; Crandall, Sean; Driscoll, Michael M.; Fischer, Mark; Mallory, Chris; Motley, Matt; Platter, Phillip; Richter, Jeff; Salisbury, Holden; Scholtes, Diana; Swerzbin, Mike"
+      },
+      {
+         "from" : "michael_schilmoeller@pgn.com",
+         "line" : 42,
+         "rawfrom" : "SCHILMOELLER, Michael \n",
+         "to" : "Boo Seng-Aroun; Dieterle, Chris; NIMAN, MIKE; Oshea, Mike; Ichikawa, Shinya"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/44.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "anna.mehrer@enron.com"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 28,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "cynthia.biggs@travelpark.com",
+         "line" : 40,
+         "rawfrom" : "Cynthia Biggs [mailto:cynthia.biggs@travelpark.com]\n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tMehrer, Anna[SMTP:Anna.Mehrer@ENRON.com]\n",
+         "to" : "Cynthia (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/46.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "mike.purcell@enron.com, cara.semperger@enron.com"
+      },
+      {
+         "from" : "mike_purcell@pgn.com",
+         "line" : 24,
+         "rawfrom" : "\tPurcell, Mike  \n",
+         "to" : "Semperger, Cara"
+      },
+      {
+         "from" : "cara_semperger@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tSemperger, Cara  \n",
+         "to" : "Purcell, Mike"
+      },
+      {
+         "from" : "mike_purcell@pgn.com",
+         "line" : 50,
+         "rawfrom" : "\tPurcell, Mike  \n",
+         "to" : "Semperger, Cara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/58.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "anna.mehrer@enron.com"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 34,
+         "rawfrom" : "Salisbury, Holden \n",
+         "to" : "Mehrer, Anna"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 48,
+         "rawfrom" : "Fischer, Mark \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "paul.choi@enron.com",
+         "line" : 56,
+         "rawfrom" : "Choi, Paul \n",
+         "to" : "Alonso, Tom; Fischer, Mark; Lackey, Chris; Danielson, Michael; Wong, Michael"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 64,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Choi, Paul"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/59.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "anna.mehrer@enron.com"
+      },
+      {
+         "from" : "mark.fischer@enron.com",
+         "line" : 27,
+         "rawfrom" : "Fischer, Mark \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "paul.choi@enron.com",
+         "line" : 35,
+         "rawfrom" : "Choi, Paul \n",
+         "to" : "Alonso, Tom; Fischer, Mark; Lackey, Chris; Danielson, Michael; Wong, Michael"
+      },
+      {
+         "from" : "anna.mehrer@enron.com",
+         "line" : 43,
+         "rawfrom" : "Mehrer, Anna \n",
+         "to" : "Choi, Paul"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/61.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "tom.alonso@enron.com, mark.fischer@enron.com"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Yang, Zhiyun; Lee, Norman; Luu, Duong; Gupta, Sanjay; Crooks, William; Kroumov, Kroum"
+      },
+      {
+         "from" : "heather.dunton@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tDunton, Heather  \n",
+         "to" : "Motley, Matt"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/8.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "stephen.thome@enron.com, kroum.kroumov@enron.com"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 29,
+         "rawfrom" : "\tThome, Stephen  \n",
+         "to" : "Kroumov, Kroum"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Thome, Stephen; Luong, Steven; Evans, Casey"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 62,
+         "rawfrom" : "\tThome, Stephen  \n",
+         "to" : "Kroumov, Kroum; Luong, Steven; Evans, Casey"
+      },
+      {
+         "from" : "kroum.kroumov@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tKroumov, Kroum  \n",
+         "to" : "Luong, Steven; Evans, Casey"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 113,
+         "rawfrom" : "\tThome, Stephen  \n",
+         "to" : "Luong, Steven; Evans, Casey; Kroumov, Kroum"
+      },
+      {
+         "from" : "steven.luong@enron.com",
+         "line" : 122,
+         "rawfrom" : "\tLuong, Steven  \n",
+         "to" : "Evans, Casey; Kroumov, Kroum"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/82.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "grace.rodriguez@enron.com"
+      },
+      {
+         "from" : "grace.rodriguez@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRodriguez, Grace  \n",
+         "to" : "Salisbury, Holden"
+      },
+      {
+         "from" : "holden_salisbury@pgn.com",
+         "line" : 37,
+         "rawfrom" : "\tSalisbury, Holden  \n",
+         "to" : "Rodriguez, Grace"
+      },
+      {
+         "from" : "grace.rodriguez@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tRodriguez, Grace  \n",
+         "to" : "Van houten, Maria; Meyers, Bert; Alport, Kysa; Bryson, Jesse; Salisbury, Holden"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/salisbury-h/sent_items/92.",
+   "hops" : [
+      {
+         "from" : "holden.salisbury@enron.com",
+         "line" : 4,
+         "rawfrom" : "holden.salisbury@enron.com\r\n",
+         "to" : "salisbury@spiretech.com"
+      },
+      {
+         "from" : "tom.alonso@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tAlonso, Tom  \n",
+         "to" : "Fischer, Mark; Salisbury, Holden"
+      },
+      {
+         "from" : "lcrane@prebon.com",
+         "line" : 30,
+         "rawfrom" : "\tLex Crane <LCrane@prebon.com>@ENRON [mailto:IMCEANOTES-Lex+20Crane+20+3CLCrane+40prebon+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Alonso, Tom"
+      },
+      {
+         "from" : "james.smith@natoil.com",
+         "line" : 38,
+         "rawfrom" : " James Smith\n",
+         "to" : "Anthony Farinacci; Lex Crane; Mike Loria"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 55,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 64,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; <mailto:patrickw@Youthstream.com;>"
+      }
+   ],
+   "skipped" : 1
+}
+]

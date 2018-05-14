@@ -1,0 +1,2527 @@
+[
+{
+   "file" : "enron-raw/ring-a/_sent_mail/112.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 01/08/2001 01:39 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 34,
+         "rawfrom" : "Tammi DePaolis/Corp/Enron on 01/04/2001 \n",
+         "to" : "Tammi DePaolis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 54,
+         "rawfrom" : "Tammi DePaolis\n",
+         "to" : "Ann Mora/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/113.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "karen.mcilvoy@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/115.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/128.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 12/01/2000 01:51 \n",
+         "to" : "Victoria Versen/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.w.pereira@enron.con",
+         "line" : 34,
+         "rawfrom" : "Susan W Pereira/HOU/ECT on 11/16/2000 \n",
+         "to" : "susan.pereira@enron.com"
+      },
+      {
+         "from" : "shendrickson@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Scott Hendrickson/HOU/ECT on 11/15/2000 \n",
+         "to" : "Scott Hendrickson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 58,
+         "rawfrom" : " Keith Holst                           11/15/2000 11:48 AM\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 69,
+         "rawfrom" : "Keith Holst/HOU/ECT on 11/14/2000 11:46 \n",
+         "to" : "Keith Holst/HOU/ECT@ect, Carey M Metz/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 77,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 84,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 96,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 107,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 117,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/14.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 05/16/2001 03:15 PM ---------------------------\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "craig_taylor67@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "Craig Taylor/HOU/ECT on 05/16/2001 08:18 AM ---------------------------\n",
+         "to" : "lmcmurtry@mdck.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 40,
+         "rawfrom" : "From:\tJanet H Wallis/ENRON@enronXgate on 05/14/2001 10:14 AM\n",
+         "to" : "Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Vuittonet, Robert; Presas, Jessica; Hardy, Kimberly; Rangel, Ina; Young, Becky; Quezada, Daniel; Hernandez, Jesus A; Panos, Jason; Wallis, Janet H."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/141.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "karen.mcilvoy@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/143.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/144.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "gretchen.lotz@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/146.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "sandra.brawner@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/147.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "dan.junek@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/148.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "rbanks@mariner-energy.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/149.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/165.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           09/13/2000 03:27 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 09/13/2000 03:27 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 46,
+         "rawfrom" : "John Griffith/Corp/Enron on 09/13/2000 \n",
+         "to" : "\"RICK GRIFFITH (E-mail)\" <rickegriffith@hotmail.com>, \"RHONDA GRIFFITH"
+      },
+      {
+         "from" : "darlap1@aol.com",
+         "line" : 79,
+         "rawfrom" : "Darlap1@aol.com [mailto:Darlap1@aol.com]\n",
+         "to" : "Clayton Frank; jimbobhfd@hotmail.com; nsatsss@gte.net"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/53.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 05/16/2001 03:15 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "craig_taylor67@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "Craig Taylor/HOU/ECT on 05/16/2001 08:18 \n",
+         "to" : "lmcmurtry@mdck.com"
+      },
+      {
+         "from" : "janet_h_wallis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Janet H Wallis/ENRON@enronXgate on 05/14/2001 10:14 AM\n",
+         "to" : "Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 51,
+         "rawfrom" : " Vuittonet, Laura  \n",
+         "to" : "Vuittonet, Robert; Presas, Jessica; Hardy, Kimberly; Rangel, Ina; Young,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/81.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michael.mousteiko@enron.com"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 33,
+         "rawfrom" : " Michael Mousteiko @ ENRON                           03/15/2001 10:38 AM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 48,
+         "rawfrom" : " Michael Mousteiko                           03/07/2001 03:05 PM\n",
+         "to" : "Charles H Otto/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 64,
+         "rawfrom" : "Michael Mousteiko/NA/Enron on 03/07/2001 \n",
+         "to" : "\"'Michael Mousteiko'\" <Michael.Mousteiko@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/88.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 25,
+         "rawfrom" : " Karen D McIlvoy                           02/27/2001 10:55 AM\n",
+         "to" : "ragan.bond@bhlp.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 35,
+         "rawfrom" : "Karen D McIlvoy/HOU/ECT on 02/27/2001 \n",
+         "to" : "lantee@lsuhsc.edu, barry.j.belcher@boeing.com, HardyCole@cs.com,"
+      },
+      {
+         "from" : "lht@aol.com",
+         "line" : 51,
+         "rawfrom" : "LHT@aol.com\n",
+         "to" : "LHT@aol.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/_sent_mail/91.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 02/26/2001 12:24 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 31,
+         "rawfrom" : "Matthew Lenhart on 02/23/2001 03:11 PM\n",
+         "to" : "Frank Ermis/HOU/ECT@ECT, Steven P South/HOU/ECT@ECT, Phillip K"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 41,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 02/23/2001 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Eric Bass/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "timothy.blanchard@enron.com",
+         "line" : 59,
+         "rawfrom" : " Timothy Blanchard                           02/22/2001 04:24 PM\n",
+         "to" : "AIP"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/100.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "karen.mcilvoy@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/102.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/103.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "gretchen.lotz@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/104.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "gretchen.lotz@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/106.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "sandra.brawner@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/107.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "dan.junek@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/108.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "rbanks@mariner-energy.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/109.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/125.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           09/13/2000 03:27 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 09/13/2000 03:27 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 46,
+         "rawfrom" : "John Griffith/Corp/Enron on 09/13/2000 \n",
+         "to" : "\"RICK GRIFFITH (E-mail)\" <rickegriffith@hotmail.com>, \"RHONDA GRIFFITH"
+      },
+      {
+         "from" : "darlap1@aol.com",
+         "line" : 79,
+         "rawfrom" : "Darlap1@aol.com [mailto:Darlap1@aol.com]\n",
+         "to" : "Clayton Frank; jimbobhfd@hotmail.com; nsatsss@gte.net"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/39.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michael.mousteiko@enron.com"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 33,
+         "rawfrom" : " Michael Mousteiko @ ENRON                           03/15/2001 10:38 AM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 48,
+         "rawfrom" : " Michael Mousteiko                           03/07/2001 03:05 PM\n",
+         "to" : "Charles H Otto/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 64,
+         "rawfrom" : "Michael Mousteiko/NA/Enron on 03/07/2001 \n",
+         "to" : "\"'Michael Mousteiko'\" <Michael.Mousteiko@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/4.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 05/16/2001 03:15 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "craig_taylor67@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "Craig Taylor/HOU/ECT on 05/16/2001 08:18 \n",
+         "to" : "lmcmurtry@mdck.com"
+      },
+      {
+         "from" : "janet_h_wallis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Janet H Wallis/ENRON@enronXgate on 05/14/2001 10:14 AM\n",
+         "to" : "Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 51,
+         "rawfrom" : " Vuittonet, Laura  \n",
+         "to" : "Vuittonet, Robert; Presas, Jessica; Hardy, Kimberly; Rangel, Ina; Young,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/46.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 25,
+         "rawfrom" : " Karen D McIlvoy                           02/27/2001 10:55 AM\n",
+         "to" : "ragan.bond@bhlp.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 35,
+         "rawfrom" : "Karen D McIlvoy/HOU/ECT on 02/27/2001 \n",
+         "to" : "lantee@lsuhsc.edu, barry.j.belcher@boeing.com, HardyCole@cs.com,"
+      },
+      {
+         "from" : "lht@aol.com",
+         "line" : 51,
+         "rawfrom" : "LHT@aol.com\n",
+         "to" : "LHT@aol.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/49.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 02/26/2001 12:24 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 31,
+         "rawfrom" : "Matthew Lenhart on 02/23/2001 03:11 PM\n",
+         "to" : "Frank Ermis/HOU/ECT@ECT, Steven P South/HOU/ECT@ECT, Phillip K"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 41,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 02/23/2001 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Eric Bass/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "timothy.blanchard@enron.com",
+         "line" : 59,
+         "rawfrom" : " Timothy Blanchard                           02/22/2001 04:24 PM\n",
+         "to" : "AIP"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/70.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 01/08/2001 01:39 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 34,
+         "rawfrom" : "Tammi DePaolis/Corp/Enron on 01/04/2001 \n",
+         "to" : "Tammi DePaolis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 54,
+         "rawfrom" : "Tammi DePaolis\n",
+         "to" : "Ann Mora/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/71.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "karen.mcilvoy@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/73.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/all_documents/86.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 12/01/2000 01:51 \n",
+         "to" : "Victoria Versen/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.w.pereira@enron.con",
+         "line" : 34,
+         "rawfrom" : "Susan W Pereira/HOU/ECT on 11/16/2000 \n",
+         "to" : "susan.pereira@enron.com"
+      },
+      {
+         "from" : "shendrickson@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Scott Hendrickson/HOU/ECT on 11/15/2000 \n",
+         "to" : "Scott Hendrickson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 58,
+         "rawfrom" : " Keith Holst                           11/15/2000 11:48 AM\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 69,
+         "rawfrom" : "Keith Holst/HOU/ECT on 11/14/2000 11:46 \n",
+         "to" : "Keith Holst/HOU/ECT@ect, Carey M Metz/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 77,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 84,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 96,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 107,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 117,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/deleted_items/11.",
+   "hops" : [
+      {
+         "from" : "scott.neal@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.neal@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com, andrea.ring@enron.com"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tShively, Hunter S.  \n",
+         "to" : "Grigsby, Mike; Martin, Thomas A.; Allen, Phillip K.; Neal, Scott"
+      },
+      {
+         "from" : "robert.superty@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSuperty, Robert  \n",
+         "to" : "Shively, Hunter S."
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tShively, Hunter S.  \n",
+         "to" : "Superty, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/deleted_items/68.",
+   "hops" : [
+      {
+         "from" : "scott.neal@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.neal@enron.com\r\n",
+         "to" : "andrea.ring@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Neal, Scott"
+      },
+      {
+         "from" : "frank.vickers@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tVickers, Frank  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "mary.cook@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCook, Mary  \n",
+         "to" : "Hodge, Jeffrey T.; Van Hooser, Steve; Vickers, Frank; Bradford, William S.; St. Clair, Carol"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/deleted_items/75.",
+   "hops" : [
+      {
+         "from" : "pereira@houston.rr.com",
+         "line" : 4,
+         "rawfrom" : "pereira@houston.rr.com\r\n",
+         "to" : "andrea.ring@enron.com"
+      },
+      {
+         "from" : "karen.ferazzi@verizon.net",
+         "line" : 24,
+         "rawfrom" : "<karen.ferazzi@verizon.net>\n",
+         "to" : "<pereira@houston.rr.com>; <Maria.Pavlou@ENRON.com>; <LFeraz@msn.com>;"
+      },
+      {
+         "from" : "eganholmes@aol.com",
+         "line" : 33,
+         "rawfrom" : "EganHolmes@aol.com\n",
+         "to" : "Dylconmom@aol.com,  docegan@ev1.net,  karen.ferazzi@verizon.net,"
+      },
+      {
+         "from" : "collinsclan@houston.rr.com",
+         "line" : 50,
+         "rawfrom" : "\"The Collins\" <collinsclan@houston.rr.com>\n",
+         "to" : "\"Freddy Bradshaw\" <ftbhouse@msn.com>,        \"Bobbie Collins\" <Bobbacollins@cs.com>,        \"reenie collins\" <reenie.collins@tenethealth.com>,        <EganHolmes@aol.com>, \"Jimmie Holder\" <jrholder53@aol.com>,        \"jamie holder\" <jthbeattu@aol.com>,        \"sally janacej\" <Janacek@texasnet.com>,        \"gretchen nagaitis\" <gretchen.nagaitis@eng.sun.com>,        \"brenda peabody\" <102501.2033@compuserve.com>,        \"Amy Proegler\" <azp77429@houston.rr.com>,        \"lanie thornton\" <L-thornton@tamu.edu>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/18.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/20.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "rbanks@mariner-energy.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/21.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "dan.junek@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/22.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "sandra.brawner@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/23.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "gretchen.lotz@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/24.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "gretchen.lotz@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/25.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/26.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/37.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 12/01/2000 01:51 \n",
+         "to" : "Victoria Versen/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.w.pereira@enron.con",
+         "line" : 34,
+         "rawfrom" : "Susan W Pereira/HOU/ECT on 11/16/2000 \n",
+         "to" : "susan.pereira@enron.com"
+      },
+      {
+         "from" : "shendrickson@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Scott Hendrickson/HOU/ECT on 11/15/2000 \n",
+         "to" : "Scott Hendrickson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 58,
+         "rawfrom" : " Keith Holst                           11/15/2000 11:48 AM\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 69,
+         "rawfrom" : "Keith Holst/HOU/ECT on 11/14/2000 11:46 \n",
+         "to" : "Keith Holst/HOU/ECT@ect, Carey M Metz/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 77,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 84,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 96,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 107,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 117,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/47.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/48.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/50.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 01/08/2001 01:39 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 34,
+         "rawfrom" : "Tammi DePaolis/Corp/Enron on 01/04/2001 \n",
+         "to" : "Tammi DePaolis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 54,
+         "rawfrom" : "Tammi DePaolis\n",
+         "to" : "Ann Mora/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/62.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 02/26/2001 12:24 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 31,
+         "rawfrom" : "Matthew Lenhart on 02/23/2001 03:11 PM\n",
+         "to" : "Frank Ermis/HOU/ECT@ECT, Steven P South/HOU/ECT@ECT, Phillip K"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 41,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 02/23/2001 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Eric Bass/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "timothy.blanchard@enron.com",
+         "line" : 59,
+         "rawfrom" : " Timothy Blanchard                           02/22/2001 04:24 PM\n",
+         "to" : "AIP"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/63.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 25,
+         "rawfrom" : " Karen D McIlvoy                           02/27/2001 10:55 AM\n",
+         "to" : "ragan.bond@bhlp.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 35,
+         "rawfrom" : "Karen D McIlvoy/HOU/ECT on 02/27/2001 \n",
+         "to" : "lantee@lsuhsc.edu, barry.j.belcher@boeing.com, HardyCole@cs.com,"
+      },
+      {
+         "from" : "lht@aol.com",
+         "line" : 51,
+         "rawfrom" : "LHT@aol.com\n",
+         "to" : "LHT@aol.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/68.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michael.mousteiko@enron.com"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 33,
+         "rawfrom" : " Michael Mousteiko @ ENRON                           03/15/2001 10:38 AM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 48,
+         "rawfrom" : " Michael Mousteiko                           03/07/2001 03:05 PM\n",
+         "to" : "Charles H Otto/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 64,
+         "rawfrom" : "Michael Mousteiko/NA/Enron on 03/07/2001 \n",
+         "to" : "\"'Michael Mousteiko'\" <Michael.Mousteiko@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/7.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           09/13/2000 03:27 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 09/13/2000 03:27 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 46,
+         "rawfrom" : "John Griffith/Corp/Enron on 09/13/2000 \n",
+         "to" : "\"RICK GRIFFITH (E-mail)\" <rickegriffith@hotmail.com>, \"RHONDA GRIFFITH"
+      },
+      {
+         "from" : "darlap1@aol.com",
+         "line" : 79,
+         "rawfrom" : "Darlap1@aol.com [mailto:Darlap1@aol.com]\n",
+         "to" : "Clayton Frank; jimbobhfd@hotmail.com; nsatsss@gte.net"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/ring-a/discussion_threads/98.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 05/16/2001 03:15 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "craig_taylor67@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "Craig Taylor/HOU/ECT on 05/16/2001 08:18 \n",
+         "to" : "lmcmurtry@mdck.com"
+      },
+      {
+         "from" : "janet_h_wallis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Janet H Wallis/ENRON@enronXgate on 05/14/2001 10:14 AM\n",
+         "to" : "Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 51,
+         "rawfrom" : " Vuittonet, Laura  \n",
+         "to" : "Vuittonet, Robert; Presas, Jessica; Hardy, Kimberly; Rangel, Ina; Young,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/inbox/59.",
+   "hops" : [
+      {
+         "from" : "katbill59@cs.com",
+         "line" : 23,
+         "rawfrom" : "Katbill59@cs.com\n",
+         "to" : "ROBARY@cs.com"
+      },
+      {
+         "from" : "debbiehoppe@hotmail.com",
+         "line" : 36,
+         "rawfrom" : "\"Debbie Hoppe\" <debbiehoppe@hotmail.com>\n",
+         "to" : "Katbill59@cs.com, cschmidt@co.doc.state.mn.us, cahjkuhn@qwest.net,        chop69@qwest.net, cindy.zillmer@milaca.k12.mn.us, DHu1638788@aol.com,        linepole@aol.com, hops68@hotmail.com, fatmanvb@lakeland.ws,        hondo@cloudnet.com, lmh2910591@aol.com, SmithJen007@aol.com,        JBegotka@new.rr.com, Kathy@nationalmicroscope.com,        potsie50@hotmail.com, susieq6179@yahoo.com"
+      },
+      {
+         "from" : "smca4321@aol.com",
+         "line" : 47,
+         "rawfrom" : "Smca4321@aol.com  \n",
+         "to" : "dengstrom@mhrinc.net, EAEngstrom@aol.com, kate_engstrom@excite.com, Madzlik@aol.com, debbiehoppe@hotmail.com, mickeyshell29@hotmail.com"
+      },
+      {
+         "from" : "gwgar@hotmail.com",
+         "line" : 62,
+         "rawfrom" : "\"Gary G.\" <gwgar@hotmail.com>\n",
+         "to" : "farmallh42@aol.com, neesy27@hotmail.com, hicks@arn.net,        oportunit@hotmail.com, Smca4321@aol.com, bayer9@hotmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/114.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           09/13/2000 03:27 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 09/13/2000 03:27 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 46,
+         "rawfrom" : "John Griffith/Corp/Enron on 09/13/2000 \n",
+         "to" : "\"RICK GRIFFITH (E-mail)\" <rickegriffith@hotmail.com>, \"RHONDA GRIFFITH"
+      },
+      {
+         "from" : "darlap1@aol.com",
+         "line" : 79,
+         "rawfrom" : "Darlap1@aol.com [mailto:Darlap1@aol.com]\n",
+         "to" : "Clayton Frank; jimbobhfd@hotmail.com; nsatsss@gte.net"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/2.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 05/16/2001 03:15 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "craig_taylor67@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "Craig Taylor/HOU/ECT on 05/16/2001 08:18 \n",
+         "to" : "lmcmurtry@mdck.com"
+      },
+      {
+         "from" : "janet_h_wallis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Janet H Wallis/ENRON@enronXgate on 05/14/2001 10:14 AM\n",
+         "to" : "Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 51,
+         "rawfrom" : " Vuittonet, Laura  \n",
+         "to" : "Vuittonet, Robert; Presas, Jessica; Hardy, Kimberly; Rangel, Ina; Young,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/30.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michael.mousteiko@enron.com"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 33,
+         "rawfrom" : " Michael Mousteiko @ ENRON                           03/15/2001 10:38 AM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 48,
+         "rawfrom" : " Michael Mousteiko                           03/07/2001 03:05 PM\n",
+         "to" : "Charles H Otto/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.mousteiko@enron.com",
+         "line" : 64,
+         "rawfrom" : "Michael Mousteiko/NA/Enron on 03/07/2001 \n",
+         "to" : "\"'Michael Mousteiko'\" <Michael.Mousteiko@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/37.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 25,
+         "rawfrom" : " Karen D McIlvoy                           02/27/2001 10:55 AM\n",
+         "to" : "ragan.bond@bhlp.com"
+      },
+      {
+         "from" : "karen.d.mcilvoy@enron.com",
+         "line" : 35,
+         "rawfrom" : "Karen D McIlvoy/HOU/ECT on 02/27/2001 \n",
+         "to" : "lantee@lsuhsc.edu, barry.j.belcher@boeing.com, HardyCole@cs.com,"
+      },
+      {
+         "from" : "lht@aol.com",
+         "line" : 51,
+         "rawfrom" : "LHT@aol.com\n",
+         "to" : "LHT@aol.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/40.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 02/26/2001 12:24 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 31,
+         "rawfrom" : "Matthew Lenhart on 02/23/2001 03:11 PM\n",
+         "to" : "Frank Ermis/HOU/ECT@ECT, Steven P South/HOU/ECT@ECT, Phillip K"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 41,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 02/23/2001 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT, Eric Bass/HOU/ECT@ECT, Bryan"
+      },
+      {
+         "from" : "timothy.blanchard@enron.com",
+         "line" : 59,
+         "rawfrom" : " Timothy Blanchard                           02/22/2001 04:24 PM\n",
+         "to" : "AIP"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/61.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 01/08/2001 01:39 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 34,
+         "rawfrom" : "Tammi DePaolis/Corp/Enron on 01/04/2001 \n",
+         "to" : "Tammi DePaolis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "tammi.depaolis@enron.com",
+         "line" : 54,
+         "rawfrom" : "Tammi DePaolis\n",
+         "to" : "Ann Mora/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/62.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "karen.mcilvoy@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/64.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           01/05/2001 12:36 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 01/05/2001 12:36 \n",
+         "to" : "Joe A Casas/HOU/ECT@ECT, Scott Loving/NA/Enron@ENRON, Jared"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 52,
+         "rawfrom" : " Molly Sumrow                           01/05/2001 08:50 AM\n",
+         "to" : "lesteves@swbell.net, stevesj@oceusa.com, chris_sumrow@kindermorgan.com,"
+      },
+      {
+         "from" : "molly.sumrow@enron.com",
+         "line" : 67,
+         "rawfrom" : "Molly Sumrow/HOU/ECT on 01/05/2001 08:46 \n",
+         "to" : "james.whitehead@enron.com, patrick.scales@enron.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/77.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 23,
+         "rawfrom" : "Andrea Ring/HOU/ECT on 12/01/2000 01:51 \n",
+         "to" : "Victoria Versen/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.w.pereira@enron.con",
+         "line" : 34,
+         "rawfrom" : "Susan W Pereira/HOU/ECT on 11/16/2000 \n",
+         "to" : "susan.pereira@enron.com"
+      },
+      {
+         "from" : "shendrickson@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Scott Hendrickson/HOU/ECT on 11/15/2000 \n",
+         "to" : "Scott Hendrickson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 58,
+         "rawfrom" : " Keith Holst                           11/15/2000 11:48 AM\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kholst@enron.com",
+         "line" : 69,
+         "rawfrom" : "Keith Holst/HOU/ECT on 11/14/2000 11:46 \n",
+         "to" : "Keith Holst/HOU/ECT@ect, Carey M Metz/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 77,
+         "rawfrom" : "Matthew Lenhart on 11/13/2000 01:39 PM\n",
+         "to" : "Mike Grigsby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 84,
+         "rawfrom" : "Matthew Lenhart/HOU/ECT on 11/13/2000 \n",
+         "to" : "Matthew Lenhart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ross.prevatt@enron.com",
+         "line" : 96,
+         "rawfrom" : "Ross Prevatt/HOU/ECT on 11/13/2000 01:08 \n",
+         "to" : "Ross Prevatt/HOU/ECT@ECT"
+      },
+      {
+         "from" : "charles.h.otto@enron.com",
+         "line" : 107,
+         "rawfrom" : "Charles H Otto/HOU/ECT on 11/13/2000 \n",
+         "to" : "Charles H Otto/HOU/ECT@ECT, Tara Piazze/NA/Enron@ENRON"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 117,
+         "rawfrom" : "Chris Gaskill/Corp/Enron on 11/13/2000 \n",
+         "to" : "Chris.Gaskill@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/90.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "karen.mcilvoy@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/92.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "richard.ring@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/26/2000 04:19 PM\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Dick Jenkins/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/26/2000 04:19 \n",
+         "to" : "Jared Kaiser/HOU/ECT@ECT, Bob Bowen@CCMAIL"
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 49,
+         "rawfrom" : " Victor Lamadrid                           10/26/2000 03:40 PM\n",
+         "to" : "Robert Allwein/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Tricia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/93.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "gretchen.lotz@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/95.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "sandra.brawner@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/96.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "dan.junek@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 26,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 46,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/97.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "rbanks@mariner-energy.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent/98.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "michele.winckowski@enron.com"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jared Kaiser                           10/17/2000 03:10 PM\n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT, Andrea Ring/HOU/ECT@ECT, Susan W"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 36,
+         "rawfrom" : "Jared Kaiser/HOU/ECT on 10/17/2000 03:10 \n",
+         "to" : "\"Jared @ Enron\" <jkaiser@enron.com>"
+      },
+      {
+         "from" : "hwarnick@spawglass.com",
+         "line" : 45,
+         "rawfrom" : "Heidi Jo Warnick <hwarnick@spawglass.com>\n",
+         "to" : "David Kaiser <Davidk@spawglass.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/ring-a/sent_items/17.",
+   "hops" : [
+      {
+         "from" : "andrea.ring@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.ring@enron.com\r\n",
+         "to" : "laura.luce@enron.com"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 23,
+         "rawfrom" : "Arnold, John \n",
+         "to" : "Ring, Andrea"
+      },
+      {
+         "from" : "jennifer.fraser@enron.com",
+         "line" : 33,
+         "rawfrom" : "Fraser, Jennifer \n",
+         "to" : "Arnold, John"
+      },
+      {
+         "from" : "pamela_edwards@dom.com",
+         "line" : 45,
+         "rawfrom" : "Pamela_Edwards@dom.com [mailto:Pamela_Edwards@dom.com]\n",
+         "to" : "undisclosed-recipients"
+      }
+   ],
+   "skipped" : 0
+}
+]

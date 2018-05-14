@@ -1,0 +1,63 @@
+[
+{
+   "file" : "enron-raw/king-j/deleted_items/269.",
+   "hops" : [
+      {
+         "from" : "gary.stadler@enron.com",
+         "line" : 4,
+         "rawfrom" : "gary.stadler@enron.com\r\n",
+         "to" : "jeff.king@enron.com"
+      },
+      {
+         "from" : "mikewv@bellsouth.net",
+         "line" : 21,
+         "rawfrom" : "mikewv [mailto:mikewv@bellsouth.net]\n",
+         "to" : "Tom Walbourn; Tom Schutte; scott cooper; Robert Mirabal; Rhonda Short; polly; Mom & Dad; Mike Tirpok; kyle kretsinger; karin enters; Kari Stadler; john mcconnell; jill qualls; Jeff Frye; Jack Hotz; George Archibald; Stadler, Gary; Don Gary; clay; Art Dabney"
+      },
+      {
+         "from" : "ddemarco@bpmcpas.com",
+         "line" : 71,
+         "rawfrom" : " <ddemarco@bpmcpas.com>\n",
+         "to" : "demarcod@aol.com"
+      },
+      {
+         "from" : "administrator@wyden.senate.gov",
+         "line" : 97,
+         "rawfrom" : "  ADMINISTRATOR\n",
+         "to" : "DAVID P. DEMARCO"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/king-j/deleted_items/37.",
+   "hops" : [
+      {
+         "from" : "jae.black@enron.com",
+         "line" : 4,
+         "rawfrom" : "jae.black@enron.com\r\n",
+         "to" : ""
+      },
+      {
+         "from" : "diana.allen@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tAllen, Diana  \n",
+         "to" : "Black, Tamara Jae"
+      },
+      {
+         "from" : "mable.tang@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tTang, Mable  \n",
+         "to" : "Allen, Diana; Poston, David; Luu, Duong; Lim, Francis S.; Krishnaswamy, Jayant; Chitradurga, Sundar; Powell, John D.; Ramesh, Ganapathy; Schomer, Chris; McKinney, Hal"
+      },
+      {
+         "from" : "clement.charbonnet@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tCharbonnet, Clement  \n",
+         "to" : "DL-Oracle DBA"
+      }
+   ],
+   "skipped" : 0
+}
+]

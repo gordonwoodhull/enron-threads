@@ -1,0 +1,4326 @@
+[
+{
+   "file" : "enron-raw/buy-r/_sent_mail/119.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "karen.heathman@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 01/17/2001 08:31 AM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jordan_mintz@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jordan Mintz/HOU/ECT on 01/16/2001 06:37 \n",
+         "to" : "Sharron Westbrook/Corp/Enron@ENRON, Inez Dauterive/HOU/ECT@ECT, Bridget"
+      },
+      {
+         "from" : "sharron.westbrook@enron.com",
+         "line" : 62,
+         "rawfrom" : "Sharron Westbrook @ ENRON\n",
+         "to" : "Darlene C Forsyth/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/_sent_mail/146.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/21/2000 03:25 PM \n",
+         "to" : "Sheila Glover/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 47,
+         "rawfrom" : " Sheila Glover                           19/12/2000 17:45\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 73,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 118,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/_sent_mail/158.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "mike.jordan@enron.com"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 26,
+         "rawfrom" : " Sheila Glover                           12/19/2000 11:45 AM\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 51,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 62,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 96,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/_sent_mail/159.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "sheila.glover@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/19/2000 12:24 PM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, David Port/Market"
+      },
+      {
+         "from" : "mike.jordan@enron.com",
+         "line" : 81,
+         "rawfrom" : "Mike Jordan/LON/ECT on 19/12/2000 15:06 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 116,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/_sent_mail/217.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "rick.carson@enron.com"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 21,
+         "rawfrom" : "Travis McCullough on 11/28/2000 09:59 AM\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 42,
+         "rawfrom" : "Travis McCullough/HOU/ECT on 11/28/2000 09:57 AM -----\n",
+         "to" : "Travis McCullough/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 75,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/27/2000 01:58 PM -----\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 140,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/10/2000 06:04 PM -----\n",
+         "to" : "teresa.g.bushman@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/_sent_mail/44.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "william.bradford@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 23,
+         "rawfrom" : "Rick Buy/HOU/ECT on 11/03/2000 09:16 AM \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 68,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 99,
+         "rawfrom" : " Tim Belden                           10/31/2000 01:54 PM\n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 107,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:54 AM\n",
+         "to" : "Dave Delainey"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 115,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:52 AM\n",
+         "to" : "John J Lavorato/Corp/Enron, Dave Delainey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/100.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "william.bradford@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 23,
+         "rawfrom" : "Rick Buy/HOU/ECT on 11/03/2000 09:16 AM \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 68,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 99,
+         "rawfrom" : " Tim Belden                           10/31/2000 01:54 PM\n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 107,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:54 AM\n",
+         "to" : "Dave Delainey"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 115,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:52 AM\n",
+         "to" : "John J Lavorato/Corp/Enron, Dave Delainey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/129.",
+   "hops" : [
+      {
+         "from" : "steve.young@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.young@enron.com\r\n",
+         "to" : "david.hardy@enron.com"
+      },
+      {
+         "from" : "steve.young@enron.com",
+         "line" : 39,
+         "rawfrom" : "Steve W Young/LON/ECT on 20/01/2000 14:07 \n",
+         "to" : "Steve W Young/LON/ECT@ECT"
+      },
+      {
+         "from" : "kevin.beasley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Beasley/LON/ECT on 20/01/2000 09:30 \n",
+         "to" : "Tim Poullain-Patterson/LON/ECT@ECT, Kevin Beasley/LON/ECT@ECT, Kevin"
+      },
+      {
+         "from" : "graham.cane@enron.com",
+         "line" : 69,
+         "rawfrom" : "Graham Cane\n",
+         "to" : "Kevin Sweeney/LON/ECT@ECT"
+      },
+      {
+         "from" : "kevin.sweeney@enron.com",
+         "line" : 88,
+         "rawfrom" : "Kevin Sweeney\n",
+         "to" : "Graham Cane/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/208.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "karen.heathman@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 01/17/2001 08:31 AM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jordan_mintz@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jordan Mintz/HOU/ECT on 01/16/2001 06:37 \n",
+         "to" : "Sharron Westbrook/Corp/Enron@ENRON, Inez Dauterive/HOU/ECT@ECT, Bridget"
+      },
+      {
+         "from" : "sharron.westbrook@enron.com",
+         "line" : 62,
+         "rawfrom" : "Sharron Westbrook @ ENRON\n",
+         "to" : "Darlene C Forsyth/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/235.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/21/2000 03:25 PM \n",
+         "to" : "Sheila Glover/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 47,
+         "rawfrom" : " Sheila Glover                           19/12/2000 17:45\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 73,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 118,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/247.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "mike.jordan@enron.com"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 26,
+         "rawfrom" : " Sheila Glover                           12/19/2000 11:45 AM\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 51,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 62,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 96,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/248.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "sheila.glover@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/19/2000 12:24 PM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, David Port/Market"
+      },
+      {
+         "from" : "mike.jordan@enron.com",
+         "line" : 81,
+         "rawfrom" : "Mike Jordan/LON/ECT on 19/12/2000 15:06 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 116,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/324.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "rick.carson@enron.com"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 21,
+         "rawfrom" : "Travis McCullough on 11/28/2000 09:59 AM\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 42,
+         "rawfrom" : "Travis McCullough/HOU/ECT on 11/28/2000 09:57 AM -----\n",
+         "to" : "Travis McCullough/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 75,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/27/2000 01:58 PM -----\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 140,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/10/2000 06:04 PM -----\n",
+         "to" : "teresa.g.bushman@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/all_documents/61.",
+   "hops" : [
+      {
+         "from" : "dorothy.youngblood@enron.com",
+         "line" : 4,
+         "rawfrom" : "dorothy.youngblood@enron.com\r\n",
+         "to" : "lee.steele@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 80,
+         "rawfrom" : " William S Bradford                           12/05/2000 08:32 PM\n",
+         "to" : "Dorothy Youngblood/HOU/ECT@ECT"
+      },
+      {
+         "from" : "karen.heathman@enron.com",
+         "line" : 100,
+         "rawfrom" : " Karen K Heathman                                                       \n",
+         "to" : "William S Bradford/HOU/ECT@ECT"
+      },
+      {
+         "from" : "karen.heathman@enron.com",
+         "line" : 112,
+         "rawfrom" : "Karen K Heathman/HOU/ECT on 12/05/2000 \n",
+         "to" : "Dorothy Youngblood/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/deleted_items/112.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "sally_beck@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBeck, Sally  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 33,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "veronica.gonzalez@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tGonzalez, Veronica  \n",
+         "to" : "Allen, Thresa A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/deleted_items/3.",
+   "hops" : [
+      {
+         "from" : "e..crady@enron.com",
+         "line" : 4,
+         "rawfrom" : "e..crady@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Crady, Ned E."
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Crady, Ned E."
+      },
+      {
+         "from" : "ned.crady@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tCrady, Ned E.  \n",
+         "to" : "Horton, Stanley; Buy, Rick; Causey, Richard; Fallon, Jim; McMahon, Jeffrey; Bowen Jr., Raymond; Koenig, Mark; Haedicke, Mark E.; Rieker, Paula"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/deleted_items/4.",
+   "hops" : [
+      {
+         "from" : "e.sullo@enron.com",
+         "line" : 4,
+         "rawfrom" : "e.sullo@enron.com\r\n",
+         "to" : "e..crady@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Sullo, Sharon E"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Crady, Ned E."
+      },
+      {
+         "from" : "ned.crady@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tCrady, Ned E.  \n",
+         "to" : "Horton, Stanley; Buy, Rick; Causey, Richard; Fallon, Jim; McMahon, Jeffrey; Bowen Jr., Raymond; Koenig, Mark; Haedicke, Mark E.; Rieker, Paula"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/deleted_items/9.",
+   "hops" : [
+      {
+         "from" : "frank.de@enron.com",
+         "line" : 4,
+         "rawfrom" : "frank.de@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "De Jesus, Frank"
+      },
+      {
+         "from" : "frank.jesus@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tDe Jesus, Frank  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "frank.jesus@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tDe Jesus, Frank  \n",
+         "to" : "Buy, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/12.",
+   "hops" : [
+      {
+         "from" : "steve.young@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.young@enron.com\r\n",
+         "to" : "david.hardy@enron.com"
+      },
+      {
+         "from" : "steve.young@enron.com",
+         "line" : 39,
+         "rawfrom" : "Steve W Young/LON/ECT on 20/01/2000 14:07 \n",
+         "to" : "Steve W Young/LON/ECT@ECT"
+      },
+      {
+         "from" : "kevin.beasley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Beasley/LON/ECT on 20/01/2000 09:30 \n",
+         "to" : "Tim Poullain-Patterson/LON/ECT@ECT, Kevin Beasley/LON/ECT@ECT, Kevin"
+      },
+      {
+         "from" : "graham.cane@enron.com",
+         "line" : 69,
+         "rawfrom" : "Graham Cane\n",
+         "to" : "Kevin Sweeney/LON/ECT@ECT"
+      },
+      {
+         "from" : "kevin.sweeney@enron.com",
+         "line" : 88,
+         "rawfrom" : "Kevin Sweeney\n",
+         "to" : "Graham Cane/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/122.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "sheila.glover@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/19/2000 12:24 PM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, David Port/Market"
+      },
+      {
+         "from" : "mike.jordan@enron.com",
+         "line" : 81,
+         "rawfrom" : "Mike Jordan/LON/ECT on 19/12/2000 15:06 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 116,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/123.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "mike.jordan@enron.com"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 26,
+         "rawfrom" : " Sheila Glover                           12/19/2000 11:45 AM\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 51,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 62,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 96,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/131.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/21/2000 03:25 PM \n",
+         "to" : "Sheila Glover/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 47,
+         "rawfrom" : " Sheila Glover                           19/12/2000 17:45\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 73,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 118,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/140.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "karen.heathman@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 01/17/2001 08:31 AM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jordan_mintz@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jordan Mintz/HOU/ECT on 01/16/2001 06:37 \n",
+         "to" : "Sharron Westbrook/Corp/Enron@ENRON, Inez Dauterive/HOU/ECT@ECT, Bridget"
+      },
+      {
+         "from" : "sharron.westbrook@enron.com",
+         "line" : 62,
+         "rawfrom" : "Sharron Westbrook @ ENRON\n",
+         "to" : "Darlene C Forsyth/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/186.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "rick.carson@enron.com"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 21,
+         "rawfrom" : "Travis McCullough on 11/28/2000 09:59 AM\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 42,
+         "rawfrom" : "Travis McCullough/HOU/ECT on 11/28/2000 09:57 AM -----\n",
+         "to" : "Travis McCullough/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 75,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/27/2000 01:58 PM -----\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 140,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/10/2000 06:04 PM -----\n",
+         "to" : "teresa.g.bushman@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/33.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "william.bradford@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 23,
+         "rawfrom" : "Rick Buy/HOU/ECT on 11/03/2000 09:16 AM \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 68,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 99,
+         "rawfrom" : " Tim Belden                           10/31/2000 01:54 PM\n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 107,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:54 AM\n",
+         "to" : "Dave Delainey"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 115,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:52 AM\n",
+         "to" : "John J Lavorato/Corp/Enron, Dave Delainey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/discussion_threads/54.",
+   "hops" : [
+      {
+         "from" : "dorothy.youngblood@enron.com",
+         "line" : 4,
+         "rawfrom" : "dorothy.youngblood@enron.com\r\n",
+         "to" : "lee.steele@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 80,
+         "rawfrom" : " William S Bradford                           12/05/2000 08:32 PM\n",
+         "to" : "Dorothy Youngblood/HOU/ECT@ECT"
+      },
+      {
+         "from" : "karen.heathman@enron.com",
+         "line" : 100,
+         "rawfrom" : " Karen K Heathman                                                       \n",
+         "to" : "William S Bradford/HOU/ECT@ECT"
+      },
+      {
+         "from" : "karen.heathman@enron.com",
+         "line" : 112,
+         "rawfrom" : "Karen K Heathman/HOU/ECT on 12/05/2000 \n",
+         "to" : "Dorothy Youngblood/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/helsinki/5.",
+   "hops" : [
+      {
+         "from" : "steve.young@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.young@enron.com\r\n",
+         "to" : "david.hardy@enron.com"
+      },
+      {
+         "from" : "steve.young@enron.com",
+         "line" : 39,
+         "rawfrom" : "Steve W Young/LON/ECT on 20/01/2000 14:07 \n",
+         "to" : "Steve W Young/LON/ECT@ECT"
+      },
+      {
+         "from" : "kevin.beasley@enron.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Beasley/LON/ECT on 20/01/2000 09:30 \n",
+         "to" : "Tim Poullain-Patterson/LON/ECT@ECT, Kevin Beasley/LON/ECT@ECT, Kevin"
+      },
+      {
+         "from" : "graham.cane@enron.com",
+         "line" : 69,
+         "rawfrom" : "Graham Cane\n",
+         "to" : "Kevin Sweeney/LON/ECT@ECT"
+      },
+      {
+         "from" : "kevin.sweeney@enron.com",
+         "line" : 88,
+         "rawfrom" : "Kevin Sweeney\n",
+         "to" : "Graham Cane/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1023.",
+   "hops" : [
+      {
+         "from" : "david.gorte@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.gorte@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "olivier.herbelot@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tHerbelot, Olivier  \n",
+         "to" : "Gorte, David"
+      },
+      {
+         "from" : "michael.brown@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBrown, Michael - COO London  \n",
+         "to" : "Herbelot, Olivier"
+      },
+      {
+         "from" : "olivier.herbelot@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tHerbelot, Olivier  \n",
+         "to" : "Brown, Michael - COO London"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1042.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "molly.harris@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHarris, Molly  \n",
+         "to" : "Bertasi, Ron; Gahn, Scott"
+      },
+      {
+         "from" : "ron.bertasi@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBertasi, Ron  \n",
+         "to" : "Gahn, Scott"
+      },
+      {
+         "from" : "sgahn@enron.com",
+         "line" : 56,
+         "rawfrom" : "Scott Gahn\n",
+         "to" : "Ron Bertasi/HOU/EES@EES"
+      },
+      {
+         "from" : "sgahn@enron.com",
+         "line" : 66,
+         "rawfrom" : "Scott Gahn/HOU/EES on 09/27/2001 04:49 PM ---------------------------\n",
+         "to" : "Scott Gahn/HOU/EES@EES"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 73,
+         "rawfrom" : "From:\tErich Holzer/ENRON@enronXgate on 09/27/2001 04:25 PM\n",
+         "to" : "Travis Andrews/HOU/EES@EES, Ron Bertasi/HOU/EES@EES, John D Burrows/HOU/EES@EES, Tandra Coleman/ENRON@enronXgate, Humberto Cubillos-Uejbe/HOU/EES@EES, Karen Cutler/HOU/EES@EES, Ivan Donaldson/HOU/EES@EES, Suzanne Farrow/HOU/EES@EES, Eric Feitler/HOU/EES@EES, Dwight Fruge/HOU/EES@EES, Palice Gray/HOU/EES, Roshena Ham/HOU/EES@EES, Molly Harris/ENRON@enronXgate, John Howard Harrison/ENRON@enronXgate, Chris Hendrix/HOU/EES@EES, Michelle Juden/HOU/EES@EES, Russ Kavanaugh/ENRON@enronXgate, Mark Kiddle/ENRON@enronXgate, Dickson Koo/ENRON@enronXgate, Kenneth Lee/HOU/EES, \"Matheson, A.K.\" <AMathes2@enron.com>@SMTP@enronXgate, Mark Mayorga/HOU/EES@EES, Keith E Power/ENRON@enronXgate, Dana Saucier/DUB/EES@EES, Samuel Schott/ENRON@enronXgate, Teresa Seibel/ENRON@enronXgate, Enrique Velasco/HOU/EES@EES, James M Wood/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/107.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "james.l.bouillion@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBouillion, James L.  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.mcmahon@skytel.com",
+         "line" : 33,
+         "rawfrom" : "\tMcMahon, Jeffrey  \n",
+         "to" : "Bouillion, James L.; Deffner, Joseph"
+      },
+      {
+         "from" : "james.l.bouillion@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tBouillion, James L.  \n",
+         "to" : "McMahon, Jeffrey; Deffner, Joseph"
+      },
+      {
+         "from" : "james.l.bouillion@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tBouillion, James L.  \n",
+         "to" : "Hodge, Jeffrey T."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1088.",
+   "hops" : [
+      {
+         "from" : "marcus.nettelton@enron.com",
+         "line" : 4,
+         "rawfrom" : "marcus.nettelton@enron.com\r\n",
+         "to" : "robert.eickenroht@enron.com, lisa.mellencamp@enron.com"
+      },
+      {
+         "from" : "robert.eickenroht@enron.com",
+         "line" : 30,
+         "rawfrom" : "Eickenroht, Robert \n",
+         "to" : "Mellencamp, Lisa"
+      },
+      {
+         "from" : "robert.eickenroht@enron.com",
+         "line" : 45,
+         "rawfrom" : "Eickenroht, Robert \n",
+         "to" : "Buy, Rick; Bradford, William S.; Tribolet, Michael; Nettelton,"
+      },
+      {
+         "from" : "marc.manly@newpower.com",
+         "line" : 57,
+         "rawfrom" : "Marc.Manly@NewPower.com [mailto:Marc.Manly@NewPower.com]\n",
+         "to" : "Mellencamp, Lisa; Eickenroht, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1106.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "edward.sacks@enron.com, m..presto@enron.com"
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 28,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 50,
+         "rawfrom" : "\tPresto, Kevin M.  \n",
+         "to" : "Sacks, Edward; Hardy, Trey; Evans, Casey; White, Stacey W.; Vinson, Donald Wayne; Sturm, Fletcher J."
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 59,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Hardy, Trey; Evans, Casey; Presto, Kevin M.; White, Stacey W.; Vinson, Donald Wayne; Sturm, Fletcher J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1116.",
+   "hops" : [
+      {
+         "from" : "ron.baker@enron.com",
+         "line" : 4,
+         "rawfrom" : "ron.baker@enron.com\r\n",
+         "to" : "ben.glisan@enron.com, richard.causey@enron.com, rick.buy@enron.com,"
+      },
+      {
+         "from" : "ben.glisan@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tGlisan, Ben  \n",
+         "to" : "Causey, Richard; Buy, Rick; Baker, Ron; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCausey, Richard  \n",
+         "to" : "Buy, Rick; Glisan, Ben; Baker, Ron; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Causey, Richard; Glisan, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1117.",
+   "hops" : [
+      {
+         "from" : "gordon.mckillop@enron.com",
+         "line" : 4,
+         "rawfrom" : "gordon.mckillop@enron.com\r\n",
+         "to" : "ron.baker@enron.com, ben.glisan@enron.com, richard.causey@enron.com,"
+      },
+      {
+         "from" : "ron.baker@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBaker, Ron  \n",
+         "to" : "Glisan, Ben; Causey, Richard; Buy, Rick; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "ben.glisan@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tGlisan, Ben  \n",
+         "to" : "Causey, Richard; Buy, Rick; Baker, Ron; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tCausey, Richard  \n",
+         "to" : "Buy, Rick; Glisan, Ben; Baker, Ron; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Causey, Richard; Glisan, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1126.",
+   "hops" : [
+      {
+         "from" : "jeffrey.mcmahon@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.mcmahon@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "sue.ford@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ford, Sue on behalf of McMahon, Jeffrey \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 48,
+         "rawfrom" : "  Garner, Bruce  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "paul.maley@enron.com",
+         "line" : 60,
+         "rawfrom" : "  Maley, Paul  \n",
+         "to" : "Cose, Simon; Murphy, Ted"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1178.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Rohauer, Tanya"
+      },
+      {
+         "from" : "olivier.herbelot@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tHerbelot, Olivier  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "nadja.klerk@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tDe Klerk, Nadja  \n",
+         "to" : "Bokeloh, Frank; Pudenz, Scott"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1190.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 26,
+         "rawfrom" : "Buy, Rick \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "carl.tricoli@enron.com",
+         "line" : 34,
+         "rawfrom" : "Tricoli, Carl \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "frankmuscara@carolina.rr.com",
+         "line" : 46,
+         "rawfrom" : "Frank Muscara [mailto:frankmuscara@carolina.rr.com]\n",
+         "to" : "Tricoli, Carl"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1198.",
+   "hops" : [
+      {
+         "from" : "michael.tribolet@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.tribolet@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "robert.eickenroht@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tEickenroht, Robert  \n",
+         "to" : "'joseph.cialone@bakerbotts.com'; 'david.burns@bakerbotts.com'"
+      },
+      {
+         "from" : "marc.manly@newpower.com",
+         "line" : 50,
+         "rawfrom" : " <Marc.Manly@NewPower.com>\n",
+         "to" : "Eickenroht, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=REICKEN>"
+      },
+      {
+         "from" : "marc.manly@newpower.com",
+         "line" : 71,
+         "rawfrom" : " <Marc.Manly@NewPower.com>\n",
+         "to" : "Eickenroht, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=REICKEN>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/1206.",
+   "hops" : [
+      {
+         "from" : "bradford.larson@enron.com",
+         "line" : 4,
+         "rawfrom" : "bradford.larson@enron.com\r\n",
+         "to" : "david.gorte@enron.com, rick.buy@enron.com"
+      },
+      {
+         "from" : "david.gorte@enron.com",
+         "line" : 32,
+         "rawfrom" : "Gorte, David \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 56,
+         "rawfrom" : "Buy, Rick \n",
+         "to" : "Gorte, David; Larson, Bradford"
+      },
+      {
+         "from" : "dcagle@mariner-energy.com",
+         "line" : 67,
+         "rawfrom" : "Cagle, Donna [mailto:DCAGLE@mariner-energy.com]\n",
+         "to" : "Melendrez, Jesus; Buy, Rick; Keel, Allan; Josey, Scott D.; Clark,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/15.",
+   "hops" : [
+      {
+         "from" : "james.hachen@enron.com",
+         "line" : 4,
+         "rawfrom" : "james.hachen@enron.com\r\n",
+         "to" : "david.gorte@enron.com"
+      },
+      {
+         "from" : "andrew.ralston@enron.com",
+         "line" : 26,
+         "rawfrom" : "Ralston, Andrew \n",
+         "to" : "Hachen, James"
+      },
+      {
+         "from" : "michelle.maynard@enron.com",
+         "line" : 37,
+         "rawfrom" : "Maynard, Michelle \n",
+         "to" : "Ralston, Andrew"
+      },
+      {
+         "from" : "msmith1@enron.com",
+         "line" : 48,
+         "rawfrom" : "Smith, Mike D. \n",
+         "to" : "'jklauber@llgm.com'; Maynard, Michelle; Keller, James E.; Darmitzel,"
+      },
+      {
+         "from" : "jeff_dasovich@enron.com",
+         "line" : 62,
+         "rawfrom" : "Dasovich, Jeff \n",
+         "to" : "Blachman, Jeremy; Delainey, David W.; Steffes, James D.; Tribolet,"
+      },
+      {
+         "from" : "jbennett@gmssr.com",
+         "line" : 86,
+         "rawfrom" : "JBennett [mailto:JBennett@GMSSR.com]\n",
+         "to" : "scofer@llgm.com; jklauber@llgm.com; Steffes, James D.; Jeff Dasovich"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/188.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "edie.leschber@enron.com, rick.buy@enron.com"
+      },
+      {
+         "from" : "edie.leschber@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tLeschber, Edie  \n",
+         "to" : "Buy, Rick; Port, David"
+      },
+      {
+         "from" : "faith.killen@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tKillen, Faith  \n",
+         "to" : "Hardy, Trey; Vandor, David; Leschber, Edie"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 57,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Belden, Tim; Calger, Christopher F.; Presto, Kevin M.; Duran, W. David; Robinson, Mitch; Forster, David; Curry, Mike; Arnold, John; Shively, Hunter S.; Milnthorp, Rob; Zufferli, John; Luce, Laura; Vickers, Frank; Neal, Scott; Lagrasta, Fred; Aucoin, Berney C. ; Steffes, James D.; Roberts, Mike A.; Grigsby, Mike; Tycholiz, Barry; Allen, Phillip K.; Redmond, Brian; Martin, Thomas A.; Kitchen, Louise; Colwell, Wes; Hodges, Georgeanne; Webb, Jay; Hillier, Bob; McAuliffe, Bob; Rub, Jenny; Hall Jr., Robert L.; Brackett, Debbie R.; Oxley, David; Bradford, William S.; Myers, Thomas; Schultea, Kathryn; Garcia, Paul; Reeves, Leslie; Buy, Rick; Port, David; Patrick, Michael K.; Haedicke, Mark E."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/194.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "edie.leschber@enron.com"
+      },
+      {
+         "from" : "edie.leschber@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tLeschber, Edie  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "faith.killen@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tKillen, Faith  \n",
+         "to" : "Hardy, Trey; Vandor, David; Leschber, Edie"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 52,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Belden, Tim; Calger, Christopher F.; Presto, Kevin M.; Duran, W. David; Robinson, Mitch; Forster, David; Curry, Mike; Arnold, John; Shively, Hunter S.; Milnthorp, Rob; Zufferli, John; Luce, Laura; Vickers, Frank; Neal, Scott; Lagrasta, Fred; Aucoin, Berney C. ; Steffes, James D.; Roberts, Mike A.; Grigsby, Mike; Tycholiz, Barry; Allen, Phillip K.; Redmond, Brian; Martin, Thomas A.; Kitchen, Louise; Colwell, Wes; Hodges, Georgeanne; Webb, Jay; Hillier, Bob; McAuliffe, Bob; Rub, Jenny; Hall Jr., Robert L.; Brackett, Debbie R.; Oxley, David; Bradford, William S.; Myers, Thomas; Schultea, Kathryn; Garcia, Paul; Reeves, Leslie; Buy, Rick; Port, David; Patrick, Michael K.; Haedicke, Mark E."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/208.",
+   "hops" : [
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 4,
+         "rawfrom" : "louise.kitchen@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 22,
+         "rawfrom" : "Buy, Rick \n",
+         "to" : "Kitchen, Louise"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 31,
+         "rawfrom" : "Kitchen, Louise \n",
+         "to" : "Rub, Jenny; Webb, Jay; Oxley, David; Myers, Thomas; Colwell, Wes; Hodges, Georgeanne; Taylor, Mark E (Legal); Brackett, Debbie R.; Buy, Rick; Port, David; Beck, Sally; Reeves, Leslie; Hall, Bob M"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 50,
+         "rawfrom" : "  Kitchen, Louise  \n",
+         "to" : "Belden, Tim; Calger, Christopher F.; Presto, Kevin M.; Duran, W. David; Robinson, Mitch; Forster, David; Curry, Mike; Arnold, John; Shively, Hunter S.; Milnthorp, Rob; Zufferli, John; Luce, Laura; Vickers, Frank; Neal, Scott; Lagrasta, Fred; Aucoin, Berney C. ; Steffes, James D.; Roberts, Mike A.; Grigsby, Mike; Tycholiz, Barry; Allen, Phillip K.; Redmond, Brian; Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/209.",
+   "hops" : [
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 4,
+         "rawfrom" : "louise.kitchen@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 22,
+         "rawfrom" : "Buy, Rick \n",
+         "to" : "Kitchen, Louise"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 31,
+         "rawfrom" : "Kitchen, Louise \n",
+         "to" : "Rub, Jenny; Webb, Jay; Oxley, David; Myers, Thomas; Colwell, Wes; Hodges, Georgeanne; Taylor, Mark E (Legal); Brackett, Debbie R.; Buy, Rick; Port, David; Beck, Sally; Reeves, Leslie; Hall, Bob M"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 50,
+         "rawfrom" : "  Kitchen, Louise  \n",
+         "to" : "Belden, Tim; Calger, Christopher F.; Presto, Kevin M.; Duran, W. David; Robinson, Mitch; Forster, David; Curry, Mike; Arnold, John; Shively, Hunter S.; Milnthorp, Rob; Zufferli, John; Luce, Laura; Vickers, Frank; Neal, Scott; Lagrasta, Fred; Aucoin, Berney C. ; Steffes, James D.; Roberts, Mike A.; Grigsby, Mike; Tycholiz, Barry; Allen, Phillip K.; Redmond, Brian; Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/241.",
+   "hops" : [
+      {
+         "from" : "liz.fricke@neg.pge.com",
+         "line" : 4,
+         "rawfrom" : "liz.fricke@neg.pge.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 33,
+         "rawfrom" : "Buy, Rick [mailto:Rick.Buy@ENRON.com]\n",
+         "to" : "Fricke, Liz"
+      },
+      {
+         "from" : "liz.fricke@neg.pge.com",
+         "line" : 45,
+         "rawfrom" : "Fricke, Liz [mailto:liz.fricke@neg.pge.com]\n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "mailer@adelmanmail.com",
+         "line" : 73,
+         "rawfrom" : "> From:\tmailer [mailto:mailer@adelmanmail.com]\n",
+         "to" : "'liz.fricke@neg.pge.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/254.",
+   "hops" : [
+      {
+         "from" : "liz.fricke@neg.pge.com",
+         "line" : 4,
+         "rawfrom" : "liz.fricke@neg.pge.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 35,
+         "rawfrom" : "Buy, Rick [mailto:Rick.Buy@ENRON.com]\n",
+         "to" : "Fricke, Liz"
+      },
+      {
+         "from" : "liz.fricke@neg.pge.com",
+         "line" : 47,
+         "rawfrom" : "Fricke, Liz [mailto:liz.fricke@neg.pge.com]\n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "mailer@adelmanmail.com",
+         "line" : 75,
+         "rawfrom" : "> From:\tmailer [mailto:mailer@adelmanmail.com]\n",
+         "to" : "'liz.fricke@neg.pge.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/270.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "c..gossett@enron.com, w..white@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/31.",
+   "hops" : [
+      {
+         "from" : "e.sullo@enron.com",
+         "line" : 4,
+         "rawfrom" : "e.sullo@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "debbie.r.brackett@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBrackett, Debbie R.  \n",
+         "to" : "Strong, Holly"
+      },
+      {
+         "from" : "holly.strong@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tStrong, Holly  \n",
+         "to" : "Brackett, Debbie R."
+      },
+      {
+         "from" : "sharon.e.sullo@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tSullo, Sharon E  \n",
+         "to" : "Strong, Holly"
+      },
+      {
+         "from" : "holly.strong@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tStrong, Holly  \n",
+         "to" : "Sullo, Sharon E"
+      },
+      {
+         "from" : "sharon.e.sullo@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tSullo, Sharon E  \n",
+         "to" : "Strong, Holly"
+      },
+      {
+         "from" : "sharon.e.sullo@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tSullo, Sharon E  \n",
+         "to" : "Strong, Holly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/313.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "jgolden@enron.com",
+         "line" : 22,
+         "rawfrom" : "Golden, Jeff \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "james.brennan@ubsw.com",
+         "line" : 33,
+         "rawfrom" : "Brennan, James+ <James.Brennan@ubsw.com>\n",
+         "to" : "Golden, Jeff <Jeff.Golden@ENRON.com>"
+      },
+      {
+         "from" : "william.glass@ubsw.com",
+         "line" : 47,
+         "rawfrom" : "Glass, William [UBS] \n",
+         "to" : "Brennan, James+; Riddell, Gary [UBS]; Ferrara, Michael [UBS]; Graf,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/340.",
+   "hops" : [
+      {
+         "from" : "j..kean@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..kean@enron.com\r\n",
+         "to" : "raymond.bowen@enron.com, london.brown@enron.com, rick.buy@enron.com,"
+      },
+      {
+         "from" : "hardie.davis@enron.com",
+         "line" : 36,
+         "rawfrom" : "Davis, Hardie \n",
+         "to" : "Kean, Steven J."
+      },
+      {
+         "from" : "hardie.davis@enron.com",
+         "line" : 52,
+         "rawfrom" : "Davis, Hardie \n",
+         "to" : "Kean, Steven J."
+      },
+      {
+         "from" : "steven_j_kean@enron.com",
+         "line" : 112,
+         "rawfrom" : "Kean, Steven J. \n",
+         "to" : "Davis, Hardie"
+      },
+      {
+         "from" : "kathryn.schultea@enron.com",
+         "line" : 121,
+         "rawfrom" : "Schultea, Kathryn \n",
+         "to" : "Kean, Steven J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/371.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Buy, Rick; Port, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/395.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 22,
+         "rawfrom" : "\tShankman, Jeffrey A.  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 35,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Shankman, Jeffrey A."
+      },
+      {
+         "from" : "stuart.staley@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tStaley, Stuart  \n",
+         "to" : "Suttle, John"
+      },
+      {
+         "from" : "john.suttle@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tSuttle, John  \n",
+         "to" : "Staley, Stuart"
+      },
+      {
+         "from" : "nish.patel@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tPatel, Nish  \n",
+         "to" : "Suttle, John"
+      },
+      {
+         "from" : "paul.maley@enron.com",
+         "line" : 87,
+         "rawfrom" : "\tMaley, Paul  \n",
+         "to" : "Bradley, Peter; Rizvi, Riaz; Staley, Stuart; Garner, Bruce; Becker, Sven; Ungethum, Manfred; Bland, Stuart; Chismar, John; Clarke, Niamh; Cronin, Caroline; Jones, Mark; Koller, Ross; Mahoney, Chris; McKinlay, Tom; McLeish, Alex; O'Brien, Tony; Patel, Nish; Peter, Stewart; Petersen, Bo; Potter, Darren; Spencer, John; Talvitie, Henkka; Thomas, John Buckner"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/396.",
+   "hops" : [
+      {
+         "from" : "bradford.larson@enron.com",
+         "line" : 4,
+         "rawfrom" : "bradford.larson@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "bradford.larson@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tLarson, Bradford  \n",
+         "to" : "Bushman, Teresa G.; Corbet, Nancy; Lowry, Donna"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tBushman, Teresa G.  \n",
+         "to" : "Corbet, Nancy; Larson, Bradford; Lowry, Donna"
+      },
+      {
+         "from" : "nancy.corbet@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tCorbet, Nancy  \n",
+         "to" : "Bushman, Teresa G.; Larson, Bradford; Lowry, Donna"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/398.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 35,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 43,
+         "rawfrom" : "\tShankman, Jeffrey A.  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 56,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Shankman, Jeffrey A."
+      },
+      {
+         "from" : "stuart.staley@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tStaley, Stuart  \n",
+         "to" : "Suttle, John"
+      },
+      {
+         "from" : "john.suttle@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tSuttle, John  \n",
+         "to" : "Staley, Stuart"
+      },
+      {
+         "from" : "nish.patel@enron.com",
+         "line" : 99,
+         "rawfrom" : "\tPatel, Nish  \n",
+         "to" : "Suttle, John"
+      },
+      {
+         "from" : "paul.maley@enron.com",
+         "line" : 108,
+         "rawfrom" : "\tMaley, Paul  \n",
+         "to" : "Bradley, Peter; Rizvi, Riaz; Staley, Stuart; Garner, Bruce; Becker, Sven; Ungethum, Manfred; Bland, Stuart; Chismar, John; Clarke, Niamh; Cronin, Caroline; Jones, Mark; Koller, Ross; Mahoney, Chris; McKinlay, Tom; McLeish, Alex; O'Brien, Tony; Patel, Nish; Peter, Stewart; Petersen, Bo; Potter, Darren; Spencer, John; Talvitie, Henkka; Thomas, John Buckner"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/403.",
+   "hops" : [
+      {
+         "from" : "bradford.larson@enron.com",
+         "line" : 4,
+         "rawfrom" : "bradford.larson@enron.com\r\n",
+         "to" : "david.gorte@enron.com, rick.buy@enron.com"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBushman, Teresa G.  \n",
+         "to" : "Corbet, Nancy; Fowler, Ellen; Larson, Bradford; Butcher, Sharon"
+      },
+      {
+         "from" : "joel.ephross@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tEphross, Joel  \n",
+         "to" : "Hudler, Shirley A.; Thompson, C. John"
+      },
+      {
+         "from" : "shirley.hudler@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tHudler, Shirley A.  \n",
+         "to" : "Thompson, C. John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/416.",
+   "hops" : [
+      {
+         "from" : "a..shankman@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..shankman@enron.com\r\n",
+         "to" : "jeffrey.mcmahon@enron.com, raymond.bowen@enron.com"
+      },
+      {
+         "from" : "per.sekse@enron.com",
+         "line" : 25,
+         "rawfrom" : "Sekse, Per \n",
+         "to" : "Shankman, Jeffrey A.; Mcconnell, Mike"
+      },
+      {
+         "from" : "jessie.mata@enron.com",
+         "line" : 36,
+         "rawfrom" : "Mata, Jessie \n",
+         "to" : "Clayton, Paul"
+      },
+      {
+         "from" : "paul.clayton@enron.com",
+         "line" : 48,
+         "rawfrom" : "Clayton, Paul \n",
+         "to" : "Mata, Jessie"
+      },
+      {
+         "from" : "per.sekse@enron.com",
+         "line" : 64,
+         "rawfrom" : "Sekse, Per \n",
+         "to" : "Mata, Jessie"
+      },
+      {
+         "from" : "jessie.mata@enron.com",
+         "line" : 76,
+         "rawfrom" : "Mata, Jessie \n",
+         "to" : "Sekse, Per"
+      },
+      {
+         "from" : "per.sekse@enron.com",
+         "line" : 85,
+         "rawfrom" : "Sekse, Per \n",
+         "to" : "Mata, Jessie"
+      },
+      {
+         "from" : "james.l.bouillion@enron.com",
+         "line" : 94,
+         "rawfrom" : "Bouillion, James L. \n",
+         "to" : "Sekse, Per"
+      },
+      {
+         "from" : "paul.clayton@enron.com",
+         "line" : 103,
+         "rawfrom" : "Clayton, Paul \n",
+         "to" : "Bouillion, James L."
+      },
+      {
+         "from" : "jessie.mata@enron.com",
+         "line" : 112,
+         "rawfrom" : "Mata, Jessie \n",
+         "to" : "Clayton, Paul"
+      },
+      {
+         "from" : "paul.clayton@enron.com",
+         "line" : 123,
+         "rawfrom" : "Clayton, Paul \n",
+         "to" : "Mata, Jessie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/42.",
+   "hops" : [
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.sherrick@enron.com\r\n",
+         "to" : "paula.rieker@enron.com"
+      },
+      {
+         "from" : "paula_rieker@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tRieker, Paula  \n",
+         "to" : "Sherrick, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.mcmahon@skytel.com",
+         "line" : 45,
+         "rawfrom" : "\tMcMahon, Jeffrey  \n",
+         "to" : "Sherrick, Jeffrey; Buy, Rick; Rieker, Paula"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "Sherrick, Jeffrey; McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "Bowen Jr., Raymond"
+      },
+      {
+         "from" : "tim.detmering@enron.com",
+         "line" : 116,
+         "rawfrom" : "\tDetmering, Tim  \n",
+         "to" : "Bowen Jr., Raymond; Brian Rosen (E-mail); Steve Zelin (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/449.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "tim.despain@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tDeSpain, Tim  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 37,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick; DeSpain, Tim"
+      },
+      {
+         "from" : "rudy.dautel@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tDautel, Rudy  \n",
+         "to" : "Mead, Paul; Shaw, Eric"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/47.",
+   "hops" : [
+      {
+         "from" : "paula.rieker@enron.com",
+         "line" : 4,
+         "rawfrom" : "paula.rieker@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "jeffrey.mcmahon@skytel.com",
+         "line" : 24,
+         "rawfrom" : "\tMcMahon, Jeffrey  \n",
+         "to" : "Sherrick, Jeffrey; Buy, Rick; Rieker, Paula"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "Sherrick, Jeffrey; McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "Bowen Jr., Raymond"
+      },
+      {
+         "from" : "tim.detmering@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tDetmering, Tim  \n",
+         "to" : "Bowen Jr., Raymond; Brian Rosen (E-mail); Steve Zelin (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/520.",
+   "hops" : [
+      {
+         "from" : "k..heathman@enron.com",
+         "line" : 4,
+         "rawfrom" : "k..heathman@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "cassandra.schultz@enron.com",
+         "line" : 24,
+         "rawfrom" : "Schultz, Cassandra=20\r\n",
+         "to" : "Brooks, Robert=20"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 45,
+         "rawfrom" : "Buy, Rick=20\r\n",
+         "to" : "Schultz, Cassandra=20"
+      },
+      {
+         "from" : "robert.brooks@enron.com",
+         "line" : 57,
+         "rawfrom" : "Brooks, Robert <robert.brooks@enron.com>=20\r\n",
+         "to" : "Buy, Rick <Rick.Buy@ENRON.com>=20"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 78,
+         "rawfrom" : "Buy, Rick=20\r\n",
+         "to" : "Brooks, Robert=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/557.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Reeves, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/559.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Reeves, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/584.",
+   "hops" : [
+      {
+         "from" : "cassandra.schultz@enron.com",
+         "line" : 4,
+         "rawfrom" : "cassandra.schultz@enron.com\r\n",
+         "to" : "david.port@enron.com, rick.buy@enron.com"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 28,
+         "rawfrom" : "Glover, Sheila \n",
+         "to" : "Hickerson, Gary; Schultz, Cassandra"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 52,
+         "rawfrom" : "Glover, Sheila \n",
+         "to" : "Hickerson, Gary"
+      },
+      {
+         "from" : "cassandra.schultz@enron.com",
+         "line" : 59,
+         "rawfrom" : "Schultz, Cassandra \n",
+         "to" : "Glover, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/598.",
+   "hops" : [
+      {
+         "from" : "chip.schneider@enron.com",
+         "line" : 4,
+         "rawfrom" : "chip.schneider@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rebecca.phillips@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPhillips, Rebecca  \n",
+         "to" : "Schneider, Chip"
+      },
+      {
+         "from" : "chip.schneider@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSchneider, Chip  \n",
+         "to" : "Phillips, Rebecca"
+      },
+      {
+         "from" : "rebecca.phillips@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tPhillips, Rebecca  \n",
+         "to" : "Hennessy, Rita; Romero, Araceli; Vanek, Darren; Hudler, Cindy; Caudle, Becky; Smith, Shelli"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/62.",
+   "hops" : [
+      {
+         "from" : "jeffrey.mcmahon@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.mcmahon@enron.com\r\n",
+         "to" : "jeffrey.sherrick@enron.com, rick.buy@enron.com, paula.rieker@enron.com"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "Sherrick, Jeffrey; McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "jeffrey.sherrick@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tSherrick, Jeffrey  \n",
+         "to" : "Bowen Jr., Raymond"
+      },
+      {
+         "from" : "tim.detmering@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tDetmering, Tim  \n",
+         "to" : "Bowen Jr., Raymond; Brian Rosen (E-mail); Steve Zelin (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/707.",
+   "hops" : [
+      {
+         "from" : "michael.tribolet@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.tribolet@enron.com\r\n",
+         "to" : "e.weidler@enron.com"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tWeidler, Peter E  \n",
+         "to" : "Tribolet, Michael"
+      },
+      {
+         "from" : "federico.cerisoli@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tCerisoli, Federico  \n",
+         "to" : "Shankle, Monique"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:\tMonique Shankle/ENRON@enronXgate on 08/21/2001 01:48 PM CDT\n",
+         "to" : "Michael Tribolet/ENRON@enronXgate, Felipe Ospina/ENRON@enronXgate, Federico Cerisoli/SA/Enron@Enron, Peter E Weidler/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/712.",
+   "hops" : [
+      {
+         "from" : "wanda.curry@enron.com",
+         "line" : 4,
+         "rawfrom" : "wanda.curry@enron.com\r\n",
+         "to" : "beth.apollo@enron.com, sally.beck@enron.com, m.hall@enron.com"
+      },
+      {
+         "from" : "wanda.curry@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCurry, Wanda  \n",
+         "to" : "Wilson, Shona"
+      },
+      {
+         "from" : "shona.wilson@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tWilson, Shona  \n",
+         "to" : "Curry, Wanda"
+      },
+      {
+         "from" : "wanda.curry@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tCurry, Wanda  \n",
+         "to" : "Wilson, Shona"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/716.",
+   "hops" : [
+      {
+         "from" : "david.delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.delainey@enron.com\r\n",
+         "to" : "mark.muller@enron.com, richard.causey@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 25,
+         "rawfrom" : "From:\tRichard Causey/ENRON@enronXgate on 08/23/2001 08:52 AM\n",
+         "to" : "Greg Whalley/ENRON@enronXgate, David W Delainey/HOU/EES@EES, Mark S Muller/HOU/EES@EES"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWhalley, Greg  \n",
+         "to" : "Delainey, David; Muller, Mark"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Muller, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/734.",
+   "hops" : [
+      {
+         "from" : "rodney.faldyn@enron.com",
+         "line" : 4,
+         "rawfrom" : "rodney.faldyn@enron.com\r\n",
+         "to" : "greg.whalley@enron.com, david.delainey@enron.com, mark.muller@enron.com,"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tCausey, Richard  \n",
+         "to" : "Faldyn, Rodney"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Muller, Mark; Rick Buy/HOU/ECT@ENRON; Causey, Richard"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:\tRichard Causey/ENRON@enronXgate on 08/23/2001 08:52 AM\n",
+         "to" : "Greg Whalley/ENRON@enronXgate, David W Delainey/HOU/EES@EES, Mark S Muller/HOU/EES@EES"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tWhalley, Greg  \n",
+         "to" : "Delainey, David; Muller, Mark"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Muller, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/749.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 22,
+         "rawfrom" : "Buy, Rick \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "rodney.faldyn@enron.com",
+         "line" : 31,
+         "rawfrom" : "Faldyn, Rodney \n",
+         "to" : "Whalley, Greg; Delainey, David; Muller, Mark; Buy, Rick"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 45,
+         "rawfrom" : "  Causey, Richard  \n",
+         "to" : "Faldyn, Rodney"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 54,
+         "rawfrom" : "  Delainey, David  \n",
+         "to" : "Muller, Mark; Rick Buy/HOU/ECT@ENRON; Causey, Richard"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 65,
+         "rawfrom" : "  Richard Causey/ENRON@enronXgate on 08/23/2001 08:52 AM \n",
+         "to" : "Greg Whalley/ENRON@enronXgate, David W Delainey/HOU/EES@EES, Mark S Muller/HOU/EES@EES"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 74,
+         "rawfrom" : "  Whalley, Greg  \n",
+         "to" : "Delainey, David; Muller, Mark"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 83,
+         "rawfrom" : "  Delainey, David  \n",
+         "to" : "Muller, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/801.",
+   "hops" : [
+      {
+         "from" : "l..carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "l..carson@enron.com\r\n",
+         "to" : "ted.murphy@enron.com"
+      },
+      {
+         "from" : "kevin.jolly@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tJolly, Kevin  \n",
+         "to" : "Carson, Rick L."
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Jolly, Kevin"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Carson, Rick L."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/822.",
+   "hops" : [
+      {
+         "from" : "janet.dietrich@enron.com",
+         "line" : 4,
+         "rawfrom" : "janet.dietrich@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 22,
+         "rawfrom" : "From:\tAndrew S Fastow/ENRON@enronXgate on 09/06/2001 09:38 AM\n",
+         "to" : "Janet R Dietrich/HOU/EES@EES"
+      },
+      {
+         "from" : "jdietri@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tDietrich, Janet   On Behalf Of Janet R Dietrich/HOU/EES@EES\n",
+         "to" : "Fastow, Andrew"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 49,
+         "rawfrom" : "From:\tAndrew S Fastow/ENRON@enronXgate on 09/06/2001 05:38 AM\n",
+         "to" : "Janet Dietrich/HOU/EES@EES"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Fastow, Andrew"
+      },
+      {
+         "from" : "jdietri@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tDietrich, Janet  \n",
+         "to" : "Buy, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/891.",
+   "hops" : [
+      {
+         "from" : "david.gorte@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.gorte@enron.com\r\n",
+         "to" : "l..carson@enron.com"
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Buy, Rick; Gorte, David"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Carson, Rick L.; Gorte, David"
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Buy, Rick; Gorte, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/892.",
+   "hops" : [
+      {
+         "from" : "l..carson@enron.com",
+         "line" : 4,
+         "rawfrom" : "l..carson@enron.com\r\n",
+         "to" : "david.gorte@enron.com"
+      },
+      {
+         "from" : "david.gorte@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGorte, David  \n",
+         "to" : "Carson, Rick L."
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Buy, Rick; Gorte, David"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Carson, Rick L.; Gorte, David"
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Buy, Rick; Gorte, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/inbox/987.",
+   "hops" : [
+      {
+         "from" : "j..kean@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..kean@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "=09shapiro, richard =20",
+         "line" : 22,
+         "rawfrom" : "=09Shapiro, Richard =20\r\n",
+         "to" : "=09Kean, Steven J."
+      },
+      {
+         "from" : "=09kingerski, harry =20",
+         "line" : 30,
+         "rawfrom" : "=09Kingerski, Harry =20\r\n",
+         "to" : "=09Shapiro, Richard"
+      },
+      {
+         "from" : "=09keller, james =20",
+         "line" : 39,
+         "rawfrom" : "=09Keller, James =20\r\n",
+         "to" : "=09Castano, Marianne"
+      },
+      {
+         "from" : "marianne.castano@enron.com",
+         "line" : 59,
+         "rawfrom" : "Marianne Castano\r\n",
+         "to" : "=09Harry Kingerski/ENRON@enronXgate @ ENRON, Gloria Ogenyi/Enron@EnronXG="
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 85,
+         "rawfrom" : "From:=09Harry Kingerski/ENRON@enronXgate on 08/22/2001 04:06 PM\r\n",
+         "to" : "=09Marianne Castano/HOU/EES@EES"
+      },
+      {
+         "from" : "=09ogenyi, gloria =20",
+         "line" : 94,
+         "rawfrom" : "=09Ogenyi, Gloria =20\r\n",
+         "to" : "=09Hamb, Edward"
+      },
+      {
+         "from" : "=09hamb, edward =20",
+         "line" : 143,
+         "rawfrom" : "=09Hamb, Edward =20\r\n",
+         "to" : "=09Ogenyi, Gloria"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 154,
+         "rawfrom" : "From:=09Rogers Herndon/ENRON@enronXgate on 08/22/2001 09:27 AM\r\n",
+         "to" : "=09Jeremy Blachman/HOU/EES@EES, Scott Gahn/HOU/EES@EES, Eric Letke/HOU/E="
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/notes_inbox/27.",
+   "hops" : [
+      {
+         "from" : "dorothy.youngblood@enron.com",
+         "line" : 4,
+         "rawfrom" : "dorothy.youngblood@enron.com\r\n",
+         "to" : "lee.steele@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 80,
+         "rawfrom" : " William S Bradford                           12/05/2000 08:32 PM\n",
+         "to" : "Dorothy Youngblood/HOU/ECT@ECT"
+      },
+      {
+         "from" : "karen.heathman@enron.com",
+         "line" : 100,
+         "rawfrom" : " Karen K Heathman                                                       \n",
+         "to" : "William S Bradford/HOU/ECT@ECT"
+      },
+      {
+         "from" : "karen.heathman@enron.com",
+         "line" : 112,
+         "rawfrom" : "Karen K Heathman/HOU/ECT on 12/05/2000 \n",
+         "to" : "Dorothy Youngblood/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent/137.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "karen.heathman@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 01/17/2001 08:31 AM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jordan_mintz@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jordan Mintz/HOU/ECT on 01/16/2001 06:37 \n",
+         "to" : "Sharron Westbrook/Corp/Enron@ENRON, Inez Dauterive/HOU/ECT@ECT, Bridget"
+      },
+      {
+         "from" : "sharron.westbrook@enron.com",
+         "line" : 62,
+         "rawfrom" : "Sharron Westbrook @ ENRON\n",
+         "to" : "Darlene C Forsyth/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent/164.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/21/2000 03:25 PM \n",
+         "to" : "Sheila Glover/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 47,
+         "rawfrom" : " Sheila Glover                           19/12/2000 17:45\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 73,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 118,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent/176.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "mike.jordan@enron.com"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 26,
+         "rawfrom" : " Sheila Glover                           12/19/2000 11:45 AM\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 51,
+         "rawfrom" : " Gary Hickerson                           12/18/2000 09:40 AM\n",
+         "to" : "Sheila Glover/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 62,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 12/18/2000 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 96,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent/177.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "sheila.glover@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "Rick Buy/HOU/ECT on 12/19/2000 12:24 PM \n",
+         "to" : "Rick Buy/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, David Port/Market"
+      },
+      {
+         "from" : "mike.jordan@enron.com",
+         "line" : 81,
+         "rawfrom" : "Mike Jordan/LON/ECT on 19/12/2000 15:06 \n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 116,
+         "rawfrom" : " Rick Buy                                                             \n",
+         "to" : "John Sherriff/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent/249.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "rick.carson@enron.com"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 21,
+         "rawfrom" : "Travis McCullough on 11/28/2000 09:59 AM\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT, Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "travis.mccullough@enron.com=",
+         "line" : 42,
+         "rawfrom" : "Travis McCullough/HOU/ECT on 11/28/2000 09:57 AM -----\n",
+         "to" : "Travis McCullough/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 75,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/27/2000 01:58 PM -----\n",
+         "to" : "Mark E Haedicke/HOU/ECT@ECT"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 140,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 11/10/2000 06:04 PM -----\n",
+         "to" : "teresa.g.bushman@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent/48.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "william.bradford@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 23,
+         "rawfrom" : "Rick Buy/HOU/ECT on 11/03/2000 09:16 AM \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 68,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 99,
+         "rawfrom" : " Tim Belden                           10/31/2000 01:54 PM\n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 107,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:54 AM\n",
+         "to" : "Dave Delainey"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 115,
+         "rawfrom" : "Tim Belden on 10/31/2000 11:52 AM\n",
+         "to" : "John J Lavorato/Corp/Enron, Dave Delainey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/107.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 30,
+         "rawfrom" : "\tShankman, Jeffrey A.  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 43,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Shankman, Jeffrey A."
+      },
+      {
+         "from" : "stuart.staley@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tStaley, Stuart  \n",
+         "to" : "Suttle, John"
+      },
+      {
+         "from" : "john.suttle@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tSuttle, John  \n",
+         "to" : "Staley, Stuart"
+      },
+      {
+         "from" : "nish.patel@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tPatel, Nish  \n",
+         "to" : "Suttle, John"
+      },
+      {
+         "from" : "paul.maley@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tMaley, Paul  \n",
+         "to" : "Bradley, Peter; Rizvi, Riaz; Staley, Stuart; Garner, Bruce; Becker, Sven; Ungethum, Manfred; Bland, Stuart; Chismar, John; Clarke, Niamh; Cronin, Caroline; Jones, Mark; Koller, Ross; Mahoney, Chris; McKinlay, Tom; McLeish, Alex; O'Brien, Tony; Patel, Nish; Peter, Stewart; Petersen, Bo; Potter, Darren; Spencer, John; Talvitie, Henkka; Thomas, John Buckner"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/110.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "sheila.walton@enron.com"
+      },
+      {
+         "from" : "sheila.walton@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWalton, Sheila  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "hrgim@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHRGIM  \n",
+         "to" : "Jolly, Kevin"
+      },
+      {
+         "from" : "kevin.jolly@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tJolly, Kevin  \n",
+         "to" : "Expertfinder"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/132.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Reeves, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/174.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "karen.heathman@enron.com"
+      },
+      {
+         "from" : "sheila.walton@enron.com",
+         "line" : 25,
+         "rawfrom" : " Sheila Walton                           01/30/2001 09:05 AM\t\n",
+         "to" : "Rick Buy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 34,
+         "rawfrom" : "From:\tRobert Howes/ENRON@enronXgate on 01/30/2001 08:27 AM\n",
+         "to" : "Sheila Walton/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sheila.walton@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tWalton, Sheila  \n",
+         "to" : "Howes, Robert; Ahern, Matthew"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/192.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.gorte@enron.com"
+      },
+      {
+         "from" : "david.gorte@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGorte, David  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Gorte, David"
+      },
+      {
+         "from" : "david.gorte@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tGorte, David  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Gorte, David"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/199.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Suttle, John; William S Bradford/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 43,
+         "rawfrom" : "Ted Murphy/LON/ECT on 14/03/2001 08:10 ---------------------------\n",
+         "to" : "Rick Buy/HOU/ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/209.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "jeffrey.mcmahon@enron.com, mark.koenig@enron.com"
+      },
+      {
+         "from" : "jeffrey.mcmahon@skytel.com",
+         "line" : 22,
+         "rawfrom" : "\tMcMahon, Jeffrey  \n",
+         "to" : "Koenig, Mark; Buy, Rick"
+      },
+      {
+         "from" : "mark_koenig@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKoenig, Mark  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 37,
+         "rawfrom" : "From:\tJeffrey McMahon/ENRON@enronXgate on 03/21/2001 02:35 PM\n",
+         "to" : "Mark Koenig/Corp/Enron@ENRON, Rick Buy/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/211.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "40newpower@enron.com"
+      },
+      {
+         "from" : "william.cronin@newpower.com",
+         "line" : 22,
+         "rawfrom" : "\tWilliam Cronin/HOU/NewPower@NEWPOWER [mailto:IMCEANOTES-William+20Cronin_HOU_NewPower+40NEWPOWER@ENRON.com] \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "wwputnam@midamerican.com",
+         "line" : 35,
+         "rawfrom" : "Bill\n",
+         "to" : "\"William Cronin/HOU/NewPower@NEWPOWER\" <IMCEANOTES-William+20Cronin_HOU_NewPower+40NEWPOWER@ENRON.com>@SMTP@enronXgate  cc:   Subject: RE: Visit"
+      },
+      {
+         "from" : "william.cronin@newpower.com",
+         "line" : 43,
+         "rawfrom" : "\tWilliam Cronin/HOU/NewPower@NEWPOWER [mailto:IMCEANOTES-William+20Cronin_HOU_NewPower+40NEWPOWER@ENRON.com] \n",
+         "to" : "Buy, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/214.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "ted.murphy@enron.com"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:\tRick Buy/ENRON@enronXgate on 23/03/2001 15:01 CST\n",
+         "to" : "Ted Murphy/LON/ECT@ECT, David Port/ENRON@enronXgate"
+      },
+      {
+         "from" : "sharron.westbrook@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tWestbrook, Sharron  \n",
+         "to" : "shannon.d.adlong@us.arthurandersen.com; david.b.duncan@us.arthurandersen.com; Kilchrist, Shawn; Butts, Bob; Lindholm, Tod; Rick Buy/HOU/ECT@ENRON; Karen K Heathman/HOU/ECT@ENRON; Gray, Dortha; Lewelling, Sandy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/218.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "jane.wilhite@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tWilhite, Jane  \n",
+         "to" : "Rohauer, Tanya"
+      },
+      {
+         "from" : "bryan_garrett@enron.net",
+         "line" : 50,
+         "rawfrom" : "\tGarrett, Bryan  \n",
+         "to" : "Wilhite, Jane"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/229.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.delainey@enron.com, janet.dietrich@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 24,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick; Kaminski, Vince"
+      },
+      {
+         "from" : "pinnamaneni.krishnarao@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tKrishnarao, Pinnamaneni  \n",
+         "to" : "Kaminski, Vince; Dhar, Amitava; De, Rabi; William S Bradford/HOU/ECT@ENRON; Tamarchenko, Tanya"
+      },
+      {
+         "from" : "pinnamaneni.krishnarao@enron.com",
+         "line" : 53,
+         "rawfrom" : "Pinnamaneni Krishnarao/HOU/ECT on 04/11/2001 09:04 AM ---------------------------\n",
+         "to" : "Pinnamaneni Krishnarao/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard_jones@hsb.com",
+         "line" : 63,
+         "rawfrom" : "Richard B Jones/HOU/EES on 04/10/2001 04:16 PM ---------------------------\n",
+         "to" : "Cheryl Lipshutz/HOU/EES@EES, Trushar Patel/Corp/Enron@Enron, michelle.wenz@enron.com, Gayle Muench/ENRON@enronXgate, Jeremy Blachman/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/230.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Delainey, David; Dietrich, Janet"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 42,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick; Kaminski, Vince"
+      },
+      {
+         "from" : "pinnamaneni.krishnarao@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tKrishnarao, Pinnamaneni  \n",
+         "to" : "Kaminski, Vince; Dhar, Amitava; De, Rabi; William S Bradford/HOU/ECT@ENRON; Tamarchenko, Tanya"
+      },
+      {
+         "from" : "pinnamaneni.krishnarao@enron.com",
+         "line" : 71,
+         "rawfrom" : "Pinnamaneni Krishnarao/HOU/ECT on 04/11/2001 09:04 AM ---------------------------\n",
+         "to" : "Pinnamaneni Krishnarao/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard_jones@hsb.com",
+         "line" : 81,
+         "rawfrom" : "Richard B Jones/HOU/EES on 04/10/2001 04:16 PM ---------------------------\n",
+         "to" : "Cheryl Lipshutz/HOU/EES@EES, Trushar Patel/Corp/Enron@Enron, michelle.wenz@enron.com, Gayle Muench/ENRON@enronXgate, Jeremy Blachman/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/259.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "ted.murphy@enron.com"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 58,
+         "rawfrom" : "From:\tRick Buy/ENRON@enronXgate on 10/05/2001 17:38 CDT\n",
+         "to" : "Ted Murphy/LON/ECT@ECT"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Rick Buy/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/261.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "tracy.ngo@enron.com"
+      },
+      {
+         "from" : "tracy.ngo@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tNgo, Tracy  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Ngo, Tracy"
+      },
+      {
+         "from" : "tracy.ngo@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tNgo, Tracy  \n",
+         "to" : "Hardy, Trey; Chang, Fang; Law, Samantha; Dunton, Heather"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/268.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "ted.murphy@enron.com"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Murphy, Ted"
+      },
+      {
+         "from" : "driver@rka.co.uk",
+         "line" : 39,
+         "rawfrom" : "\t\"Naomi Driver\" <driver@rka.co.uk>@ENRON [mailto:IMCEANOTES-+22Naomi+20Driver+22+20+3Cdriver+40rka+2Eco+2Euk+3E+40ENRON@ENRON.com] \n",
+         "to" : "Buy, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/272.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "ted.murphy@enron.com"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Murphy, Ted"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tMurphy, Ted  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "marion.sczykutowicz@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tSczykutowicz, Marion  \n",
+         "to" : "Glisan, Ben; Buy, Rick; Port, David; Murphy, Ted; Bradford, William S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/276.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.crews@enron.com"
+      },
+      {
+         "from" : "david.crews@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCrews, David  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "david.crews@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tCrews, David  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "david.crews@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tCrews, David  \n",
+         "to" : "Rick Buy/HOU/ECT@ENRON; David Gorte/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/284.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "vladimir.gorny@enron.com"
+      },
+      {
+         "from" : "jdietri@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDietrich, Janet  \n",
+         "to" : "Herndon, Rogers; Shively, Hunter S.; Gaskill, Chris; Buy, Rick; Shankman, Jeffrey A.; Tawney, Mark; Cox, David"
+      },
+      {
+         "from" : "janet.r.dietrich@enron.com",
+         "line" : 31,
+         "rawfrom" : "Janet R Dietrich/HOU/EES on 06/07/2001 11:10 PM ---------------------------\n",
+         "to" : "Rogers Herndon/Enron@EnronXGate, Hunter S Shively/Enron@EnronXGate, Chris Gaskill/Enron@EnronXGate, Rick Buy/Enron@EnronXGate, Jeffrey A Shankman/Enron@EnronXGate, Mark Tawney/Enron@EnronXGate, David Cox/Enron Communications@Enron Communications"
+      },
+      {
+         "from" : "janet.r.dietrich@enron.com",
+         "line" : 41,
+         "rawfrom" : "Janet R Dietrich/HOU/EES on 06/07/2001 07:01 PM ---------------------------\n",
+         "to" : "Janet R Dietrich/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/289.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.gorte@enron.com"
+      },
+      {
+         "from" : "michael.tribolet@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTribolet, Michael  \n",
+         "to" : "Gorte, David; Buy, Rick"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWeidler, Peter E  \n",
+         "to" : "Tribolet, Michael"
+      },
+      {
+         "from" : "james.a.hughes@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tHughes, James A.  \n",
+         "to" : "Hannon, Kevin; Lavorato, John; Weidler, Peter E"
+      },
+      {
+         "from" : "federico.cerisoli@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tCerisoli, Federico  \n",
+         "to" : "Haedicke, Mark E.; Schuler, Lance; Novak, John; Hannon, Kevin; Lavorato, John; Weidler, Peter E; Kishkill, Joe; Tribolet, Michael; Gorny, Vladimir; Landivar, Erwin; Ospina, Felipe; Hughes, James A.; Wiggs, Brett; Daniels, Eddy"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 59,
+         "rawfrom" : "From:\tEddy Daniels/ENRON@enronXgate on 06/18/2001 08:36 PM CDT\n",
+         "to" : "Mark E Haedicke/Enron@EnronXGate, Lance Schuler-Legal/ENRON@enronXgate, John Novak/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/290.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "a..hughes@enron.com"
+      },
+      {
+         "from" : "michael.tribolet@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tTribolet, Michael  \n",
+         "to" : "Gorte, David; Buy, Rick"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWeidler, Peter E  \n",
+         "to" : "Tribolet, Michael"
+      },
+      {
+         "from" : "james.a.hughes@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tHughes, James A.  \n",
+         "to" : "Hannon, Kevin; Lavorato, John; Weidler, Peter E"
+      },
+      {
+         "from" : "federico.cerisoli@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tCerisoli, Federico  \n",
+         "to" : "Haedicke, Mark E.; Schuler, Lance; Novak, John; Hannon, Kevin; Lavorato, John; Weidler, Peter E; Kishkill, Joe; Tribolet, Michael; Gorny, Vladimir; Landivar, Erwin; Ospina, Felipe; Hughes, James A.; Wiggs, Brett; Daniels, Eddy"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 61,
+         "rawfrom" : "From:\tEddy Daniels/ENRON@enronXgate on 06/18/2001 08:36 PM CDT\n",
+         "to" : "Mark E Haedicke/Enron@EnronXGate, Lance Schuler-Legal/ENRON@enronXgate, John Novak/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/291.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "james.a.hughes@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHughes, James A.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Hughes, James A."
+      },
+      {
+         "from" : "michael.tribolet@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tTribolet, Michael  \n",
+         "to" : "Gorte, David; Buy, Rick"
+      },
+      {
+         "from" : "peter.e.weidler@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tWeidler, Peter E  \n",
+         "to" : "Tribolet, Michael"
+      },
+      {
+         "from" : "james.a.hughes@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tHughes, James A.  \n",
+         "to" : "Hannon, Kevin; Lavorato, John; Weidler, Peter E"
+      },
+      {
+         "from" : "federico.cerisoli@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tCerisoli, Federico  \n",
+         "to" : "Haedicke, Mark E.; Schuler, Lance; Novak, John; Hannon, Kevin; Lavorato, John; Weidler, Peter E; Kishkill, Joe; Tribolet, Michael; Gorny, Vladimir; Landivar, Erwin; Ospina, Felipe; Hughes, James A.; Wiggs, Brett; Daniels, Eddy"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 78,
+         "rawfrom" : "From:\tEddy Daniels/ENRON@enronXgate on 06/18/2001 08:36 PM CDT\n",
+         "to" : "Mark E Haedicke/Enron@EnronXGate, Lance Schuler-Legal/ENRON@enronXgate, John Novak/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/313.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "jennifer.nguyen@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tNguyen, Jennifer  \n",
+         "to" : "Gorny, Vladimir; Gossett, Jeffrey C.; Hall, Bob M; Lavorato, John; Reeves, Leslie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/322.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "cassandra.schultz@enron.com",
+         "line" : 21,
+         "rawfrom" : "Schultz, Cassandra \n",
+         "to" : "Port, David; Buy, Rick"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 36,
+         "rawfrom" : "Glover, Sheila \n",
+         "to" : "Hickerson, Gary; Schultz, Cassandra"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 60,
+         "rawfrom" : "Glover, Sheila \n",
+         "to" : "Hickerson, Gary"
+      },
+      {
+         "from" : "cassandra.schultz@enron.com",
+         "line" : 67,
+         "rawfrom" : "Schultz, Cassandra \n",
+         "to" : "Glover, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/339.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "vladimir.gorny@enron.com"
+      },
+      {
+         "from" : "vladimir.gorny@enron.com",
+         "line" : 22,
+         "rawfrom" : "Gorny, Vladimir \n",
+         "to" : "Buy, Rick; Port, David"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 33,
+         "rawfrom" : "Buy, Rick \n",
+         "to" : "Port, David; Gorny, Vladimir"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 44,
+         "rawfrom" : "  Horton, Stanley  \n",
+         "to" : "FOWLER, PEGGY"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/348.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.port@enron.com"
+      },
+      {
+         "from" : "brad.horn@nuon.com",
+         "line" : 21,
+         "rawfrom" : "Brad.Horn@nuon.com [mailto:Brad.Horn@nuon.com]\r\n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 54,
+         "rawfrom" : "Buy, Rick [mailto:Rick.Buy@ENRON.com]\r\n",
+         "to" : "Brad.Horn@nuon.com"
+      },
+      {
+         "from" : "brad.horn@nuon.com",
+         "line" : 64,
+         "rawfrom" : "Brad.Horn@nuon.com [mailto:Brad.Horn@nuon.com]\r\n",
+         "to" : "rbuy@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/352.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "l..carson@enron.com, david.gorte@enron.com"
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Buy, Rick; Gorte, David"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Carson, Rick L.; Gorte, David"
+      },
+      {
+         "from" : "rick.carson@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tCarson, Rick L.  \n",
+         "to" : "Buy, Rick; Gorte, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/353.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "laura.gutierrez@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tGutierrez, Laura  \n",
+         "to" : "McMahon, Jeffrey; Bradford, William S.; Gorte, David; Buy, Rick; Battaglia, Tim; Wright, Glenn; Hermans, Greg; Bowen Jr., Raymond; Rohauer, Tanya"
+      },
+      {
+         "from" : "laura.gutierrez@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tGutierrez, Laura  \n",
+         "to" : "McMahon, Jeffrey; Bradford, William S.; Gorte, David; Buy, Rick; Battaglia, Tim; Wright, Glenn; Hermans, Greg; Bowen Jr., Raymond; Rohauer, Tanya"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/364.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com, michael.tribolet@enron.com"
+      },
+      {
+         "from" : "=09kean, steven j. =20",
+         "line" : 22,
+         "rawfrom" : "=09Kean, Steven J. =20\r\n",
+         "to" : "=09Buy, Rick"
+      },
+      {
+         "from" : "=09shapiro, richard =20",
+         "line" : 30,
+         "rawfrom" : "=09Shapiro, Richard =20\r\n",
+         "to" : "=09Kean, Steven J."
+      },
+      {
+         "from" : "=09kingerski, harry =20",
+         "line" : 38,
+         "rawfrom" : "=09Kingerski, Harry =20\r\n",
+         "to" : "=09Shapiro, Richard"
+      },
+      {
+         "from" : "=09keller, james =20",
+         "line" : 47,
+         "rawfrom" : "=09Keller, James =20\r\n",
+         "to" : "=09Castano, Marianne"
+      },
+      {
+         "from" : "marianne.castano@enron.com",
+         "line" : 67,
+         "rawfrom" : "Marianne Castano\r\n",
+         "to" : "=09Harry Kingerski/ENRON@enronXgate @ ENRON, Gloria Ogenyi/Enron@EnronXG="
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 93,
+         "rawfrom" : "From:=09Harry Kingerski/ENRON@enronXgate on 08/22/2001 04:06 PM\r\n",
+         "to" : "=09Marianne Castano/HOU/EES@EES"
+      },
+      {
+         "from" : "=09ogenyi, gloria =20",
+         "line" : 102,
+         "rawfrom" : "=09Ogenyi, Gloria =20\r\n",
+         "to" : "=09Hamb, Edward"
+      },
+      {
+         "from" : "=09hamb, edward =20",
+         "line" : 151,
+         "rawfrom" : "=09Hamb, Edward =20\r\n",
+         "to" : "=09Ogenyi, Gloria"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 162,
+         "rawfrom" : "From:=09Rogers Herndon/ENRON@enronXgate on 08/22/2001 09:27 AM\r\n",
+         "to" : "=09Jeremy Blachman/HOU/EES@EES, Scott Gahn/HOU/EES@EES, Eric Letke/HOU/E="
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/372.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "david.gorte@enron.com, s..bradford@enron.com, david.port@enron.com"
+      },
+      {
+         "from" : "ron.baker@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBaker, Ron  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCausey, Richard  \n",
+         "to" : "Buy, Rick; Glisan, Ben; Baker, Ron; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Causey, Richard; Glisan, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/382.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "jeffrey.mcmahon@skytel.com",
+         "line" : 21,
+         "rawfrom" : "McMahon, Jeffrey \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "sue.ford@enron.com",
+         "line" : 30,
+         "rawfrom" : "Ford, Sue on behalf of McMahon, Jeffrey \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 56,
+         "rawfrom" : "  Garner, Bruce  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "paul.maley@enron.com",
+         "line" : 68,
+         "rawfrom" : "  Maley, Paul  \n",
+         "to" : "Cose, Simon; Murphy, Ted"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/384.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "tanya.rohauer@enron.com"
+      },
+      {
+         "from" : "jeffrey.mcmahon@skytel.com",
+         "line" : 21,
+         "rawfrom" : "McMahon, Jeffrey \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "sue.ford@enron.com",
+         "line" : 30,
+         "rawfrom" : "Ford, Sue on behalf of McMahon, Jeffrey \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "bruce.garner@enron.com",
+         "line" : 56,
+         "rawfrom" : "  Garner, Bruce  \n",
+         "to" : "McMahon, Jeffrey"
+      },
+      {
+         "from" : "paul.maley@enron.com",
+         "line" : 68,
+         "rawfrom" : "  Maley, Paul  \n",
+         "to" : "Cose, Simon; Murphy, Ted"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/387.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "wendy.conwell@enron.com"
+      },
+      {
+         "from" : "wendy.conwell@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tConwell, Wendy  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Conwell, Wendy"
+      },
+      {
+         "from" : "wendy.conwell@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tConwell, Wendy  \n",
+         "to" : "Bradford, William S.; Buy, Rick; Evans, Casey; Hardy, Trey; Lewis,  Jon Paul; Reasoner, Monica; Rohauer, Tanya; Vinson, Donald Wayne; White, Stacey W.; Brown, Kortney; Ngo, Tracy; Radous, Paul; Rance, Susan; Sacks, Edward"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/6.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "frank.de@enron.com"
+      },
+      {
+         "from" : "frank.jesus@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDe Jesus, Frank  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "bobbi.tessandori@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tTessandori, Bobbi  \n",
+         "to" : "De Jesus, Frank"
+      },
+      {
+         "from" : "rzipter@aol.com",
+         "line" : 55,
+         "rawfrom" : "\tRzipter@aol.com@ENRON  \n",
+         "to" : "Tessandori, Bobbi"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "rex.rogers@enron.com"
+      },
+      {
+         "from" : "rrogers@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRogers, Rex  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Koenig, Mark; Rieker, Paula; Rogers, Rex"
+      },
+      {
+         "from" : "mark_koenig@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKoenig, Mark  \n",
+         "to" : "Rieker, Paula; Rogers, Rex"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/80.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "s..bradford@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "sally_beck@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tBeck, Sally  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 40,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "veronica.gonzalez@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tGonzalez, Veronica  \n",
+         "to" : "Allen, Thresa A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/89.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "raymond.bowen@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 22,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "Despain, Tim; McMahon, Jeffrey"
+      },
+      {
+         "from" : "jxblanter@duke-energy.com",
+         "line" : 35,
+         "rawfrom" : "\t\"Janna Blanter\" <jxblanter@duke-energy.com>@ENRON  \n",
+         "to" : "wbradfo@ect.enron.com"
+      },
+      {
+         "from" : "jxblanter@dukeenergy.com",
+         "line" : 53,
+         "rawfrom" : "Janna Blanter/Hou-MidOffice/EnergyTrading/PEC on\n",
+         "to" : "wbradfo@ect.enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/buy-r/sent_items/94.",
+   "hops" : [
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.buy@enron.com\r\n",
+         "to" : "litigation.ljm@enron.com"
+      },
+      {
+         "from" : "ron.baker@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBaker, Ron  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "richard.causey@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCausey, Richard  \n",
+         "to" : "Buy, Rick; Glisan, Ben; Baker, Ron; Butts, Bob; Colwell, Wes"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Causey, Richard; Glisan, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+]

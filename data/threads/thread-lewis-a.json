@@ -1,0 +1,1483 @@
+[
+{
+   "file" : "enron-raw/lewis-a/_sent_mail/2.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "robyn.zivic@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/26/2001 01:21 PM ---------------------------\n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 33,
+         "rawfrom" : "Hunter S Shively/HOU/ECT on 03/26/2001 10:44 AM ---------------------------\n",
+         "to" : "Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura Luce/Corp/Enron@Enron, Deirdre McCaffrey/HOU/ECT@ECT, Sylvia S Pollan/HOU/ECT@ECT, Hunter S Shively/HOU/ECT@ECT, Mark Whitt/NA/Enron@Enron, Julie A Gomez/HOU/ECT@ECT, Stephanie Miller/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mark.d.elliott@williams.com",
+         "line" : 43,
+         "rawfrom" : "\"Elliott, Mark\" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM\n",
+         "to" : "\"'chris.meyer@enron.com'\" <chris.meyer@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/_sent_mail/21.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 22,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 11/13/2000=20\r\n",
+         "to" : "Steve Tomlinson <steve14t@yahoo.com>, Ed Tubman <edt@transicoil.com>,="
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 56,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 82,
+         "rawfrom" : "Jenim24@aol.com\r\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 107,
+         "rawfrom" : "smiller@newsoft.com\r\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/_sent_mail/32.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 30,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 04/06/2000 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jtaylor@spp.org",
+         "line" : 41,
+         "rawfrom" : "John Craig Taylor/HOU/ECT on 04/05/2000 \n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 54,
+         "rawfrom" : "John Griffith/Corp/Enron on 03/29/2000 \n",
+         "to" : "Butch_Steele@fpl.com, John.griffith@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/_sent_mail/41.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "robyn.zivic@enron.com, /ou=hou/o=ect@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/26/2001 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 34,
+         "rawfrom" : "Hunter S Shively/HOU/ECT on 03/26/2001 \n",
+         "to" : "Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura"
+      },
+      {
+         "from" : "mark.d.elliott@williams.com",
+         "line" : 49,
+         "rawfrom" : "\"Elliott, Mark\" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM\n",
+         "to" : "\"'chris.meyer@enron.com'\" <chris.meyer@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/_sent_mail/45.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "diem.hallmark@williams.com"
+      },
+      {
+         "from" : "diem.hallmark@williams.com",
+         "line" : 26,
+         "rawfrom" : "\"Hallmark, Diem\" <Diem.Hallmark@Williams.com> on 03/07/2001 04:02:13 PM\n",
+         "to" : "\"'Andrew.H.Lewis@enron.com'\" <Andrew.H.Lewis@enron.com>"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com",
+         "line" : 41,
+         "rawfrom" : "Andrew.H.Lewis@enron.com [mailto:Andrew.H.Lewis@enron.com] \n",
+         "to" : "diem.hallmark@williams.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 53,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/07/2001 \n",
+         "to" : "?? Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "virawan.yawapongsiri@enron.com",
+         "line" : 69,
+         "rawfrom" : "Virawan Yawapongsiri/NA/Enron on \n",
+         "to" : "?? Andrew H Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/_sent_mail/50.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 01/19/2001 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      },
+      {
+         "from" : "fangming.zhu@enron.com",
+         "line" : 65,
+         "rawfrom" : "Fangming Zhu@ENRON on 01/18/2001 09:27 AM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 83,
+         "rawfrom" : "Ina Rangel@ECT\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/144.",
+   "hops" : [
+      {
+         "from" : "racer91@aol.com",
+         "line" : 4,
+         "rawfrom" : "racer91@aol.com\r\n",
+         "to" : "vance.carter@ni.com, rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from" : "rick_schneider@notes.teradyne.com",
+         "line" : 106,
+         "rawfrom" : "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM \n",
+         "to" : "??\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from" : "richard.dziura@superiorelectric.com",
+         "line" : 127,
+         "rawfrom" : "richard.dziura@superiorelectric.com",
+         "to" : "??\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from" : "bprytko@sepracor.com",
+         "line" : 147,
+         "rawfrom" : "????Bob Prytko [SMTP:bprytko@sepracor.com] \n",
+         "to" : "?'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/145.",
+   "hops" : [
+      {
+         "from" : "vance.carter@ni.com",
+         "line" : 4,
+         "rawfrom" : "vance.carter@ni.com\r\n",
+         "to" : "rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from" : "rick_schneider@notes.teradyne.com",
+         "line" : 77,
+         "rawfrom" : "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM\n",
+         "to" : "\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from" : "richard.dziura@superiorelectric.com",
+         "line" : 98,
+         "rawfrom" : "richard.dziura@superiorelectric.com",
+         "to" : "\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from" : "bprytko@sepracor.com",
+         "line" : 118,
+         "rawfrom" : "    Bob Prytko [SMTP:bprytko@sepracor.com]\n",
+         "to" : "'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/149.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 22,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 11/13/2000=20\r\n",
+         "to" : "Steve Tomlinson <steve14t@yahoo.com>, Ed Tubman <edt@transicoil.com>,="
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 56,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 82,
+         "rawfrom" : "Jenim24@aol.com\r\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 107,
+         "rawfrom" : "smiller@newsoft.com\r\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/150.",
+   "hops" : [
+      {
+         "from" : "rbillbrough@yahoo.com",
+         "line" : 4,
+         "rawfrom" : "rbillbrough@yahoo.com\r\n",
+         "to" : "steve14t@yahoo.com, edt@transicoil.com, terry.walsh@avnet.com,"
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 41,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 65,
+         "rawfrom" : "Jenim24@aol.com\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.com"
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 84,
+         "rawfrom" : "smiller@newsoft.com\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/167.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 30,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 04/06/2000 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jtaylor@spp.org",
+         "line" : 41,
+         "rawfrom" : "John Craig Taylor/HOU/ECT on 04/05/2000 \n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 54,
+         "rawfrom" : "John Griffith/Corp/Enron on 03/29/2000 \n",
+         "to" : "Butch_Steele@fpl.com, John.griffith@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/196.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "robyn.zivic@enron.com, /ou=hou/o=ect@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/26/2001 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 34,
+         "rawfrom" : "Hunter S Shively/HOU/ECT on 03/26/2001 \n",
+         "to" : "Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura"
+      },
+      {
+         "from" : "mark.d.elliott@williams.com",
+         "line" : 49,
+         "rawfrom" : "\"Elliott, Mark\" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM\n",
+         "to" : "\"'chris.meyer@enron.com'\" <chris.meyer@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/204.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "diem.hallmark@williams.com"
+      },
+      {
+         "from" : "diem.hallmark@williams.com",
+         "line" : 26,
+         "rawfrom" : "\"Hallmark, Diem\" <Diem.Hallmark@Williams.com> on 03/07/2001 04:02:13 PM\n",
+         "to" : "\"'Andrew.H.Lewis@enron.com'\" <Andrew.H.Lewis@enron.com>"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com",
+         "line" : 41,
+         "rawfrom" : "Andrew.H.Lewis@enron.com [mailto:Andrew.H.Lewis@enron.com] \n",
+         "to" : "diem.hallmark@williams.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 53,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/07/2001 \n",
+         "to" : "?? Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "virawan.yawapongsiri@enron.com",
+         "line" : 69,
+         "rawfrom" : "Virawan Yawapongsiri/NA/Enron on \n",
+         "to" : "?? Andrew H Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/all_documents/211.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 01/19/2001 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      },
+      {
+         "from" : "fangming.zhu@enron.com",
+         "line" : 65,
+         "rawfrom" : "Fangming Zhu@ENRON on 01/18/2001 09:27 AM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 83,
+         "rawfrom" : "Ina Rangel@ECT\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/deleted_items/1402.",
+   "hops" : [
+      {
+         "from" : "ayueh@hotmail.com",
+         "line" : 4,
+         "rawfrom" : "ayueh@hotmail.com\r\n",
+         "to" : "h..lewis@enron.com"
+      },
+      {
+         "from" : "kelly_yueh@hotmail.com",
+         "line" : 21,
+         "rawfrom" : "\"Kelly Yueh\" <kelly_yueh@hotmail.com>\n",
+         "to" : "ayueh@hotmail.com, linda.yueh@economics.oxford.ac.uk"
+      },
+      {
+         "from" : "ckuo@exchange.ml.com",
+         "line" : 29,
+         "rawfrom" : "\"Kuo, Chia (IBK-NY)\" <CKuo@exchange.ml.com>\n",
+         "to" : "\"'khuang@yankeegroup.com'\" <khuang@yankeegroup.com>,"
+      },
+      {
+         "from" : "kate_park@lordandtaylor.com",
+         "line" : 39,
+         "rawfrom" : "> > > From:\tKate_Park@LordAndTaylor.com [SMTP:Kate_Park@LordAndTaylor.com]\n",
+         "to" : "chia_kuo@ml.com"
+      },
+      {
+         "from" : "phyllispei@hotmail.com",
+         "line" : 49,
+         "rawfrom" : "\"Phyllis Pei\" <phyllispei@hotmail.com> on 11/13/2001 09:03 PM\n",
+         "to" : "Kate_Park@LordAndTaylor.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/deleted_items/466.",
+   "hops" : [
+      {
+         "from" : "gmasterson@hgi-fire.com",
+         "line" : 4,
+         "rawfrom" : "gmasterson@hgi-fire.com\r\n",
+         "to" : "christopher_quaranta@notes.teradyne.com, gbarroso@netnumina.com"
+      },
+      {
+         "from" : "christopher_quaranta@notes.teradyne.com",
+         "line" : 25,
+         "rawfrom" : "christopher_quaranta@notes.teradyne.com\n",
+         "to" : "George Barroso"
+      },
+      {
+         "from" : "gbarroso@netnumina.com",
+         "line" : 71,
+         "rawfrom" : "George Barroso <gbarroso@netnumina.com> on 01/10/2002 02:31:52 PM\n",
+         "to" : "\"'Matthew Faunce '\" <Matthew_Faunce@raytheon.com>, \"'Mike Marcoux"
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 155,
+         "rawfrom" : "Matthew Faunce\n",
+         "to" : "Mike Marcoux"
+      },
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 198,
+         "rawfrom" : "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 02:10:23 PM\n",
+         "to" : "christopher_quaranta@notes.teradyne.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/deleted_items/511.",
+   "hops" : [
+      {
+         "from" : "christopher_quaranta@notes.teradyne.com",
+         "line" : 4,
+         "rawfrom" : "christopher_quaranta@notes.teradyne.com\r\n",
+         "to" : "gbarroso@netnumina.com"
+      },
+      {
+         "from" : "gbarroso@netnumina.com",
+         "line" : 31,
+         "rawfrom" : "George Barroso <gbarroso@netnumina.com> on 01/10/2002 02:31:52 PM\n",
+         "to" : "\"'Matthew Faunce '\" <Matthew_Faunce@raytheon.com>, \"'Mike Marcoux '\""
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 104,
+         "rawfrom" : "Matthew Faunce\n",
+         "to" : "Mike Marcoux"
+      },
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 145,
+         "rawfrom" : "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 02:10:23 PM\n",
+         "to" : "christopher_quaranta@notes.teradyne.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/deleted_items/513.",
+   "hops" : [
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 4,
+         "rawfrom" : "matthew_faunce@raytheon.com\r\n",
+         "to" : "mmarcoux@boston-engineering.com"
+      },
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 28,
+         "rawfrom" : "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 02:10:23 PM\n",
+         "to" : "christopher_quaranta@notes.teradyne.com"
+      },
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 78,
+         "rawfrom" : "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 12:11:04 PM\n",
+         "to" : "\"Truong, Dan\" <truongd@timken.com>, \"'Matthew Faunce'\""
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 122,
+         "rawfrom" : "Matthew Faunce [mailto:Matthew_Faunce@raytheon.com]\n",
+         "to" : "pudge01flyer@yahoo.com; dargento@earthlink.com; bacohen@rcn.com;"
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 160,
+         "rawfrom" : "Matthew Faunce/US/Raytheon on\n",
+         "to" : "George Barroso <gbarroso@netnumina.com>, Matt Faunce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/deleted_items/514.",
+   "hops" : [
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 4,
+         "rawfrom" : "mmarcoux@boston-engineering.com\r\n",
+         "to" : "christopher_quaranta@notes.teradyne.com"
+      },
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 34,
+         "rawfrom" : "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 12:11:04 PM\n",
+         "to" : "\"Truong, Dan\" <truongd@timken.com>, \"'Matthew Faunce'\""
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 78,
+         "rawfrom" : "Matthew Faunce [mailto:Matthew_Faunce@raytheon.com]\n",
+         "to" : "pudge01flyer@yahoo.com; dargento@earthlink.com; bacohen@rcn.com;"
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 116,
+         "rawfrom" : "Matthew Faunce/US/Raytheon on\n",
+         "to" : "George Barroso <gbarroso@netnumina.com>, Matt Faunce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/deleted_items/515.",
+   "hops" : [
+      {
+         "from" : "christopher_quaranta@notes.teradyne.com",
+         "line" : 4,
+         "rawfrom" : "christopher_quaranta@notes.teradyne.com\r\n",
+         "to" : "mmarcoux@boston-engineering.com"
+      },
+      {
+         "from" : "mmarcoux@boston-engineering.com",
+         "line" : 29,
+         "rawfrom" : "Mike Marcoux <mmarcoux@boston-engineering.com> on 01/10/2002 12:11:04 PM\n",
+         "to" : "\"Truong, Dan\" <truongd@timken.com>, \"'Matthew Faunce'\""
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 73,
+         "rawfrom" : "Matthew Faunce [mailto:Matthew_Faunce@raytheon.com]\n",
+         "to" : "pudge01flyer@yahoo.com; dargento@earthlink.com; bacohen@rcn.com;"
+      },
+      {
+         "from" : "matthew_faunce@raytheon.com",
+         "line" : 111,
+         "rawfrom" : "Matthew Faunce/US/Raytheon on\n",
+         "to" : "George Barroso <gbarroso@netnumina.com>, Matt Faunce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/12.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 30,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 04/06/2000 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jtaylor@spp.org",
+         "line" : 41,
+         "rawfrom" : "John Craig Taylor/HOU/ECT on 04/05/2000 \n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 54,
+         "rawfrom" : "John Griffith/Corp/Enron on 03/29/2000 \n",
+         "to" : "Butch_Steele@fpl.com, John.griffith@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/168.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 01/19/2001 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      },
+      {
+         "from" : "fangming.zhu@enron.com",
+         "line" : 65,
+         "rawfrom" : "Fangming Zhu@ENRON on 01/18/2001 09:27 AM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 83,
+         "rawfrom" : "Ina Rangel@ECT\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/179.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "robyn.zivic@enron.com, /ou=hou/o=ect@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/26/2001 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 34,
+         "rawfrom" : "Hunter S Shively/HOU/ECT on 03/26/2001 \n",
+         "to" : "Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura"
+      },
+      {
+         "from" : "mark.d.elliott@williams.com",
+         "line" : 49,
+         "rawfrom" : "\"Elliott, Mark\" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM\n",
+         "to" : "\"'chris.meyer@enron.com'\" <chris.meyer@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/21.",
+   "hops" : [
+      {
+         "from" : "rbillbrough@yahoo.com",
+         "line" : 4,
+         "rawfrom" : "rbillbrough@yahoo.com\r\n",
+         "to" : "steve14t@yahoo.com, edt@transicoil.com, terry.walsh@avnet.com,"
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 41,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 65,
+         "rawfrom" : "Jenim24@aol.com\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.com"
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 84,
+         "rawfrom" : "smiller@newsoft.com\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/22.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 22,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 11/13/2000=20\r\n",
+         "to" : "Steve Tomlinson <steve14t@yahoo.com>, Ed Tubman <edt@transicoil.com>,="
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 56,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 82,
+         "rawfrom" : "Jenim24@aol.com\r\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 107,
+         "rawfrom" : "smiller@newsoft.com\r\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/25.",
+   "hops" : [
+      {
+         "from" : "vance.carter@ni.com",
+         "line" : 4,
+         "rawfrom" : "vance.carter@ni.com\r\n",
+         "to" : "rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from" : "rick_schneider@notes.teradyne.com",
+         "line" : 77,
+         "rawfrom" : "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM\n",
+         "to" : "\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from" : "richard.dziura@superiorelectric.com",
+         "line" : 98,
+         "rawfrom" : "richard.dziura@superiorelectric.com",
+         "to" : "\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from" : "bprytko@sepracor.com",
+         "line" : 118,
+         "rawfrom" : "    Bob Prytko [SMTP:bprytko@sepracor.com]\n",
+         "to" : "'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/discussion_threads/26.",
+   "hops" : [
+      {
+         "from" : "racer91@aol.com",
+         "line" : 4,
+         "rawfrom" : "racer91@aol.com\r\n",
+         "to" : "vance.carter@ni.com, rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from" : "rick_schneider@notes.teradyne.com",
+         "line" : 106,
+         "rawfrom" : "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM \n",
+         "to" : "??\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from" : "richard.dziura@superiorelectric.com",
+         "line" : 127,
+         "rawfrom" : "richard.dziura@superiorelectric.com",
+         "to" : "??\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from" : "bprytko@sepracor.com",
+         "line" : 147,
+         "rawfrom" : "????Bob Prytko [SMTP:bprytko@sepracor.com] \n",
+         "to" : "?'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/inbox/150.",
+   "hops" : [
+      {
+         "from" : "peter.wu@mitac.com",
+         "line" : 4,
+         "rawfrom" : "peter.wu@mitac.com\r\n",
+         "to" : "yueh'.'amy@enron.com, h..lewis@enron.com"
+      },
+      {
+         "from" : "ayueh@hotmail.com",
+         "line" : 23,
+         "rawfrom" : "Amy Yueh [mailto:ayueh@hotmail.com]\n",
+         "to" : "andrew.h.lewis@enron.com; Peter.Wu"
+      },
+      {
+         "from" : "thx_135@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\"John Huang\" <thx_135@hotmail.com>\n",
+         "to" : "ayueh@hotmail.com, ron_he@dell.com"
+      },
+      {
+         "from" : "ayueh@hotmail.com",
+         "line" : 40,
+         "rawfrom" : "\"Amy Yueh\" <ayueh@hotmail.com>\n",
+         "to" : "thx_135@hotmail.com, ron_he@dell.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/inbox/153.",
+   "hops" : [
+      {
+         "from" : "todd.peikert@enron.com",
+         "line" : 4,
+         "rawfrom" : "todd.peikert@enron.com\r\n",
+         "to" : "h..lewis@enron.com"
+      },
+      {
+         "from" : "yvango@hotmail.com",
+         "line" : 27,
+         "rawfrom" : "yvan go [mailto:yvango@hotmail.com]\n",
+         "to" : "Peikert, Todd"
+      },
+      {
+         "from" : "postmaster@mail.hotmail.com",
+         "line" : 43,
+         "rawfrom" : "postmaster@mail.hotmail.com \n",
+         "to" : "yvango@hotmail.com"
+      },
+      {
+         "from" : "yvango@hotmail.com",
+         "line" : 64,
+         "rawfrom" : " <yvango@hotmail.com>\n",
+         "to" : "andy.lewis@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/inbox/176.",
+   "hops" : [
+      {
+         "from" : "k..allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "k..allen@enron.com\r\n",
+         "to" : "h..lewis@enron.com, dutch.quigley@enron.com, ed.mcmichael@enron.com,"
+      },
+      {
+         "from" : "yevgeny.frolov@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tFrolov, Yevgeny  \n",
+         "to" : "Allen, Phillip K."
+      },
+      {
+         "from" : "phillip_k_allen@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tAllen, Phillip K.  \n",
+         "to" : "Frolov, Yevgeny"
+      },
+      {
+         "from" : "yevgeny.frolov@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tFrolov, Yevgeny  \n",
+         "to" : "Allen, Phillip K."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/inbox/62.",
+   "hops" : [
+      {
+         "from" : "cmh_22@hotmail.com",
+         "line" : 20,
+         "rawfrom" : "\"Chengmei Ho\" <cmh_22@hotmail.com>\n",
+         "to" : "Chien.Woo@ElPaso.com, rogue3b@aol.com, isabelgod@hotmail.com,"
+      },
+      {
+         "from" : "twiggy_too@hotmail.com",
+         "line" : 32,
+         "rawfrom" : "\"thuy mooney\" <twiggy_too@hotmail.com>\n",
+         "to" : "mooncm@ieee.org, bangvessa@hotmail.com, chau_ee@hotmail.com,"
+      },
+      {
+         "from" : "bangluvv@aol.com",
+         "line" : 43,
+         "rawfrom" : "Bangluvv@aol.com\n",
+         "to" : "andisluv@juno.com, tkuenstler@email.com, mercedy@juno.com,"
+      },
+      {
+         "from" : "\"anita trevino\" <qt4u2002@hotmail.com>",
+         "line" : 61,
+         "rawfrom" : "\"anita trevino\" <qt4u2002@hotmail.com>\n",
+         "to" : "bella_christa@yahoo.com, cindyr_82girl@hotmail.com, asianyella@hotmail.com,        t_pot_02@hotmail.com, bangluvv@aol.com, vkmag@hotmail.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/inbox/79.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "s..shively@enron.com, kevin.ruscitti@enron.com, h..lewis@enron.com,"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 23,
+         "rawfrom" : "\t\"Michael D. Contant\" <mcontant@cypressasset.com>@ENRON [mailto:IMCEANOTES-+22Michael+20D+2E+20Contant+22+20+3Cmcontant+40cypressasset+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "jnaples@brobeck.com",
+         "line" : 33,
+         "rawfrom" : "\"Naples, Joseph J.\" <JNaples@brobeck.com>\n",
+         "to" : "\"'carlos'\" <csoltero@mcginnislaw.com>,\t\"'drew'\" <ADinovo@velaw.com>,\t\"'contant'\" <mcontant@cypressasset.com>,\t\"'clay'\" <cplatt@graycary.com>,\t\"'dimitri'\" <dkarhu@houston.rr.com>,\t\"'george'\" <GONZGY@bracepatt.com>,\t\"'glatter'\" <jglatter@whhf.com>,\t\"'joe'\" <joe_graham@kirkland.com>,\t\"'murr'\" <gmurr@fulbright.com>,\t\"'vic'\" <vhardy@orrick.com>,\t\"'ray'\" <Ray.Kerlick@roystonlaw.com>"
+      },
+      {
+         "from" : "andy@mbst.com",
+         "line" : 63,
+         "rawfrom" : "Andrew Tenenbaum [mailto:andy@mbst.com]\n",
+         "to" : "John Melideo (E-mail); Warren Lazarow (E-mail); Jonathan G. Shapiro"
+      },
+      {
+         "from" : "sylvie.motz@delta.com",
+         "line" : 74,
+         "rawfrom" : "Motz, Sylvie [mailto:Sylvie.Motz@delta.com]\n",
+         "to" : "'planetchang@yahoo.com'; 'dkim@winston.com'; 'Eun Hee Pai';"
+      },
+      {
+         "from" : "csparks@nyc.rr.com",
+         "line" : 90,
+         "rawfrom" : "Carilyn Sparks <csparks@nyc.rr.com>\n",
+         "to" : "Amy Ford <Amy_Ford@firstar.com>, Barry Bryant"
+      },
+      {
+         "from" : "choir@umdnj.edu",
+         "line" : 102,
+         "rawfrom" : "choir@umdnj.edu",
+         "to" : "Johannes Juette/PA/EU/ShS@ShSDOMAIN"
+      },
+      {
+         "from" : "maureen@cavallocapital.com",
+         "line" : 197,
+         "rawfrom" : "Ong, Maureen [mailto:Maureen@cavallocapital.com]\n",
+         "to" : "Julia Kim (E-mail); Philip Utsch (E-mail); Richard Carty (E-mail);"
+      },
+      {
+         "from" : "twaugh@hbk.com",
+         "line" : 207,
+         "rawfrom" : "Tom Waugh [mailto:twaugh@hbk.com]\n",
+         "to" : "Tadd Chessen (E-mail); Taylor McGowan (E-mail); Michael Fein"
+      },
+      {
+         "from" : "matt.waddell@morganstanley.com",
+         "line" : 230,
+         "rawfrom" : "W. Matthew Waddell [mailto:Matt.Waddell@morganstanley.com]=20\n",
+         "to" : "Tim Ryan"
+      },
+      {
+         "from" : "jonathan.langer@gs.com",
+         "line" : 252,
+         "rawfrom" : "Langer, Jonathan [mailto:jonathan.langer@gs.com]\n",
+         "to" : "'Robert Langer'"
+      },
+      {
+         "from" : "andy.snyder@gs.com",
+         "line" : 293,
+         "rawfrom" : "Snyder, Andy=20\n",
+         "to" : "Zilkha, Nat; Wolff, Andrew"
+      },
+      {
+         "from" : "samuel.greene@drkw.com",
+         "line" : 302,
+         "rawfrom" : "samuel.greene@drkw.com [mailto:samuel.greene@drkw.com]\n",
+         "to" : "jason.horowitz@fxminc.com; salter_james@jpmorgan.com;"
+      },
+      {
+         "from" : "samuel.greene@drkw.com",
+         "line" : 323,
+         "rawfrom" : "samuel greene/WASSERSTEIN PERELLA &\n",
+         "to" : "Samuel Greene/WASSERSTEIN PERELLA & Co@WASSERELLA"
+      },
+      {
+         "from" : "dmcnulty@exchange.ml.com",
+         "line" : 384,
+         "rawfrom" : "McNulty, Derek (IBK-NY) [mailto:DMcNulty@exchange.ML.com]\n",
+         "to" : "'paul.brown@csfb.com'; 'dz@msdcapital.com';"
+      },
+      {
+         "from" : "mokyoung_hyun@hotmail.com",
+         "line" : 413,
+         "rawfrom" : "  Mokyoung Hyun [SMTP:mokyoung_hyun@hotmail.com]\n",
+         "to" : "mhyun2@exchange.ml.com"
+      },
+      {
+         "from" : "olivia.ha@gs.com",
+         "line" : 428,
+         "rawfrom" : "\"Ha, Olivia\" <Olivia.Ha@gs.com>\n",
+         "to" : "\"'TITI'\" <ohkee@ms.com>, \"'Mokyoung!'\""
+      },
+      {
+         "from" : "troh@lehman.com",
+         "line" : 452,
+         "rawfrom" : "Roh, Thomas L [mailto:troh@lehman.com]\n",
+         "to" : "'albert.park@gs.com'; 'jseo@broadview.com'; 'haidee.lee@ubsw.com';"
+      },
+      {
+         "from" : "eric.chen@jpmorganpartners.com",
+         "line" : 476,
+         "rawfrom" : " Chen, Eric\n",
+         "to" : "Lim, David"
+      },
+      {
+         "from" : "plevine@regionalhealthgroup.com",
+         "line" : 505,
+         "rawfrom" : " Peter Levine [mailto:plevine@regionalhealthgroup.com]\n",
+         "to" : "Andrew Cavanna; David Zorub; Eric Reiter"
+      },
+      {
+         "from" : "eric_gordon@ml.com",
+         "line" : 546,
+         "rawfrom" : " Gordon, Eric (IBK-NY)\n",
+         "to" : "Kiang, Gary  (IBK-NY); Ooten, Chris  (IBK-NY)"
+      },
+      {
+         "from" : "stephen_shapiro@ml.com",
+         "line" : 562,
+         "rawfrom" : " Shapiro, Stephen (IBK-NY)\n",
+         "to" : "Silverman, Douglas (IBK-NY); Gordon, Eric (IBK-NY);"
+      },
+      {
+         "from" : "pstanberry@onebox.com",
+         "line" : 580,
+         "rawfrom" : " parker stanberry [SMTP:pstanberry@onebox.com]\n",
+         "to" : "michael.goller@jpmorganpartners.com;"
+      },
+      {
+         "from" : "pchung@thecarlylegroup.co.kr",
+         "line" : 642,
+         "rawfrom" : "Peter Chung <pchung@thecarlylegroup.co.kr>\n",
+         "to" : "\"'james_graff@rsco.com'\" <james_graff@rsco.com>,"
+      }
+   ],
+   "skipped" : 16
+}
+,
+{
+   "file" : "enron-raw/lewis-a/notes_inbox/136.",
+   "hops" : [
+      {
+         "from" : "racer91@aol.com",
+         "line" : 4,
+         "rawfrom" : "racer91@aol.com\r\n",
+         "to" : "vance.carter@ni.com, rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from" : "rick_schneider@notes.teradyne.com",
+         "line" : 106,
+         "rawfrom" : "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM \n",
+         "to" : "??\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from" : "richard.dziura@superiorelectric.com",
+         "line" : 127,
+         "rawfrom" : "richard.dziura@superiorelectric.com",
+         "to" : "??\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from" : "bprytko@sepracor.com",
+         "line" : 147,
+         "rawfrom" : "????Bob Prytko [SMTP:bprytko@sepracor.com] \n",
+         "to" : "?'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/notes_inbox/137.",
+   "hops" : [
+      {
+         "from" : "vance.carter@ni.com",
+         "line" : 4,
+         "rawfrom" : "vance.carter@ni.com\r\n",
+         "to" : "rick_schneider@notes.teradyne.com"
+      },
+      {
+         "from" : "rick_schneider@notes.teradyne.com",
+         "line" : 77,
+         "rawfrom" : "rick_schneider@notes.teradyne.com on 14-11-2000 10:12:32 PM\n",
+         "to" : "\"Dziura, Richard\" <richard.dziura@superiorelectric.com>"
+      },
+      {
+         "from" : "richard.dziura@superiorelectric.com",
+         "line" : 98,
+         "rawfrom" : "richard.dziura@superiorelectric.com",
+         "to" : "\"'Bob Prytko'\" <bprytko@sepracor.com>, \"'saealumni@wpi.edu'\""
+      },
+      {
+         "from" : "bprytko@sepracor.com",
+         "line" : 118,
+         "rawfrom" : "    Bob Prytko [SMTP:bprytko@sepracor.com]\n",
+         "to" : "'saealumni@wpi.edu'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/notes_inbox/139.",
+   "hops" : [
+      {
+         "from" : "rbillbrough@yahoo.com",
+         "line" : 4,
+         "rawfrom" : "rbillbrough@yahoo.com\r\n",
+         "to" : "steve14t@yahoo.com, edt@transicoil.com, terry.walsh@avnet.com,"
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 41,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 65,
+         "rawfrom" : "Jenim24@aol.com\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.com"
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 84,
+         "rawfrom" : "smiller@newsoft.com\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent/14.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 30,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 04/06/2000 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jtaylor@spp.org",
+         "line" : 41,
+         "rawfrom" : "John Craig Taylor/HOU/ECT on 04/05/2000 \n",
+         "to" : "John Craig Taylor/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 54,
+         "rawfrom" : "John Griffith/Corp/Enron on 03/29/2000 \n",
+         "to" : "Butch_Steele@fpl.com, John.griffith@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent/23.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "robyn.zivic@enron.com, /ou=hou/o=ect@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/26/2001 \n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 34,
+         "rawfrom" : "Hunter S Shively/HOU/ECT on 03/26/2001 \n",
+         "to" : "Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura"
+      },
+      {
+         "from" : "mark.d.elliott@williams.com",
+         "line" : 49,
+         "rawfrom" : "\"Elliott, Mark\" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM\n",
+         "to" : "\"'chris.meyer@enron.com'\" <chris.meyer@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent/27.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "diem.hallmark@williams.com"
+      },
+      {
+         "from" : "diem.hallmark@williams.com",
+         "line" : 26,
+         "rawfrom" : "\"Hallmark, Diem\" <Diem.Hallmark@Williams.com> on 03/07/2001 04:02:13 PM\n",
+         "to" : "\"'Andrew.H.Lewis@enron.com'\" <Andrew.H.Lewis@enron.com>"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com",
+         "line" : 41,
+         "rawfrom" : "Andrew.H.Lewis@enron.com [mailto:Andrew.H.Lewis@enron.com] \n",
+         "to" : "diem.hallmark@williams.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 53,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/07/2001 \n",
+         "to" : "?? Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "virawan.yawapongsiri@enron.com",
+         "line" : 69,
+         "rawfrom" : "Virawan Yawapongsiri/NA/Enron on \n",
+         "to" : "?? Andrew H Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent/3.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "sthorne@synagro.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 22,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 11/13/2000=20\r\n",
+         "to" : "Steve Tomlinson <steve14t@yahoo.com>, Ed Tubman <edt@transicoil.com>,="
+      },
+      {
+         "from" : "lizmunson@yahoo.com",
+         "line" : 56,
+         "rawfrom" : "ELIZABETH MUNSON <lizmunson@yahoo.com>\r\n",
+         "to" : "rbillbrough@yahoo.com"
+      },
+      {
+         "from" : "jenim24@aol.com",
+         "line" : 82,
+         "rawfrom" : "Jenim24@aol.com\r\n",
+         "to" : "kurt.borns@meristar.com, lizmunson@yahoo.com, dancing_kd_ladybug@yahoo.="
+      },
+      {
+         "from" : "smiller@newsoft.com",
+         "line" : 107,
+         "rawfrom" : "smiller@newsoft.com\r\n",
+         "to" : "Jenim24@aol.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent/32.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 01/19/2001 \n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      },
+      {
+         "from" : "fangming.zhu@enron.com",
+         "line" : 65,
+         "rawfrom" : "Fangming Zhu@ENRON on 01/18/2001 09:27 AM\n",
+         "to" : "Ina Rangel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 83,
+         "rawfrom" : "Ina Rangel@ECT\n",
+         "to" : "Andrea Ring/HOU/ECT@ECT, Andrew H Lewis/HOU/ECT@ECT, Brad"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent_items/29.",
+   "hops" : [
+      {
+         "from" : "h..lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "h..lewis@enron.com\r\n",
+         "to" : "ann.s.chen@accenture.com"
+      },
+      {
+         "from" : "ann.s.chen@accenture.com",
+         "line" : 22,
+         "rawfrom" : "\tann.s.chen@accenture.com@ENRON  \n",
+         "to" : "Lewis, Andrew H."
+      },
+      {
+         "from" : "andrew.h.lewis@enron.c",
+         "line" : 45,
+         "rawfrom" : "Andrew.H.Lewis@enron.c\n",
+         "to" : "Ann S. Chen/Internal/Accenture@Accenture"
+      },
+      {
+         "from" : "ann.s.chen@accenture.com",
+         "line" : 59,
+         "rawfrom" : "  ann.s.chen@accenture.com@ENRON\n",
+         "to" : "Lewis, Andrew H."
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/lewis-a/sent_items/8.",
+   "hops" : [
+      {
+         "from" : "andrew.lewis@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrew.lewis@enron.com\r\n",
+         "to" : "robyn.zivic@enron.com"
+      },
+      {
+         "from" : "andrew.h.lewis@enron.com=0d",
+         "line" : 23,
+         "rawfrom" : "Andrew H Lewis/HOU/ECT on 03/26/2001 01:21 PM ---------------------------\n",
+         "to" : "Andrew H Lewis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 33,
+         "rawfrom" : "Hunter S Shively/HOU/ECT on 03/26/2001 10:44 AM ---------------------------\n",
+         "to" : "Bryant Frihart/ENRON@enronXgate, Lynn Pikofsky/Corp/Enron@ENRON, Laura Luce/Corp/Enron@Enron, Deirdre McCaffrey/HOU/ECT@ECT, Sylvia S Pollan/HOU/ECT@ECT, Hunter S Shively/HOU/ECT@ECT, Mark Whitt/NA/Enron@Enron, Julie A Gomez/HOU/ECT@ECT, Stephanie Miller/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mark.d.elliott@williams.com",
+         "line" : 43,
+         "rawfrom" : "\"Elliott, Mark\" <Mark.D.Elliott@Williams.com> on 03/20/2001 10:26:23 AM\n",
+         "to" : "\"'chris.meyer@enron.com'\" <chris.meyer@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+]

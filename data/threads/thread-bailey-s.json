@@ -1,0 +1,1301 @@
+[
+{
+   "file" : "enron-raw/bailey-s/deleted_items/107.",
+   "hops" : [
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.anderson@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'; Murphy, Melissa; Bowen, Bob"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 118,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/108.",
+   "hops" : [
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.anderson@enron.com\r\n",
+         "to" : "susan.bailey@enron.com, patrick.mulvany@enron.com, ellen.wallumrod@enron.com,"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/111.",
+   "hops" : [
+      {
+         "from" : "l..denton@enron.com",
+         "line" : 4,
+         "rawfrom" : "l..denton@enron.com\r\n",
+         "to" : "melissa.murphy@enron.com, susan.bailey@enron.com"
+      },
+      {
+         "from" : "melissa.murphy@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tMurphy, Melissa  \n",
+         "to" : "Denton, Rhonda L."
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Murphy, Melissa"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 98,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/113.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "sara.shackleton@enron.com"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Newbrough, Jennifer"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/114.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "robert.bruce@enron.com"
+      },
+      {
+         "from" : "robert.bruce@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBruce, Robert  \n",
+         "to" : "Shackleton, Sara"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Bruce, Robert"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Newbrough, Jennifer"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 94,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/115.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "robert.bruce@enron.com"
+      },
+      {
+         "from" : "robert.bruce@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBruce, Robert  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Bruce, Robert"
+      },
+      {
+         "from" : "robert.bruce@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBruce, Robert  \n",
+         "to" : "Shackleton, Sara"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Bruce, Robert"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 79,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Newbrough, Jennifer"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 114,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/118.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "diane.anderson@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/121.",
+   "hops" : [
+      {
+         "from" : "paul.simons@enron.com",
+         "line" : 4,
+         "rawfrom" : "paul.simons@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Simons, Paul"
+      },
+      {
+         "from" : "marie_heard@enron.net",
+         "line" : 58,
+         "rawfrom" : "\tHeard, Marie  \n",
+         "to" : "Simons, Paul"
+      },
+      {
+         "from" : "paul.simons@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tSimons, Paul  \n",
+         "to" : "Heard, Marie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/126.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "diane.anderson@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/129.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "gerald.nemec@enron.com, e..dickson@enron.com"
+      },
+      {
+         "from" : "suzanne.adams@enron.com",
+         "line" : 30,
+         "rawfrom" : "Adams, Suzanne \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 39,
+         "rawfrom" : "Boyt, Eric <Eric.Boyt@ENRON.com>\n",
+         "to" : "Nemec, Gerald <Gerald.Nemec@ENRON.com>; Mann, Kay <Kay.Mann@ENRON.com>; Dickson, Stacy E. <stacy.dickson@enron.com>"
+      },
+      {
+         "from" : "chris.germany@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tGermany, Chris  \n",
+         "to" : "Dhont, Margaret; Boyt, Eric; Baxter, Bryce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/131.",
+   "hops" : [
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.anderson@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 104,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 115,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/132.",
+   "hops" : [
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 4,
+         "rawfrom" : "sara.shackleton@enron.com\r\n",
+         "to" : "bjorn.hagelmann@enron.com, tom.moran@enron.com, veronica.gonzalez@enron.com"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Gonzalez, Veronica"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 101,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/133.",
+   "hops" : [
+      {
+         "from" : "ellen.wallumrod@enron.com",
+         "line" : 4,
+         "rawfrom" : "ellen.wallumrod@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Wallumrod, Ellen"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tWallumrod, Ellen  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Wallumrod, Ellen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/147.",
+   "hops" : [
+      {
+         "from" : "alan.aronowitz@enron.com",
+         "line" : 4,
+         "rawfrom" : "alan.aronowitz@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Aronowitz, Alan"
+      },
+      {
+         "from" : "alan.aronowitz@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tAronowitz, Alan  \n",
+         "to" : "Jones, Tana"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 51,
+         "rawfrom" : "\tJones, Tana  \n",
+         "to" : "Aronowitz, Alan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/168.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "diane.anderson@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'; Murphy, Melissa; Bowen, Bob"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 109,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/169.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "diane.anderson@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'; Murphy, Melissa; Bowen, Bob"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick; Wallumrod, Ellen; Delahoussaye, 'todd'"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 97,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 130,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/170.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "l..denton@enron.com"
+      },
+      {
+         "from" : "rhonda.l.denton@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tDenton, Rhonda L.  \n",
+         "to" : "Murphy, Melissa; Bailey, Susan"
+      },
+      {
+         "from" : "melissa.murphy@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tMurphy, Melissa  \n",
+         "to" : "Denton, Rhonda L."
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Murphy, Melissa"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Tweed, Sheila"
+      },
+      {
+         "from" : "sheila.tweed@enron.com",
+         "line" : 119,
+         "rawfrom" : "\tTweed, Sheila  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/181.",
+   "hops" : [
+      {
+         "from" : "sbailey@crusescott.com",
+         "line" : 4,
+         "rawfrom" : "sbailey@crusescott.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "dmcleroy@asglp.com",
+         "line" : 22,
+         "rawfrom" : "From:\tMcLeroy, David [SMTP:dmcleroy@asglp.com]\n",
+         "to" : "Al Nance; Bobby Mulvey; Brady Crosswell; Brent Martin; Dan Dukes; David"
+      },
+      {
+         "from" : "smountain@triactive.com",
+         "line" : 34,
+         "rawfrom" : "> From:\tMountain, Smoky [SMTP:smountain@triactive.com]\n",
+         "to" : "McLeroy, David"
+      },
+      {
+         "from" : "> from:\tmountain, smoky",
+         "line" : 43,
+         "rawfrom" : "> From:\tMountain, Smoky\n",
+         "to" : "'wcravens@flash.net'"
+      },
+      {
+         "from" : "dmcleroy@asglp.com",
+         "line" : 176,
+         "rawfrom" : "> From:\tMcLeroy, David [mailto:dmcleroy@asglp.com]\n",
+         "to" : "Mountain, Smoky"
+      },
+      {
+         "from" : "smountain@triactive.com",
+         "line" : 189,
+         "rawfrom" : "> > From:\tMountain, Smoky [SMTP:smountain@triactive.com]\n",
+         "to" : "McLeroy, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/227.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "esmeralda.gonzalez@enron.com"
+      },
+      {
+         "from" : "kien.luu@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLuu, Kien  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Luu, Kien"
+      },
+      {
+         "from" : "kien.luu@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tLuu, Kien  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/239.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "sbailey@crusescott.com"
+      },
+      {
+         "from" : "stephanie.panus@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPanus, Stephanie  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "nhernandez@adolphus.com",
+         "line" : 31,
+         "rawfrom" : "\t\"Nancey Hernandez\" <nhernandez@adolphus.com>@ENRON  \n",
+         "to" : "Stephanie Panus \\(E-mail\\); Panus, Stephanie"
+      },
+      {
+         "from" : "elfworks@mac.com",
+         "line" : 39,
+         "rawfrom" : "ElfWorks [mailto:ElfWorks@mac.com]\n",
+         "to" : "ann lind; ann wise2; gracie balzer; carl carlock; mary bruton;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/245.",
+   "hops" : [
+      {
+         "from" : "louis.dicarlo@enron.com",
+         "line" : 4,
+         "rawfrom" : "louis.dicarlo@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Dicarlo, Louis"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 45,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Shackleton, Sara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/269.",
+   "hops" : [
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 4,
+         "rawfrom" : "cynthia.shoup@enron.com\r\n",
+         "to" : "shielah.castro@enron.com"
+      },
+      {
+         "from" : "shielah.castro@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tCastro, Shielah  \n",
+         "to" : "Shoup, Cynthia"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 49,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Bailey, Susan; Castro, Shielah"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Dicarlo, Louis"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 75,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/270.",
+   "hops" : [
+      {
+         "from" : "louis.dicarlo@enron.com",
+         "line" : 4,
+         "rawfrom" : "louis.dicarlo@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tShoup, Cynthia  \n",
+         "to" : "Castro, Shielah"
+      },
+      {
+         "from" : "shielah.castro@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tCastro, Shielah  \n",
+         "to" : "Shoup, Cynthia"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 57,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Bailey, Susan; Castro, Shielah"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Dicarlo, Louis"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 83,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/276.",
+   "hops" : [
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.bailey@enron.com\r\n",
+         "to" : "maria.garza@enron.com"
+      },
+      {
+         "from" : "maria.garza@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tGarza, Maria  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 41,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Garza, Maria"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Dicarlo, Louis"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/278.",
+   "hops" : [
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 4,
+         "rawfrom" : "sara.shackleton@enron.com\r\n",
+         "to" : "susan.bailey@enron.com, samantha.boyd@enron.com, stephanie.panus@enron.com,"
+      },
+      {
+         "from" : "kmann@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mann, Kay \n",
+         "to" : "Tweed, Sheila; Lyons, Dan; Shackleton, Sara; Bushman, Teresa G."
+      },
+      {
+         "from" : "swanita_99@yahoo.com",
+         "line" : 30,
+         "rawfrom" : "Kroll, Heather \n",
+         "to" : "Charlie Vetters (E-mail); Dad Swan (E-mail); Jim King (E-mail); Mann, Kay; Mark Williams (E-mail)"
+      },
+      {
+         "from" : "rahil.jafry@enron.com",
+         "line" : 38,
+         "rawfrom" : "Jafry, Rahil \n",
+         "to" : "Kroll, Heather; Rorschach, Reagan; Pagan, Ozzie; Charlie Vetters (E-mail); Jennifer Bagwell (E-mail); Marshall, McCaleb; Heuertz, Kelly; Bhabi Bhabi (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/280.",
+   "hops" : [
+      {
+         "from" : "angelo.miroballi@enron.com",
+         "line" : 4,
+         "rawfrom" : "angelo.miroballi@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Miroballi, Angelo"
+      },
+      {
+         "from" : "angelo.miroballi@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tMiroballi, Angelo  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Dicarlo, Louis; Miroballi, Angelo; Shoup, Cynthia; Castro, Shielah"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/32.",
+   "hops" : [
+      {
+         "from" : "lisa.mellencamp@enron.com",
+         "line" : 4,
+         "rawfrom" : "lisa.mellencamp@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Hodge, Jeffrey T.; Sager, Elizabeth; St. Clair, Carol; Mellencamp, Lisa"
+      },
+      {
+         "from" : "bryce.baxter@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tBaxter, Bryce  \n",
+         "to" : "Brackett, Debbie R.; Rohauer, Tanya; Williams, Jason R (Credit)"
+      },
+      {
+         "from" : "max.doner@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tDoner, Max  \n",
+         "to" : "Baxter, Bryce"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/343.",
+   "hops" : [
+      {
+         "from" : "louis.dicarlo@enron.com",
+         "line" : 4,
+         "rawfrom" : "louis.dicarlo@enron.com\r\n",
+         "to" : "angelo.miroballi@enron.com"
+      },
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tShoup, Cynthia  \n",
+         "to" : "Dicarlo, Louis"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 34,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Shoup, Cynthia"
+      },
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tShoup, Cynthia  \n",
+         "to" : "Dicarlo, Louis"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 56,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Shoup, Cynthia"
+      },
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tShoup, Cynthia  \n",
+         "to" : "Dicarlo, Louis"
+      },
+      {
+         "from" : "louis.dicarlo@pgees.com",
+         "line" : 74,
+         "rawfrom" : "\tDicarlo, Louis  \n",
+         "to" : "Shoup, Cynthia"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/70.",
+   "hops" : [
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 4,
+         "rawfrom" : "sara.shackleton@enron.com\r\n",
+         "to" : "robert.bruce@enron.com"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Newbrough, Jennifer"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/72.",
+   "hops" : [
+      {
+         "from" : "robert.bruce@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.bruce@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Bruce, Robert"
+      },
+      {
+         "from" : "robert.bruce@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBruce, Robert  \n",
+         "to" : "Shackleton, Sara"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Bruce, Robert"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Newbrough, Jennifer"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 102,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/73.",
+   "hops" : [
+      {
+         "from" : "robert.bruce@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.bruce@enron.com\r\n",
+         "to" : "sara.shackleton@enron.com"
+      },
+      {
+         "from" : "sara.shackleton@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tShackleton, Sara  \n",
+         "to" : "Bruce, Robert"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan; Shackleton, Sara"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Newbrough, Jennifer"
+      },
+      {
+         "from" : "jennifer.newbrough@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tNewbrough, Jennifer  \n",
+         "to" : "Bailey, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/85.",
+   "hops" : [
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.anderson@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/88.",
+   "hops" : [
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.anderson@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 79,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 106,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/bailey-s/deleted_items/89.",
+   "hops" : [
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "diane.anderson@enron.com\r\n",
+         "to" : "susan.bailey@enron.com"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bailey, Susan; Mulvany, Patrick"
+      },
+      {
+         "from" : "susan.bailey@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tBailey, Susan  \n",
+         "to" : "Anderson, Diane; Mulvany, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,1116 @@
+[
+{
+   "file" : "enron-raw/cuilla-m/all_documents/41.",
+   "hops" : [
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 4,
+         "rawfrom" : "mcontant@cypressasset.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 29,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin.Cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 44,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 73,
+         "rawfrom" : "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "to" : "Mahedy, John P."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/all_documents/48.",
+   "hops" : [
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 4,
+         "rawfrom" : "mcontant@cypressasset.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 39,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin.Cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 63,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 87,
+         "rawfrom" : "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "to" : "Mahedy, John P."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/all_documents/59.",
+   "hops" : [
+      {
+         "from" : "zwharton@dawray.com",
+         "line" : 4,
+         "rawfrom" : "zwharton@dawray.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 22,
+         "rawfrom" : "Martin.Cuilla@enron.com [mailto:Martin.Cuilla@enron.com]\n",
+         "to" : "zwharton@dawray.com"
+      },
+      {
+         "from" : "airam.arteaga@enron.com",
+         "line" : 41,
+         "rawfrom" : " Airam Arteaga\n",
+         "to" : "Martin Cuilla/HOU/ECT@ECT"
+      },
+      {
+         "from" : "airam.arteaga@enron.com",
+         "line" : 53,
+         "rawfrom" : "Airam Arteaga/HOU/ECT on 11/09/2000\n",
+         "to" : "\"'airam.arteaga@enron.com'\" <airam.arteaga@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/deleted_items/71.",
+   "hops" : [
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.martin@enron.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 38,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 58,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 73,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/discussion_threads/118.",
+   "hops" : [
+      {
+         "from" : "zwharton@dawray.com",
+         "line" : 4,
+         "rawfrom" : "zwharton@dawray.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 22,
+         "rawfrom" : "Martin.Cuilla@enron.com [mailto:Martin.Cuilla@enron.com]\n",
+         "to" : "zwharton@dawray.com"
+      },
+      {
+         "from" : "airam.arteaga@enron.com",
+         "line" : 41,
+         "rawfrom" : " Airam Arteaga\n",
+         "to" : "Martin Cuilla/HOU/ECT@ECT"
+      },
+      {
+         "from" : "airam.arteaga@enron.com",
+         "line" : 53,
+         "rawfrom" : "Airam Arteaga/HOU/ECT on 11/09/2000\n",
+         "to" : "\"'airam.arteaga@enron.com'\" <airam.arteaga@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/discussion_threads/129.",
+   "hops" : [
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 4,
+         "rawfrom" : "mcontant@cypressasset.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 39,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin.Cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 63,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 87,
+         "rawfrom" : "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "to" : "Mahedy, John P."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/discussion_threads/136.",
+   "hops" : [
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 4,
+         "rawfrom" : "mcontant@cypressasset.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 29,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin.Cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 44,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 73,
+         "rawfrom" : "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "to" : "Mahedy, John P."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/inbox/1.",
+   "hops" : [
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.martin@enron.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 42,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 57,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/notes_inbox/13.",
+   "hops" : [
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 4,
+         "rawfrom" : "mcontant@cypressasset.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 29,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin.Cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 44,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 73,
+         "rawfrom" : "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "to" : "Mahedy, John P."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/notes_inbox/20.",
+   "hops" : [
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 4,
+         "rawfrom" : "mcontant@cypressasset.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 39,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin.Cuilla@enron.com"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 63,
+         "rawfrom" : "mcontant@cypressasset.com",
+         "to" : "Martin Cuilla <Martin.Cuilla@enron.com>"
+      },
+      {
+         "from" : "mcontant@cypressasset.com",
+         "line" : 87,
+         "rawfrom" : "Michael D Contant [mailto:mcontant@cypressasset.com]\n",
+         "to" : "Mahedy, John P."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/personal/10.",
+   "hops" : [
+      {
+         "from" : "zwharton@dawray.com",
+         "line" : 4,
+         "rawfrom" : "zwharton@dawray.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 22,
+         "rawfrom" : "Martin.Cuilla@enron.com [mailto:Martin.Cuilla@enron.com]\n",
+         "to" : "zwharton@dawray.com"
+      },
+      {
+         "from" : "airam.arteaga@enron.com",
+         "line" : 41,
+         "rawfrom" : " Airam Arteaga\n",
+         "to" : "Martin Cuilla/HOU/ECT@ECT"
+      },
+      {
+         "from" : "airam.arteaga@enron.com",
+         "line" : 53,
+         "rawfrom" : "Airam Arteaga/HOU/ECT on 11/09/2000\n",
+         "to" : "\"'airam.arteaga@enron.com'\" <airam.arteaga@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/161.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "greg.martin@enron.com"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 30,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 50,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 65,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/164.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "bryan.hull@enron.com"
+      },
+      {
+         "from" : "bryan.hull@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHull, Bryan  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 30,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Hull, Bryan"
+      },
+      {
+         "from" : "bryan.hull@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tHull, Bryan  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/167.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "veronica.parra@enron.com"
+      },
+      {
+         "from" : "veronica.parra@enron.com",
+         "line" : 28,
+         "rawfrom" : "Parra, Veronica \n",
+         "to" : "Brasseaux, Ben; Cuilla, Martin"
+      },
+      {
+         "from" : "ben.brasseaux@enron.com",
+         "line" : 43,
+         "rawfrom" : "Brasseaux, Ben \n",
+         "to" : "Parra, Veronica"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 57,
+         "rawfrom" : "Slone, Jeanie \n",
+         "to" : "Brasseaux, Ben"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 65,
+         "rawfrom" : "Cuilla, Martin \n",
+         "to" : "Slone, Jeanie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/4.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "greg.martin@enron.com"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 21,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 29,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/42.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "'frank@enron.com, lfrank@vignette.com, michael.wilkes@neonsys.com,"
+      },
+      {
+         "from" : "lfrank@vignette.com",
+         "line" : 56,
+         "rawfrom" : "Frank, Laura [mailto:lfrank@vignette.com]\n",
+         "to" : "'Michael Wilkes'; 'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from" : "michael.wilkes@neonsys.com",
+         "line" : 77,
+         "rawfrom" : "Michael Wilkes [mailto:Michael.Wilkes@neonsys.com]\n",
+         "to" : "'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from" : "christine_v_finch@hotmail.com",
+         "line" : 95,
+         "rawfrom" : "Christine Finch [mailto:christine_v_finch@hotmail.com]\n",
+         "to" : "astephens@crushinteractive.com; dax@cypressmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/44.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "dax@cypressmail.com"
+      },
+      {
+         "from" : "dax@cypressmail.com",
+         "line" : 22,
+         "rawfrom" : "Dax Philbin [mailto:dax@cypressmail.com]\n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 31,
+         "rawfrom" : "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "to" : "Frank, Laura; Michael Wilkes; Christine Finch;"
+      },
+      {
+         "from" : "lfrank@vignette.com",
+         "line" : 111,
+         "rawfrom" : "Frank, Laura [mailto:lfrank@vignette.com]\n",
+         "to" : "'Michael Wilkes'; 'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from" : "michael.wilkes@neonsys.com",
+         "line" : 133,
+         "rawfrom" : "Michael Wilkes [mailto:Michael.Wilkes@neonsys.com]\n",
+         "to" : "'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from" : "christine_v_finch@hotmail.com",
+         "line" : 151,
+         "rawfrom" : "Christine Finch [mailto:christine_v_finch@hotmail.com]\n",
+         "to" : "astephens@crushinteractive.com; dax@cypressmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/45.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "dax@cypressmail.com"
+      },
+      {
+         "from" : "dax@cypressmail.com",
+         "line" : 22,
+         "rawfrom" : "Dax Philbin [mailto:dax@cypressmail.com]\n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 31,
+         "rawfrom" : "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "to" : "Dax Philbin"
+      },
+      {
+         "from" : "dax@cypressmail.com",
+         "line" : 40,
+         "rawfrom" : "Dax Philbin [mailto:dax@cypressmail.com]\n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 49,
+         "rawfrom" : "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "to" : "Frank, Laura; Michael Wilkes; Christine Finch;"
+      },
+      {
+         "from" : "lfrank@vignette.com",
+         "line" : 129,
+         "rawfrom" : "Frank, Laura [mailto:lfrank@vignette.com]\n",
+         "to" : "'Michael Wilkes'; 'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from" : "michael.wilkes@neonsys.com",
+         "line" : 151,
+         "rawfrom" : "Michael Wilkes [mailto:Michael.Wilkes@neonsys.com]\n",
+         "to" : "'Christine Finch'; astephens@crushinteractive.com;"
+      },
+      {
+         "from" : "christine_v_finch@hotmail.com",
+         "line" : 169,
+         "rawfrom" : "Christine Finch [mailto:christine_v_finch@hotmail.com]\n",
+         "to" : "astephens@crushinteractive.com; dax@cypressmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/5.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "greg.martin@enron.com"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 49,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "rob@ramind.com"
+      },
+      {
+         "from" : "rob@ramind.com",
+         "line" : 22,
+         "rawfrom" : "Rob Miller [mailto:rob@ramind.com]\n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 31,
+         "rawfrom" : "\"Cuilla, Martin\" <Martin.Cuilla@ENRON.com>\n",
+         "to" : "\"Rob Miller\" <rob@ramind.com>"
+      },
+      {
+         "from" : "rob@ramind.com",
+         "line" : 43,
+         "rawfrom" : "Rob Miller [mailto:rob@ramind.com]\n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "jennifer.fraser@enron.com"
+      },
+      {
+         "from" : "jennifer.fraser@enron.com",
+         "line" : 22,
+         "rawfrom" : "Fraser, Jennifer \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 31,
+         "rawfrom" : "Cuilla, Martin \n",
+         "to" : "Fraser, Jennifer"
+      },
+      {
+         "from" : "jennifer.fraser@enron.com",
+         "line" : 40,
+         "rawfrom" : "Fraser, Jennifer \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 49,
+         "rawfrom" : "Cuilla, Martin \n",
+         "to" : "Fraser, Jennifer"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/64.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "zwharton@dawray.com"
+      },
+      {
+         "from" : "zwharton@dawray.com",
+         "line" : 22,
+         "rawfrom" : "ZOOEY WHARTON [mailto:ZWHARTON@dawray.com]\n",
+         "to" : "Husband (E-mail)"
+      },
+      {
+         "from" : "nicolelee69@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "to" : "Nicolem00@earthlink.net; zwharton@dawray.com; wwells@broadjump.com"
+      },
+      {
+         "from" : "\"todd haness\" <th3450@airmail.net>",
+         "line" : 39,
+         "rawfrom" : "\"Todd Haness\" <th3450@airmail.net>\n",
+         "to" : "\"'Nicole Lee'\" <nicolelee69@hotmail.com>"
+      },
+      {
+         "from" : "nicolelee69@hotmail.com",
+         "line" : 52,
+         "rawfrom" : "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "to" : "eric@northwestinsuranceagency.com; jbaker@gamd.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "zwharton@dawray.com"
+      },
+      {
+         "from" : "zwharton@dawray.com",
+         "line" : 22,
+         "rawfrom" : "ZOOEY WHARTON [mailto:ZWHARTON@dawray.com]\n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 34,
+         "rawfrom" : "Cuilla, Martin [mailto:Martin.Cuilla@ENRON.com]\n",
+         "to" : "ZOOEY WHARTON"
+      },
+      {
+         "from" : "zwharton@dawray.com",
+         "line" : 44,
+         "rawfrom" : "ZOOEY WHARTON [mailto:ZWHARTON@dawray.com]\n",
+         "to" : "Husband (E-mail)"
+      },
+      {
+         "from" : "nicolelee69@hotmail.com",
+         "line" : 53,
+         "rawfrom" : "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "to" : "Nicolem00@earthlink.net; zwharton@dawray.com; wwells@broadjump.com"
+      },
+      {
+         "from" : "\"todd haness\" <th3450@airmail.net>",
+         "line" : 61,
+         "rawfrom" : "\"Todd Haness\" <th3450@airmail.net>\n",
+         "to" : "\"'Nicole Lee'\" <nicolelee69@hotmail.com>"
+      },
+      {
+         "from" : "nicolelee69@hotmail.com",
+         "line" : 74,
+         "rawfrom" : "Nicole Lee [mailto:nicolelee69@hotmail.com]\n",
+         "to" : "eric@northwestinsuranceagency.com; jbaker@gamd.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/74.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "james.h.cook@us.andersen.com"
+      },
+      {
+         "from" : "james.h.cook@us.andersen.com",
+         "line" : 22,
+         "rawfrom" : "james.h.cook@us.andersen.com [mailto:james.h.cook@us.andersen.com]\n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "net-athome@sigma-consultants.fr",
+         "line" : 30,
+         "rawfrom" : "Net 4 out of how many\n",
+         "to" : "James H. Cook@ANDERSEN WO"
+      },
+      {
+         "from" : "james.h.cook@us.andersen.com",
+         "line" : 45,
+         "rawfrom" : "james.h.cook@us.andersen.com [mailto:james.h.cook@us.andersen.com]\n",
+         "to" : "Cuilla, Martin; dax@cypressmail.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/78.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "richard.tomaski@enron.com"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 33,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Tomaski, Richard"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/80.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "richard.tomaski@enron.com"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 30,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Tomaski, Richard"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 49,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Tomaski, Richard"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/81.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "richard.tomaski@enron.com"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 30,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Tomaski, Richard"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 46,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Tomaski, Richard"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 65,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Tomaski, Richard"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tTomaski, Richard  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/93.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "greg.martin@enron.com"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 30,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 50,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 65,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Martin, Greg"
+      },
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tMartin, Greg  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/cuilla-m/sent_items/98.",
+   "hops" : [
+      {
+         "from" : "martin.cuilla@enron.com",
+         "line" : 4,
+         "rawfrom" : "martin.cuilla@enron.com\r\n",
+         "to" : "daniel.diamond@enron.com"
+      },
+      {
+         "from" : "daniel.diamond@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tDiamond, Daniel  \n",
+         "to" : "Cuilla, Martin"
+      },
+      {
+         "from" : "mcuilla@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "\tCuilla, Martin  \n",
+         "to" : "Shulklapper, Ken"
+      },
+      {
+         "from" : "ken.shulklapper@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tShulklapper, Ken  \n",
+         "to" : "Cuilla, Martin"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,1599 @@
+[
+{
+   "file" : "enron-raw/schwieger-j/all_documents/21.",
+   "hops" : [
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 4,
+         "rawfrom" : "brian.redmond@enron.com\r\n",
+         "to" : "thomas.martin@enron.com, jim.schwieger@enron.com"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 23,
+         "rawfrom" : "Brian Redmond/HOU/ECT on 01/17/2001 12:08 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT, Wes Colwell/HOU/ECT@ECT, Joseph"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 51,
+         "rawfrom" : "Brian Redmond/HOU/ECT on 01/16/2001 10:43 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 79,
+         "rawfrom" : "Jim Coffey@ECT\n",
+         "to" : "Barbara N Gray/HOU/ECT@ECT"
+      },
+      {
+         "from" : "barbara.n.gray@enron.com",
+         "line" : 91,
+         "rawfrom" : "Barbara N Gray on 01/16/2001 01:54 PM\n",
+         "to" : "Brian Redmond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/all_documents/61.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 40,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL-"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 58,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 \n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 70,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/all_documents/62.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 38,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/04/2000 03:18 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Jim Schwieger/HOU/ECT@ECT, Steve HPL"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 60,
+         "rawfrom" : "Gerald Nemec/HOU/ECT on 04/04/2000 03:07 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 77,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL-"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 95,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 \n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 107,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/all_documents/64.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT, Brad Blevins/HOU/ECT@ECT, Steve HPL"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/07/2000 01:08 \n",
+         "to" : "\"'Jim Schwieger'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 45,
+         "rawfrom" : "Jim Schwieger [mailto:Jim.Schwieger@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/all_documents/66.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 36,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/18/2000 11:09 \n",
+         "to" : "\"'Jim.Schwieger@enron.com'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "kevin_pilkington@kne.com",
+         "line" : 46,
+         "rawfrom" : " Pilkington, Kevin\n",
+         "to" : "'Jim.Schweiger@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/all_documents/67.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:31 \n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 39,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/25/2000 12:23 \n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tom.fry@enron.com",
+         "line" : 53,
+         "rawfrom" : " Tom Fry                           04/18/2000 02:46 PM\n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON, Brad Blevins/HOU/ECT@ECT, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/all_documents/73.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 03:07 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Jim Coffey on 10/02/2000 04:42 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Jim Schwieger\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 67,
+         "rawfrom" : " David Baumbach                           10/02/2000 01:23 PM\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/bammel_stg/21.",
+   "hops" : [
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 4,
+         "rawfrom" : "darren.vanek@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 25,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 47,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Rohauer, Tanya; Williams, Jason R (Credit)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/bammel_stg/7.",
+   "hops" : [
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 4,
+         "rawfrom" : "brian.redmond@enron.com\r\n",
+         "to" : "thomas.martin@enron.com, jim.schwieger@enron.com"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 23,
+         "rawfrom" : "Brian Redmond/HOU/ECT on 01/17/2001 12:08 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT, Wes Colwell/HOU/ECT@ECT, Joseph"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 51,
+         "rawfrom" : "Brian Redmond/HOU/ECT on 01/16/2001 10:43 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 79,
+         "rawfrom" : "Jim Coffey@ECT\n",
+         "to" : "Barbara N Gray/HOU/ECT@ECT"
+      },
+      {
+         "from" : "barbara.n.gray@enron.com",
+         "line" : 91,
+         "rawfrom" : "Barbara N Gray on 01/16/2001 01:54 PM\n",
+         "to" : "Brian Redmond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/deleted_items/155.",
+   "hops" : [
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 4,
+         "rawfrom" : "adrianne.engler@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "Schwieger, Jim \n",
+         "to" : "Engler, Adrianne"
+      },
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 33,
+         "rawfrom" : "Engler, Adrianne \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 50,
+         "rawfrom" : "Schwieger, Jim \n",
+         "to" : "Engler, Adrianne"
+      },
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 63,
+         "rawfrom" : "Engler, Adrianne \n",
+         "to" : "Schwieger, Jim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/18.",
+   "hops" : [
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 4,
+         "rawfrom" : "brian.redmond@enron.com\r\n",
+         "to" : "thomas.martin@enron.com, jim.schwieger@enron.com"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 23,
+         "rawfrom" : "Brian Redmond/HOU/ECT on 01/17/2001 12:08 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT, Wes Colwell/HOU/ECT@ECT, Joseph"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 51,
+         "rawfrom" : "Brian Redmond/HOU/ECT on 01/16/2001 10:43 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 79,
+         "rawfrom" : "Jim Coffey@ECT\n",
+         "to" : "Barbara N Gray/HOU/ECT@ECT"
+      },
+      {
+         "from" : "barbara.n.gray@enron.com",
+         "line" : 91,
+         "rawfrom" : "Barbara N Gray on 01/16/2001 01:54 PM\n",
+         "to" : "Brian Redmond/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/58.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 40,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL-"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 58,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 \n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 70,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/59.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 38,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/04/2000 03:18 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Jim Schwieger/HOU/ECT@ECT, Steve HPL"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 60,
+         "rawfrom" : "Gerald Nemec/HOU/ECT on 04/04/2000 03:07 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 77,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL-"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 95,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 \n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 107,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/61.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT, Brad Blevins/HOU/ECT@ECT, Steve HPL"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/07/2000 01:08 \n",
+         "to" : "\"'Jim Schwieger'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 45,
+         "rawfrom" : "Jim Schwieger [mailto:Jim.Schwieger@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/63.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 36,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/18/2000 11:09 \n",
+         "to" : "\"'Jim.Schwieger@enron.com'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "kevin_pilkington@kne.com",
+         "line" : 46,
+         "rawfrom" : " Pilkington, Kevin\n",
+         "to" : "'Jim.Schweiger@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/64.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:31 \n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 39,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/25/2000 12:23 \n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tom.fry@enron.com",
+         "line" : 53,
+         "rawfrom" : " Tom Fry                           04/18/2000 02:46 PM\n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON, Brad Blevins/HOU/ECT@ECT, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/discussion_threads/70.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 03:07 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Jim Coffey on 10/02/2000 04:42 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Jim Schwieger\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 67,
+         "rawfrom" : " David Baumbach                           10/02/2000 01:23 PM\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/hpl_sell/14.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:31 \n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 39,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/25/2000 12:23 \n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tom.fry@enron.com",
+         "line" : 53,
+         "rawfrom" : " Tom Fry                           04/18/2000 02:46 PM\n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON, Brad Blevins/HOU/ECT@ECT, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/hpl_sell/15.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 36,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/18/2000 11:09 \n",
+         "to" : "\"'Jim.Schwieger@enron.com'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "kevin_pilkington@kne.com",
+         "line" : 46,
+         "rawfrom" : " Pilkington, Kevin\n",
+         "to" : "'Jim.Schweiger@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/hpl_sell/17.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT, Brad Blevins/HOU/ECT@ECT, Steve HPL"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/07/2000 01:08 \n",
+         "to" : "\"'Jim Schwieger'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 45,
+         "rawfrom" : "Jim Schwieger [mailto:Jim.Schwieger@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/hpl_sell/19.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 \n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 38,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/04/2000 03:18 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Jim Schwieger/HOU/ECT@ECT, Steve HPL"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 60,
+         "rawfrom" : "Gerald Nemec/HOU/ECT on 04/04/2000 03:07 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 77,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL-"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 95,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 \n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 107,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/hpl_sell/20.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 \n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 40,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL-"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 58,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 \n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 70,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/hpl_sell/8.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 03:07 \n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Jim Coffey on 10/02/2000 04:42 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "Jim Schwieger\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 67,
+         "rawfrom" : " David Baumbach                           10/02/2000 01:23 PM\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/inbox/28.",
+   "hops" : [
+      {
+         "from" : "joan.collins@enron.com",
+         "line" : 4,
+         "rawfrom" : "joan.collins@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "tamara.hopkins@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHopkins, Tamara  \n",
+         "to" : "Collins, Joan"
+      },
+      {
+         "from" : "smithsj@sce.com",
+         "line" : 30,
+         "rawfrom" : "\tSmith, Sarah J  \n",
+         "to" : "Brown, Craig H.; Hopkins, Tamara; Smith, Heidi; Duke, Amy"
+      },
+      {
+         "from" : "patricia.rivera@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tRivera, Patricia  \n",
+         "to" : "David Sims (E-mail); Gosnell, Gerri; Fayett, Juana; Velasco, Jennifer; Maria Gonzalez (E-mail); Stevens, Martha; Smith, Sarah J; Le, Trang; Wilder, Wesley"
+      },
+      {
+         "from" : "yadira.salazar@exxonmobil.com",
+         "line" : 46,
+         "rawfrom" : "\tyadira.salazar@exxonmobil.com@ENRON  \n",
+         "to" : "ewb@allegrodevelopment.com; verofive@aol.com; rduran@tradespark.com; vtgardner@hotmail.com; GGonzalez@Altra.com; mparranova@yahoo.com; almasalazar@yahoo.com; Rivera, Patricia; karisal@hotmail.com; michael.s.chiv@exxonmobil.com; Gretchen_Fox@ENRON.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/10.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "sarah.palmer@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/03/2001 08:21 AM ---------------------------\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "Jim Schwieger\n",
+         "to" : "Sarah Palmer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 48,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/02/2001 03:07 PM ---------------------------\n",
+         "to" : "Mike A Roberts/HOU/ECT@ECT, stephen.bennett@enron.com, Jim Schwieger/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/101.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "mark.woita@fhlbtopeka.com"
+      },
+      {
+         "from" : "joandave@pdq.net",
+         "line" : 22,
+         "rawfrom" : "\tCollins, Joan  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "tamara.hopkins@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tHopkins, Tamara  \n",
+         "to" : "Collins, Joan"
+      },
+      {
+         "from" : "smithsj@sce.com",
+         "line" : 38,
+         "rawfrom" : "\tSmith, Sarah J  \n",
+         "to" : "Brown, Craig H.; Hopkins, Tamara; Smith, Heidi; Duke, Amy"
+      },
+      {
+         "from" : "patricia.rivera@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tRivera, Patricia  \n",
+         "to" : "David Sims (E-mail); Gosnell, Gerri; Fayett, Juana; Velasco, Jennifer; Maria Gonzalez (E-mail); Stevens, Martha; Smith, Sarah J; Le, Trang; Wilder, Wesley"
+      },
+      {
+         "from" : "yadira.salazar@exxonmobil.com",
+         "line" : 54,
+         "rawfrom" : "\tyadira.salazar@exxonmobil.com@ENRON  \n",
+         "to" : "ewb@allegrodevelopment.com; verofive@aol.com; rduran@tradespark.com; vtgardner@hotmail.com; GGonzalez@Altra.com; mparranova@yahoo.com; almasalazar@yahoo.com; Rivera, Patricia; karisal@hotmail.com; michael.s.chiv@exxonmobil.com; Gretchen_Fox@ENRON.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/109.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "adrianne.engler@enron.com"
+      },
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 24,
+         "rawfrom" : "Engler, Adrianne \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 41,
+         "rawfrom" : "Schwieger, Jim \n",
+         "to" : "Engler, Adrianne"
+      },
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 54,
+         "rawfrom" : "Engler, Adrianne \n",
+         "to" : "Schwieger, Jim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/110.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "adrianne.engler@enron.com"
+      },
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 22,
+         "rawfrom" : "Engler, Adrianne \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 39,
+         "rawfrom" : "Schwieger, Jim \n",
+         "to" : "Engler, Adrianne"
+      },
+      {
+         "from" : "adrianne.engler@enron.com",
+         "line" : 52,
+         "rawfrom" : "Engler, Adrianne \n",
+         "to" : "Schwieger, Jim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/112.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "laura.vuittonet@enron.com"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 33,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Vuittonet, Laura"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Schwieger, Jim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/147.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "denae.umbower@enron.com"
+      },
+      {
+         "from" : "denae.umbower@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tUmbower, Denae  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 45,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Umbower, Denae"
+      },
+      {
+         "from" : "denae.umbower@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tUmbower, Denae  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "rvint@houston.rr.com",
+         "line" : 74,
+         "rawfrom" : "\t\"Robin Vint\" <rvint@houston.rr.com>@ENRON COMMUNICATIONS  \n",
+         "to" : "Jill Van Voorhis; jnewman@powerbond.com; levans3@enron.com; pvint@enron.com; Charley Ballmer; Celeste Higgins Ballmer; Kal Abdalla; Curless, Amanda; Margaret Ceconi; Scott Bolz; Susan Cisneros; Lamadrid, Victor; Anna Caeg; pvint@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/153.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "denae.umbower@enron.com"
+      },
+      {
+         "from" : "denae.umbower@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tUmbower, Denae  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 35,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Umbower, Denae"
+      },
+      {
+         "from" : "denae.umbower@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tUmbower, Denae  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 66,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Umbower, Denae"
+      },
+      {
+         "from" : "denae.umbower@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tUmbower, Denae  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "rvint@houston.rr.com",
+         "line" : 95,
+         "rawfrom" : "\t\"Robin Vint\" <rvint@houston.rr.com>@ENRON COMMUNICATIONS  \n",
+         "to" : "Jill Van Voorhis; jnewman@powerbond.com; levans3@enron.com; pvint@enron.com; Charley Ballmer; Celeste Higgins Ballmer; Kal Abdalla; Curless, Amanda; Margaret Ceconi; Scott Bolz; Susan Cisneros; Lamadrid, Victor; Anna Caeg; pvint@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/162.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "joan.collins@enron.com"
+      },
+      {
+         "from" : "joandave@pdq.net",
+         "line" : 22,
+         "rawfrom" : "\tCollins, Joan  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 30,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Lagrasta, Fred; Martin, Thomas A.; Brawner, Sandra F."
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tWhalley, Greg  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 46,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Whalley, Greg"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/163.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "joan.collins@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 21,
+         "rawfrom" : "Martin, Thomas A. \n",
+         "to" : "Schwieger, Jim; Brawner, Sandra F."
+      },
+      {
+         "from" : "gary.bryan@enron.com",
+         "line" : 33,
+         "rawfrom" : "Bryan, Gary \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "linda.roberts@enron.com",
+         "line" : 41,
+         "rawfrom" : "Roberts, Linda \n",
+         "to" : "Quick, Joan; Zivley, Jill T.; Bryan, Gary"
+      },
+      {
+         "from" : "sharon.otoole@elpaso.com",
+         "line" : 49,
+         "rawfrom" : "O'Toole, Sharon [mailto:Sharon.OToole@ElPaso.com]\n",
+         "to" : "'Blanca Daugherty'; 'Debbie Chance-HM'; 'Diana Naylor Knox'; 'Kevin O'Toole'; Roberts, Linda; 'Martha Senf'; Baden, Pamela; 'Stacy Franz'; Miller, Stephanie; 'Steve McGough'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/30.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 03:07 PM ---------------------------\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:\tJim Coffey on 10/02/2000 04:42 PM\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 42,
+         "rawfrom" : "Jim Schwieger\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 56,
+         "rawfrom" : " David Baumbach                           10/02/2000 01:23 PM\t\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/36.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:31 PM ---------------------------\n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 36,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/25/2000 12:23 PM ---------------------------\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tom.fry@enron.com",
+         "line" : 47,
+         "rawfrom" : " Tom Fry                           04/18/2000 02:46 PM\t\n",
+         "to" : "Nick Cocavessis/Corp/Enron@ENRON, Brad Blevins/HOU/ECT@ECT, Kevin Kuehler/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/37.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 PM ---------------------------\n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 34,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/18/2000 11:09 AM ---------------------------\n",
+         "to" : "\"'Jim.Schwieger@enron.com'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "kevin_pilkington@kne.com",
+         "line" : 44,
+         "rawfrom" : "\tPilkington, Kevin\n",
+         "to" : "'Jim.Schweiger@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/39.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:30 PM ---------------------------\n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT, Brad Blevins/HOU/ECT@ECT, Steve HPL Schneider/HOU/ECT@ECT, Nathan L Hlavaty/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 32,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/07/2000 01:08 PM ---------------------------\n",
+         "to" : "\"'Jim Schwieger'\" <Jim.Schwieger@enron.com>"
+      },
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 43,
+         "rawfrom" : "Jim Schwieger [mailto:Jim.Schwieger@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/41.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 PM ---------------------------\n",
+         "to" : "Gerald Nemec/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 35,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/04/2000 03:18 PM ---------------------------\n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Jim Schwieger/HOU/ECT@ECT, Steve HPL Schneider/HOU/ECT@ECT, Nathan L Hlavaty/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 51,
+         "rawfrom" : "Gerald Nemec/HOU/ECT on 04/04/2000 03:07 PM ---------------------------\n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL Schneider/HOU/ECT@ECT, Gerald Nemec/HOU/ECT@ECT, Fiona Ryan/LON/ECT@ECT, John Towles/OTS/Enron@ENRON"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 64,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\t\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL- Schneider/HOU/ECT@ECT, Gerald Nemec/HOU/ECT@ECT, Tom Fry/GCO/Enron@Enron, John Towles/OTS/Enron@Enron"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 74,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 PM ---------------------------\n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 86,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/42.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 03/22/2001 02:29 PM ---------------------------\n",
+         "to" : "Brad Blevins/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve HPL Schneider/HOU/ECT@ECT, Gerald Nemec/HOU/ECT@ECT, Fiona Ryan/LON/ECT@ECT, John Towles/OTS/Enron@ENRON"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 36,
+         "rawfrom" : " Brad Blevins                           04/03/2000 03:58 PM\t\n",
+         "to" : "Jim Schwieger/HOU/ECT@ECT, Nick Cocavessis/Corp/Enron@ENRON, Steve -HPL- Schneider/HOU/ECT@ECT, Gerald Nemec/HOU/ECT@ECT, Tom Fry/GCO/Enron@Enron, John Towles/OTS/Enron@Enron"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 46,
+         "rawfrom" : "Brad Blevins/HOU/ECT on 04/03/2000 03:53 PM ---------------------------\n",
+         "to" : "\"'Brad Blevins'\" <Brad.Blevins@enron.com>"
+      },
+      {
+         "from" : "brad.blevins@enron.com",
+         "line" : 58,
+         "rawfrom" : "Brad Blevins [mailto:Brad.Blevins@enron.com]\n",
+         "to" : "Pilkington, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "kenny.soignet@enron.com"
+      },
+      {
+         "from" : "=09soignet, kenny =20",
+         "line" : 22,
+         "rawfrom" : "=09Soignet, Kenny =20\r\n",
+         "to" : "=09Gaskill, Chris; Jim Schwieger/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 44,
+         "rawfrom" : "From:=09Agustin Perez@ENRON on 04/16/2001 01:01 PM\r\n",
+         "to" : "=09Kenny J Soignet/HOU/ECT@ECT"
+      },
+      {
+         "from" : "agustin.perez@enron.com",
+         "line" : 57,
+         "rawfrom" : "Agustin Perez/NA/Enron on 04/16/2001 01:01 PM -----\r\n",
+         "to" : "Agustin Perez/NA/Enron@ENRO="
+      },
+      {
+         "from" : "lucy2@scubadiving.com",
+         "line" : 68,
+         "rawfrom" : "Lucy Ortiz/HOU/ECT on 04/11/2001 01:10 =\r\n",
+         "to" : "=09Phillip K Allen/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Berney C Aucoin="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/61.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "kenny.soignet@enron.com"
+      },
+      {
+         "from" : "ksoignet@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tSoignet, Kenny  \n",
+         "to" : "Tisdale, Earl"
+      },
+      {
+         "from" : "earl.tisdale@enron.com",
+         "line" : 38,
+         "rawfrom" : " Earl Tisdale                           04/26/2001 03:06 PM\t\n",
+         "to" : "Kenny J Soignet/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ksoignet@hotmail.com",
+         "line" : 51,
+         "rawfrom" : "Kenny J Soignet\n",
+         "to" : "Earl Tisdale/HOU/ECT@ECT, Thu T Nguyen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ksoignet@hotmail.com",
+         "line" : 63,
+         "rawfrom" : "Kenny J Soignet/HOU/ECT on 04/26/2001 09:37 AM ---------------------------\n",
+         "to" : "Thu T Nguyen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "thunguyen2@hotmail.com",
+         "line" : 78,
+         "rawfrom" : " Thu T Nguyen                           04/06/2001 02:17 PM\t\n",
+         "to" : "Earl Tisdale/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/67.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "brian.redmond@enron.com"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRedmond, Brian  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRedmond, Brian  \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 49,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Redmond, Brian"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/7.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "kenny.soignet@enron.com, david.baumbach@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 25,
+         "rawfrom" : "Jim Schwieger/HOU/ECT on 04/05/2001 02:42 PM ---------------------------\n",
+         "to" : "David Baumbach/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 37,
+         "rawfrom" : " David Baumbach                           04/04/2001 02:37 PM\t\n",
+         "to" : "Kenny J Soignet/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ksoignet@hotmail.com",
+         "line" : 50,
+         "rawfrom" : "Kenny J Soignet\n",
+         "to" : "David Baumbach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schwieger-j/sent_items/72.",
+   "hops" : [
+      {
+         "from" : "jim.schwieger@enron.com",
+         "line" : 4,
+         "rawfrom" : "jim.schwieger@enron.com\r\n",
+         "to" : "brian.redmond@enron.com"
+      },
+      {
+         "from" : "ted.ryan@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRyan, Ted  \n",
+         "to" : "Schick, Warren"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 31,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Ryan, Ted"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tRedmond, Brian  \n",
+         "to" : "Schwieger, Jim; Colwell, Wes; Coffey, James; Ryan, Ted"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 53,
+         "rawfrom" : "\tSchwieger, Jim  \n",
+         "to" : "Redmond, Brian; Colwell, Wes; Coffey, James; Ryan, Ted"
+      }
+   ],
+   "skipped" : 0
+}
+]

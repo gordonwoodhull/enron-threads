@@ -1,0 +1,528 @@
+[
+{
+   "file" : "enron-raw/keavey-p/_sent_mail/1.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "annemoisan@hotmail.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/16/2001 04:00 PM ---------------------------\n",
+         "to" : "dtencellent@prebon.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/23/2000 08:53 AM ---------------------------\n",
+         "to" : "Maureen Smith/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sarah.mulholland@enron.com",
+         "line" : 42,
+         "rawfrom" : "Sarah Mulholland/HOU/ECT on 05/23/2000 07:18 AM ---------------------------\n",
+         "to" : "Sarah.Mulholland@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/keavey-p/_sent_mail/40.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "robin.barbe@enron.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 08/15/2000 \n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 36,
+         "rawfrom" : " Kevin M Presto                           08/15/2000 02:12 PM\n",
+         "to" : "Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 08/15/2000 \n",
+         "to" : "Mark Dana Davis/HOU/ECT@ECT, Edward D Baughman/HOU/ECT@ECT, Kevin M"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/_sent_mail/44.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "amoisan@internationalsos.com"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Kate Fraser                           07/20/2000 08:13 AM\n",
+         "to" : "Mark Courtney/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT, Laura"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 54,
+         "rawfrom" : " Kate Fraser                           07/18/2000 02:01 PM\n",
+         "to" : "Kendra Dromgoole/NA/Enron@Enron"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 63,
+         "rawfrom" : "Kate Fraser on 07/18/2000 01:48 PM\n",
+         "to" : "Karen Lambert/HOU/ECT@ECT, Joan Quick/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/_sent_mail/74.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "annemoisan@hotmail.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/16/2001 \n",
+         "to" : "dtencellent@prebon.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 34,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/23/2000 \n",
+         "to" : "Maureen Smith/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sarah.mulholland@enron.com",
+         "line" : 44,
+         "rawfrom" : "Sarah Mulholland/HOU/ECT on 05/23/2000 \n",
+         "to" : "Sarah.Mulholland@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/keavey-p/all_documents/178.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "robin.barbe@enron.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 08/15/2000 \n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 36,
+         "rawfrom" : " Kevin M Presto                           08/15/2000 02:12 PM\n",
+         "to" : "Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 08/15/2000 \n",
+         "to" : "Mark Dana Davis/HOU/ECT@ECT, Edward D Baughman/HOU/ECT@ECT, Kevin M"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/all_documents/183.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "amoisan@internationalsos.com"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Kate Fraser                           07/20/2000 08:13 AM\n",
+         "to" : "Mark Courtney/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT, Laura"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 54,
+         "rawfrom" : " Kate Fraser                           07/18/2000 02:01 PM\n",
+         "to" : "Kendra Dromgoole/NA/Enron@Enron"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 63,
+         "rawfrom" : "Kate Fraser on 07/18/2000 01:48 PM\n",
+         "to" : "Karen Lambert/HOU/ECT@ECT, Joan Quick/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/all_documents/231.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "annemoisan@hotmail.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/16/2001 \n",
+         "to" : "dtencellent@prebon.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 34,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/23/2000 \n",
+         "to" : "Maureen Smith/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sarah.mulholland@enron.com",
+         "line" : 44,
+         "rawfrom" : "Sarah Mulholland/HOU/ECT on 05/23/2000 \n",
+         "to" : "Sarah.Mulholland@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/keavey-p/deleted_items/184.",
+   "hops" : [
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "karen.buckley@enron.com\r\n",
+         "to" : "f..keavey@enron.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tKeavey, Peter F.  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Ruscitti, Kevin; Keavey, Peter F.; Bass, Eric"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tShively, Hunter S.  \n",
+         "to" : "Buckley, Karen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/discussion_threads/24.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "amoisan@internationalsos.com"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Kate Fraser                           07/20/2000 08:13 AM\n",
+         "to" : "Mark Courtney/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT, Laura"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 54,
+         "rawfrom" : " Kate Fraser                           07/18/2000 02:01 PM\n",
+         "to" : "Kendra Dromgoole/NA/Enron@Enron"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 63,
+         "rawfrom" : "Kate Fraser on 07/18/2000 01:48 PM\n",
+         "to" : "Karen Lambert/HOU/ECT@ECT, Joan Quick/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/discussion_threads/28.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "robin.barbe@enron.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 08/15/2000 \n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 36,
+         "rawfrom" : " Kevin M Presto                           08/15/2000 02:12 PM\n",
+         "to" : "Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 08/15/2000 \n",
+         "to" : "Mark Dana Davis/HOU/ECT@ECT, Edward D Baughman/HOU/ECT@ECT, Kevin M"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/discussion_threads/415.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "annemoisan@hotmail.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/16/2001 \n",
+         "to" : "dtencellent@prebon.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 34,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/23/2000 \n",
+         "to" : "Maureen Smith/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sarah.mulholland@enron.com",
+         "line" : 44,
+         "rawfrom" : "Sarah Mulholland/HOU/ECT on 05/23/2000 \n",
+         "to" : "Sarah.Mulholland@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/keavey-p/inbox/437.",
+   "hops" : [
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "karen.buckley@enron.com\r\n",
+         "to" : "f..keavey@enron.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tKeavey, Peter F.  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Ruscitti, Kevin; Keavey, Peter F.; Bass, Eric"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tShively, Hunter S.  \n",
+         "to" : "Buckley, Karen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/inbox/450.",
+   "hops" : [
+      {
+         "from" : "brad.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "brad.mckay@enron.com\r\n",
+         "to" : "f..keavey@enron.com"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 22,
+         "rawfrom" : "\tGriffith, John  \n",
+         "to" : "Mckay, Brad; Zipper, Andy; Maggi, Mike; Arnold, John; Quigley, Dutch; Taylor, Craig; 'mattc@elitebrokers.net'"
+      },
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMoon, Eric  \n",
+         "to" : "Griffith, John"
+      },
+      {
+         "from" : "etjmoon@prodigy.net",
+         "line" : 38,
+         "rawfrom" : "\t\"Tami, Eric and Jake Moon\" <etjmoon@prodigy.net>@ENRON  \n",
+         "to" : "Julie Turner; Papa; Moon, Eric; Granny; Frank Jimenez"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/sent/28.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "robin.barbe@enron.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 08/15/2000 \n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 36,
+         "rawfrom" : " Kevin M Presto                           08/15/2000 02:12 PM\n",
+         "to" : "Scott Neal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 08/15/2000 \n",
+         "to" : "Mark Dana Davis/HOU/ECT@ECT, Edward D Baughman/HOU/ECT@ECT, Kevin M"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/sent/31.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "amoisan@internationalsos.com"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 25,
+         "rawfrom" : " Kate Fraser                           07/20/2000 08:13 AM\n",
+         "to" : "Mark Courtney/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT, Laura"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 54,
+         "rawfrom" : " Kate Fraser                           07/18/2000 02:01 PM\n",
+         "to" : "Kendra Dromgoole/NA/Enron@Enron"
+      },
+      {
+         "from" : "kate.fraser@enron.com",
+         "line" : 63,
+         "rawfrom" : "Kate Fraser on 07/18/2000 01:48 PM\n",
+         "to" : "Karen Lambert/HOU/ECT@ECT, Joan Quick/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/keavey-p/sent/61.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "annemoisan@hotmail.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/16/2001 \n",
+         "to" : "dtencellent@prebon.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 34,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/23/2000 \n",
+         "to" : "Maureen Smith/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sarah.mulholland@enron.com",
+         "line" : 44,
+         "rawfrom" : "Sarah Mulholland/HOU/ECT on 05/23/2000 \n",
+         "to" : "Sarah.Mulholland@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/keavey-p/sent_items/1.",
+   "hops" : [
+      {
+         "from" : "peter.keavey@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keavey@enron.com\r\n",
+         "to" : "annemoisan@hotmail.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 23,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/16/2001 04:00 PM ---------------------------\n",
+         "to" : "dtencellent@prebon.com"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 05/23/2000 08:53 AM ---------------------------\n",
+         "to" : "Maureen Smith/HOU/ECT@ECT, Peter F Keavey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sarah.mulholland@enron.com",
+         "line" : 42,
+         "rawfrom" : "Sarah Mulholland/HOU/ECT on 05/23/2000 07:18 AM ---------------------------\n",
+         "to" : "Sarah.Mulholland@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+]
