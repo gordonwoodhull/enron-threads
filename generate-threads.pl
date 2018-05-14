@@ -62,6 +62,7 @@ while (my $line = <>) {
         if ($SHOWFAILURES && @failures) {
             print_object {
                 file=> $conv,
+                succeeded=> scalar @hops,
                 failures=> \@failures
             };
         }
