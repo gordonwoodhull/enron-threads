@@ -1,7 +1,7 @@
 var qs = querystring.parse();
 
 var options = Object.assign({
-    data: 'threads/',
+    data: 'data/',
     layout: 'd3v4force',
     tdur: 1000,
     r: 2
