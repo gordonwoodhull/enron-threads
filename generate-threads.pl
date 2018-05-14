@@ -113,6 +113,10 @@ while (my $line = <>) {
                         $from = $fromname;
                         $canonical = canonical($from);
                         $from = $addresses{$canonical};
+                        if (!$from) {
+                            $canonical = shortened($canonical);
+                            $from = $addresses{$canonical};
+                        }
                     }
                 }
             }

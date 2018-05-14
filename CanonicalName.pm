@@ -5,7 +5,7 @@ use Exporter;
 
 our @ISA= qw( Exporter );
 
-our @EXPORT = qw( canonical );
+our @EXPORT = qw( canonical shortened );
 sub canonical {
     # canonical version of name: first lowercase
     my ($name) = @_;
@@ -22,4 +22,11 @@ sub canonical {
     # extra spaces
     $name =~ s/  +/ /g;
     return $name
+}
+
+sub shortened {
+    my ($name) = @_;
+    my @parts = split(/ /, $name);
+    return join(' ', $parts[0], $parts[-1]) if @parts > 2;
+    return $name;
 }
