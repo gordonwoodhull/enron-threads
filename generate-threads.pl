@@ -96,16 +96,18 @@ while (my $line = <>) {
         }
         $line =~ s/^.*To:\s*//;
         $line =~ s/\s*$//;
-        my $rawfrom = $from, my $canonical = '';
+        my $rawfrom = $from, my $canonical = '', my $source = '';
         if ($from) {
             $from =~ s/^\s*//;
             $from =~ s/\s*$//;
+            $source = 'valid';
             if (!valid_email($from)) {
                 $from =~ s/ on .*$//;
                 my @emails = Email::Address->parse($from);
                 # Email::Address will accept emails without dots in the domain, corpus has lots of bogus addresses like that
                 if (@emails && valid_email($emails[0]->address)) {
                     $from = $emails[0]->address;
+                    $source = 'email';
                 } else {
                     # take only "name characters"
                     (my $fromname) = $from =~ m/(^[A-Za-z, -]+)/;
@@ -118,6 +120,7 @@ while (my $line = <>) {
                             $canonical = shortened($canonical);
                             $from = $addresses{$canonical};
                         }
+                        $source = 'lookup';
                     }
                 }
             }
@@ -128,7 +131,8 @@ while (my $line = <>) {
                 rawfrom=> $rawfrom,
                 from=> lc $from,
                 to=> $line,
-                line=> $lineno
+                line=> $lineno,
+                source=> $source
             };
         }
         else {
