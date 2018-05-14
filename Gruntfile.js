@@ -111,6 +111,13 @@ module.exports = function (grunt) {
                 ]
             }
         },
+        'gh-pages': {
+            options: {
+                base: '<%= conf.web %>',
+                message: 'Synced from from master branch.'
+            },
+            src: ['**']
+        },
         shell: {
             hooks: {
                 command: 'cp -n scripts/pre-commit.sh .git/hooks/pre-commit' +
@@ -143,5 +150,6 @@ module.exports = function (grunt) {
     });
 
     // task aliases
+    grunt.registerTask('web', ['copy', 'gh-pages']);
     grunt.registerTask('server', ['copy', 'connect:server', 'watch:web']);
 };
