@@ -54,15 +54,15 @@ while (my $line = <>) {
             print ",\n" if !$first;
             $first = 0;
             print_object {
-                "file"=> $conv,
-                    "hops"=> \@hops
+                file=> $conv,
+                hops=> \@hops
             }
         }
         if ($SHOWFAILURES && @failures) {
             print_object {
-                "file"=> $conv,
-                    "nfailures"=> scalar @failures,
-                    "failures"=> \@failures
+                file=> $conv,
+                nfailures=> scalar @failures,
+                failures=> \@failures
             };
         }
         @hops = ();
@@ -121,18 +121,18 @@ while (my $line = <>) {
             ++$found;
             push @hops, {
                 rawfrom=> $rawfrom,
-                "from"=> lc $from,
-                    "to"=> $line,
-                    "line"=> $lineno
+                from=> lc $from,
+                to=> $line,
+                line=> $lineno
             };
         }
         else {
             ++$failed;
             push @failures, {
-                "canonical"=> $canonical,
-                "last"=> \@last,
-                "raw"=> $rawfrom,
-                "to"=> $line
+                canonical=> $canonical,
+                last=> \@last,
+                raw=> $rawfrom,
+                to=> $line
             };
         }
 
