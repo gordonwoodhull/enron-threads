@@ -107,7 +107,7 @@ while (my $line = <>) {
                 if (@emails && valid_email($emails[0]->address)) {
                     $from = $emails[0]->address;
                 } else {
-                    (my $fromname) = $from =~ m/(^[A-Za-z ]+)/;
+                    (my $fromname) = $from =~ m/(^[A-Za-z, ]+)/;
                     if($fromname) {
                         $fromname =~ s/ +$//;
                         $from = $fromname;
