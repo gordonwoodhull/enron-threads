@@ -4248,12 +4248,8 @@ dc_graph.diagram = function (parent, chartGroup) {
 
 dc_graph.spawn_engine = function(layout, args, worker) {
     args = args || {};
-    var engine = dc_graph.engines.instantiate(layout, args, worker);
-    if(!engine) {
-        console.warn('layout engine ' + layout + ' not found; using default ' + dc_graph._default_engine);
-        engine = dc_graph.engines.instantiate(dc_graph._default_engine, args, worker);
-    }
-    return engine;
+    return dc_graph.engines.instantiate(layout, args, worker)
+        || dc_graph.engines.instantiate(dc_graph._default_engine, args, worker);
 };
 
 dc_graph._engines = [
