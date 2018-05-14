@@ -83,7 +83,7 @@ while (my $line = <>) {
             $before =~ s/^\s*//;
             $before =~ s/\s*$//;
             push @last, $before if $before;
-            my @flast = grep(!/^\s+$/, @last);
+            my @flast = grep(!/^\s+$|^\s*Sent by:.*$/, @last);
             if (@flast == 1) {
                 ($from = $flast[0]) =~ s/^\s*//;
             }
