@@ -140,9 +140,10 @@ while (my $line = <>) {
         }
         else {
             ++$failed;
+            my @recent = @last;
             push @failures, {
                 canonical=> $canonical,
-                recent=> \@last,
+                recent=> \@recent,
                 raw=> $rawfrom,
                 to=> $line
             };
