@@ -1,7 +1,7 @@
 var qs = querystring.parse();
 
 var options = Object.assign({
-    data: 'http://127.0.0.1:8086/',
+    data: 'threads/',
     layout: 'd3v4force',
     tdur: 1000,
     r: 2
