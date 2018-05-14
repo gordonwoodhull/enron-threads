@@ -79,6 +79,10 @@ while (my $line = <>) {
     }
     if ($line =~ /(?<!-)To:/) {
         if (!$from) {
+            (my $before = $line) =~ s/(.*)To:.*/$1/;
+            $before =~ s/^\s*//;
+            $before =~ s/\s*$//;
+            push @last, $before if $before;
             my @flast = grep(!/^\s+$/, @last);
             if (@flast == 1) {
                 ($from = $flast[0]) =~ s/^\s*//;
@@ -166,7 +170,7 @@ while (my $line = <>) {
     #     push @senders, sanitize($sender);
     # }
     push @last, $line;
-    shift @last if @last > 5;
+    shift @last while @last > 5;
 }
 print "]\n" if $SHOWTHREADS;
 if ($SHOWFAILURES) {
