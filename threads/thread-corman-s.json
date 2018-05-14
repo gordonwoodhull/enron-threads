@@ -1,0 +1,2713 @@
+[
+{
+   "file" : "enron-raw/corman-s/all_documents/23.",
+   "hops" : [
+      {
+         "from" : "elizabeth.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "elizabeth.brown@enron.com\r\n",
+         "to" : "morris.j@ei.com"
+      },
+      {
+         "from" : "elizabeth.brown@enron.com",
+         "line" : 44,
+         "rawfrom" : " Elizabeth Brown                           12/19/2000 03:10 PM\n",
+         "to" : "John Morris <morris.j@ei.com>"
+      },
+      {
+         "from" : "morris.j@ei.com",
+         "line" : 57,
+         "rawfrom" : "John Morris <morris.j@ei.com> on 12/19/2000 02:50:46 PM\n",
+         "to" : "Elizabeth.Brown@enron.com"
+      },
+      {
+         "from" : "morris.j@ei.com",
+         "line" : 88,
+         "rawfrom" : "morris.j@ei.com",
+         "to" : "Elizabeth Brown <Elizabeth.Brown@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/113.",
+   "hops" : [
+      {
+         "from" : "jean.mcfarland@enron.com",
+         "line" : 4,
+         "rawfrom" : "jean.mcfarland@enron.com\r\n",
+         "to" : "bradley.holmes@enron.com"
+      },
+      {
+         "from" : "bradley.holmes@enron.com",
+         "line" : 24,
+         "rawfrom" : "Holmes, Bradley \n",
+         "to" : "McFarland, Jean"
+      },
+      {
+         "from" : "jean.mcfarland@enron.com",
+         "line" : 38,
+         "rawfrom" : "McFarland, Jean \n",
+         "to" : "Holmes, Bradley"
+      },
+      {
+         "from" : "larry.steward@enron.com",
+         "line" : 47,
+         "rawfrom" : "Steward, Larry \n",
+         "to" : "McFarland, Jean; O'Gorman, Karon"
+      },
+      {
+         "from" : "jean.mcfarland@enron.com",
+         "line" : 63,
+         "rawfrom" : "McFarland, Jean \n",
+         "to" : "O'Gorman, Karon"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/121.",
+   "hops" : [
+      {
+         "from" : "irma.alvarez@enron.com",
+         "line" : 4,
+         "rawfrom" : "irma.alvarez@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "diane.taylor@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tTaylor, Diane  \n",
+         "to" : "Corman, Shelley; Alvarez, Irma"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Taylor, Diane"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Olson, Cindy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/137.",
+   "hops" : [
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.january@enron.com\r\n",
+         "to" : "gary.kenagy@enron.com, shelley.corman@enron.com, mike.bryant@enron.com"
+      },
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKenagy, Gary  \n",
+         "to" : "Corman, Shelley; Bryant, Mike; January, Steve"
+      },
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tKenagy, Gary  \n",
+         "to" : "Angeletti, Donald; Bell, Bill; Bellard, Dannis; Bryant, Mike; Chambers, Steven; Dobrinski, Jodi; Hebert, Thomas; Reid, Byron; Velen, David; Winters, Ricki; Alvarado, Jesse; Armitage, Roy; Barnes, Rodney; Barry, Richard; Braswell, Keith; Brown, Sharon; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; Cummings, Helen; Ellington, Michael; Graves, Jerry; Hall, Margaret; Hardy, Crandal; Henley, Gaynel; Heredia, Melissa; January, Steve; Monden, Bart; Moore, Jeff; Munson, Robert; Muntz, Alan; Ratliff, Dale; Schoolcraft, Darrell; Shafer, Allen; Spain, Ron; Welsh, Edward"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Angeletti, Donald; Bell, Bill; Bellard, Dannis; Bryant, Mike; Chambers, Steven; Dobrinski, Jodi; Hebert, Thomas; Reid, Byron; Velen, David; Winters, Ricki; Alvarado, Jesse; Armitage, Roy; Barnes, Rodney; Barry, Richard; Braswell, Keith; Brown, Sharon; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; Cummings, Helen; Ellington, Michael; Graves, Jerry; Hall, Margaret; Hardy, Crandal; Henley, Gaynel; Heredia, Melissa; January, Steve; Monden, Bart; Moore, Jeff; Munson, Robert; Muntz, Alan; Ratliff, Dale; Schoolcraft, Darrell; Shafer, Allen; Spain, Ron; Welsh, Edward"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/231.",
+   "hops" : [
+      {
+         "from" : "oncall.tms@enron.com",
+         "line" : 4,
+         "rawfrom" : "oncall.tms@enron.com\r\n",
+         "to" : "john.buchanan@enron.com, lynn.blair@enron.com, jean.blair@enron.com,"
+      },
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tBuchanan, John  \n",
+         "to" : "Blair, Lynn; Blair, Jean; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Blair, Jean; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall"
+      },
+      {
+         "from" : "jean.blair@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tBlair, Jean  \n",
+         "to" : "Blair, Lynn; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/234.",
+   "hops" : [
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.buchanan@enron.com\r\n",
+         "to" : "oncall.tms@enron.com, lynn.blair@enron.com, jean.blair@enron.com,"
+      },
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tBuchanan, John  \n",
+         "to" : "Blair, Lynn; Blair, Jean; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Blair, Jean; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall"
+      },
+      {
+         "from" : "jean.blair@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tBlair, Jean  \n",
+         "to" : "Blair, Lynn; Buchanan, John; Corman, Shelley; January, Steve; Kowalke, Terry; Medeles, Gerry; Nacey, Sheila; TMS OnCall"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/240.",
+   "hops" : [
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "toby.kuehl@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "Corman, Shelley \n",
+         "to" : "Kuehl, Toby"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 31,
+         "rawfrom" : "Kuehl, Toby \n",
+         "to" : "Corman, Shelley; Holmes, Bradley"
+      },
+      {
+         "from" : "tpanagopoulos@tribune.com",
+         "line" : 41,
+         "rawfrom" : "Panagopoulos, Todd [mailto:TPanagopoulos@tribune.com]\n",
+         "to" : "'tw@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/322.",
+   "hops" : [
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 4,
+         "rawfrom" : "rita.houston@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Houston, Rita"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Houston, Rita"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/325.",
+   "hops" : [
+      {
+         "from" : "steve.hotte@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.hotte@enron.com\r\n",
+         "to" : "shelley.corman@enron.com, karon.o'gorman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Hotte, Steve; O'Gorman, Karon"
+      },
+      {
+         "from" : "mike.bryant@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tBryant, Mike  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 45,
+         "rawfrom" : "\tO'Gorman, Karon  \n",
+         "to" : "Bellard, Dannis; Bryant, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/328.",
+   "hops" : [
+      {
+         "from" : "mike.bryant@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.bryant@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Bryant, Mike"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tHotte, Steve  \n",
+         "to" : "Corman, Shelley; O'Gorman, Karon"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Hotte, Steve; O'Gorman, Karon"
+      },
+      {
+         "from" : "mike.bryant@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tBryant, Mike  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 61,
+         "rawfrom" : "\tO'Gorman, Karon  \n",
+         "to" : "Bellard, Dannis; Bryant, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/335.",
+   "hops" : [
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 4,
+         "rawfrom" : "rita.houston@enron.com\r\n",
+         "to" : "fran.fagan@enron.com"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Houston, Rita"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 91,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Houston, Rita"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/deleted_items/396.",
+   "hops" : [
+      {
+         "from" : "e..anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "e..anderson@enron.com\r\n",
+         "to" : "shelley.corman@enron.com, don.hawkins@enron.com, charlie.thompson@enron.com,"
+      },
+      {
+         "from" : "ellis.stern@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tStern, Ellis  \n",
+         "to" : "Barnes, Caroline"
+      },
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBarnes, Caroline  \n",
+         "to" : "Anderson, Gary E.; Stern, Ellis"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Anderson, Gary E.; 'frank.semin@dynegy.com'; Floyd, Jodie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/discussion_threads/20.",
+   "hops" : [
+      {
+         "from" : "elizabeth.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "elizabeth.brown@enron.com\r\n",
+         "to" : "morris.j@ei.com"
+      },
+      {
+         "from" : "elizabeth.brown@enron.com",
+         "line" : 44,
+         "rawfrom" : " Elizabeth Brown                           12/19/2000 03:10 PM\n",
+         "to" : "John Morris <morris.j@ei.com>"
+      },
+      {
+         "from" : "morris.j@ei.com",
+         "line" : 57,
+         "rawfrom" : "John Morris <morris.j@ei.com> on 12/19/2000 02:50:46 PM\n",
+         "to" : "Elizabeth.Brown@enron.com"
+      },
+      {
+         "from" : "morris.j@ei.com",
+         "line" : 88,
+         "rawfrom" : "morris.j@ei.com",
+         "to" : "Elizabeth Brown <Elizabeth.Brown@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/63.",
+   "hops" : [
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 4,
+         "rawfrom" : "ricki.winters@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "'kathryn@sirspeedy4029.com'"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Winters, Ricki"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "'kathryn@sirspeedy4029.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/7.",
+   "hops" : [
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 4,
+         "rawfrom" : "gary.kenagy@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "john_brindle@enron.net",
+         "line" : 25,
+         "rawfrom" : "\tBrindle, John  \n",
+         "to" : "Kenagy, Gary"
+      },
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKenagy, Gary  \n",
+         "to" : "Brindle, John"
+      },
+      {
+         "from" : "steve.woods@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tWoods, Steve  \n",
+         "to" : "Kenagy, Gary; Broom, Marcia"
+      },
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tKenagy, Gary  \n",
+         "to" : "Woods, Steve"
+      },
+      {
+         "from" : "scott.abshire@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tAbshire, Scott  \n",
+         "to" : "Kenagy, Gary; Woods, Steve"
+      },
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tKenagy, Gary  \n",
+         "to" : "Woods, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/1.",
+   "hops" : [
+      {
+         "from" : "frank.semin@enron.com",
+         "line" : 4,
+         "rawfrom" : "frank.semin@enron.com\r\n",
+         "to" : "e..anderson@enron.com, raetta.zadow@enron.com"
+      },
+      {
+         "from" : "gary.anderson@enron.com",
+         "line" : 30,
+         "rawfrom" : "Anderson, Gary E. \n",
+         "to" : "Zadow, Raetta"
+      },
+      {
+         "from" : "raetta.zadow@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tZadow, Raetta  \n",
+         "to" : "Anderson, Gary E."
+      },
+      {
+         "from" : "raetta.zadow@enron.com",
+         "line" : 57,
+         "rawfrom" : "Zadow, Raetta \n",
+         "to" : "Anderson, Gary E.; Floyd, Jodie; Semin, Frank; Blair, Lynn;"
+      },
+      {
+         "from" : "gary.anderson@enron.com",
+         "line" : 72,
+         "rawfrom" : "Anderson, Gary E. \n",
+         "to" : "Floyd, Jodie; Semin, Frank; Blair, Lynn; Neubauer, Dave"
+      },
+      {
+         "from" : "jodie.floyd@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tFloyd, Jodie  \n",
+         "to" : "Semin, Frank; Blair, Lynn; Neubauer, Dave; Anderson, Gary E."
+      },
+      {
+         "from" : "frank.semin@enron.com",
+         "line" : 94,
+         "rawfrom" : "Semin, Frank \n",
+         "to" : "Floyd, Jodie; Blair, Lynn; Neubauer, Dave; Anderson, Gary E."
+      },
+      {
+         "from" : "chris.sebesta@enron.com",
+         "line" : 107,
+         "rawfrom" : "Sebesta, Chris \n",
+         "to" : "Semin, Frank"
+      },
+      {
+         "from" : "billzorr@alliant-energy.com",
+         "line" : 123,
+         "rawfrom" : "Bill Zorr [mailto:billzorr@alliant-energy.com]\n",
+         "to" : "Jeff Hicken; csebest2@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/110.",
+   "hops" : [
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 4,
+         "rawfrom" : "jayshree.desai@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Desai, Jayshree"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/111.",
+   "hops" : [
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 4,
+         "rawfrom" : "jayshree.desai@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Desai, Jayshree"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/115.",
+   "hops" : [
+      {
+         "from" : "rod.hayslett@enron.com",
+         "line" : 4,
+         "rawfrom" : "rod.hayslett@enron.com\r\n",
+         "to" : "bob.chandler@enron.com, a..howard@enron.com, tracy.geaccone@enron.com,"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 30,
+         "rawfrom" : "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "to" : "Hayslett, Rod <Rod.Hayslett@ENRON.com>; Howard, Kevin A. <Kevin.Howard@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 40,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Howard, Kevin A.; Chandler, Bob; Geaccone, Tracy; Saunders, James; Corman, Shelley"
+      },
+      {
+         "from" : "kevin.howard@enron.com",
+         "line" : 54,
+         "rawfrom" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "to" : "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 67,
+         "rawfrom" : "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "to" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 77,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy; Chandler, Bob; Saunders, James; Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/116.",
+   "hops" : [
+      {
+         "from" : "rod.hayslett@enron.com",
+         "line" : 4,
+         "rawfrom" : "rod.hayslett@enron.com\r\n",
+         "to" : "a..howard@enron.com, bob.chandler@enron.com, tracy.geaccone@enron.com,"
+      },
+      {
+         "from" : "kevin.howard@enron.com",
+         "line" : 30,
+         "rawfrom" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "to" : "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 43,
+         "rawfrom" : "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "to" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 53,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy; Chandler, Bob; Saunders, James; Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/119.",
+   "hops" : [
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 4,
+         "rawfrom" : "bob.chandler@enron.com\r\n",
+         "to" : "rod.hayslett@enron.com, a..howard@enron.com, tracy.geaccone@enron.com,"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 25,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Howard, Kevin A.; Chandler, Bob; Geaccone, Tracy; Saunders, James; Corman, Shelley"
+      },
+      {
+         "from" : "kevin.howard@enron.com",
+         "line" : 39,
+         "rawfrom" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "to" : "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 52,
+         "rawfrom" : "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "to" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 62,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy; Chandler, Bob; Saunders, James; Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/122.",
+   "hops" : [
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 4,
+         "rawfrom" : "james.saunders@enron.com\r\n",
+         "to" : "bob.chandler@enron.com, rod.hayslett@enron.com, a..howard@enron.com,"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 27,
+         "rawfrom" : "Chandler, Bob \n",
+         "to" : "Hayslett, Rod; Howard, Kevin A.; Geaccone, Tracy; Saunders, James;"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 38,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Howard, Kevin A.; Chandler, Bob; Geaccone, Tracy; Saunders, James; Corman, Shelley"
+      },
+      {
+         "from" : "kevin.howard@enron.com",
+         "line" : 52,
+         "rawfrom" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "to" : "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 65,
+         "rawfrom" : "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "to" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 75,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy; Chandler, Bob; Saunders, James; Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/123.",
+   "hops" : [
+      {
+         "from" : "rod.hayslett@enron.com",
+         "line" : 4,
+         "rawfrom" : "rod.hayslett@enron.com\r\n",
+         "to" : "james.saunders@enron.com, bob.chandler@enron.com, a..howard@enron.com,"
+      },
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 30,
+         "rawfrom" : "Saunders, James <James.Saunders@ENRON.com>\n",
+         "to" : "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Howard, Kevin A. <Kevin.Howard@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 42,
+         "rawfrom" : "Chandler, Bob \n",
+         "to" : "Hayslett, Rod; Howard, Kevin A.; Geaccone, Tracy; Saunders, James;"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 53,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Howard, Kevin A.; Chandler, Bob; Geaccone, Tracy; Saunders, James; Corman, Shelley"
+      },
+      {
+         "from" : "kevin.howard@enron.com",
+         "line" : 67,
+         "rawfrom" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>\n",
+         "to" : "Chandler, Bob <Bob.Chandler@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "bob.chandler@enron.com",
+         "line" : 80,
+         "rawfrom" : "Chandler, Bob <Bob.Chandler@ENRON.com>\n",
+         "to" : "Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 90,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy; Chandler, Bob; Saunders, James; Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/141.",
+   "hops" : [
+      {
+         "from" : "a..howard@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..howard@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 24,
+         "rawfrom" : "Corman, Shelley <Shelley.Corman@ENRON.com>\n",
+         "to" : "Geaccone, Tracy <Tracy.Geaccone@ENRON.com>; Howard, Kevin A. <Kevin.Howard@ENRON.com>; Hayslett, Rod <Rod.Hayslett@ENRON.com>; Chandler, Bob <Bob.Chandler@ENRON.com>; Saunders, James <James.Saunders@ENRON.com>"
+      },
+      {
+         "from" : "tracy_geaccone@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tGeaccone, Tracy  \n",
+         "to" : "Howard, Kevin A.; Hayslett, Rod; Chandler, Bob; Saunders, James; Corman, Shelley"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 43,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy; Chandler, Bob; Saunders, James; Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/204.",
+   "hops" : [
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "lynn.blair@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Daily, Pamela"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Horton, Stanley; Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/205.",
+   "hops" : [
+      {
+         "from" : "rick.dietz@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.dietz@enron.com\r\n",
+         "to" : "a..howard@enron.com, michael.ratner@enron.com"
+      },
+      {
+         "from" : "debbie.moseley@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tMoseley, Debbie  \n",
+         "to" : "Dietz, Rick"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 43,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Moseley, Debbie"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 51,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Dietz, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/214.",
+   "hops" : [
+      {
+         "from" : "a..howard@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..howard@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Howard, Kevin A."
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 33,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Dietz, Rick; Ratner, Michael"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 42,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Dietz, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/259.",
+   "hops" : [
+      {
+         "from" : "sandy.sheffield@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandy.sheffield@enron.com\r\n",
+         "to" : "gerald.skertich@enron.com"
+      },
+      {
+         "from" : "marion.collins@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCollins, Marion  \n",
+         "to" : "Sheffield, Sandy"
+      },
+      {
+         "from" : "snacey@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tNacey, Sheila  \n",
+         "to" : "Collins, Marion"
+      },
+      {
+         "from" : "gerald.skertich@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tSkertich, Gerald  \n",
+         "to" : "Collins, Marion; Nacey, Sheila; Dietz, Rick; Keiser, John; Hsieh, Sally; Scott, Donna"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/343.",
+   "hops" : [
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "lynn.blair@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "sherry.forbish@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tForbish, Sherry  \n",
+         "to" : "Blair, Lynn"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Forbish, Sherry"
+      },
+      {
+         "from" : "sherry.forbish@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tForbish, Sherry  \n",
+         "to" : "Blair, Lynn; Zadow, Raetta; Berger, Larry; Buchanan, John; Kowalke, Terry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/356.",
+   "hops" : [
+      {
+         "from" : "sheila.nacey@enron.com",
+         "line" : 4,
+         "rawfrom" : "sheila.nacey@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Nacey, Sheila"
+      },
+      {
+         "from" : "snacey@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tNacey, Sheila  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "gerald.skertich@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tSkertich, Gerald  \n",
+         "to" : "Nacey, Sheila; Holmes, Bradley; Cherry, Paul; Dietz, Rick; Keiser, John; Studebaker, James"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/373.",
+   "hops" : [
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.january@enron.com\r\n",
+         "to" : "gary.kenagy@enron.com, shelley.corman@enron.com"
+      },
+      {
+         "from" : "=09kenagy, gary =20",
+         "line" : 22,
+         "rawfrom" : "=09Kenagy, Gary =20\r\n",
+         "to" : "=09Corman, Shelley; January, Steve"
+      },
+      {
+         "from" : "=09lord, randy =20",
+         "line" : 32,
+         "rawfrom" : "=09Lord, Randy =20\r\n",
+         "to" : "=09Kenagy, Gary"
+      },
+      {
+         "from" : "=09kenagy, gary =20",
+         "line" : 107,
+         "rawfrom" : "=09Kenagy, Gary =20\r\n",
+         "to" : "=09Lord, Randy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/387.",
+   "hops" : [
+      {
+         "from" : "paul.cherry@enron.com",
+         "line" : 4,
+         "rawfrom" : "paul.cherry@enron.com\r\n",
+         "to" : "shelley.corman@enron.com, rick.dietz@enron.com, raetta.zadow@enron.com,"
+      },
+      {
+         "from" : "paul.cherry@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tCherry, Paul  \n",
+         "to" : "'greg.porter@dynegy.com'"
+      },
+      {
+         "from" : "paul.cherry@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tCherry, Paul  \n",
+         "to" : "'J.greg.porter@dynegy.com'"
+      },
+      {
+         "from" : "paul.cherry@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tCherry, Paul  \n",
+         "to" : "Corman, Shelley; Dietz, Rick; Zadow, Raetta; Fancler, Dan; Talcott, Jim; 'peter.j.pavluk@dynegy.com'; 'molly.a.harris@dynegy.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/39.",
+   "hops" : [
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "lynn.blair@enron.com\r\n",
+         "to" : "scott.hibbard@enron.com, john.buchanan@enron.com, debra.scurlock@enron.com,"
+      },
+      {
+         "from" : "scott.hibbard@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tHibbard, Scott  \n",
+         "to" : "Buchanan, John; Scurlock, Debra; McDaniel, Janet; Greaney, Chris; Linhart, Joe; Vaughan, Cara; Woodson, Harry; Forbish, Sherry; Sturr, Kathy"
+      },
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tBuchanan, John  \n",
+         "to" : "Scurlock, Debra; Hibbard, Scott; McDaniel, Janet; Greaney, Chris; Linhart, Joe; Vaughan, Cara; Woodson, Harry; Forbish, Sherry; Sturr, Kathy"
+      },
+      {
+         "from" : "debra.scurlock@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tScurlock, Debra  \n",
+         "to" : "Hibbard, Scott; McDaniel, Janet; Greaney, Chris; Linhart, Joe; Vaughan, Cara; Woodson, Harry; Forbish, Sherry; Sturr, Kathy"
+      },
+      {
+         "from" : "scott.hibbard@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tHibbard, Scott  \n",
+         "to" : "McDaniel, Janet; Benningfield, Robert; Forbish, Sherry; Greaney, Chris; Janzen, Randy; Linhart, Joe; Scurlock, Debra; Sturr, Kathy; Vaughan, Cara; Woodson, Harry"
+      },
+      {
+         "from" : "janet.mcdaniel@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tMcDaniel, Janet  \n",
+         "to" : "Benningfield, Robert; Forbish, Sherry; Greaney, Chris; Hibbard, Scott; Janzen, Randy; Linhart, Joe; Scurlock, Debra; Sturr, Kathy; Vaughan, Cara; Woodson, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/439.",
+   "hops" : [
+      {
+         "from" : "holly.strong@enron.com",
+         "line" : 4,
+         "rawfrom" : "holly.strong@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Strong, Holly"
+      },
+      {
+         "from" : "holly.strong@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tStrong, Holly  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "raetta.zadow@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tZadow, Raetta  \n",
+         "to" : "Holly Strong/Enron Communications@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives/old_messages/141.",
+   "hops" : [
+      {
+         "from" : "ellis.stern@enron.com",
+         "line" : 4,
+         "rawfrom" : "ellis.stern@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tBarnes, Caroline  \n",
+         "to" : "Stern, Ellis"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 35,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Barnes, Caroline"
+      },
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tBarnes, Caroline  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/archives___post_revised_order/5.",
+   "hops" : [
+      {
+         "from" : "teb.lokey@enron.com",
+         "line" : 4,
+         "rawfrom" : "teb.lokey@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Lokey, Teb"
+      },
+      {
+         "from" : "teb.lokey@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLokey, Teb  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Lokey, Teb"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/kidsave/5.",
+   "hops" : [
+      {
+         "from" : "twhiteman@austin.rr.com",
+         "line" : 4,
+         "rawfrom" : "twhiteman@austin.rr.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 34,
+         "rawfrom" : "\"Corman, Shelley\" <Shelley.Corman@enron.com>\n",
+         "to" : "\"tina whiteman\" <twhiteman@austin.rr.com>"
+      },
+      {
+         "from" : "twhiteman@austin.rr.com",
+         "line" : 63,
+         "rawfrom" : "tina whiteman [mailto:twhiteman@austin.rr.com]\n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "<adopt101@aol.com>",
+         "line" : 78,
+         "rawfrom" : "<adopt101@aol.com>\n",
+         "to" : "<Kidsavefriends@yahoogroups.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/measurement/1.",
+   "hops" : [
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 4,
+         "rawfrom" : "caroline.barnes@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "steve.klimesh@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKlimesh, Steve  \n",
+         "to" : "Barnes, Caroline"
+      },
+      {
+         "from" : "steve.klimesh@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKlimesh, Steve  \n",
+         "to" : "Stern, Ellis; Geaccone, Tracy; Harris, Steven"
+      },
+      {
+         "from" : "ellis.stern@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tStern, Ellis  \n",
+         "to" : "Klimesh, Steve"
+      },
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tBarnes, Caroline  \n",
+         "to" : "Thompson, Charlie; Klimesh, Steve; Stern, Ellis; Anderson, Gary E.; Hawkins, Don"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/measurement/26.",
+   "hops" : [
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "lynn.blair@enron.com\r\n",
+         "to" : "e..anderson@enron.com, shelley.corman@enron.com, don.hawkins@enron.com,"
+      },
+      {
+         "from" : "gary.anderson@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tAnderson, Gary E.  \n",
+         "to" : "Corman, Shelley; Hawkins, Don; Thompson, Charlie; Zadow, Raetta; Stern, Ellis; January, Steve; Dietz, Rick; Blair, Lynn"
+      },
+      {
+         "from" : "ellis.stern@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tStern, Ellis  \n",
+         "to" : "Barnes, Caroline"
+      },
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tBarnes, Caroline  \n",
+         "to" : "Anderson, Gary E.; Stern, Ellis"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Anderson, Gary E.; 'frank.semin@dynegy.com'; Floyd, Jodie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/measurement/5.",
+   "hops" : [
+      {
+         "from" : "don.hawkins@enron.com",
+         "line" : 4,
+         "rawfrom" : "don.hawkins@enron.com\r\n",
+         "to" : "randy.rice@enron.com"
+      },
+      {
+         "from" : "charlie.thompson@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tThompson, Charlie  \n",
+         "to" : "Hawkins, Don"
+      },
+      {
+         "from" : "billi.harrill@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHarrill, Billi  \n",
+         "to" : "Miller, Randy; Steve Klimesh/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "randy.miller@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tMiller, Randy  \n",
+         "to" : "Steve Klimesh/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/oneok/8.",
+   "hops" : [
+      {
+         "from" : "rick.dietz@enron.com",
+         "line" : 4,
+         "rawfrom" : "rick.dietz@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "dari.dornan@enron.com",
+         "line" : 25,
+         "rawfrom" : "Dornan, Dari=20\r\n",
+         "to" : "Fossum, Drew; Craig, Rick; Davis, Britt; Cessac, Kenneth; Dietz, Rick="
+      },
+      {
+         "from" : "britt.davis@enron.com",
+         "line" : 39,
+         "rawfrom" : "  Davis, Britt =20\r\n",
+         "to" : "Craig, Rick; Fossum, Drew=20"
+      },
+      {
+         "from" : "rick.craig@enron.com",
+         "line" : 66,
+         "rawfrom" : "  Craig, Rick =20\r\n",
+         "to" : "Fossum, Drew; Davis, Britt=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/inbox/vacation_schedules/3.",
+   "hops" : [
+      {
+         "from" : "bradley.holmes@enron.com",
+         "line" : 4,
+         "rawfrom" : "bradley.holmes@enron.com\r\n",
+         "to" : "lynn.blair@enron.com, rick.dietz@enron.com, sheila.nacey@enron.com,"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Dietz, Rick; Nacey, Sheila; Bryant, Mike; Corman, Shelley; Holmes, Bradley; January, Steve; Scott, Donna"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 41,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Nacey, Sheila; Blair, Lynn; Bryant, Mike; Corman, Shelley; Holmes, Bradley; January, Steve; Scott, Donna"
+      },
+      {
+         "from" : "snacey@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tNacey, Sheila  \n",
+         "to" : "Blair, Lynn; Bryant, Mike; Corman, Shelley; Dietz, Rick; Holmes, Bradley; January, Steve; Scott, Donna"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/ingaastudy/9.",
+   "hops" : [
+      {
+         "from" : "elizabeth.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "elizabeth.brown@enron.com\r\n",
+         "to" : "morris.j@ei.com"
+      },
+      {
+         "from" : "elizabeth.brown@enron.com",
+         "line" : 44,
+         "rawfrom" : " Elizabeth Brown                           12/19/2000 03:10 PM\n",
+         "to" : "John Morris <morris.j@ei.com>"
+      },
+      {
+         "from" : "morris.j@ei.com",
+         "line" : 57,
+         "rawfrom" : "John Morris <morris.j@ei.com> on 12/19/2000 02:50:46 PM\n",
+         "to" : "Elizabeth.Brown@enron.com"
+      },
+      {
+         "from" : "morris.j@ei.com",
+         "line" : 88,
+         "rawfrom" : "morris.j@ei.com",
+         "to" : "Elizabeth Brown <Elizabeth.Brown@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/101.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "frazier.king@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "McCoppin, Dorothy"
+      },
+      {
+         "from" : "dorothy.mccoppin@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMcCoppin, Dorothy  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "dorothy.mccoppin@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tMcCoppin, Dorothy  \n",
+         "to" : "Farrell, Sharon; King Jr., Frazier"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/119.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "danny.mccarty@enron.com"
+      },
+      {
+         "from" : "dmccarty@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMcCarty, Danny  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "McCarty, Danny"
+      },
+      {
+         "from" : "dmccarty@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMcCarty, Danny  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/186.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "'jewell@enron.com, cjewell@bcm.tmc.edu"
+      },
+      {
+         "from" : "cjewell@bcm.tmc.edu",
+         "line" : 22,
+         "rawfrom" : "Jewell, Cyndi M [mailto:cjewell@bcm.tmc.edu]\n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 33,
+         "rawfrom" : "Corman, Shelley [mailto:Shelley.Corman@enron.com]\n",
+         "to" : "Cyndi Jewell (E-mail)"
+      },
+      {
+         "from" : "kimberly.nelson@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tNelson, Kimberly (ETS)  \n",
+         "to" : "Regan, James; McCarty, Danny; Patel, Sophie; Santellan, Dan;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/199.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "drew.fossum@enron.com"
+      },
+      {
+         "from" : "drew_fossum@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFossum, Drew  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 30,
+         "rawfrom" : "\tMiller, Mary Kay  \n",
+         "to" : "'\"Moore, Charles A\" <cmoore@AKINGUMP.COM>@ENRON'; Fossum, Drew; Harris, Steven; McCarty, Danny; Hartsoe, Joe; \"\\\"Gallagher@ENRON; Boland & Meiburger\\\" <lwin@gbmdc.com>@ENRON\"\t<IMCEANOTES-+22Gallagher+2C+20Boland+20+26+20Meiburger+22+20+3Clwin+40gbmdc+2Ecom+3E+40ENRON@ENRON.com>; Moore, Charles A; Nuschler, Robin; Porter, Gregory J.; Pavlou, Maria; Kilmer III, Robert"
+      },
+      {
+         "from" : "cmoore@akingump.com",
+         "line" : 39,
+         "rawfrom" : "\t\"Moore, Charles A\" <cmoore@AKINGUMP.COM>@ENRON [mailto:IMCEANOTES-+22Moore+2C+20Charles+20A+22+20+3Ccmoore+40AKINGUMP+2ECOM+3E+40ENRON@ENRON.com] \n",
+         "to" : "Fossum, Drew; Harris, Steven; McCarty, Danny; Miller, Mary Kay; Hartsoe, Joe; \"\\\"Gallagher@ENRON; Boland & Meiburger\\\" <lwin@gbmdc.com>@ENRON\"\t<IMCEANOTES-+22Gallagher+2C+20Boland+20+26+20Meiburger+22+20+3Clwin+40gbmdc+2Ecom+3E+40ENRON@ENRON.com>; Moore, Charles A; Nuschler, Robin; Porter, Gregory J.; Pavlou, Maria"
+      },
+      {
+         "from" : "drew.fossum@enron.com",
+         "line" : 48,
+         "rawfrom" : "Fossum, Drew [mailto:Drew.Fossum@ENRON.com]\n",
+         "to" : "Harris, Steven; McCarty, Danny; Miller, Mary Kay; Hartsoe, Joe;"
+      },
+      {
+         "from" : "steven.harris@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tHarris, Steven\n",
+         "to" : "McCarty, Danny; Miller, Mary Kay; Hartsoe, Joe; Fossum, Drew;"
+      },
+      {
+         "from" : "dmccarty@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tMcCarty, Danny\n",
+         "to" : "Miller, Mary Kay; Hartsoe, Joe; Fossum, Drew; Harris,"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 97,
+         "rawfrom" : "\tMiller, Mary Kay\n",
+         "to" : "McCarty, Danny; Hartsoe, Joe; Fossum, Drew;"
+      },
+      {
+         "from" : "dmccarty@enron.com",
+         "line" : 112,
+         "rawfrom" : "\tMcCarty, Danny\n",
+         "to" : "Miller, Mary Kay; Hartsoe, Joe; Fossum,"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 125,
+         "rawfrom" : "\tMiller, Mary Kay\n",
+         "to" : "Hartsoe, Joe; Fossum, Drew; Harris,"
+      },
+      {
+         "from" : "joe.hartsoe@enron.com",
+         "line" : 137,
+         "rawfrom" : "\tHartsoe, Joe\n",
+         "to" : "Fossum, Drew; Harris, Steven;"
+      },
+      {
+         "from" : "drew_fossum@enron.com",
+         "line" : 151,
+         "rawfrom" : "\tFossum, Drew\n",
+         "to" : "Harris, Steven; '\"Gallagher, Boland &"
+      },
+      {
+         "from" : "steven.harris@enron.com",
+         "line" : 170,
+         "rawfrom" : "\tHarris, Steven\n",
+         "to" : "'\"Gallagher, Boland & Meiburger\""
+      },
+      {
+         "from" : "\"gallagher, boland & meiburger\"",
+         "line" : 188,
+         "rawfrom" : "\t\"Gallagher, Boland & Meiburger\"\n",
+         "to" : "Fossum, Drew; Charlie Moore; Robin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/222.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ricki.winters@enron.com"
+      },
+      {
+         "from" : "gary.kenagy@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKenagy, Gary  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Kenagy, Gary"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/234.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "jodie.floyd@enron.com, steve.january@enron.com"
+      },
+      {
+         "from" : "ellis.stern@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tStern, Ellis  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Stern, Ellis; Anderson, Gary E."
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/239.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "tracy.geaccone@enron.com"
+      },
+      {
+         "from" : "michelle.lokay@enron.com",
+         "line" : 24,
+         "rawfrom" : "Lokay, Michelle <Michelle.Lokay@ENRON.com>\n",
+         "to" : "Harris, Steven <Steven.Harris@ENRON.com>; Corman, Shelley <Shelley.Corman@ENRON.com>"
+      },
+      {
+         "from" : "mlokay@enron.com",
+         "line" : 33,
+         "rawfrom" : "Lokay, Michelle \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 42,
+         "rawfrom" : "Corman, Shelley \n",
+         "to" : "Lokay, Michelle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/245.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "lynn.blair@enron.com, steve.january@enron.com"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSmith, Gary  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Smith, Gary"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Ken Lay - Office of the Chairman@ENRON\n",
+         "to" : "All Enron Employees United States Group@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/247.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rick.dietz@enron.com, bradley.holmes@enron.com, sheila.nacey@enron.com,"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "January, Steve"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tSmith, Gary  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Smith, Gary"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Ken Lay - Office of the Chairman@ENRON\n",
+         "to" : "All Enron Employees United States Group@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/275.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rod.hayslett@enron.com"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 22,
+         "rawfrom" : "Hayslett, Rod \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 32,
+         "rawfrom" : "Corman, Shelley \n",
+         "to" : "Hayslett, Rod"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 45,
+         "rawfrom" : "  Hayslett, Rod  \n",
+         "to" : "Lokay, Michelle"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 54,
+         "rawfrom" : "  Hayslett, Rod  \n",
+         "to" : "Geaccone, Tracy"
+      },
+      {
+         "from" : "sarah.taylor@enron.com",
+         "line" : 65,
+         "rawfrom" : "  Taylor, Sarah  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/276.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rod.hayslett@enron.com"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 24,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Lokay, Michelle"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 33,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Geaccone, Tracy"
+      },
+      {
+         "from" : "sarah.taylor@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tTaylor, Sarah  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/277.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rod.hayslett@enron.com, tracy.geaccone@enron.com"
+      },
+      {
+         "from" : "mlokay@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tLokay, Michelle  \n",
+         "to" : "Hayslett, Rod"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 37,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Lokay, Michelle"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 46,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Geaccone, Tracy"
+      },
+      {
+         "from" : "sarah.taylor@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tTaylor, Sarah  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/278.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rick.dietz@enron.com"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 24,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Dietz, Rick; Dasilva, Esther; Brown, Elizabeth; Hanagriff, Richard"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/282.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "james.saunders@enron.com"
+      },
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 22,
+         "rawfrom" : "Saunders, James \n",
+         "to" : "Hayslett, Rod"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 32,
+         "rawfrom" : "Hayslett, Rod \n",
+         "to" : "Saunders, James"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 42,
+         "rawfrom" : "Corman, Shelley \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/290.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "mike.bryant@enron.com"
+      },
+      {
+         "from" : "mike.bryant@enron.com",
+         "line" : 22,
+         "rawfrom" : "Bryant, Mike \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "mike.bryant@enron.com",
+         "line" : 35,
+         "rawfrom" : "Bryant, Mike \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 53,
+         "rawfrom" : "Corman, Shelley \n",
+         "to" : "Bryant, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/298.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rachel.cady@enron.com"
+      },
+      {
+         "from" : "rachel.cady@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCady, Rachel  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Cady, Rachel"
+      },
+      {
+         "from" : "rachel.cady@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCady, Rachel  \n",
+         "to" : "Corman, Shelley; Lokey, Teb"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/311.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "caroline.barnes@enron.com"
+      },
+      {
+         "from" : "caroline.barnes@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBarnes, Caroline  \n",
+         "to" : "Stern, Ellis; Corman, Shelley"
+      },
+      {
+         "from" : "ellis.stern@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tStern, Ellis  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Stern, Ellis; Anderson, Gary E."
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/318.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "fran.fagan@enron.com"
+      },
+      {
+         "from" : "fran.fagan@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFagan, Fran  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Fagan, Fran"
+      },
+      {
+         "from" : "fran.fagan@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tFagan, Fran  \n",
+         "to" : "Scott, Tracy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/326.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "alma.carrillo@enron.com"
+      },
+      {
+         "from" : "alma.carrillo@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCarrillo, Alma  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Carrillo, Alma"
+      },
+      {
+         "from" : "alma.carrillo@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tCarrillo, Alma  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Carrillo, Alma; Sawyer, Lisa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/330.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "donna.scott@enron.com"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Scott, Donna"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Blair, Lynn; Bryant, Mike; Corman, Shelley; Dietz, Rick; Holmes, Bradley; January, Steve; Nacey, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/366.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "a..howard@enron.com"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 22,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Howard, Kevin A."
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 38,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/395.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ron.spain@enron.com"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Scott, Donna"
+      },
+      {
+         "from" : "ron.spain@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tSpain, Ron  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/452.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "jayshree.desai@enron.com"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Desai, Jayshree"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "jayshree.desai@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tDesai, Jayshree  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/485.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "a..howard@enron.com"
+      },
+      {
+         "from" : "kevin_howard@enron.net",
+         "line" : 23,
+         "rawfrom" : "\tHoward, Kevin A.  \n",
+         "to" : "Dietz, Rick; Ratner, Michael"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 32,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Dietz, Rick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/539.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rita.j.bianchi@dynegy.com"
+      },
+      {
+         "from" : "holly.strong@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tStrong, Holly  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Strong, Holly"
+      },
+      {
+         "from" : "holly.strong@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tStrong, Holly  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "raetta.zadow@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tZadow, Raetta  \n",
+         "to" : "Holly Strong/Enron Communications@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/543.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "bradley.holmes@enron.com"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "raetta.zadow@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tZadow, Raetta  \n",
+         "to" : "'dana.jones@dynegy.com'; Fancler, Dan; Dietz, Rick; Blair, Lynn; Johnson, Alice"
+      },
+      {
+         "from" : "courtney.barker@dynegy.com",
+         "line" : 43,
+         "rawfrom" : "\tCourtney.Barker@dynegy.com@ENRON  \n",
+         "to" : "Washington, Kathy; Zadow, Raetta"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/565.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "rita.houston@enron.com"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "rita.houston@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tHouston, Rita  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Houston, Rita"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/567.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "caroline.barnes@enron.com"
+      },
+      {
+         "from" : "michael.wagoner@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWagoner, Michael  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "michael.wagoner@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tWagoner, Michael  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "robert.j.baker@accenture.com",
+         "line" : 44,
+         "rawfrom" : "\tBaker, Robert  \n",
+         "to" : "Wagoner, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/569.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "mike.bryant@enron.com"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHotte, Steve  \n",
+         "to" : "Corman, Shelley; O'Gorman, Karon"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Hotte, Steve; O'Gorman, Karon"
+      },
+      {
+         "from" : "mike.bryant@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tBryant, Mike  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 53,
+         "rawfrom" : "\tO'Gorman, Karon  \n",
+         "to" : "Bellard, Dannis; Bryant, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/602.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "davis.thames@enron.com"
+      },
+      {
+         "from" : "davis.thames@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tThames, Davis  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Thames, Davis"
+      },
+      {
+         "from" : "davis.thames@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tThames, Davis  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/620.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ricki.winters@enron.com"
+      },
+      {
+         "from" : "kwatson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWatson, Kimberly  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Watson, Kimberly"
+      },
+      {
+         "from" : "kwatson@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tWatson, Kimberly  \n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/630.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ricki.winters@enron.com"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "rick.dietz@kingwoodcable.com",
+         "line" : 32,
+         "rawfrom" : "\tDietz, Rick  \n",
+         "to" : "Carrillo, Alma; 'dana.jones@dynegy.com'; Anderson, Gary E.; Barnes, Caroline; Bayles, Timothy; Berger, Larry; Blair, Lynn; Brown, Sharon; Carethers, Ann; Chandler, Bob; Coon, Galen; Corman, Shelley; Davis, Kasey; Escamilla, Linda; Fancler, Dan; Floyd, Jodie; Garcia, Ava; Hanagriff, Richard; January, Steve; Johnson, Alice; 'Jones, Dana'; Lyman, Jane; 'McGowan, Mike W.'; Moseley, Debbie; Nacey, Sheila; Perales, Maria; Spraggins, Gary; Sutton, Lisa; Walton, Mark; Winters, Ricki; Woodson, Harry; Zadow, Raetta; Zahn, Gary"
+      },
+      {
+         "from" : "alma.carrillo@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCarrillo, Alma  \n",
+         "to" : "'dana.jones@dynegy.com'; Anderson, Gary E.; Barnes, Caroline; Bayles, Timothy; Berger, Larry; Blair, Lynn; Brown, Sharon; Carethers, Ann; Chandler, Bob; Coon, Galen; Corman, Shelley; Davis, Kasey; Dietz, Rick; Escamilla, Linda; Fancler, Dan; Floyd, Jodie; Garcia, Ava; Hanagriff, Richard; January, Steve; Johnson, Alice; Jones, Dana; Lyman, Jane; McGowan, Mike W.; Moseley, Debbie; Nacey, Sheila; Perales, Maria; Spraggins, Gary; Sutton, Lisa; Walton, Mark; Winters, Ricki; Woodson, Harry; Zadow, Raetta; Zahn, Gary"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/631.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ricki.winters@enron.com"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "'kathryn@sirspeedy4029.com'"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Winters, Ricki"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tWinters, Ricki  \n",
+         "to" : "'kathryn@sirspeedy4029.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/96.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ricki.winters@enron.com"
+      },
+      {
+         "from" : "ricki.winters@enron.com",
+         "line" : 22,
+         "rawfrom" : "Winters, Ricki \n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 33,
+         "rawfrom" : "Corman, Shelley \n",
+         "to" : "Winters, Ricki"
+      },
+      {
+         "from" : "lgras91577@aol.com",
+         "line" : 42,
+         "rawfrom" : "LGras91577@aol.com [mailto:LGras91577@aol.com]\n",
+         "to" : "Corman, Shelley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/corman-s/sent_items/97.",
+   "hops" : [
+      {
+         "from" : "shelley.corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "shelley.corman@enron.com\r\n",
+         "to" : "ricki.winters@enron.com"
+      },
+      {
+         "from" : "lgras91577@aol.com",
+         "line" : 22,
+         "rawfrom" : "LGras91577@aol.com [mailto:LGras91577@aol.com]\n",
+         "to" : "Corman, Shelley"
+      },
+      {
+         "from" : "pakk@yahoogroups.com",
+         "line" : 36,
+         "rawfrom" : " <pakk@yahoogroups.com>\n",
+         "to" : "pakk@yahoogroups.com"
+      },
+      {
+         "from" : "anniejamaca@hotmail.com",
+         "line" : 604,
+         "rawfrom" : "Annie Jamaca [mailto:anniejamaca@hotmail.com]\n",
+         "to" : "pakk@yahoogroups.com"
+      },
+      {
+         "from" : "ln@hovac.com",
+         "line" : 747,
+         "rawfrom" : "<ln@hovac.com>\n",
+         "to" : "<pakk@yahoogroups.com>"
+      }
+   ],
+   "skipped" : 0
+}
+]

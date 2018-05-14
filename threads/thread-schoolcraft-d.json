@@ -1,0 +1,4886 @@
+[
+{
+   "file" : "enron-raw/schoolcraft-d/_sent_mail/14.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "kenneth.young@enron.com"
+      },
+      {
+         "from" : "kenneth_young@enron.com",
+         "line" : 45,
+         "rawfrom" : " Kenneth Young                           05/31/2001 09:36 AM\t\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 67,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Kenneth Young/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "kenneth_young@enron.com",
+         "line" : 84,
+         "rawfrom" : " Kenneth Young                           05/30/2001 11:50 PM\t\n",
+         "to" : "Randy Johnson/ECF/Enron@ENRON, Matt Francis/ET&S/Enron@ENRON, Kent Beebe/ET&S/Enron@ENRON, Jonny Hendricks/ET&S/Enron@ENRON, Ronnie Morse/ET&S/Enron@ENRON, David Carbajal/ET&S/Enron@ENRON, Ralph Mireles/ET&S/Enron@ENRON, Team Kingman-Sta1/ET&S/Enron@ENRON, Team Flagstaff-Sta2/ET&S/Enron@ENRON, Team Flagstaff-Sta3/ET&S/Enron@ENRON, Team Gallup-Sta4/ET&S/Enron@ENRON, Ben Asante/ET&S/Enron@ENRON, Jerry Graves/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Steve SanMiguel/ET&S/Enron@ENRON, Stoney Buchanan/ET&S/Enron@ENRON, Steve SanMiguel/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/_sent_mail/15.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "ava.garcia@enron.com"
+      },
+      {
+         "from" : "ava.garcia@enron.com",
+         "line" : 35,
+         "rawfrom" : " Ava Garcia                           05/31/2001 09:58 AM\t\n",
+         "to" : "Don Powell/ET&S/Enron, Dale Ratliff/OTS/Enron, John Buchanan/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Alice Johnson/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ava.garcia@enron.com",
+         "line" : 52,
+         "rawfrom" : " Ava Garcia                           05/31/2001 09:38 AM\t\n",
+         "to" : "Don Powell/ET&S/Enron, Dale Ratliff/OTS/Enron, John Buchanan/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Alice Johnson/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ava.garcia@enron.com",
+         "line" : 67,
+         "rawfrom" : " Ava Garcia                           05/30/2001 02:58 PM\t\n",
+         "to" : "Don Powell/ET&S/Enron, Dale Ratliff/OTS/Enron, John Buchanan/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/_sent_mail/21.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "jesse.alvarado@enron.com, roy.armitage@enron.com, rodney.barnes@enron.com,"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 36,
+         "rawfrom" : "Darrell Schoolcraft/ET&S/Enron on 05/30/2001 06:33 AM ---------------------------\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@Enron, Rick Smith/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 46,
+         "rawfrom" : "From:\tDan Maschka/ENRON@enronXgate on 05/29/2001 04:26 PM CDT\n",
+         "to" : "Randy Rice/ENRON@enronXgate, Rich Jolly/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "don.nelson@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tNelson, Don  \n",
+         "to" : "Maschka, Dan; Toews, John; Wilson, Steve; Cooney, Denny; Ruiz, Norm; Operations Communication Center - Omaha"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/_sent_mail/33.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "james.moore@enron.com"
+      },
+      {
+         "from" : "james.moore@enron.com",
+         "line" : 41,
+         "rawfrom" : "James Moore\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 54,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Arnie Bailey/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "arnie.bailey@enron.com",
+         "line" : 70,
+         "rawfrom" : " Arnie Bailey                           05/24/2001 08:56 AM\t\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 83,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Max Brown/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 95,
+         "rawfrom" : "From:\tMax Brown/ENRON@enronXgate on 05/23/2001 09:13 AM\n",
+         "to" : "Earl Chanley/ET&S/Enron@ENRON, James Moore/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/_sent_mail/36.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "arnie.bailey@enron.com"
+      },
+      {
+         "from" : "arnie.bailey@enron.com",
+         "line" : 38,
+         "rawfrom" : " Arnie Bailey                           05/24/2001 08:56 AM\t\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 51,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Max Brown/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 63,
+         "rawfrom" : "From:\tMax Brown/ENRON@enronXgate on 05/23/2001 09:13 AM\n",
+         "to" : "Earl Chanley/ET&S/Enron@ENRON, James Moore/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/108.",
+   "hops" : [
+      {
+         "from" : "rory.calhoun@enron.com",
+         "line" : 4,
+         "rawfrom" : "rory.calhoun@enron.com\r\n",
+         "to" : "jerry.graves@enron.com, controllers.dl-ets@enron.com"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "Calhoun, Rory; DL-ETS Gas Controllers"
+      },
+      {
+         "from" : "rory.calhoun@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tCalhoun, Rory  \n",
+         "to" : "Graves, Jerry; DL-ETS Gas Controllers"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "DL-ETS Gas Controllers"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/122.",
+   "hops" : [
+      {
+         "from" : "sharon.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "sharon.brown@enron.com\r\n",
+         "to" : "gaynel.henley@enron.com, jesse.alvarado@enron.com, roy.armitage@enron.com,"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 33,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George; Graves, Jerry; Southard, Miranda; Fagan, Fran"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 43,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George; Graves, Jerry"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 63,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 74,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 83,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 91,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 100,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 108,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Marshall, George"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 117,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 126,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 135,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 144,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel; Alvarado, Jesse; Armitage, Roy; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; January, Steven; Cummings, Helen; Ellington, Michael; Hall, Margaret; Hardy, Crandal; Monden, Bart; Moore, Jeff; Munson, Robert; Spain, Ron; Welsh, Edward; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 153,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 171,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "Henley, Gaynel"
+      },
+      {
+         "from" : "gaynel.henley@enron.com",
+         "line" : 181,
+         "rawfrom" : "\tHenley, Gaynel  \n",
+         "to" : "DL-ETS Gas Controllers; Brown, Sharon"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/17.",
+   "hops" : [
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "toby.kuehl@enron.com\r\n",
+         "to" : "kay.miller@enron.com, tk.lohman@enron.com, perry.frazier@enron.com,"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Frazier, Perry; Licciardo, Jeanne; Hermanek, Patty"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Kuehl, Toby; Licciardo, Jeanne"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 62,
+         "rawfrom" : "\tMiller, Mary Kay  \n",
+         "to" : "Kuehl, Toby; Darveaux, Mary"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Darveaux, Mary"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Kuehl, Toby; Lohman, TK; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "patty.hermanek@enron.com",
+         "line" : 99,
+         "rawfrom" : "\tHermanek, Patty  \n",
+         "to" : "Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/234.",
+   "hops" : [
+      {
+         "from" : "dahwjh@aol.com",
+         "line" : 24,
+         "rawfrom" : "DAHWJH@aol.com\n",
+         "to" : "anna.bialczak@nexsi.com, sevendolphins@hotmail.com, Duckcum@aol.com,\tlhd@pacbell.net, jadaisies@mail.ev1.net, STOVERRON1@aol.com,\ttjs1961@hotmail.com, navonod11@msn.com"
+      },
+      {
+         "from" : "pomqueensuzie@aol.com",
+         "line" : 38,
+         "rawfrom" : "Pomqueensuzie@aol.com\n",
+         "to" : "chuckCRB@webtv.net, missyg@ida.net, DAHWJH@aol.com, Silverwisp_25@yahoo.com,\tJimNKristy98121@aol.com, WanLv@aol.com, miskin3@earthlink.net,\tCheri_117@yahoo.com, MPettingill@fibres.net,\tsbyington@tcim.com (Byington,Stacey), PACKER1FAN11@aol.com,\tTarotwitch64@cs.com, mleewal@cableone.net"
+      },
+      {
+         "from" : "mpettingill@fibres.net",
+         "line" : 60,
+         "rawfrom" : "\"Madeline Pettingill\" <MPettingill@fibres.net>\n",
+         "to" : "\"Collette Neel (E-mail)\" <autona@msn.com>,        \"Jessica Summers (E-mail)\" <jessicas42@hotmail.com>,        \"Jim Howard (E-mail 2)\" <nukid68@yahoo.com>,        \"JimNKristy98121@aol. com (E-mail)\" <JimNKristy98121@aol.com>,        \"Kathie Bischke (E-mail)\" <kathiebischke@hotmail.com>,        \"Mary Blake (E-mail)\" <meblake@ida.net>,        \"Shanell Johnson (E-mail)\" <Snailj@yahoo.com>,        \"Sharlene Denison (E-mail)\" <sharlenedenison@hotmail.com>,        \"Shawna Stagg (E-mail)\" <pomqueensuzie@aol.com>,        \"Sonya Fisher (E-mail)\" <sonfish4u@hotmail.com>,        \"Tina/Stacy Byington home (E-mail)\" <tina.byington@verizon.net>,        \"Will & Val jones (E-mail)\" <Jones3@ida.net>"
+      },
+      {
+         "from" : "quail@cris.com",
+         "line" : 68,
+         "rawfrom" : "John and Shirley Huyett  [mailto:quail@cris.com]\n",
+         "to" : "Faye Scott; Janet Busta; Sandy Cosgrove; Elba Quackenbush;  Christy Davis"
+      },
+      {
+         "from" : "ccr99@infi.net",
+         "line" : 75,
+         "rawfrom" : "Carolyn Rose-Faircloth  [mailto:ccr99@infi.net]\n",
+         "to" : "Wkrobbins@aol.com; Sherry; RENESAWEY@aol.com;  RDuBois34@aol.com; Pat Sharpe; Pat Holloway; MissEmily; Little Bit; Lexi; Laura;  Kristen Lewis; Joe Poor; Jo; Jim & Marsha Langlois; Jill Peery;  JEB0615@aol.com; craig.faircloth@faypwc.com; Christy Baker;  Amy"
+      },
+      {
+         "from" : "jcashwell@faynet.com",
+         "line" : 80,
+         "rawfrom" : " Janice Cashwell at Hobgood, Jones and Associates <jcashwell@faynet.com >\n",
+         "to" : "Shirley Rogers <shrylrogers@aol.com >; John Stanley  <jrsrok@netscape.net >; Jeanette  Ward <jeanetteward@att.net >; JBoyd60332@aol.com  <JBoyd60332@aol.com >; Emily Hayes <ArmyWife_82nd@yahoo.com >; Debbie  Frazier <frazierd@BRAGG.ARMY.MIL >; David  Frazier <davefrazier@faynet.com >; Carolyn  Faircloth <ccf99@nc.rr.com >; Anne  Jasper <Luvsdsea@yahoo.com >"
+      },
+      {
+         "from" : "neuhausj@sullcrom.com",
+         "line" : 86,
+         "rawfrom" : "joe/sue  \n",
+         "to" : "amy  Young  ; wgweber  ; paul wise  ; Micnbrad@cs.com  ; donald cannady   ; chet murphy  ;  annette v  ; jack keating  ;  tom denning  ; Diane Cinco  ; AlAshurst@aol.com"
+      },
+      {
+         "from" : "frankie@scc.net",
+         "line" : 127,
+         "rawfrom" : "Debbie [mailto:frankie@scc.net ]\n",
+         "to" : "LBREID111@aol.com"
+      },
+      {
+         "from" : "wjsymes@home.com",
+         "line" : 132,
+         "rawfrom" : "Dad  \n",
+         "to" : "mailto:Undisclosed-Recipient:@www.scicable.com"
+      }
+   ],
+   "skipped" : 5
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/254.",
+   "hops" : [
+      {
+         "from" : "a..smith@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..smith@enron.com\r\n",
+         "to" : "helpdesk.hottap@enron.com, toby.kuehl@enron.com, bradley.holmes@enron.com,"
+      },
+      {
+         "from" : "joe.hoang@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tHoang, Joe  \n",
+         "to" : "Smith, Chris A."
+      },
+      {
+         "from" : "chrsmith@onsite-inc.com",
+         "line" : 41,
+         "rawfrom" : "\tSmith, Chris A.  \n",
+         "to" : "Hoang, Joe"
+      },
+      {
+         "from" : "chrsmith@onsite-inc.com",
+         "line" : 48,
+         "rawfrom" : "\tSmith, Chris A.  \n",
+         "to" : "Hottap HelpDesk; Kuehl, Toby; Holmes, Bradley; Buchanan, John; Kowalke, Terry; Schoolcraft, Darrell; Blair, Lynn; Nacey, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/255.",
+   "hops" : [
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "toby.kuehl@enron.com\r\n",
+         "to" : "teb.lokey@enron.com"
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 80,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Brady, Andy; Kuehl, Toby"
+      },
+      {
+         "from" : "=09brady, andy =20",
+         "line" : 113,
+         "rawfrom" : "=09Brady, Andy =20\r\n",
+         "to" : "=09Kuehl, Toby"
+      },
+      {
+         "from" : "=09kuehl, toby =20",
+         "line" : 151,
+         "rawfrom" : "=09Kuehl, Toby =20\r\n",
+         "to" : "=09Green, Alma; Matheson, Maggie; Carter, Zuela; Clapper, Karen; Bastida="
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 173,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Buehler, Craig"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/256.",
+   "hops" : [
+      {
+         "from" : "tammy.kovalcik@enron.com",
+         "line" : 4,
+         "rawfrom" : "tammy.kovalcik@enron.com\r\n",
+         "to" : "toby.kuehl@enron.com, teb.lokey@enron.com"
+      },
+      {
+         "from" : "=09kuehl, toby =20",
+         "line" : 58,
+         "rawfrom" : "=09Kuehl, Toby =20\r\n",
+         "to" : "=09Lokey, Teb"
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 95,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Brady, Andy; Kuehl, Toby"
+      },
+      {
+         "from" : "=09brady, andy =20",
+         "line" : 128,
+         "rawfrom" : "=09Brady, Andy =20\r\n",
+         "to" : "=09Kuehl, Toby"
+      },
+      {
+         "from" : "=09kuehl, toby =20",
+         "line" : 166,
+         "rawfrom" : "=09Kuehl, Toby =20\r\n",
+         "to" : "=09Green, Alma; Matheson, Maggie; Carter, Zuela; Clapper, Karen; Bastida="
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 188,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Buehler, Craig"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/257.",
+   "hops" : [
+      {
+         "from" : "alma.green@enron.com",
+         "line" : 4,
+         "rawfrom" : "alma.green@enron.com\r\n",
+         "to" : "tammy.kovalcik@enron.com, karen.clapper@enron.com"
+      },
+      {
+         "from" : "=09kovalcik, tammy =20",
+         "line" : 61,
+         "rawfrom" : "=09Kovalcik, Tammy =20\r\n",
+         "to" : "=09Kuehl, Toby; Lokey, Teb"
+      },
+      {
+         "from" : "=09kuehl, toby =20",
+         "line" : 78,
+         "rawfrom" : "=09Kuehl, Toby =20\r\n",
+         "to" : "=09Lokey, Teb"
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 115,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Brady, Andy; Kuehl, Toby"
+      },
+      {
+         "from" : "=09brady, andy =20",
+         "line" : 148,
+         "rawfrom" : "=09Brady, Andy =20\r\n",
+         "to" : "=09Kuehl, Toby"
+      },
+      {
+         "from" : "=09kuehl, toby =20",
+         "line" : 186,
+         "rawfrom" : "=09Kuehl, Toby =20\r\n",
+         "to" : "=09Green, Alma; Matheson, Maggie; Carter, Zuela; Clapper, Karen; Bastida="
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 208,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Buehler, Craig"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/263.",
+   "hops" : [
+      {
+         "from" : "charlie.yuan@enron.com",
+         "line" : 4,
+         "rawfrom" : "charlie.yuan@enron.com\r\n",
+         "to" : "ramona.betancourt@enron.com, linda.trevino@enron.com, wayne.feng@enron.com,"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Yuan, Charlie; Trevino, Linda; Feng, Wayne; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "charlie.yuan@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tYuan, Charlie  \n",
+         "to" : "Trevino, Linda; Betancourt, Ramona ; Feng, Wayne"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Betancourt, Ramona ; Yuan, Charlie; Feng, Wayne"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Yuan, Charlie; Trevino, Linda; Feng, Wayne"
+      },
+      {
+         "from" : "charlie.yuan@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tYuan, Charlie  \n",
+         "to" : "Trevino, Linda; Feng, Wayne"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 94,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Yuan, Charlie; Feng, Wayne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/271.",
+   "hops" : [
+      {
+         "from" : "don.daze@enron.com",
+         "line" : 4,
+         "rawfrom" : "don.daze@enron.com\r\n",
+         "to" : "a..smith@enron.com"
+      },
+      {
+         "from" : "chrsmith@onsite-inc.com",
+         "line" : 44,
+         "rawfrom" : "\tSmith, Chris A.  \n",
+         "to" : "Daze, Don"
+      },
+      {
+         "from" : "jean.mcfarland@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tMcFarland, Jean  \n",
+         "to" : "Smith, Chris A."
+      },
+      {
+         "from" : "chrsmith@onsite-inc.com",
+         "line" : 62,
+         "rawfrom" : "\tSmith, Chris A.  \n",
+         "to" : "Hottap HelpDesk; Kuehl, Toby; Holmes, Bradley; Buchanan, John; Kowalke, Terry; Schoolcraft, Darrell; Blair, Lynn; Nacey, Sheila"
+      },
+      {
+         "from" : "joe.hoang@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tHoang, Joe  \n",
+         "to" : "Smith, Chris A."
+      },
+      {
+         "from" : "chrsmith@onsite-inc.com",
+         "line" : 81,
+         "rawfrom" : "\tSmith, Chris A.  \n",
+         "to" : "Hoang, Joe"
+      },
+      {
+         "from" : "chrsmith@onsite-inc.com",
+         "line" : 88,
+         "rawfrom" : "\tSmith, Chris A.  \n",
+         "to" : "Hottap HelpDesk; Kuehl, Toby; Holmes, Bradley; Buchanan, John; Kowalke, Terry; Schoolcraft, Darrell; Blair, Lynn; Nacey, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/275.",
+   "hops" : [
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.buchanan@enron.com\r\n",
+         "to" : "lynn.blair@enron.com, darrell.schoolcraft@enron.com, terry.kowalke@enron.com,"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John; Hanagriff, Richard"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Blair, Lynn; Kowalke, Terry; Buchanan, John; Hanagriff, Richard"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Blair, Lynn; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Hanagriff, Richard; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/276.",
+   "hops" : [
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "lynn.blair@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com, terry.kowalke@enron.com,"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Blair, Lynn; Kowalke, Terry; Buchanan, John; Hanagriff, Richard"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Blair, Lynn; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Hanagriff, Richard; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/277.",
+   "hops" : [
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "lynn.blair@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com, terry.kowalke@enron.com,"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Blair, Lynn; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Hanagriff, Richard; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/368.",
+   "hops" : [
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.buchanan@enron.com\r\n",
+         "to" : "larry.berger@enron.com, michael.bodnar@enron.com, terry.kowalke@enron.com,"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Lowry, Jennifer ; DL-ETS TMS Modification Group"
+      },
+      {
+         "from" : "jennifer.lowry@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tLowry, Jennifer   \n",
+         "to" : "DL-ETS TMS Modification Group"
+      },
+      {
+         "from" : "jennifer.lowry@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tLowry, Jennifer   \n",
+         "to" : "DL-ETS TMS Modification Group"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/38.",
+   "hops" : [
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "toby.kuehl@enron.com\r\n",
+         "to" : "perry.frazier@enron.com, jeanne.licciardo@enron.com,"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Kuehl, Toby; Licciardo, Jeanne"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 44,
+         "rawfrom" : "\tMiller, Mary Kay  \n",
+         "to" : "Kuehl, Toby; Darveaux, Mary"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Darveaux, Mary"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Kuehl, Toby; Lohman, TK; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "patty.hermanek@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tHermanek, Patty  \n",
+         "to" : "Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/39.",
+   "hops" : [
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 4,
+         "rawfrom" : "perry.frazier@enron.com\r\n",
+         "to" : "toby.kuehl@enron.com, jeanne.licciardo@enron.com"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Licciardo, Jeanne; Frazier, Perry"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 44,
+         "rawfrom" : "\tMiller, Mary Kay  \n",
+         "to" : "Kuehl, Toby; Darveaux, Mary"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Darveaux, Mary"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Kuehl, Toby; Lohman, TK; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "patty.hermanek@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tHermanek, Patty  \n",
+         "to" : "Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/40.",
+   "hops" : [
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "toby.kuehl@enron.com\r\n",
+         "to" : "jeanne.licciardo@enron.com, perry.frazier@enron.com"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 32,
+         "rawfrom" : "\tMiller, Mary Kay  \n",
+         "to" : "Kuehl, Toby; Darveaux, Mary"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Darveaux, Mary"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Kuehl, Toby; Lohman, TK; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "patty.hermanek@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tHermanek, Patty  \n",
+         "to" : "Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/415.",
+   "hops" : [
+      {
+         "from" : "teb.lokey@enron.com",
+         "line" : 4,
+         "rawfrom" : "teb.lokey@enron.com\r\n",
+         "to" : "andy.brady@enron.com, toby.kuehl@enron.com"
+      },
+      {
+         "from" : "=09brady, andy =20",
+         "line" : 73,
+         "rawfrom" : "=09Brady, Andy =20\r\n",
+         "to" : "=09Kuehl, Toby"
+      },
+      {
+         "from" : "=09kuehl, toby =20",
+         "line" : 111,
+         "rawfrom" : "=09Kuehl, Toby =20\r\n",
+         "to" : "=09Green, Alma; Matheson, Maggie; Carter, Zuela; Clapper, Karen; Bastida="
+      },
+      {
+         "from" : "=09lokey, teb =20",
+         "line" : 133,
+         "rawfrom" : "=09Lokey, Teb =20\r\n",
+         "to" : "=09Buehler, Craig"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/42.",
+   "hops" : [
+      {
+         "from" : "kay.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "kay.miller@enron.com\r\n",
+         "to" : "toby.kuehl@enron.com, mary.darveaux@enron.com"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Darveaux, Mary"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Kuehl, Toby; Lohman, TK; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "patty.hermanek@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tHermanek, Patty  \n",
+         "to" : "Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/452.",
+   "hops" : [
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.january@enron.com\r\n",
+         "to" : "jerry.graves@enron.com, gary.spraggins@enron.com,"
+      },
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tGallishaw, Melinda  \n",
+         "to" : "January, Steve"
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Gallishaw, Melinda"
+      },
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tGallishaw, Melinda  \n",
+         "to" : "January, Steve"
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Gallishaw, Melinda"
+      },
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tGallishaw, Melinda  \n",
+         "to" : "January, Steve; Pool, Deelyn; Nabors-Collins, Judy; Brasher, Barney; Clark, Scott; Harkreader, Jerry ; Hernandez, Dahlia; Jolly, Rich; Lebeau, Randy; Stephens, LD"
+      },
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 107,
+         "rawfrom" : "\tGallishaw, Melinda  \n",
+         "to" : "January, Steve; Brasher, Barney; Clark, Scott; Harkreader, Jerry ; Hernandez, Dahlia; Jolly, Rich; Lebeau, Randy; Stephens, LD"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/471.",
+   "hops" : [
+      {
+         "from" : "tk.lohman@enron.com",
+         "line" : 4,
+         "rawfrom" : "tk.lohman@enron.com\r\n",
+         "to" : "amy.mulligan@enron.com, darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "randall.l.gay@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGay, Randall L.  \n",
+         "to" : "Lohman, TK"
+      },
+      {
+         "from" : "tk.lohman@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tLohman, TK  \n",
+         "to" : "Gay, Randall L."
+      },
+      {
+         "from" : "amy_mulligan@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tMulligan, Amy  \n",
+         "to" : "Lohman, TK"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/48.",
+   "hops" : [
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.buchanan@enron.com\r\n",
+         "to" : "john.buchanan@enron.com, william.aldinger@enron.com,"
+      },
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBuchanan, John  \n",
+         "to" : "Buchanan, John; Aldinger, William; Collins, Marion; Conklin, Jacob; Coon, Galen; Cooper, Tim; Cramer, James; Howard, Jack; Laferla, Lynda ; Phillips, Mary; Rivers, Cynthia; Adams, Jean; Barry, Patrick; Benningfield, Robert; Blair, Jean; Bryan, Randy; Callans, Nancy; Carr, James; Clapper, Karen; Forbish, Sherry; Greaney, Chris; Hibbard, Scott; Janzen, Randy; Linhart, Joe; McDaniel, Janet; Perry, Renee; Porter, Diana; Scurlock, Debra; Sturr, Kathy; Vaughan, Cara; Walden, Shirley; Washington, Kathy; Wilkens, Jerry; Woodson, Harry; Giambrone, Laura; Hernandez, Bert; McEvoy, Christine; Miller, Beverly; Miller, Chris L; Minter, Tracy; Mulligan, Amy; Ward, Linda; Berger, Larry; Bodnar, Michael; Schoolcraft, Darrell; Spraggins, Gary; Zadow, Raetta"
+      },
+      {
+         "from" : "john.buchanan@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tBuchanan, John  \n",
+         "to" : "Aldinger, William; Collins, Marion; Conklin, Jacob; Coon, Galen; Cooper, Tim; Cramer, James; Howard, Jack; Laferla, Lynda ; Phillips, Mary; Rivers, Cynthia; Adams, Jean; Barry, Patrick; Benningfield, Robert; Blair, Jean; Bryan, Randy; Callans, Nancy; Carr, James; Clapper, Karen; Forbish, Sherry; Greaney, Chris; Hibbard Scott (E-mail); Janzen, Randy; Linhart, Joe; McDaniel, Janet; Perry, Renee; Porter, Diana; Scurlock, Debra; Sturr, Kathy; Vaughan, Cara; Walden, Shirley; Washington, Kathy; Wilkens, Jerry; Woodson, Harry; Giambrone, Laura; Hernandez, Bert; McEvoy, Christine; Miller, Beverly; Miller, Chris L; Minter, Tracy; Mulligan, Amy; Ward, Linda; Berger, Larry; Bodnar, Michael; Schoolcraft, Darrell; Spraggins, Gary; Zadow, Raetta"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Kuehl, Toby"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/493.",
+   "hops" : [
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.january@enron.com\r\n",
+         "to" : "gary.spraggins@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "=09blair, lynn =20",
+         "line" : 23,
+         "rawfrom" : "=09Blair, Lynn =20\r\n",
+         "to" : "=09January, Steve; Herber, Stephen; Buchanan, John; Kowalke, Terry; Stag="
+      },
+      {
+         "from" : "=09miller, mary kay =20",
+         "line" : 32,
+         "rawfrom" : "=09Miller, Mary Kay =20\r\n",
+         "to" : "=09Lowry, Phil; Corman, Shelley; Neubauer, Dave; Porter, J. Gregory; Dor="
+      },
+      {
+         "from" : "jdreskin@ingaa.org",
+         "line" : 41,
+         "rawfrom" : "=09Joan Dreskin <jdreskin@INGAA.org>@ENRON =20\r\n",
+         "to" : "=09Albert Cindy (E-mail); Anna V. Cochrane (E-mail); Anne Bomar (E-mail)="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/505.",
+   "hops" : [
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 4,
+         "rawfrom" : "rich.jolly@enron.com\r\n",
+         "to" : "jerry.graves@enron.com, david.roensch@enron.com, dennis.alters@enron.com,"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "Roensch, David; Alters, Dennis; Matthews, Ron; Schoolcraft, Darrell; Jolly, Rich"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Graves, Jerry; Alters, Dennis; Matthews, Ron; Schoolcraft, Darrell; Jolly, Rich"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 40,
+         "rawfrom" : "From:\tJerry Graves/ENRON@enronXgate on 12/20/2001 11:41 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Rich Jolly/ENRON@enronxgate, Mansoor Abdmoulaie/ENRON@enronXgate, Dennis Alters/ENRON@enronXgate, Perry Frazier/ENRON@enronXgate, Maurice Gilbert/ENRON@enronXgate, Morgan Gottsponer/ENRON@enronXgate, Colleen Hood/ENRON@enronXgate, Matt Hughes/ENRON@enronXgate, Ronald Matthews/ENRON@enronXgate, Gale Ramsaran/ENRON@enronXgate, Buzz Smith/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/526.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "ben.tanner@enron.com, scott.hill@enron.com, russ.ulibarri@enron.com"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 36,
+         "rawfrom" : "David Roensch/ET&S/Enron on 12/20/2001 10:02 AM ---------------------------\n",
+         "to" : "Gary Choquette/ET&S/Enron, Rich Jolly/ET&S/Enron@Enron, Kimberly Watson/ENRON@enronXgate, Scott Hill/ET&S/Enron@Enron, Russ Ulibarri/ET&S/Enron, Ben Tanner/ET&S/Enron@Enron, mark.mcconnell@enron.com, Steven January/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron, Darrell Schoolcraft/ET&S/Enron@Enron, Jerry Graves/ET&S/Enron@ENRON, Sarabeth Smith/OTS/Enron"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:\tGary Choquette/ENRON@enronXgate on 12/18/2001 09:11 AM CST\n",
+         "to" : "Darrell Schoolcraft/ENRON@enronXgate, David Roensch/ET&S/Enron@ENRON, Rich Jolly/ENRON@enronxgate, Kimberly Watson/ENRON@enronXgate, Scott Hill/ET&S/Enron@ENRON, Russ Ulibarri/ET&S/Enron@ENRON, Mark McConnell/Enron@EnronXGate"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Roensch, David; Jolly, Rich; Watson, Kimberly; Choquette, Gary; Hill, Scott; Ulibarri, Russ; McConnell, Mark"
+      },
+      {
+         "from" : "rfranson@czn.com",
+         "line" : 75,
+         "rawfrom" : "\t\"Franson, Rob\" <RFranson@czn.com>@ENRON  \n",
+         "to" : "dschool@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/568.",
+   "hops" : [
+      {
+         "from" : "dan.pribble@enron.com",
+         "line" : 4,
+         "rawfrom" : "dan.pribble@enron.com\r\n",
+         "to" : "jeff.whippo@enron.com, jonny.hendricks@enron.com, todd.ingalls@enron.com"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Hendricks, Jonny; Ingalls, Todd"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry; Vaughan, Pat; Pribble, Dan; Bailey, Arnie; David Roensch (E-mail); Smith, Rick"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tIngalls, Todd  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Hendricks, Jonny; Ingalls, Todd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/569.",
+   "hops" : [
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.whippo@enron.com\r\n",
+         "to" : "jonny.hendricks@enron.com, todd.ingalls@enron.com"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry; Vaughan, Pat; Pribble, Dan; Bailey, Arnie; David Roensch (E-mail); Smith, Rick"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tIngalls, Todd  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Hendricks, Jonny; Ingalls, Todd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/581.",
+   "hops" : [
+      {
+         "from" : "arnie.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "arnie.bailey@enron.com\r\n",
+         "to" : "jeff.whippo@enron.com, darrell.schoolcraft@enron.com, jerry.graves@enron.com,"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry; Vaughan, Pat; Pribble, Dan; Arnie Bailey (E-mail); David Roensch (E-mail); Rick Smith (E-mail)"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tIngalls, Todd  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Hendricks, Jonny; Ingalls, Todd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/590.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Keller, John R.; Graves, Jerry; Matthews, Ron; Asante, Ben; January, Steve; Pribble, Dan; Whippo, Jeff; Watson, Kimberly; Moore, Jan; Roensch, David; Alters, Dennis"
+      },
+      {
+         "from" : "john.r.keller@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKeller, John R.  \n",
+         "to" : "Graves, Jerry; Schoolcraft, Darrell; Matthews, Ron; Asante, Ben; January, Steve; Pribble, Dan; Whippo, Jeff; Watson, Kimberly; Moore, Jan; Roensch, David; Alters, Dennis"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "Schoolcraft, Darrell; Matthews, Ron; Asante, Ben; January, Steve; Keller, John R.; Pribble, Dan; Whippo, Jeff; Watson, Kimberly; Moore, Jan; Roensch, David; Alters, Dennis"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/595.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "jeff.whippo@enron.com, darrell.schoolcraft@enron.com, pat.vaughan@enron.com,"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry; Vaughan, Pat; Pribble, Dan; Arnie Bailey (E-mail); David Roensch (E-mail); Rick Smith (E-mail)"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tIngalls, Todd  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Hendricks, Jonny; Ingalls, Todd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/597.",
+   "hops" : [
+      {
+         "from" : "tracy.minter@enron.com",
+         "line" : 4,
+         "rawfrom" : "tracy.minter@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Minter, Tracy"
+      },
+      {
+         "from" : "tracy.minter@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tMinter, Tracy  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dlsmith@pplweb.com",
+         "line" : 45,
+         "rawfrom" : "\tdlsmith@pplweb.com@ENRON  \n",
+         "to" : "Mulligan, Amy; cwlipke@czn.com; kggruhl@griffithenergyproject.com; Giambrone, Laura; PVMcGonigal@pplmt.com; DJMorrison@pplmt.com; realtime@pplmt.com; dlsmith@pplweb.com; Minter, Tracy; baveety@pplweb.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/599.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "controllers.dl-ets@enron.com, steve.january@enron.com"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry; Vaughan, Pat; Pribble, Dan; Arnie Bailey (E-mail); David Roensch (E-mail); Rick Smith (E-mail)"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tIngalls, Todd  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Hendricks, Jonny; Ingalls, Todd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/626.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "jeff.whippo@enron.com, l..eisenstein@enron.com, earl.chanley@enron.com,"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 39,
+         "rawfrom" : "David Roensch/ET&S/Enron on 03/18/2002 05:39 PM ---------------------------\n",
+         "to" : "Jeff Whippo/GCO/Enron, Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Todd Ingalls@Enron, Jerry Graves/ET&S/Enron@ENRON, Kimberly Watson/ENRON@enronXgate, Lorraine Lindberg/ET&S/Enron@Enron, Mike McCracken/ET&S/Enron@Enron, Earl Chanley/ET&S/Enron@Enron, Norm Spalding/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jeff Greider/ET&S/Enron, Team San-Juan/ET&S/Enron@Enron, Vera Jones/ENRON@enronXgate, Ed Lawrence/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 55,
+         "rawfrom" : "David Roensch/ET&S/Enron on 03/16/2002 05:04 PM ---------------------------\n",
+         "to" : "Jeff Whippo/GCO/Enron, Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Todd Ingalls@Enron"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 70,
+         "rawfrom" : "David Roensch/ET&S/Enron on 03/16/2002 10:11 AM ---------------------------\n",
+         "to" : "Jeff Whippo/GCO/Enron, Darrell Schoolcraft/ET&S/Enron@Enron, Jerry Graves/ET&S/Enron@ENRON, Kimberly Watson/ENRON@enronXgate, Lorraine Lindberg/ET&S/Enron@Enron, Mike McCracken/ET&S/Enron@Enron, Earl Chanley/ET&S/Enron@Enron, Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Norm Spalding/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Todd Ingalls@Enron, Scott Hill/ET&S/Enron@Enron, Jeff Greider/ET&S/Enron, Team San-Juan-LaPlata/ET&S/Enron@Enron, Vera Jones/ENRON@enronXgate, Ed Lawrence/ET&S/Enron@Enron, Team San-Juan/ET&S/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/647.",
+   "hops" : [
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.ratner@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/649.",
+   "hops" : [
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.ratner@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/670.",
+   "hops" : [
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ramona.betancourt@enron.com\r\n",
+         "to" : "linda.trevino@enron.com"
+      },
+      {
+         "from" : "tk.lohman@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tLohman, TK  \n",
+         "to" : "Betancourt, Ramona"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Lohman, TK"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Schoolcraft, Darrell; Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/78.",
+   "hops" : [
+      {
+         "from" : "michelle.lokay@enron.com",
+         "line" : 4,
+         "rawfrom" : "michelle.lokay@enron.com\r\n",
+         "to" : "karen.brostad@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "karen.brostad@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tBrostad, Karen  \n",
+         "to" : "Schoolcraft, Darrell; Lindberg, Lorraine; Lokay, Michelle; Hyatt, Kevin"
+      },
+      {
+         "from" : "karen.brostad@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBrostad, Karen  \n",
+         "to" : "Schoolcraft, Darrell; Lindberg, Lorraine; Lokay, Michelle; Hyatt, Kevin"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Brostad, Karen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/deleted_items/83.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "chuck.good@enron.com"
+      },
+      {
+         "from" : "chuck.good@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGood, Chuck  \n",
+         "to" : "Graves, Jerry"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tJerry Graves/ENRON@enronXgate on 10/15/2001 03:47 PM\n",
+         "to" : "Chuck Good/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "chuck.good@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tGood, Chuck  \n",
+         "to" : "Graves, Jerry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/13.",
+   "hops" : [
+      {
+         "from" : "kay.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "kay.miller@enron.com\r\n",
+         "to" : "toby.kuehl@enron.com, tk.lohman@enron.com, perry.frazier@enron.com,"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Lohman, TK; Frazier, Perry; Darveaux, Mary; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Frazier, Perry; Licciardo, Jeanne; Hermanek, Patty"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Kuehl, Toby; Licciardo, Jeanne"
+      },
+      {
+         "from" : "mary_miller@pgn.com",
+         "line" : 72,
+         "rawfrom" : "\tMiller, Mary Kay  \n",
+         "to" : "Kuehl, Toby; Darveaux, Mary"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tKuehl, Toby  \n",
+         "to" : "Miller, Mary Kay; Darveaux, Mary"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 99,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Kuehl, Toby; Lohman, TK; Schoolcraft, Darrell; Betancourt, Ramona ; Watson, Kimberly"
+      },
+      {
+         "from" : "patty.hermanek@enron.com",
+         "line" : 109,
+         "rawfrom" : "\tHermanek, Patty  \n",
+         "to" : "Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/29.",
+   "hops" : [
+      {
+         "from" : "ben.asante@enron.com",
+         "line" : 4,
+         "rawfrom" : "ben.asante@enron.com\r\n",
+         "to" : "david.roensch@enron.com, bob.mcchane@enron.com, ron.matthews@enron.com"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben; McChane, Bob; Matthews, Ron"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 41,
+         "rawfrom" : "David Roensch/ET&S/Enron on 12/11/2001 06:14 PM ---------------------------\n",
+         "to" : "David Roensch/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 61,
+         "rawfrom" : "David Roensch\n",
+         "to" : "Team San-Juan/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 83,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 12/10/2001 04:04 PM CST\n",
+         "to" : "Rich Jolly/ENRON@enronxgate, David Roensch/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate, Dan Pribble/ENRON@enronXgate, Ronald Matthews/ENRON@enronXgate"
+      },
+      {
+         "from" : "gary.choquette@enron.com",
+         "line" : 104,
+         "rawfrom" : "\tChoquette, Gary  \n",
+         "to" : "McChane, Bob; Asante, Ben"
+      },
+      {
+         "from" : "bob.mcchane@enron.com",
+         "line" : 117,
+         "rawfrom" : "\tMcChane, Bob  \n",
+         "to" : "Asante, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/31.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 20,
+         "rawfrom" : "From:\tDarrell Schoolcraft/ENRON@enronXgate on 12/12/2001 09:50 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 40,
+         "rawfrom" : "From:\tJerry Graves/ENRON@enronXgate on 12/11/2001 03:20 PM CST\n",
+         "to" : "Ronnie.Morse@enron.com@ENRON, Kimberly Watson/ENRON@enronXgate, Jan Moore/ENRON@enronXgate, David Roensch/ET&S/Enron@ENRON, Rich Jolly/ENRON@enronxgate"
+      },
+      {
+         "from" : "ronnie.morse@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tRonnie.Morse@enron.com@ENRON  \n",
+         "to" : "Graves, Jerry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/61.",
+   "hops" : [
+      {
+         "from" : "tk.lohman@enron.com",
+         "line" : 4,
+         "rawfrom" : "tk.lohman@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 23,
+         "rawfrom" : "Schoolcraft, Darrell \n",
+         "to" : "Lohman, TK"
+      },
+      {
+         "from" : "cara.vaughan@enron.com",
+         "line" : 31,
+         "rawfrom" : "Vaughan, Cara \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "penny.mccarran@dynegy.com",
+         "line" : 39,
+         "rawfrom" : "Penny.McCarran@dynegy.com [mailto:Penny.McCarran@dynegy.com]\n",
+         "to" : "Forbish, Sherry; Vaughan, Cara"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/94.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "controllers.dl-ets@enron.com, steve.january@enron.com"
+      },
+      {
+         "from" : "john.sturn@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tSturn, John  \n",
+         "to" : "January, Steve"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 46,
+         "rawfrom" : "From:\tSteven January/ENRON@enronXgate <mailto:January/ENRON@enronXgate> on 03/25/2002 10:50 AM\n",
+         "to" : "Gary Spraggins/ENRON@enronXgate <mailto:Spraggins/ENRON@enronXgate>, Jerry Graves/ENRON@enronXgate <mailto:Graves/ENRON@enronXgate>, John Sturn/ET&S/Enron@ENRON <mailto:Sturn/ET&S/Enron@ENRON>"
+      },
+      {
+         "from" : "john.sturn@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tSturn, John  \n",
+         "to" : "Stephens, LD"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/244.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 23,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 01/28/2002 04:48 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team San-Juan/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "San-Juan, Team"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 51,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 01/25/2002 09:33 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/248.",
+   "hops" : [
+      {
+         "from" : "ben.asante@enron.com",
+         "line" : 4,
+         "rawfrom" : "ben.asante@enron.com\r\n",
+         "to" : "david.roensch@enron.com, team.san-juan@enron.com"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "San-Juan, Team"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 50,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 01/25/2002 09:33 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/250.",
+   "hops" : [
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 4,
+         "rawfrom" : "dale.ratliff@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com, gary.spraggins@enron.com,"
+      },
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tRatliff, Dale  \n",
+         "to" : "Schoolcraft, Darrell; Spraggins, Gary; Graves, Jerry; Shafer, Allen"
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Ratliff, Dale; McPherson, Cliff"
+      },
+      {
+         "from" : "cliff.mcpherson@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tMcPherson, Cliff  \n",
+         "to" : "January, Steve; Bryant, Mike; Freeman, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/297.",
+   "hops" : [
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 4,
+         "rawfrom" : "linda.trevino@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Betancourt, Ramona ; Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Trevino, Linda; Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Matheson, Maggie"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 91,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Trevino, Linda"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/309.",
+   "hops" : [
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 4,
+         "rawfrom" : "perry.frazier@enron.com\r\n",
+         "to" : "james.studebaker@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Schoolcraft, Darrell; Frazier, Perry; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Frazier, Perry; Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Betancourt, Ramona ; Skertich, Gerald; Frazier, Perry"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Studebaker, James"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/310.",
+   "hops" : [
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ramona.betancourt@enron.com\r\n",
+         "to" : "linda.trevino@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Matheson, Maggie"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Trevino, Linda"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/315.",
+   "hops" : [
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 4,
+         "rawfrom" : "linda.trevino@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com, maggie.matheson@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Matheson, Maggie"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Trevino, Linda"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/317.",
+   "hops" : [
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 4,
+         "rawfrom" : "james.studebaker@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com, perry.frazier@enron.com,"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Frazier, Perry; Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Betancourt, Ramona ; Skertich, Gerald; Frazier, Perry"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Studebaker, James"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/32.",
+   "hops" : [
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 4,
+         "rawfrom" : "maggie.matheson@enron.com\r\n",
+         "to" : "maggie.matheson@enron.com, linda.trevino@enron.com,"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Trevino, Linda; Betancourt, Ramona ; Ward, Linda; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Betancourt, Ramona ; Matheson, Maggie; Ward, Linda; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Trevino, Linda; Matheson, Maggie; Ward, Linda; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Betancourt, Ramona ; Matheson, Maggie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/328.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "dale.ratliff@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tRatliff, Dale  \n",
+         "to" : "Schoolcraft, Darrell; Spraggins, Gary; Graves, Jerry; Shafer, Allen"
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Ratliff, Dale; McPherson, Cliff"
+      },
+      {
+         "from" : "cliff.mcpherson@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tMcPherson, Cliff  \n",
+         "to" : "January, Steve; Bryant, Mike; Freeman, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/329.",
+   "hops" : [
+      {
+         "from" : "gary.spraggins@enron.com",
+         "line" : 4,
+         "rawfrom" : "gary.spraggins@enron.com\r\n",
+         "to" : "dale.ratliff@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tRatliff, Dale  \n",
+         "to" : "Schoolcraft, Darrell; Spraggins, Gary; Graves, Jerry; Shafer, Allen"
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Ratliff, Dale; McPherson, Cliff"
+      },
+      {
+         "from" : "cliff.mcpherson@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tMcPherson, Cliff  \n",
+         "to" : "January, Steve; Bryant, Mike; Freeman, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/33.",
+   "hops" : [
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 4,
+         "rawfrom" : "maggie.matheson@enron.com\r\n",
+         "to" : "linda.trevino@enron.com, ramona.betancourt@enron.com, linda.ward@enron.com,"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Betancourt, Ramona ; Matheson, Maggie; Ward, Linda; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Trevino, Linda; Matheson, Maggie; Ward, Linda; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Betancourt, Ramona ; Matheson, Maggie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/340.",
+   "hops" : [
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ramona.betancourt@enron.com\r\n",
+         "to" : "charlie.yuan@enron.com, linda.trevino@enron.com, wayne.feng@enron.com,"
+      },
+      {
+         "from" : "charlie.yuan@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tYuan, Charlie  \n",
+         "to" : "Trevino, Linda; Betancourt, Ramona ; Feng, Wayne"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Betancourt, Ramona ; Yuan, Charlie; Feng, Wayne"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Yuan, Charlie; Trevino, Linda; Feng, Wayne"
+      },
+      {
+         "from" : "charlie.yuan@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tYuan, Charlie  \n",
+         "to" : "Trevino, Linda; Feng, Wayne"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Yuan, Charlie; Feng, Wayne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/360.",
+   "hops" : [
+      {
+         "from" : "sharon.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "sharon.brown@enron.com\r\n",
+         "to" : "steve.january@enron.com, mike.bryant@enron.com, jerry.graves@enron.com,"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 38,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "January, Steve; Bryant, Mike; Graves, Jerry; Bellard, Dannis; Hearn, Steven; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Alvarado, Jesse; Armitage, Roy; Barnes, Rodney; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; Cummings, Helen; Hall, Margaret; Hardy, Crandal; Henley, Gaynel; Monden, Bart; Moore, Jeff; Munson, Robert; Muntz, Alan; Spain, Ron; Welsh, Edward; Angeletti, Donald; Bell, Bill; Chambers, Steven; Hebert, Thomas; Kincaid, Bobby; Reid, Byron; Velen, David; Villarreal, Jorge; Wagoner, Kenneth"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 47,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "January, Steve; Bryant, Mike; Graves, Jerry; Bellard, Dannis; Hearn, Steven; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Alvarado, Jesse; Armitage, Roy; Barnes, Rodney; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; Cummings, Helen; Hall, Margaret; Hardy, Crandal; Henley, Gaynel; Monden, Bart; Moore, Jeff; Munson, Robert; Muntz, Alan; Spain, Ron; Welsh, Edward; Angeletti, Donald; Bell, Bill; Chambers, Steven; Hebert, Thomas; Kincaid, Bobby; Reid, Byron; Velen, David; Villarreal, Jorge; Wagoner, Kenneth"
+      },
+      {
+         "from" : "sharon.brown@ngsc.org",
+         "line" : 56,
+         "rawfrom" : "\tBrown, Sharon  \n",
+         "to" : "January, Steve; Bryant, Mike; Graves, Jerry; Bellard, Dannis; Hearn, Steven; Ratliff, Dale; Schoolcraft, Darrell; Spraggins, Gary; Alvarado, Jesse; Armitage, Roy; Barnes, Rodney; Barry, Richard; Braswell, Keith; Calhoun, Rory; Coash, Steve; Cochran, Jeffrey; Cummings, Helen; Hall, Margaret; Hardy, Crandal; Henley, Gaynel; Monden, Bart; Moore, Jeff; Munson, Robert; Muntz, Alan; Spain, Ron; Welsh, Edward; Angeletti, Donald; Bell, Bill; Chambers, Steven; Hebert, Thomas; Kincaid, Bobby; Reid, Byron; Velen, David; Villarreal, Jorge; Wagoner, Kenneth"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/426.",
+   "hops" : [
+      {
+         "from" : "timothy.jones@enron.com",
+         "line" : 4,
+         "rawfrom" : "timothy.jones@enron.com\r\n",
+         "to" : "mark.mcconnell@enron.com, david.roensch@enron.com"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Jones, Timothy; Jones, Vera; Collins, Judy"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 53,
+         "rawfrom" : "From:\tTimothy Jones/ENRON@enronxgate on 02/01/2002 01:39 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Jones, Timothy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/443.",
+   "hops" : [
+      {
+         "from" : "lorraine.lindberg@enron.com",
+         "line" : 4,
+         "rawfrom" : "lorraine.lindberg@enron.com\r\n",
+         "to" : "darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "lorraine_lindberg@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLindberg, Lorraine  \n",
+         "to" : "Watson, Kimberly"
+      },
+      {
+         "from" : "kwatson@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWatson, Kimberly  \n",
+         "to" : "Lindberg, Lorraine"
+      },
+      {
+         "from" : "randy.lebeau@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tLebeau, Randy  \n",
+         "to" : "Watson, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/462.",
+   "hops" : [
+      {
+         "from" : "mike.mccracken@enron.com",
+         "line" : 4,
+         "rawfrom" : "mike.mccracken@enron.com\r\n",
+         "to" : "team.roswell@enron.com, team.roswell-capitan@enron.com,"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Graves, Jerry; McCracken, Mike"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "McCracken, Mike; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "mike_mccracken@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tMcCracken, Mike  \n",
+         "to" : "Graves, Jerry; Schoolcraft, Darrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/480.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "ben.asante@enron.com, darrell.schoolcraft@enron.com, ron.matthews@enron.com,"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 27,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/11/2002 08:05 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben; Whippo, Jeff; Sturn, John; Schoolcraft, Darrell; Choquette, Gary; Matthews, Ron"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 43,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/08/2002 10:08 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 66,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/01/2002 01:17 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team Gallup/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Gallup, Team; Asante, Ben; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 90,
+         "rawfrom" : "David Roensch/ET&S/Enron on 02/01/2002 12:13 PM ---------------------------\n",
+         "to" : "Jesse Alvarado/OTS/Enron@ENRON, Roy Armitage/OTS/Enron@ENRON, Rodney Barnes/OTS/Enron@ENRON, Richard Barry/OTS/Enron@ENRON, Keith Braswell/OTS/Enron@Enron, Sharon Brown/ET&S/Enron@ENRON, Rory Calhoun/ET&S/Enron@Enron, Steve Coash/OTS/Enron@ENRON, Jeffrey Cochran/OTS/Enron@ENRON, Helen Cummings/OTS/Enron@ENRON, Michael Ellington/OTS/Enron@ENRON, Margaret Hall/OTS/Enron@ENRON, Crandal Hardy/OTS/Enron@ENRON, Gaynel Henley/OTS/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Bart Monden/OTS/Enron@ENRON, Jeff Moore/OTS/Enron@ENRON, Robert Munson/OTS/Enron@ENRON, Dale Ratliff/OTS/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@Enron, Ron Spain/OTS/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Edward Welsh/OTS/Enron@ENRON, Team Gallup/ET&S/Enron@Enron, Darrell Schoolcraft/ET&S/Enron@Enron, David Roensch/ET&S/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/484.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "ben.asante@enron.com, jeff.whippo@enron.com, john.sturn@enron.com,"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 22,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/08/2002 10:08 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 45,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/01/2002 01:17 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team Gallup/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Gallup, Team; Asante, Ben; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 69,
+         "rawfrom" : "David Roensch/ET&S/Enron on 02/01/2002 12:13 PM ---------------------------\n",
+         "to" : "Jesse Alvarado/OTS/Enron@ENRON, Roy Armitage/OTS/Enron@ENRON, Rodney Barnes/OTS/Enron@ENRON, Richard Barry/OTS/Enron@ENRON, Keith Braswell/OTS/Enron@Enron, Sharon Brown/ET&S/Enron@ENRON, Rory Calhoun/ET&S/Enron@Enron, Steve Coash/OTS/Enron@ENRON, Jeffrey Cochran/OTS/Enron@ENRON, Helen Cummings/OTS/Enron@ENRON, Michael Ellington/OTS/Enron@ENRON, Margaret Hall/OTS/Enron@ENRON, Crandal Hardy/OTS/Enron@ENRON, Gaynel Henley/OTS/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Bart Monden/OTS/Enron@ENRON, Jeff Moore/OTS/Enron@ENRON, Robert Munson/OTS/Enron@ENRON, Dale Ratliff/OTS/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@Enron, Ron Spain/OTS/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Edward Welsh/OTS/Enron@ENRON, Team Gallup/ET&S/Enron@Enron, Darrell Schoolcraft/ET&S/Enron@Enron, David Roensch/ET&S/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/487.",
+   "hops" : [
+      {
+         "from" : "ben.asante@enron.com",
+         "line" : 4,
+         "rawfrom" : "ben.asante@enron.com\r\n",
+         "to" : "david.roensch@enron.com"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Asante, Ben"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 41,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/01/2002 01:17 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team Gallup/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Gallup, Team; Asante, Ben; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 65,
+         "rawfrom" : "David Roensch/ET&S/Enron on 02/01/2002 12:13 PM ---------------------------\n",
+         "to" : "Jesse Alvarado/OTS/Enron@ENRON, Roy Armitage/OTS/Enron@ENRON, Rodney Barnes/OTS/Enron@ENRON, Richard Barry/OTS/Enron@ENRON, Keith Braswell/OTS/Enron@Enron, Sharon Brown/ET&S/Enron@ENRON, Rory Calhoun/ET&S/Enron@Enron, Steve Coash/OTS/Enron@ENRON, Jeffrey Cochran/OTS/Enron@ENRON, Helen Cummings/OTS/Enron@ENRON, Michael Ellington/OTS/Enron@ENRON, Margaret Hall/OTS/Enron@ENRON, Crandal Hardy/OTS/Enron@ENRON, Gaynel Henley/OTS/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Bart Monden/OTS/Enron@ENRON, Jeff Moore/OTS/Enron@ENRON, Robert Munson/OTS/Enron@ENRON, Dale Ratliff/OTS/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@Enron, Ron Spain/OTS/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Edward Welsh/OTS/Enron@ENRON, Team Gallup/ET&S/Enron@Enron, Darrell Schoolcraft/ET&S/Enron@Enron, David Roensch/ET&S/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/488.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "ben.asante@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 24,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 02/01/2002 01:17 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team Gallup/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Gallup, Team; Asante, Ben; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 48,
+         "rawfrom" : "David Roensch/ET&S/Enron on 02/01/2002 12:13 PM ---------------------------\n",
+         "to" : "Jesse Alvarado/OTS/Enron@ENRON, Roy Armitage/OTS/Enron@ENRON, Rodney Barnes/OTS/Enron@ENRON, Richard Barry/OTS/Enron@ENRON, Keith Braswell/OTS/Enron@Enron, Sharon Brown/ET&S/Enron@ENRON, Rory Calhoun/ET&S/Enron@Enron, Steve Coash/OTS/Enron@ENRON, Jeffrey Cochran/OTS/Enron@ENRON, Helen Cummings/OTS/Enron@ENRON, Michael Ellington/OTS/Enron@ENRON, Margaret Hall/OTS/Enron@ENRON, Crandal Hardy/OTS/Enron@ENRON, Gaynel Henley/OTS/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Bart Monden/OTS/Enron@ENRON, Jeff Moore/OTS/Enron@ENRON, Robert Munson/OTS/Enron@ENRON, Dale Ratliff/OTS/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@Enron, Ron Spain/OTS/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Edward Welsh/OTS/Enron@ENRON, Team Gallup/ET&S/Enron@Enron, Darrell Schoolcraft/ET&S/Enron@Enron, David Roensch/ET&S/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/570.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "team.bushton-maintenance@enron.com, darrell.schoolcraft@enron.com,"
+      },
+      {
+         "from" : "team.bushton-maintenance@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBushton-Maintenance, Team  \n",
+         "to" : "Graves, Jerry; Schoolcraft, Darrell; Spraggins, Gary"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:\tJerry Graves/ENRON@enronXgate on 02/21/2002 04:23 PM\n",
+         "to" : "Team Bushton-Maintenance/ET&S/Enron@ENRON, Team Bushton-Operations/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate, Gary Spraggins/ENRON@enronXgate, Steven January/ENRON@enronXgate"
+      },
+      {
+         "from" : "team.bushton-maintenance@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tBushton-Maintenance, Team  \n",
+         "to" : "Bushton-Operations, Team; Graves, Jerry; Schoolcraft, Darrell; Spraggins, Gary"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/637.",
+   "hops" : [
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.roensch@enron.com\r\n",
+         "to" : "earl.chanley@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tEarl Chanley/ENRON@enronXgate on 02/14/2002 02:34 PM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Chanley, Earl"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 68,
+         "rawfrom" : "From:\tEarl Chanley/ENRON@enronXgate on 02/14/2002 08:50 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team San-Juan/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/642.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "team.san-juan-laplata@enron.com"
+      },
+      {
+         "from" : "team.san-juan-laplata@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSan-Juan-LaPlata, Team  \n",
+         "to" : "Graves, Jerry"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 38,
+         "rawfrom" : "From:\tJerry Graves/ENRON@enronXgate on 02/12/2002 12:34 PM CST\n",
+         "to" : "Gary Choquette/ENRON@enronXgate, David Roensch/ET&S/Enron@ENRON, Team San-Juan-LaPlata/ET&S/Enron@ENRON, Todd Ingalls/ENRON@enronxgate"
+      },
+      {
+         "from" : "gary.choquette@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tChoquette, Gary  \n",
+         "to" : "Roensch, David; San-Juan-LaPlata, Team; Ingalls, Todd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/644.",
+   "hops" : [
+      {
+         "from" : "jerry.graves@enron.com",
+         "line" : 4,
+         "rawfrom" : "jerry.graves@enron.com\r\n",
+         "to" : "donna.scott@enron.com, darrell.schoolcraft@enron.com"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Scott, Donna; Schoolcraft, Darrell; Graves, Jerry"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Licciardo, Jeanne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/inbox/junk/648.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "dl-etsgascontrollers@enron.com"
+      },
+      {
+         "from" : "mike_mccracken@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMcCracken, Mike  \n",
+         "to" : "Roswell, Team; Roswell-Capitan, Team; Hendricks, Jonny; Lawrence, Ed; McIlwain, Greg"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Graves, Jerry; McCracken, Mike"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "McCracken, Mike; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "mike_mccracken@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tMcCracken, Mike  \n",
+         "to" : "Graves, Jerry; Schoolcraft, Darrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/118.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "james.carr@enron.com, jean.blair@enron.com, randy.bryan@enron.com,"
+      },
+      {
+         "from" : "jcarr@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tCarr, James  \n",
+         "to" : "Carr, James; Blair, Jean; Bryan, Randy; Walden, Shirley; Callans, Nancy; Perry, Renee; Porter, Diana; Wilkens, Jerry; Clapper, Karen; Barry, Patrick; Washington, Kathy; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "jcarr@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCarr, James  \n",
+         "to" : "Carr, James; Blair, Jean; Bryan, Randy; Walden, Shirley; Callans, Nancy; Perry, Renee; Porter, Diana; Wilkens, Jerry; Clapper, Karen; Barry, Patrick; Washington, Kathy"
+      },
+      {
+         "from" : "jcarr@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tCarr, James  \n",
+         "to" : "Carr, James; Blair, Jean; Bryan, Randy; Walden, Shirley; Callans, Nancy; Perry, Renee; Porter, Diana; Wilkens, Jerry; Clapper, Karen; Barry, Patrick; Washington, Kathy"
+      },
+      {
+         "from" : "jcarr@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tCarr, James  \n",
+         "to" : "Blair, Jean; Bryan, Randy; Walden, Shirley; Callans, Nancy; Perry, Renee; Porter, Diana; Wilkens, Jerry; Clapper, Karen; Barry, Patrick; Washington, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/134.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lindy.donoho@enron.com, ramona.betancourt@enron.com,"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Betancourt, Ramona ; Licciardo, Jeanne; Ratliff, Dale; Schoolcraft, Darrell; Medeles, Gerry; Draemer, Mary ; Frazier, Perry"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Licciardo, Jeanne; Ratliff, Dale; Schoolcraft, Darrell; Donoho, Lindy; Medeles, Gerry; Draemer, Mary ; Frazier, Perry"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Ratliff, Dale; Schoolcraft, Darrell; Donoho, Lindy; Medeles, Gerry; Betancourt, Ramona ; Draemer, Mary ; Frazier, Perry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/14.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "kggruhl@duke-energy.com"
+      },
+      {
+         "from" : "kggruhl@duke-energy.com",
+         "line" : 25,
+         "rawfrom" : "\t\"Kenneth G Gruhl\" <kggruhl@duke-energy.com>@ENRON [mailto:IMCEANOTES-+22Kenneth+20G+20Gruhl+22+20+3Ckggruhl+40duke-energy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "\"schoolcraft,",
+         "line" : 36,
+         "rawfrom" : "\"Schoolcraft,\n",
+         "to" : "\"DL-ETS Gas Controllers\" <DL-ETSGasControllers@enron.com>"
+      },
+      {
+         "from" : "kggruhl@duke-energy.com",
+         "line" : 57,
+         "rawfrom" : "  \"Kenneth G Gruhl\" <kggruhl@duke-energy.com>@ENRON\n",
+         "to" : "Mulligan, Amy; Allen K Nielsen; blreese@duke-energy.com; Beck"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/141.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "rick.smith@enron.com, controllers.arnold@enron.com"
+      },
+      {
+         "from" : "rick.smith@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSmith, Rick  \n",
+         "to" : "Schoolcraft, Darrell; Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON"
+      },
+      {
+         "from" : "rick.smith@enron.com",
+         "line" : 33,
+         "rawfrom" : "Rick Smith/ET&S/Enron on 07/03/2001 12:42 PM ---------------------------\n",
+         "to" : "Team Gallup/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "team_gallup@enron.com",
+         "line" : 45,
+         "rawfrom" : "Team Gallup\n",
+         "to" : "\"Caddell, Jim (Contract)\" <Jim.R.Caddell@ue-corp.com>, Rick Smith/ET&S/Enron@Enron, Rich Jolly/ET&S/Enron@Enron, Todd Ingalls/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "jim.r.caddell@ue-corp.com",
+         "line" : 60,
+         "rawfrom" : "Jim.R.Caddell@ue-corp.com",
+         "to" : "Korey Kruse <team_gallup@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/160.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "richard.abramowicz@enron.com, toby.kuehl@enron.com"
+      },
+      {
+         "from" : "richard.abramowicz@enron.com",
+         "line" : 28,
+         "rawfrom" : "Abramowicz, Richard \n",
+         "to" : "Schoolcraft, Darrell; Kuehl, Toby"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 38,
+         "rawfrom" : "Schoolcraft, Darrell \n",
+         "to" : "Kuehl, Toby"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 53,
+         "rawfrom" : "  Kuehl, Toby  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "richard.abramowicz@enron.com",
+         "line" : 64,
+         "rawfrom" : "  Abramowicz, Richard  \n",
+         "to" : "Kuehl, Toby; Licciardo, Jeanne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/164.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "gary.spraggins@enron.com"
+      },
+      {
+         "from" : "linda.ward@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWard, Linda  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "terry.kowalke@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKowalke, Terry  \n",
+         "to" : "Forbish, Sherry; Greaney, Chris; Laferla, Lynda (Schoolcraft); Ward, Linda; Mulligan, Amy; Buchanan, John; Wilkens, Jerry; Schoolcraft, Darrell; Berger, Larry; McDaniel, Janet"
+      },
+      {
+         "from" : "sdkowalke@equiva.com",
+         "line" : 38,
+         "rawfrom" : "\t\"Kowalke SD (Sylvia)\" <SDKowalke@Equiva.com>@ENRON  \n",
+         "to" : "Kowalke, Terry"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/172.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "controllers.dl-ets@enron.com, jan.moore@enron.com"
+      },
+      {
+         "from" : "dave.hubbard@enron.com",
+         "line" : 21,
+         "rawfrom" : "Hubbard, Dave=20\r\n",
+         "to" : "Faucheaux, Eric; Centilli, James; Watson, Kimberly; Lindberg, Lorraine;="
+      },
+      {
+         "from" : "byron.rance@enron.com",
+         "line" : 50,
+         "rawfrom" : "Rance, Byron=20\r\n",
+         "to" : "Faucheaux, Eric=20"
+      },
+      {
+         "from" : "eric.faucheaux@enron.com",
+         "line" : 71,
+         "rawfrom" : "Faucheaux, Eric=20\r\n",
+         "to" : "Centilli, James; Watson, Kimberly; Lindberg, Lorraine=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/180.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lorraine.lindberg@enron.com"
+      },
+      {
+         "from" : "toby.kuehl@enron.com",
+         "line" : 25,
+         "rawfrom" : "Kuehl, Toby \n",
+         "to" : "January, Steven; Spraggins, Gary; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "ldleavelle@door.net",
+         "line" : 36,
+         "rawfrom" : "Larry Leavelle [mailto:ldleavelle@door.net]\n",
+         "to" : "'Larry Leavelle'; etsdb@enron.com"
+      },
+      {
+         "from" : "ldleavelle@door.net",
+         "line" : 50,
+         "rawfrom" : "\tLarry Leavelle [mailto:ldleavelle@door.net]\n",
+         "to" : "'etsdb@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/250.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "jan.moore@enron.com"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "DL-ETS Gas Controllers; Giambrone, Laura; Hernandez, Bert; McEvoy, Christine; Miller, Beverly; Minter, Tracy; Mulligan, Amy; Ward, Linda"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tJolly, Rich  \n",
+         "to" : "Lowry, Phil"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 46,
+         "rawfrom" : "Rich Jolly\n",
+         "to" : "Steven Harris/Enron@EnronXGate, Phil Lowry/Enron@EnronXGate, Randy Rice/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/253.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "steven.january@enron.com, gary.spraggins@enron.com"
+      },
+      {
+         "from" : "rick.smith@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSmith, Rick  \n",
+         "to" : "Jolly, Rich"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 36,
+         "rawfrom" : "Rich Jolly\n",
+         "to" : "Phil Lowry/Enron@EnronXGate"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 52,
+         "rawfrom" : "Rich Jolly\n",
+         "to" : "Steven Harris/Enron@EnronXGate, Phil Lowry/Enron@EnronXGate, Randy Rice/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/254.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "jerry.graves@enron.com"
+      },
+      {
+         "from" : "rick.smith@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSmith, Rick  \n",
+         "to" : "Jolly, Rich"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 34,
+         "rawfrom" : "Rich Jolly\n",
+         "to" : "Phil Lowry/Enron@EnronXGate"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 50,
+         "rawfrom" : "Rich Jolly\n",
+         "to" : "Steven Harris/Enron@EnronXGate, Phil Lowry/Enron@EnronXGate, Randy Rice/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/275.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "doug.cebryk@enron.com, kevin.hyatt@enron.com"
+      },
+      {
+         "from" : "=09cebryk, doug =20",
+         "line" : 26,
+         "rawfrom" : "=09Cebryk, Doug =20\r\n",
+         "to" : "=09Hyatt, Kevin"
+      },
+      {
+         "from" : "=09hyatt, kevin =20",
+         "line" : 41,
+         "rawfrom" : "=09Hyatt, Kevin =20\r\n",
+         "to" : "=09Cebryk, Doug"
+      },
+      {
+         "from" : "=09cebryk, doug =20",
+         "line" : 52,
+         "rawfrom" : "=09Cebryk, Doug =20\r\n",
+         "to" : "=09Hyatt, Kevin; Cole, Dan"
+      },
+      {
+         "from" : "=09cebryk, doug =20",
+         "line" : 65,
+         "rawfrom" : "=09Cebryk, Doug =20\r\n",
+         "to" : "=09Martin, Jerry D."
+      },
+      {
+         "from" : "=09robinson, larry =20",
+         "line" : 76,
+         "rawfrom" : "=09Robinson, Larry =20\r\n",
+         "to" : "=09adam.gross; Ames, Chuck; Anderson, Mitchell; Baumbach, David; Bayles,="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/276.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "karen.brostad@enron.com, elizabeth.brown@enron.com, john.buchanan@enron.com,"
+      },
+      {
+         "from" : "karen.brostad@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tBrostad, Karen  \n",
+         "to" : "Brown, Elizabeth; Buchanan, John; Cormier, Martha; Draemer, Mary ; Frazier, Perry; Hernandez, Bert; Hyatt, Kevin; Kowalke, Terry; Lee, Dennis; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; Macpherson, Sigrid; McEvoy, Christine; Mercaldo, Vernon; Miller, Beverly; Minter, Tracy; Mulligan, Amy; Ramsaran, Gale; Schoolcraft, Darrell; Spraggins, Gary; Studebaker, James ; Trevino, Linda; Vignaroli, Donald; Ward, Linda"
+      },
+      {
+         "from" : "karen.brostad@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tBrostad, Karen  \n",
+         "to" : "Macpherson, Sigrid"
+      },
+      {
+         "from" : "sigrid.macpherson@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tMacpherson, Sigrid  \n",
+         "to" : "Brostad, Karen"
+      },
+      {
+         "from" : "karen.brostad@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tBrostad, Karen  \n",
+         "to" : "Brown, Elizabeth; Buchanan, John; Cormier, Martha; Draemer, Mary ; Frazier, Perry; Hernandez, Bert; Hyatt, Kevin; Kowalke, Terry; Lee, Dennis; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; Macpherson, Sigrid; McEvoy, Christine; Mercaldo, Vernon; Miller, Beverly; Minter, Tracy; Mulligan, Amy; Ramsaran, Gale; Schoolcraft, Darrell; Spraggins, Gary; Studebaker, James ; Trevino, Linda; Vignaroli, Donald; Ward, Linda"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 93,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Brostad, Karen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/280.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "rich.jolly@enron.com"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tJolly, Rich  \n",
+         "to" : "Rice, Randy; Lowry, Phil; Harris, Steven; Schoolcraft, Darrell; Watson, Kimberly; Roensch, David; McCracken, Mike; Eisenstein, Arnold L.; Keller, John R.; Maestas, Gary; Gallup, Team; Gallup-Sta5, Team; Gallup-Sta4, Team; Hendricks, Jonny; Greider, Jeff; Keller, John R.; Shafer, John; Soldano, Louis"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 49,
+         "rawfrom" : " Todd Ingalls                           08/29/2001 11:48 AM\t\n",
+         "to" : "Rich Jolly/ET&S/Enron@Enron, Arnold L Eisenstein/ENRON_DEVELOPMENT, Rick Smith/ET&S/Enron@Enron, Ken Crowl/NPNG/Enron@ENRON"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 59,
+         "rawfrom" : "Todd Ingalls/ET&S/Enron on 10/29/2001 11:31 AM ---------------------------\n",
+         "to" : "Todd Ingalls <Todd_Ingalls@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/281.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "rich.jolly@enron.com"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tJolly, Rich  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tDarrell Schoolcraft/ENRON@enronXgate on 08/31/2001 07:18 AM CDT\n",
+         "to" : "Rich Jolly/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tJolly, Rich  \n",
+         "to" : "Rice, Randy; Lowry, Phil; Harris, Steven; Schoolcraft, Darrell; Watson, Kimberly; Roensch, David; McCracken, Mike; Eisenstein, Arnold L.; Keller, John R.; Maestas, Gary; Gallup, Team; Gallup-Sta5, Team; Gallup-Sta4, Team; Hendricks, Jonny; Greider, Jeff; Keller, John R.; Shafer, John; Soldano, Louis"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 71,
+         "rawfrom" : " Todd Ingalls                           08/29/2001 11:48 AM\t\n",
+         "to" : "Rich Jolly/ET&S/Enron@Enron, Arnold L Eisenstein/ENRON_DEVELOPMENT, Rick Smith/ET&S/Enron@Enron, Ken Crowl/NPNG/Enron@ENRON"
+      },
+      {
+         "from" : "todd_ingalls@enron.com",
+         "line" : 81,
+         "rawfrom" : "Todd Ingalls/ET&S/Enron on 10/29/2001 11:31 AM ---------------------------\n",
+         "to" : "Todd Ingalls <Todd_Ingalls@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/289.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "arnie.bailey@enron.com"
+      },
+      {
+         "from" : "arnie.bailey@enron.com",
+         "line" : 38,
+         "rawfrom" : " Arnie Bailey                           05/24/2001 08:56 AM\t\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 51,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Max Brown/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 63,
+         "rawfrom" : "From:\tMax Brown/ENRON@enronXgate on 05/23/2001 09:13 AM\n",
+         "to" : "Earl Chanley/ET&S/Enron@ENRON, James Moore/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/292.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "james.moore@enron.com"
+      },
+      {
+         "from" : "james.moore@enron.com",
+         "line" : 41,
+         "rawfrom" : "James Moore\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 54,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Arnie Bailey/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "arnie.bailey@enron.com",
+         "line" : 70,
+         "rawfrom" : " Arnie Bailey                           05/24/2001 08:56 AM\t\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 83,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Max Brown/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 95,
+         "rawfrom" : "From:\tMax Brown/ENRON@enronXgate on 05/23/2001 09:13 AM\n",
+         "to" : "Earl Chanley/ET&S/Enron@ENRON, James Moore/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/304.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "jesse.alvarado@enron.com, roy.armitage@enron.com, rodney.barnes@enron.com,"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 36,
+         "rawfrom" : "Darrell Schoolcraft/ET&S/Enron on 05/30/2001 06:33 AM ---------------------------\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@Enron, Rick Smith/ET&S/Enron@Enron"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 46,
+         "rawfrom" : "From:\tDan Maschka/ENRON@enronXgate on 05/29/2001 04:26 PM CDT\n",
+         "to" : "Randy Rice/ENRON@enronXgate, Rich Jolly/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "don.nelson@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tNelson, Don  \n",
+         "to" : "Maschka, Dan; Toews, John; Wilson, Steve; Cooney, Denny; Ruiz, Norm; Operations Communication Center - Omaha"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/310.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "ava.garcia@enron.com"
+      },
+      {
+         "from" : "ava.garcia@enron.com",
+         "line" : 35,
+         "rawfrom" : " Ava Garcia                           05/31/2001 09:58 AM\t\n",
+         "to" : "Don Powell/ET&S/Enron, Dale Ratliff/OTS/Enron, John Buchanan/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Alice Johnson/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ava.garcia@enron.com",
+         "line" : 52,
+         "rawfrom" : " Ava Garcia                           05/31/2001 09:38 AM\t\n",
+         "to" : "Don Powell/ET&S/Enron, Dale Ratliff/OTS/Enron, John Buchanan/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Alice Johnson/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ava.garcia@enron.com",
+         "line" : 67,
+         "rawfrom" : " Ava Garcia                           05/30/2001 02:58 PM\t\n",
+         "to" : "Don Powell/ET&S/Enron, Dale Ratliff/OTS/Enron, John Buchanan/ET&S/Enron@ENRON, Steven January/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/311.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "kenneth.young@enron.com"
+      },
+      {
+         "from" : "kenneth_young@enron.com",
+         "line" : 45,
+         "rawfrom" : " Kenneth Young                           05/31/2001 09:36 AM\t\n",
+         "to" : "Darrell Schoolcraft/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 67,
+         "rawfrom" : "Darrell Schoolcraft\n",
+         "to" : "Kenneth Young/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "kenneth_young@enron.com",
+         "line" : 84,
+         "rawfrom" : " Kenneth Young                           05/30/2001 11:50 PM\t\n",
+         "to" : "Randy Johnson/ECF/Enron@ENRON, Matt Francis/ET&S/Enron@ENRON, Kent Beebe/ET&S/Enron@ENRON, Jonny Hendricks/ET&S/Enron@ENRON, Ronnie Morse/ET&S/Enron@ENRON, David Carbajal/ET&S/Enron@ENRON, Ralph Mireles/ET&S/Enron@ENRON, Team Kingman-Sta1/ET&S/Enron@ENRON, Team Flagstaff-Sta2/ET&S/Enron@ENRON, Team Flagstaff-Sta3/ET&S/Enron@ENRON, Team Gallup-Sta4/ET&S/Enron@ENRON, Ben Asante/ET&S/Enron@ENRON, Jerry Graves/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@ENRON, Steve SanMiguel/ET&S/Enron@ENRON, Stoney Buchanan/ET&S/Enron@ENRON, Steve SanMiguel/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/325.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "e..anderson@enron.com"
+      },
+      {
+         "from" : "=09anderson, gary e. =20",
+         "line" : 27,
+         "rawfrom" : "=09Anderson, Gary E. =20\r\n",
+         "to" : "=09Buchanan, John; Spraggins, Gary; Williams, Sammy; Schoolcraft, Darrel="
+      },
+      {
+         "from" : "=09anderson, gary e. =20",
+         "line" : 36,
+         "rawfrom" : "=09Anderson, Gary E. =20\r\n",
+         "to" : "=09Anderson, Gary E.;"
+      },
+      {
+         "from" : "=09anderson, gary e. =20",
+         "line" : 52,
+         "rawfrom" : "=09Anderson, Gary E. =20\r\n",
+         "to" : "=09Rice, Randy; Buchanan, John; Spraggins, Gary; Williams, Sammy; School="
+      },
+      {
+         "from" : "=09sigrid macpherson =20",
+         "line" : 79,
+         "rawfrom" : "=09Sigrid MacPherson =20\r\n",
+         "to" : "=09Brostad, Karen; Metzler, Verlene; Mulligan, Amy"
+      },
+      {
+         "from" : "sigrid.macpherson@enron.com",
+         "line" : 93,
+         "rawfrom" : "Sigrid MacPherson/GPGFIN/Enron on 04/12=\r\n",
+         "to" : "=09Sigrid MacPherson/GPGFIN/Enron@ENRON <mailto:MacPherson/GPGFIN/Enron@="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/327.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "e..anderson@enron.com"
+      },
+      {
+         "from" : "=09anderson, gary e. =20",
+         "line" : 24,
+         "rawfrom" : "=09Anderson, Gary E. =20\r\n",
+         "to" : "=09Buchanan, John; Williams, Sammy; Schoolcraft, Darrell; Brickman, Ronn="
+      },
+      {
+         "from" : "=09buchanan, john =20",
+         "line" : 37,
+         "rawfrom" : "=09Buchanan, John =20\r\n",
+         "to" : "=09Anderson, Gary E."
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:=09Gary E. Anderson/ENRON@enronXgate on 06/14/2001 11:57 AM\r\n",
+         "to" : "=09John Buchanan/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Samm="
+      },
+      {
+         "from" : "=09anderson, gary e. =20",
+         "line" : 61,
+         "rawfrom" : "=09Anderson, Gary E. =20\r\n",
+         "to" : "=09Anderson, Gary E.;"
+      },
+      {
+         "from" : "=09anderson, gary e. =20",
+         "line" : 77,
+         "rawfrom" : "=09Anderson, Gary E. =20\r\n",
+         "to" : "=09Rice, Randy; Buchanan, John; Spraggins, Gary; Williams, Sammy; School="
+      },
+      {
+         "from" : "=09sigrid macpherson =20",
+         "line" : 104,
+         "rawfrom" : "=09Sigrid MacPherson =20\r\n",
+         "to" : "=09Brostad, Karen; Metzler, Verlene; Mulligan, Amy"
+      },
+      {
+         "from" : "sigrid.macpherson@enron.com",
+         "line" : 119,
+         "rawfrom" : "Sigrid MacPherson/GPGFIN/Enron on 04/12=\r\n",
+         "to" : "=09Sigrid MacPherson/GPGFIN/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/330.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "david.roensch@enron.com, rich.jolly@enron.com"
+      },
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tRatliff, Dale  \n",
+         "to" : "Tanner, Ben; Schoolcraft, Darrell; January, Steven; Scott, Donna"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratliff, Dale; January, Steven; Spraggins, Gary"
+      },
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tRatliff, Dale  \n",
+         "to" : "Schoolcraft, Darrell; January, Steven"
+      },
+      {
+         "from" : "ben.tanner@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tTanner, Ben  \n",
+         "to" : "Ratliff, Dale; Tanner, Ben; Roensch, David; Kneisley, George"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/331.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "gary.maestas@enron.com, gary.choquette@enron.com, steven.january@enron.com,"
+      },
+      {
+         "from" : "gary.maestas@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tMaestas, Gary  \n",
+         "to" : "Choquette, Gary; Schoolcraft, Darrell; January, Steven; Faucheaux, Eric; Asante, Ben; Gottsponer, Morgan; Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 35,
+         "rawfrom" : "From:\tCheryl Cole/ENRON@enronXgate on 06/18/2001 09:35 AM\n",
+         "to" : "Gary Maestas/OTS/Enron@ENRON"
+      },
+      {
+         "from" : "gary.maestas@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tMaestas, Gary  \n",
+         "to" : "Cole, Cheryl"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/332.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "gary.maestas@enron.com"
+      },
+      {
+         "from" : "gary.maestas@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMaestas, Gary  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tDarrell Schoolcraft/ENRON@enronXgate on 06/19/2001 06:33 AM\n",
+         "to" : "Gary Maestas/OTS/Enron@ENRON, Gary Choquette/ENRON@enronXgate, Steven January/ENRON@enronXgate, Eric Faucheaux/ENRON@enronXgate, Ben Asante/ET&S/Enron@ENRON, Morgan Gottsponer/ENRON@enronXgate, Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON"
+      },
+      {
+         "from" : "gary.maestas@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tMaestas, Gary  \n",
+         "to" : "Choquette, Gary; Schoolcraft, Darrell; January, Steven; Faucheaux, Eric; Asante, Ben; Gottsponer, Morgan; Arnold L Eisenstein/ENRON_DEVELOPMENT@ENRON"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 51,
+         "rawfrom" : "From:\tCheryl Cole/ENRON@enronXgate on 06/18/2001 09:35 AM\n",
+         "to" : "Gary Maestas/OTS/Enron@ENRON"
+      },
+      {
+         "from" : "gary.maestas@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tMaestas, Gary  \n",
+         "to" : "Cole, Cheryl"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/334.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lindy.donoho@enron.com, mary.darveaux@enron.com, steven.harris@enron.com,"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Darveaux, Mary; Harris, Steven; Watson, Kimberly; Miller, Mary Kay; Pavlou, Maria; Dornan, Dari; Hass, Glen; Kirk, Steve; Lohman, TK; Schoolcraft, Darrell; Frazier, Perry; Betancourt, Ramona"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Darveaux, Mary; Harris, Steven; Watson, Kimberly; Miller, Mary Kay; Pavlou, Maria; Dornan, Dari; Hass, Glen; Kirk, Steve; Lohman, TK; Schoolcraft, Darrell; Frazier, Perry"
+      },
+      {
+         "from" : "mary.f.darveaux@dynegy.com",
+         "line" : 47,
+         "rawfrom" : "\tDarveaux, Mary  \n",
+         "to" : "Donoho, Lindy; Harris, Steven; Watson, Kimberly; Miller, Mary Kay; Pavlou, Maria; Dornan, Dari; Hass, Glen; Kirk, Steve; Darveaux, Mary; Lohman, TK; Schoolcraft, Darrell; Frazier, Perry"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tLindy Donoho  \n",
+         "to" : "Steven Harris; Kimberly Watson; Mary Kay Miller; Maria Pavlou; Dari Dornan; Glen Hass; Steve Kirk; Mary Darveaux; TK Lohman; Darrell Schoolcraft; Perry Frazier"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/340.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "david.roensch@enron.com"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tJerry Graves/ENRON@enronXgate on 12/11/2001 03:20 PM CST\n",
+         "to" : "Ronnie.Morse@enron.com@ENRON, Kimberly Watson/ENRON@enronXgate, Jan Moore/ENRON@enronXgate, David Roensch/ET&S/Enron@ENRON, Rich Jolly/ENRON@enronxgate"
+      },
+      {
+         "from" : "ronnie.morse@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tRonnie.Morse@enron.com@ENRON  \n",
+         "to" : "Graves, Jerry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/348.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "david.roensch@enron.com, rich.jolly@enron.com, kimberly.watson@enron.com,"
+      },
+      {
+         "from" : "rfranson@czn.com",
+         "line" : 34,
+         "rawfrom" : "\t\"Franson, Rob\" <RFranson@czn.com>@ENRON  \n",
+         "to" : "dschool@enron.com"
+      },
+      {
+         "from" : "rfranson@czn.com",
+         "line" : 42,
+         "rawfrom" : "Franson, Rob \n",
+         "to" : "'darrell.schoolcraft@enron.com'"
+      },
+      {
+         "from" : "ray@kelm-engr.com",
+         "line" : 53,
+         "rawfrom" : "Ray Kelm - Kelm Engineering  [mailto:ray@kelm-engr.com]\n",
+         "to" : "Robert Franson - Citizens"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/355.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "morgan.gottsponer@enron.com, dennis.alters@enron.com"
+      },
+      {
+         "from" : "=09roensch, david =20",
+         "line" : 24,
+         "rawfrom" : "=09Roensch, David =20\r\n",
+         "to" : "=09Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:=09Byron Rance/ENRON@enronXgate on 07/19/2001 10:40 PM CDT\r\n",
+         "to" : "=09Eric Faucheaux/ENRON@enronXgate"
+      },
+      {
+         "from" : "eric.faucheaux@enron.com",
+         "line" : 53,
+         "rawfrom" : "Faucheaux, Eric=20\r\n",
+         "to" : "Centilli, James; Watson, Kimberly; Lindberg, Lorraine=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/366.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lynn.blair@enron.com, terry.kowalke@enron.com, john.buchanan@enron.com,"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Blair, Lynn; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Hanagriff, Richard; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/367.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lynn.blair@enron.com, terry.kowalke@enron.com, john.buchanan@enron.com,"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John; Hanagriff, Richard"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Blair, Lynn; Kowalke, Terry; Buchanan, John; Hanagriff, Richard"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Schoolcraft, Darrell; Kowalke, Terry; Buchanan, John"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Blair, Lynn; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Hanagriff, Richard; Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 79,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Mulligan, Amy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/373.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "dale.ratliff@enron.com, gary.spraggins@enron.com, jerry.graves@enron.com,"
+      },
+      {
+         "from" : "dale.ratliff@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tRatliff, Dale  \n",
+         "to" : "Schoolcraft, Darrell; Spraggins, Gary; Graves, Jerry; Shafer, Allen"
+      },
+      {
+         "from" : "steve.january@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tJanuary, Steve  \n",
+         "to" : "Ratliff, Dale; McPherson, Cliff"
+      },
+      {
+         "from" : "cliff.mcpherson@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tMcPherson, Cliff  \n",
+         "to" : "January, Steve; Bryant, Mike; Freeman, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/383.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "perry.frazier@enron.com, james.studebaker@enron.com,"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Betancourt, Ramona ; Skertich, Gerald; Frazier, Perry"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Studebaker, James"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/384.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "james.studebaker@enron.com, perry.frazier@enron.com,"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Schoolcraft, Darrell; Frazier, Perry; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Frazier, Perry; Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "perry.frazier@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tFrazier, Perry  \n",
+         "to" : "Studebaker, James ; Betancourt, Ramona ; Skertich, Gerald"
+      },
+      {
+         "from" : "james.studebaker@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tStudebaker, James   \n",
+         "to" : "Betancourt, Ramona ; Skertich, Gerald; Frazier, Perry"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Studebaker, James"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/386.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "ramona.betancourt@enron.com, linda.trevino@enron.com,"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Trevino, Linda; Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Matheson, Maggie"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Trevino, Linda"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/387.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "linda.trevino@enron.com, ramona.betancourt@enron.com,"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Betancourt, Ramona ; Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Trevino, Linda; Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Schoolcraft, Darrell; Matheson, Maggie"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Trevino, Linda; Matheson, Maggie"
+      },
+      {
+         "from" : "linda.trevino@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tTrevino, Linda  \n",
+         "to" : "Matheson, Maggie"
+      },
+      {
+         "from" : "maggie.matheson@enron.com",
+         "line" : 106,
+         "rawfrom" : "\tMatheson, Maggie  \n",
+         "to" : "Trevino, Linda"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/40.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "michelle.lokay@enron.com, controllers.dl-ets@enron.com,"
+      },
+      {
+         "from" : "kggruhl@duke-energy.com",
+         "line" : 29,
+         "rawfrom" : "\t\"Kenneth G Gruhl\" <kggruhl@duke-energy.com>@ENRON [mailto:IMCEANOTES-+22Kenneth+20G+20Gruhl+22+20+3Ckggruhl+40duke-energy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "sickidv@texaco.com",
+         "line" : 45,
+         "rawfrom" : "Darrell.Schoolcraft\n",
+         "to" : "kggruhl@duke-energy.com"
+      },
+      {
+         "from" : "kggruhl@duke-energy.com",
+         "line" : 68,
+         "rawfrom" : "  \"Kenneth G Gruhl\" <kggruhl@duke-energy.com>@ENRON\n",
+         "to" : "Mulligan, Amy; Allen K Nielsen; blreese@duke-energy.com; Beck"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/41.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "kggruhl@duke-energy.com"
+      },
+      {
+         "from" : "kggruhl@duke-energy.com",
+         "line" : 27,
+         "rawfrom" : "\t\"Kenneth G Gruhl\" <kggruhl@duke-energy.com>@ENRON [mailto:IMCEANOTES-+22Kenneth+20G+20Gruhl+22+20+3Ckggruhl+40duke-energy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "sickidv@texaco.com",
+         "line" : 43,
+         "rawfrom" : "Darrell.Schoolcraft\n",
+         "to" : "kggruhl@duke-energy.com"
+      },
+      {
+         "from" : "kggruhl@duke-energy.com",
+         "line" : 66,
+         "rawfrom" : "  \"Kenneth G Gruhl\" <kggruhl@duke-energy.com>@ENRON\n",
+         "to" : "Mulligan, Amy; Allen K Nielsen; blreese@duke-energy.com; Beck"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/414.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "dl-etsgascontrollers@enron.com"
+      },
+      {
+         "from" : "mike_mccracken@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMcCracken, Mike  \n",
+         "to" : "Roswell, Team; Roswell-Capitan, Team; Hendricks, Jonny; Lawrence, Ed; McIlwain, Greg"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Graves, Jerry; McCracken, Mike"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "McCracken, Mike; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "mike_mccracken@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tMcCracken, Mike  \n",
+         "to" : "Graves, Jerry; Schoolcraft, Darrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/417.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "jerry.graves@enron.com, donna.scott@enron.com"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "Scott, Donna; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Schoolcraft, Darrell; Graves, Jerry"
+      },
+      {
+         "from" : "jeanne.licciardo@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tLicciardo, Jeanne  \n",
+         "to" : "Scott, Donna; Schoolcraft, Darrell; Graves, Jerry"
+      },
+      {
+         "from" : "donna.scott@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tScott, Donna  \n",
+         "to" : "Licciardo, Jeanne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/420.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "earl.chanley@enron.com, david.roensch@enron.com"
+      },
+      {
+         "from" : "earl_chanley@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tChanley, Earl  \n",
+         "to" : "Roensch, David"
+      },
+      {
+         "from" : "david.roensch@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tRoensch, David  \n",
+         "to" : "Chanley, Earl"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 65,
+         "rawfrom" : "From:\tEarl Chanley/ENRON@enronXgate on 02/14/2002 08:50 AM CST\n",
+         "to" : "David Roensch/ET&S/Enron@ENRON, Team San-Juan/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/430.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lorraine.lindberg@enron.com, dennis.lee@enron.com, perry.frazier@enron.com"
+      },
+      {
+         "from" : "lorraine_lindberg@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tLindberg, Lorraine  \n",
+         "to" : "Lee, Dennis; Schoolcraft, Darrell; Frazier, Perry"
+      },
+      {
+         "from" : "dlee@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tLee, Dennis  \n",
+         "to" : "Lindberg, Lorraine"
+      },
+      {
+         "from" : "lorraine_lindberg@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tLindberg, Lorraine  \n",
+         "to" : "Frazier, Perry; Lee, Dennis; Schoolcraft, Darrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/441.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "john.buchanan@enron.com"
+      },
+      {
+         "from" : "terry.kowalke@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKowalke, Terry  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Kowalke, Terry; Corman, Shelley; Betancourt, Ramona"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Kilmer III, Robert; Harris, Steven"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/442.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "john.buchanan@enron.com"
+      },
+      {
+         "from" : "ramona.betancourt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBetancourt, Ramona   \n",
+         "to" : "Donoho, Lindy; Kowalke, Terry; Corman, Shelley"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Kowalke, Terry; Corman, Shelley; Betancourt, Ramona"
+      },
+      {
+         "from" : "lindy.donoho@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tDonoho, Lindy  \n",
+         "to" : "Watson, Kimberly; Lindberg, Lorraine; Lohman, TK; Lokay, Michelle; McConnell, Mark; Y'barbo, Paul; Kilmer III, Robert; Harris, Steven"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/443.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "jerry.graves@enron.com, jeff.whippo@enron.com, steve.january@enron.com"
+      },
+      {
+         "from" : "jgraves@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tGraves, Jerry  \n",
+         "to" : "Whippo, Jeff; January, Steve; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Graves, Jerry"
+      },
+      {
+         "from" : "pat.vaughan@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tVaughan, Pat  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Vaughan, Pat"
+      },
+      {
+         "from" : "dan.pribble@enron.com",
+         "line" : 79,
+         "rawfrom" : "\tPribble, Dan  \n",
+         "to" : "Whippo, Jeff"
+      },
+      {
+         "from" : "jeff.whippo@enron.com",
+         "line" : 90,
+         "rawfrom" : "\tWhippo, Jeff  \n",
+         "to" : "Pribble, Dan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/447.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "mickey.lowe@enron.com, jerry.graves@enron.com"
+      },
+      {
+         "from" : "mickey.lowe@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tLowe, Mickey  \n",
+         "to" : "Graves, Jerry; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 37,
+         "rawfrom" : "From:\tDarrell Schoolcraft/ENRON@enronXgate on 02/25/2002 12:07 PM\n",
+         "to" : "Mickey Lowe/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "mickey.lowe@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tLowe, Mickey  \n",
+         "to" : "Schoolcraft, Darrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/449.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "michael.ratner@enron.com"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/459.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "michael.ratner@enron.com"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      },
+      {
+         "from" : "michael.ratner@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tRatner, Michael  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Ratner, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/482.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "paul.y'barbo@enron.com"
+      },
+      {
+         "from" : "dan.pribble@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPribble, Dan  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "norm.spalding@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tSpalding, Norm  \n",
+         "to" : "Jones, Timothy; Pribble, Dan; Brasher, Barney; San-Juan, Team; San-Juan-LaPlata, Team; Jones, Vera; Collins, Judy; Gallup, Team; Gallup-Sta4, Team; Gallup-Sta5, Team; Morse, Ronnie; Ingalls, Todd; Geheb, Robert; Bailey, Arnie; Roensch, David; Smith, Rick; Whippo, Jeff; Mayes, Josh; Honey, Lisa; Smith, Sarabeth; Knippa, Mark"
+      },
+      {
+         "from" : "timothy.jones@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tJones, Timothy  \n",
+         "to" : "Pribble, Dan; Brasher, Barney; San-Juan, Team; San-Juan-LaPlata, Team; Jones, Vera; Collins, Judy; Gallup, Team; Gallup-Sta4, Team; Gallup-Sta5, Team; Morse, Ronnie; Ingalls, Todd; Geheb, Robert; Bailey, Arnie; Roensch, David; Smith, Rick; Whippo, Jeff"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/5.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "steven.january@enron.com"
+      },
+      {
+         "from" : "steven.january@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tJanuary, Steven  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "January, Steven"
+      },
+      {
+         "from" : "steven.january@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tJanuary, Steven  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "DL-ETS Gas Controllers"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/51.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "john.sturn@enron.com, rich.jolly@enron.com, david.roensch@enron.com,"
+      },
+      {
+         "from" : "john.sturn@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tSturn, John  \n",
+         "to" : "Jolly, Rich; Schoolcraft, Darrell; Roensch, David; Sturn, John; McChane, Bob"
+      },
+      {
+         "from" : "john.sturn@enron.com",
+         "line" : 48,
+         "rawfrom" : "John Sturn/ET&S/Enron on 09/17/2001 12:50 PM ---------------------------\n",
+         "to" : "Ben Asante/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 57,
+         "rawfrom" : "From:\tBen Asante/ENRON@enronXgate on 09/12/2001 05:13 PM CDT\n",
+         "to" : "Rich Jolly/ET&S/Enron@ENRON, Darrell Schoolcraft/ENRON@enronXgate, David Roensch/ET&S/Enron@ENRON, John Sturn/ET&S/Enron@ENRON, Bob McChane/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/54.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lynn.blair@enron.com, terry.kowalke@enron.com"
+      },
+      {
+         "from" : "lynn.blair@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBlair, Lynn  \n",
+         "to" : "Kowalke, Terry; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "christine.mcevoy@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tMcEvoy, Christine  \n",
+         "to" : "Mulligan, Amy; Lindberg, Lorraine; Hanagriff, Richard; Schoolcraft, Darrell; Kowalke, Terry; Lohman, TK; Ward, Linda; ',christine.mcevoy@enron.com'"
+      },
+      {
+         "from" : "amy_mulligan@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tMulligan, Amy  \n",
+         "to" : "McEvoy, Christine; Lindberg, Lorraine; Hanagriff, Richard; Schoolcraft, Darrell; Kowalke, Terry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/75.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "controllers.dl-ets@enron.com"
+      },
+      {
+         "from" : "steve.weller@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tWeller, Steve  \n",
+         "to" : "LeBeau, Randy"
+      },
+      {
+         "from" : "randy.lebeau@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tLeBeau, Randy  \n",
+         "to" : "Weller, Steve"
+      },
+      {
+         "from" : "randy.lebeau@enron.com",
+         "line" : 45,
+         "rawfrom" : "Randy LeBeau/ET&S/Enron on 09/25/2001 03:03 PM ---------------------------\n",
+         "to" : "Randy LeBeau/ET&S/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/83.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "laura.giambrone@enron.com, bert.hernandez@enron.com, terry.kowalke@enron.com,"
+      },
+      {
+         "from" : "lynda_laferla@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tLaferla, Lynda   \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "kathy.washington@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWashington, Kathy  \n",
+         "to" : "Laferla, Lynda"
+      },
+      {
+         "from" : "cynthia.rivers@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tRivers, Cynthia  \n",
+         "to" : "Washington, Kathy"
+      },
+      {
+         "from" : "tim.cooper@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tCooper, Tim  \n",
+         "to" : "Rivers, Cynthia; Howard, Jack; Bellard, Dannis"
+      },
+      {
+         "from" : "alvareoa@bp.com",
+         "line" : 58,
+         "rawfrom" : "\t\"Alvarez, Orlando A\" <alvareoa@bp.com>@ENRON [mailto:IMCEANOTES-+22Alvarez+2C+20Orlando+20A+22+20+3Calvareoa+40bp+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Carlos Leon (E-mail); Denise Labra (E-mail); Ed Labra (E-mail); Jennifer Alvarez (new) (E-mail); Jim Swann (E-mail); 'Kevin Johnson' (E-mail); Mario Rivera (E-mail); Roger McCarthy (E-mail); Cooper, Tim"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/86.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "rich.jolly@enron.com"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tJolly, Rich  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 44,
+         "rawfrom" : "From:\tDarrell Schoolcraft/ENRON@enronXgate on 10/03/2001 06:42 AM CDT\n",
+         "to" : "Gary Choquette/ENRON@enronXgate, Rich Jolly/ET&S/Enron@ENRON, Rick Smith/ET&S/Enron@ENRON, David Roensch/ET&S/Enron@ENRON, Todd Ingalls/ET&S/Enron@ENRON, DL-ETS Gas Controllers@/O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-ETSGASCONTROLLERS@EX@enronXgate"
+      },
+      {
+         "from" : "team_gallup@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tGallup, Team  \n",
+         "to" : "Jolly, Rich; Smith, Rick; Roensch, David; Ingalls, Todd; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "angela.sayegh@enron.com",
+         "line" : 74,
+         "rawfrom" : "Angela.Sayegh@ENRON.com",
+         "to" : "\"DL-ETS Gas Controllers\" <DL-ETSGasControllers@ENRON.com>, <team_gallup@enron.com>, \"Ingalls, Todd\" <Todd.Ingalls@ENRON.com>, \"Jolly, Rich\" <Rich.Jolly@ENRON.com>, \"Choquette, Gary\" <Gary.Choquette@ENRON.com>, \"Littel, Steve\" <Steve.Littel@ENRON.com>, \"Ratliff, Dale\" <Dale.Ratliff@ENRON.com>, \"Smith, Mike J\" <Michael.J.Smith@ENRON.com>, \"Thompson, Rodney\" <Rodney.Thompson@ENRON.com>, \"Basha, Clifford\" <Clifford.Basha@ENRON.com>, \"Hagen, Bob\" <Bob.Hagen@ENRON.com>, \"Margoliner, George\" <George.Margoliner@ENRON.com>, \"Marshall, George\" <George.Marshall@ENRON.com>, \"Poole, Kenneth\" <Kenneth.Poole@ENRON.com>, \"Rodriguez, Ruben\" <Ruben.Rodriguez@ENRON.com>, \"Taft, Chris\" <Chris.Taft@ENRON.com>, \"White, Roderick\" <Roderick.White@ENRON.com>"
+      },
+      {
+         "from" : "gary.choquette@enron.com",
+         "line" : 128,
+         "rawfrom" : "\tChoquette, Gary\n",
+         "to" : "Schoolcraft, Darrell; Sayegh, Angela"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/87.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "lorraine.lindberg@enron.com"
+      },
+      {
+         "from" : "lorraine_lindberg@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tLindberg, Lorraine  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tJolly, Rich  \n",
+         "to" : "Lindberg, Lorraine; Frazier, Perry"
+      },
+      {
+         "from" : "rich.jolly@enron.com",
+         "line" : 43,
+         "rawfrom" : "Rich Jolly/ET&S/Enron on 10/02/2001 02:18 PM ---------------------------\n",
+         "to" : "Arnie Bailey/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "arnie.bailey@enron.com",
+         "line" : 58,
+         "rawfrom" : " Arnie Bailey                           10/01/2001 02:59 PM\t\n",
+         "to" : "Perry Frazier/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 70,
+         "rawfrom" : "From:\tPerry Frazier/ENRON@enronXgate on 09/28/2001 10:48 AM CDT\n",
+         "to" : "\"lkunkel@trigon-sheehan.com@ENRON\" <IMCEANOTES-lkunkel+40trigon-sheehan+2Ecom+40ENRON@ENRON.com>@SMTP@enronXgate, Earl Chanley/ENRON@enronXgate"
+      },
+      {
+         "from" : "lkunkel@trigon-sheehan.com",
+         "line" : 89,
+         "rawfrom" : "\tlkunkel@trigon-sheehan.com@ENRON [mailto:IMCEANOTES-lkunkel+40trigon-sheehan+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Frazier, Perry"
+      },
+      {
+         "from" : "lkunkel@trigon-sheehan.com",
+         "line" : 98,
+         "rawfrom" : "\tLaura Kunkel\n",
+         "to" : "'Perry.Frazier@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/94.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "audrey.robertson@enron.com"
+      },
+      {
+         "from" : "audrey.robertson@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tRobertson, Audrey  \n",
+         "to" : "Schoolcraft, Darrell"
+      },
+      {
+         "from" : "dschool@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tSchoolcraft, Darrell  \n",
+         "to" : "Robertson, Audrey"
+      },
+      {
+         "from" : "audrey.robertson@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tRobertson, Audrey  \n",
+         "to" : "Schoolcraft, Darrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/sent_items/99.",
+   "hops" : [
+      {
+         "from" : "darrell.schoolcraft@enron.com",
+         "line" : 4,
+         "rawfrom" : "darrell.schoolcraft@enron.com\r\n",
+         "to" : "richard.hanagriff@enron.com, michelle.lokay@enron.com"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Lokay, Michelle"
+      },
+      {
+         "from" : "mlokay@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tLokay, Michelle  \n",
+         "to" : "Hanagriff, Richard; Schoolcraft, Darrell"
+      },
+      {
+         "from" : "richard.hanagriff@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tHanagriff, Richard  \n",
+         "to" : "Schoolcraft, Darrell; Lokay, Michelle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/schoolcraft-d/tw/13.",
+   "hops" : [
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 4,
+         "rawfrom" : "melinda.gallishaw@enron.com\r\n",
+         "to" : "arnie.bailey@enron.com, rick.smith@enron.com, david.roensch@enron.com,"
+      },
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tGallishaw, Melinda  \n",
+         "to" : "Bailey, Arnie; Smith, Rick; Roensch, David; Bandel, Bob; Ford, John; Howard, Randy; Jordan, Fred; Lawrence, James R.; Lowe, Mickey; Miller, David A. (Eunice); Mobley, Randall; Newman, Robert; Noyes, David; Reed, Ray; Williams, Walt; Nabors-Collins, Judy; Pool, Deelyn; Alters, Dennis; Brasher, Barney; Clark, Scott; Crowl, Ken; Davenport, Ronny; Harkreader, Jerry ; Hernandez, Dahlia; January, Steve; Lebeau, Randy; Maestas, Gary; Nelson, Mike; Schoolcraft, Darrell; Stephens, LD; Thompson, Charlie; Urban, Larry; Whippo, Jeff"
+      },
+      {
+         "from" : "amelia.alder@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tAlder, Amelia  \n",
+         "to" : "Gallishaw, Melinda"
+      },
+      {
+         "from" : "melinda.gallishaw@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tGallishaw, Melinda  \n",
+         "to" : "Alder, Amelia"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,421 @@
+[
+{
+   "file" : "enron-raw/reitmeyer-j/inbox/130.",
+   "hops" : [
+      {
+         "from" : "jennsreit@houston.rr.com",
+         "line" : 4,
+         "rawfrom" : "jennsreit@houston.rr.com\r\n",
+         "to" : "jreitme@enron.com"
+      },
+      {
+         "from" : "bruno@ufreight.com",
+         "line" : 21,
+         "rawfrom" : "bruno [mailto:bruno@ufreight.com]\n",
+         "to" : "bruno; Jennifer Reitmeyer"
+      },
+      {
+         "from" : "bruno@firstconf.com",
+         "line" : 40,
+         "rawfrom" : "bruno \n",
+         "to" : "'Jennifer Reitmeyer'"
+      },
+      {
+         "from" : "jennsreit@houston.rr.com",
+         "line" : 69,
+         "rawfrom" : "Jennifer Reitmeyer [mailto:jennsreit@houston.rr.com]\n",
+         "to" : "bruno@ufreight.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/inbox/17.",
+   "hops" : [
+      {
+         "from" : "l..gay@enron.com",
+         "line" : 4,
+         "rawfrom" : "l..gay@enron.com\r\n",
+         "to" : "m..tholt@enron.com, p..south@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from" : "george.f.smith@enron.com",
+         "line" : 23,
+         "rawfrom" : "Smith, George F. \n",
+         "to" : "Gay, Randall L."
+      },
+      {
+         "from" : "james.lessor@enron.com",
+         "line" : 31,
+         "rawfrom" : "Lessor, James N. \n",
+         "to" : "Smith, George F."
+      },
+      {
+         "from" : "mary.lessor@enron.com",
+         "line" : 39,
+         "rawfrom" : "Lessor, Mary \n",
+         "to" : "Lessor, James N."
+      },
+      {
+         "from" : "tania.patel@enron.com",
+         "line" : 47,
+         "rawfrom" : "Patel, Tania \n",
+         "to" : "Acevedo, Felecia; Aguilar, Christa; Aulds, Sharon; Brown, Aaron (Executive Comp); Bryant, Dana; Butler, Pam; Carrera, Susan; Etienne, Bernadette; Garcia, Susan; Ivy, Jason; Lessor, Mary; Ratcliff, Renee; Shealor, Bob; Skarness, Susan; Ward, Cindy R.; Wright, Teresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/inbox/216.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "jay.reitmeyer@enron.com"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "rrowley@houston.sns.slb.com",
+         "line" : 41,
+         "rawfrom" : "Roger Rowley [mailto:rrowley@houston.sns.slb.com]\n",
+         "to" : "BK68@aol.com; bjnugent@hewitt.com; james_brou@fmi.com;"
+      },
+      {
+         "from" : "hreed@houston.sns.slb.com",
+         "line" : 58,
+         "rawfrom" : "Hans Reed <hreed@houston.sns.slb.com>\n",
+         "to" : "Roger R <rrowley@houston.sns.slb.com>, Jeff Kahlan"
+      },
+      {
+         "from" : "wade.julian@inwoodbank.com",
+         "line" : 68,
+         "rawfrom" : "Wade Julian <wade.julian@inwoodbank.com>\n",
+         "to" : "hrogers@espivideo.com, ryan.hefton@inwoodbank.com,"
+      },
+      {
+         "from" : "cjulian@lubbocknational.com",
+         "line" : 80,
+         "rawfrom" : "<cjulian@lubbocknational.com>\n",
+         "to" : "<gbednarz@wtcat.com>; <wade.julian@inwoodbank.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/inbox/24.",
+   "hops" : [
+      {
+         "from" : "carole.frank@enron.com",
+         "line" : 4,
+         "rawfrom" : "carole.frank@enron.com\r\n",
+         "to" : "jay.reitmeyer@enron.com"
+      },
+      {
+         "from" : "sean.riordan@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRiordan, Sean  \n",
+         "to" : "Castro, Shielah"
+      },
+      {
+         "from" : "shielah.castro@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tCastro, Shielah  \n",
+         "to" : "Riordan, Sean"
+      },
+      {
+         "from" : "shielah.castro@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tCastro, Shielah  \n",
+         "to" : "Riordan, Sean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/inbox/364.",
+   "hops" : [
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 4,
+         "rawfrom" : "torrey.moorer@enron.com\r\n",
+         "to" : "jay.reitmeyer@enron.com"
+      },
+      {
+         "from" : "dat.truong@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTruong, Dat  \n",
+         "to" : "Moorer, Torrey"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tMoorer, Torrey  \n",
+         "to" : "Truong, Dat"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Moorer, Torrey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/inbox/432.",
+   "hops" : [
+      {
+         "from" : "theresa.staab@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.staab@enron.com\r\n",
+         "to" : "jay.reitmeyer@enron.com"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Reitmeyer, Jay; Lucci, Paul T."
+      },
+      {
+         "from" : "scott.sitter@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tSitter, Scott  \n",
+         "to" : "Staab, Theresa; Sylvia Reza (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/sent_items/27.",
+   "hops" : [
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.reitmeyer@enron.com\r\n",
+         "to" : "monique.sanchez@enron.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 26,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "Grigsby, Mike; Reitmeyer, Jay"
+      },
+      {
+         "from" : "yan.wang@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWang, Yan  \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 42,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "Wang, Yan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/sent_items/38.",
+   "hops" : [
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.reitmeyer@enron.com\r\n",
+         "to" : "h..otto@enron.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Tori \n",
+         "to" : "Reitmeyer, Jay"
+      },
+      {
+         "from" : "pkuykendall@wm.com",
+         "line" : 32,
+         "rawfrom" : "Kuykendall, Patrick M. [mailto:PKuykendall@wm.com]\n",
+         "to" : "Kuykendall, Tori"
+      },
+      {
+         "from" : "rrowley@houston.sns.slb.com",
+         "line" : 51,
+         "rawfrom" : "Roger Rowley [mailto:rrowley@houston.sns.slb.com]\n",
+         "to" : "BK68@aol.com; bjnugent@hewitt.com; james_brou@fmi.com;"
+      },
+      {
+         "from" : "hreed@houston.sns.slb.com",
+         "line" : 68,
+         "rawfrom" : "Hans Reed <hreed@houston.sns.slb.com>\n",
+         "to" : "Roger R <rrowley@houston.sns.slb.com>, Jeff Kahlan"
+      },
+      {
+         "from" : "wade.julian@inwoodbank.com",
+         "line" : 78,
+         "rawfrom" : "Wade Julian <wade.julian@inwoodbank.com>\n",
+         "to" : "hrogers@espivideo.com, ryan.hefton@inwoodbank.com,"
+      },
+      {
+         "from" : "cjulian@lubbocknational.com",
+         "line" : 90,
+         "rawfrom" : "<cjulian@lubbocknational.com>\n",
+         "to" : "<gbednarz@wtcat.com>; <wade.julian@inwoodbank.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.reitmeyer@enron.com\r\n",
+         "to" : "torrey.moorer@enron.com"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tMoorer, Torrey  \n",
+         "to" : "Reitmeyer, Jay"
+      },
+      {
+         "from" : "dat.truong@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tTruong, Dat  \n",
+         "to" : "Moorer, Torrey"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tMoorer, Torrey  \n",
+         "to" : "Truong, Dat"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Moorer, Torrey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/sent_items/69.",
+   "hops" : [
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.reitmeyer@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Reitmeyer, Jay"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Reitmeyer, Jay; Lucci, Paul T."
+      },
+      {
+         "from" : "scott.sitter@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tSitter, Scott  \n",
+         "to" : "Staab, Theresa; Sylvia Reza (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/sent_items/72.",
+   "hops" : [
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.reitmeyer@enron.com\r\n",
+         "to" : "jennsreit@houston.rr.com"
+      },
+      {
+         "from" : "jennsreit@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "Jennifer Reitmeyer [mailto:jennsreit@houston.rr.com]\n",
+         "to" : "Reitmeyer, Jay"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 31,
+         "rawfrom" : "Reitmeyer, Jay [mailto:Jay.Reitmeyer@enron.com]\n",
+         "to" : "Jennifer Reitmeyer"
+      },
+      {
+         "from" : "jennsreit@houston.rr.com",
+         "line" : 43,
+         "rawfrom" : "Jennifer Reitmeyer [mailto:jennsreit@houston.rr.com]\n",
+         "to" : "Jay"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/reitmeyer-j/sent_items/77.",
+   "hops" : [
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "jay.reitmeyer@enron.com\r\n",
+         "to" : "'mack@enron.com, gmack@utep.edu"
+      },
+      {
+         "from" : "gmack@utep.edu",
+         "line" : 28,
+         "rawfrom" : "Mack, Geralyn [mailto:gmack@utep.edu]\n",
+         "to" : "Reitmeyer, Jay"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 52,
+         "rawfrom" : "Reitmeyer, Jay [mailto:Jay.Reitmeyer@ENRON.com]\n",
+         "to" : "Mack, Geralyn"
+      },
+      {
+         "from" : "gmack@utep.edu",
+         "line" : 70,
+         "rawfrom" : "Mack, Geralyn [mailto:gmack@utep.edu]\n",
+         "to" : "Reitmeyer, Jay"
+      }
+   ],
+   "skipped" : 0
+}
+]

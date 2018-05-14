@@ -1,0 +1,1962 @@
+[
+{
+   "file" : "enron-raw/fischer-m/all_documents/18.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 23,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/07/2002 \n",
+         "to" : "Klaus Holtel/DEVELOP/TWT/DE@TWTDE"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 80,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/06/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON, Ulrich Schomakers/SERVICE/TWT/DE@TWTDE,"
+      },
+      {
+         "from" : "ulrich.schomakers@enron.com",
+         "line" : 207,
+         "rawfrom" : "Ulrich Schomakers@TWTDE\n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/23.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 29,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/08/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 45,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Mike Lewis/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 64,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/08/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/239.",
+   "hops" : [
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 4,
+         "rawfrom" : "benjamin.bell@enron.com\r\n",
+         "to" : "lois.woodland@enron.com"
+      },
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 33,
+         "rawfrom" : "Benjamin Bell/EWC/Enron on 05/27/2002 \n",
+         "to" : "Michael@zilkha.com"
+      },
+      {
+         "from" : "michael@zilkha.com",
+         "line" : 62,
+         "rawfrom" : "Michael@zilkha.com on 05/23/2002 11:40:05 AM\n",
+         "to" : "steven.zwolinski@ps.ge.com, colleen.repplier@ps.ge.com,"
+      },
+      {
+         "from" : "gverkleeren@zilkha.com",
+         "line" : 153,
+         "rawfrom" : "\"Gary Verkleeren\" <GVerkleeren@zilkha.com>\n",
+         "to" : "<kurt.anderson@ps.ge.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/251.",
+   "hops" : [
+      {
+         "from" : "kurt.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "kurt.anderson@enron.com\r\n",
+         "to" : "benjamin.bell@enron.com"
+      },
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 90,
+         "rawfrom" : "Benjamin Bell/EWC/Enron on 05/27/2002 \n",
+         "to" : "Michael@zilkha.com"
+      },
+      {
+         "from" : "michael@zilkha.com",
+         "line" : 119,
+         "rawfrom" : "Michael@zilkha.com on 05/23/2002 11:40:05 AM\n",
+         "to" : "steven.zwolinski@ps.ge.com, colleen.repplier@ps.ge.com,"
+      },
+      {
+         "from" : "gverkleeren@zilkha.com",
+         "line" : 210,
+         "rawfrom" : "\"Gary Verkleeren\" <GVerkleeren@zilkha.com>\n",
+         "to" : "<kurt.anderson@ps.ge.com>"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/328.",
+   "hops" : [
+      {
+         "from" : "jeff.duff@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.duff@enron.com\r\n",
+         "to" : "kurt.anderson@enron.com"
+      },
+      {
+         "from" : "dfmatson@attbi.com",
+         "line" : 62,
+         "rawfrom" : "dfmatson@attbi.com",
+         "to" : "? ? ? ?Jeff Duff <Jeff.Duff@ps.ge.com>, Ward Marshall"
+      },
+      {
+         "from" : "wcmarshall@aep.com",
+         "line" : 93,
+         "rawfrom" : "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "to" : "JEJackson@cps-satx.com"
+      },
+      {
+         "from" : "jejackson@cps-satx.com",
+         "line" : 127,
+         "rawfrom" : "JEJackson@cps-satx.com",
+         "to" : "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from" : "tnmccastlain@aep.com",
+         "line" : 148,
+         "rawfrom" : "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "to" : "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/33.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 23,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 37,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/12/2002 08:34 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 55,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/08/2002 04:09 \n",
+         "to" : "Jim Wallace/EWC/Enron@Enron"
+      },
+      {
+         "from" : "k@nytimes.com",
+         "line" : 98,
+         "rawfrom" : "K.D.  Meyer \n",
+         "to" : "Jodi.Bello@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/330.",
+   "hops" : [
+      {
+         "from" : "jeff.duff@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.duff@enron.com\r\n",
+         "to" : "wcmarshall@aep.com"
+      },
+      {
+         "from" : "wcmarshall@aep.com",
+         "line" : 41,
+         "rawfrom" : "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "to" : "JEJackson@cps-satx.com"
+      },
+      {
+         "from" : "jejackson@cps-satx.com",
+         "line" : 75,
+         "rawfrom" : "JEJackson@cps-satx.com",
+         "to" : "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from" : "tnmccastlain@aep.com",
+         "line" : 96,
+         "rawfrom" : "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "to" : "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/331.",
+   "hops" : [
+      {
+         "from" : "kim.nguyen@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.nguyen@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 36,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 75,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 87,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 114,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/333.",
+   "hops" : [
+      {
+         "from" : "kim.nguyen@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.nguyen@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 38,
+         "rawfrom" : "Mark Fisher\n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 68,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 92,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 131,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 143,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 170,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/338.",
+   "hops" : [
+      {
+         "from" : "john.ruiz@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.ruiz@enron.com\r\n",
+         "to" : "kim.nguyen@enron.com"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 48,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 70,
+         "rawfrom" : "Mark Fisher\n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 100,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 124,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 163,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 175,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 202,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/35.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 24,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 51,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 65,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/12/2002 08:34 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 83,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/08/2002 04:09 \n",
+         "to" : "Jim Wallace/EWC/Enron@Enron"
+      },
+      {
+         "from" : "k@nytimes.com",
+         "line" : 126,
+         "rawfrom" : "K.D.  Meyer \n",
+         "to" : "Jodi.Bello@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/54.",
+   "hops" : [
+      {
+         "from" : "olivia.martinez@enron.com",
+         "line" : 4,
+         "rawfrom" : "olivia.martinez@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 68,
+         "rawfrom" : "Mark Fisher\n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 87,
+         "rawfrom" : "Mark Fisher/EWC/Enron on 03/21/2002 08:18 \n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 129,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 147,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/20/2002 \n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON, Bo Thisted/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 5
+}
+,
+{
+   "file" : "enron-raw/fischer-m/all_documents/72.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com, mark.walker@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 71,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Bo Thisted/EWC/Enron@Enron"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 91,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/19/2002 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 109,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/05/2002 \n",
+         "to" : "Mike Abbott/EWC/Enron@ENRON, George Griese/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/fischer-m/current_estimate/1.",
+   "hops" : [
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 4,
+         "rawfrom" : "patricia.lee@enron.com\r\n",
+         "to" : "dara.flinn@enron.com, mary.fischer@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 25,
+         "rawfrom" : "From:=09Michelle Leblanc/ENRON@enronXgate on 07/31/2001 01:34 PM\r\n",
+         "to" : "=09Elizabeth Atkinson/ENRON@enronXgate, Chris Blizard/Enron@EUEnronXgate="
+      },
+      {
+         "from" : "=09leblanc, michelle =20",
+         "line" : 58,
+         "rawfrom" : "=09LeBlanc, Michelle =20\r\n",
+         "to" : "=09Atkinson, Elizabeth; Blizard, Chris; Burgess, Jay; De La Cruz, Obed; ="
+      },
+      {
+         "from" : "=09leblanc, michelle =20",
+         "line" : 76,
+         "rawfrom" : "=09LeBlanc, Michelle =20\r\n",
+         "to" : "=09Atkinson, Elizabeth; Blizard, Chris; Burgess, Jay; De La Cruz, Obed; ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/current_estimate/11.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "suzanne.russell@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 22,
+         "rawfrom" : "From:=09Michelle Leblanc/ENRON@enronXgate on 07/31/2001 01:34 PM\r\n",
+         "to" : "=09Elizabeth Atkinson/ENRON@enronXgate, Chris Blizard/Enron@EUEnronXgate="
+      },
+      {
+         "from" : "=09leblanc, michelle =20",
+         "line" : 55,
+         "rawfrom" : "=09LeBlanc, Michelle =20\r\n",
+         "to" : "=09Atkinson, Elizabeth; Blizard, Chris; Burgess, Jay; De La Cruz, Obed; ="
+      },
+      {
+         "from" : "=09leblanc, michelle =20",
+         "line" : 73,
+         "rawfrom" : "=09LeBlanc, Michelle =20\r\n",
+         "to" : "=09Atkinson, Elizabeth; Blizard, Chris; Burgess, Jay; De La Cruz, Obed; ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/deleted_items/92.",
+   "hops" : [
+      {
+         "from" : "todd.richards@enron.com",
+         "line" : 4,
+         "rawfrom" : "todd.richards@enron.com\r\n",
+         "to" : "mary.fischer@enron.com"
+      },
+      {
+         "from" : "vicsandra.trujillo@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tTrujillo, Vicsandra  \n",
+         "to" : "Swafford, John; Ng, Mark; Fischer, Mary"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tLee, Patricia A.  \n",
+         "to" : "Trujillo, Vicsandra"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tEssie Locklear  \n",
+         "to" : "Patricia A Lee"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tLee, Patricia  \n",
+         "to" : "Locklear, Essie"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 78,
+         "rawfrom" : "From:\tLeon Branom/ENRON@enronXgate on 09/17/2001 02:56 PM\n",
+         "to" : "Vicsandra Trujillo/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/deleted_items/96.",
+   "hops" : [
+      {
+         "from" : "mark.ng@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.ng@enron.com\r\n",
+         "to" : "vicsandra.trujillo@enron.com, john.swafford@enron.com,"
+      },
+      {
+         "from" : "vicsandra.trujillo@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tTrujillo, Vicsandra  \n",
+         "to" : "Swafford, John; Ng, Mark; Fischer, Mary"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLee, Patricia A.  \n",
+         "to" : "Trujillo, Vicsandra"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tEssie Locklear  \n",
+         "to" : "Patricia A Lee"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tLee, Patricia  \n",
+         "to" : "Locklear, Essie"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 74,
+         "rawfrom" : "From:\tLeon Branom/ENRON@enronXgate on 09/17/2001 02:56 PM\n",
+         "to" : "Vicsandra Trujillo/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/deleted_items/99.",
+   "hops" : [
+      {
+         "from" : "vicsandra.trujillo@enron.com",
+         "line" : 4,
+         "rawfrom" : "vicsandra.trujillo@enron.com\r\n",
+         "to" : "john.swafford@enron.com, mark.ng@enron.com, mary.fischer@enron.com"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tLee, Patricia A.  \n",
+         "to" : "Trujillo, Vicsandra"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tEssie Locklear  \n",
+         "to" : "Patricia A Lee"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tLee, Patricia  \n",
+         "to" : "Locklear, Essie"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 61,
+         "rawfrom" : "From:\tLeon Branom/ENRON@enronXgate on 09/17/2001 02:56 PM\n",
+         "to" : "Vicsandra Trujillo/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/16.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 23,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/07/2002 \n",
+         "to" : "Klaus Holtel/DEVELOP/TWT/DE@TWTDE"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 80,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/06/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON, Ulrich Schomakers/SERVICE/TWT/DE@TWTDE,"
+      },
+      {
+         "from" : "ulrich.schomakers@enron.com",
+         "line" : 207,
+         "rawfrom" : "Ulrich Schomakers@TWTDE\n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/176.",
+   "hops" : [
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 4,
+         "rawfrom" : "benjamin.bell@enron.com\r\n",
+         "to" : "lois.woodland@enron.com"
+      },
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 33,
+         "rawfrom" : "Benjamin Bell/EWC/Enron on 05/27/2002 \n",
+         "to" : "Michael@zilkha.com"
+      },
+      {
+         "from" : "michael@zilkha.com",
+         "line" : 62,
+         "rawfrom" : "Michael@zilkha.com on 05/23/2002 11:40:05 AM\n",
+         "to" : "steven.zwolinski@ps.ge.com, colleen.repplier@ps.ge.com,"
+      },
+      {
+         "from" : "gverkleeren@zilkha.com",
+         "line" : 153,
+         "rawfrom" : "\"Gary Verkleeren\" <GVerkleeren@zilkha.com>\n",
+         "to" : "<kurt.anderson@ps.ge.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/177.",
+   "hops" : [
+      {
+         "from" : "kurt.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "kurt.anderson@enron.com\r\n",
+         "to" : "benjamin.bell@enron.com"
+      },
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 90,
+         "rawfrom" : "Benjamin Bell/EWC/Enron on 05/27/2002 \n",
+         "to" : "Michael@zilkha.com"
+      },
+      {
+         "from" : "michael@zilkha.com",
+         "line" : 119,
+         "rawfrom" : "Michael@zilkha.com on 05/23/2002 11:40:05 AM\n",
+         "to" : "steven.zwolinski@ps.ge.com, colleen.repplier@ps.ge.com,"
+      },
+      {
+         "from" : "gverkleeren@zilkha.com",
+         "line" : 210,
+         "rawfrom" : "\"Gary Verkleeren\" <GVerkleeren@zilkha.com>\n",
+         "to" : "<kurt.anderson@ps.ge.com>"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/20.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 29,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/08/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 45,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Mike Lewis/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 64,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/08/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/253.",
+   "hops" : [
+      {
+         "from" : "kim.nguyen@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.nguyen@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 36,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 75,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 87,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 114,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/28.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 23,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 37,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/12/2002 08:34 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 55,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/08/2002 04:09 \n",
+         "to" : "Jim Wallace/EWC/Enron@Enron"
+      },
+      {
+         "from" : "k@nytimes.com",
+         "line" : 98,
+         "rawfrom" : "K.D.  Meyer \n",
+         "to" : "Jodi.Bello@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/29.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 24,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 51,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 65,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/12/2002 08:34 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 83,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/08/2002 04:09 \n",
+         "to" : "Jim Wallace/EWC/Enron@Enron"
+      },
+      {
+         "from" : "k@nytimes.com",
+         "line" : 126,
+         "rawfrom" : "K.D.  Meyer \n",
+         "to" : "Jodi.Bello@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/discussion_threads/59.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com, mark.walker@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 71,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Bo Thisted/EWC/Enron@Enron"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 91,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/19/2002 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 109,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/05/2002 \n",
+         "to" : "Mike Abbott/EWC/Enron@ENRON, George Griese/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/fischer-m/inbox/16.",
+   "hops" : [
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.swafford@enron.com\r\n",
+         "to" : "facundo.caminos@enron.com"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Swafford, John; Caminos, Facundo; Merritt, Michelle"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Caminos, Facundo"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Fischer, Mary; Ng, Mark"
+      },
+      {
+         "from" : "donette.dewar@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tDewar, Donette  \n",
+         "to" : "Locklear, Essie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/inbox/19.",
+   "hops" : [
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.swafford@enron.com\r\n",
+         "to" : "mary.fischer@enron.com, facundo.caminos@enron.com"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Caminos, Facundo"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Swafford, John; Caminos, Facundo; Merritt, Michelle"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Caminos, Facundo"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Fischer, Mary; Ng, Mark"
+      },
+      {
+         "from" : "donette.dewar@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tDewar, Donette  \n",
+         "to" : "Locklear, Essie"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/inbox/20.",
+   "hops" : [
+      {
+         "from" : "mark.ng@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.ng@enron.com\r\n",
+         "to" : "facundo.caminos@enron.com, mary.fischer@enron.com"
+      },
+      {
+         "from" : "mark.ng@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tNg, Mark  \n",
+         "to" : "Swafford, John; Trujillo, Vicsandra"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Ng, Mark"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tLee, Patricia A.  \n",
+         "to" : "Trujillo, Vicsandra; Laird, Richard; Swafford, John"
+      },
+      {
+         "from" : "robert.guthrie@enron.com",
+         "line" : 87,
+         "rawfrom" : "\tGuthrie, Robert  \n",
+         "to" : "Lee, Patricia A."
+      },
+      {
+         "from" : "lillian.bailey@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tBailey, Lillian  \n",
+         "to" : "Guthrie, Robert"
+      },
+      {
+         "from" : "robert.guthrie@enron.com",
+         "line" : 114,
+         "rawfrom" : "\tGuthrie, Robert  \n",
+         "to" : "Bailey, Lillian"
+      },
+      {
+         "from" : "lillian.bailey@enron.com",
+         "line" : 123,
+         "rawfrom" : "\tBailey, Lillian  \n",
+         "to" : "Leo, Johnson"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/inbox/26.",
+   "hops" : [
+      {
+         "from" : "olga.herrera@enron.com",
+         "line" : 4,
+         "rawfrom" : "olga.herrera@enron.com\r\n",
+         "to" : "jeff.herrold@enron.com, mary.fischer@enron.com"
+      },
+      {
+         "from" : "frank.prejean@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tPrejean, Frank  \n",
+         "to" : "Herrera, Olga; White, Nicole"
+      },
+      {
+         "from" : "linda.loukanis@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tLoukanis, Linda K.  \n",
+         "to" : "Prejean, Frank"
+      },
+      {
+         "from" : "jeff.herrold@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tHerrold, Jeff  \n",
+         "to" : "Schultz, Michelle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/inbox/39.",
+   "hops" : [
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.swafford@enron.com\r\n",
+         "to" : "mary.fischer@enron.com"
+      },
+      {
+         "from" : "donette.dewar@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tDewar, Donette  \n",
+         "to" : "Lee, Patricia A.; Swafford, John"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Dewar, Donette; Vasconcellos, Brent"
+      },
+      {
+         "from" : "teresa.callahan@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tCallahan, Teresa  \n",
+         "to" : "Rogers, Rex; Rice, Greek; Essig, Carol; Johnson, Kelly; Holsworth, Mark; Barrow, Cynthia; Bouillion, James L.; Burgess, Jay; Cheek, Charles; Cole, Kate; Davis, Hardie; Derrick Jr., James; Funk, Brenda L.; Hawley, Regina; Hrna, Sandra; Hu, Sylvia; Karathanos, Gina; LaBaume, Wanda; Lackey, Shelly; Leo, Johnson; Locklear, Essie; Mintz, Jordan; Moore, Jerry Thomas; Perkins, Mary; Pham, Lynda; Priddy, Janice; Ramirez, Angie; SAP Master Data; Stephens, Becky; Trujillo, Vicsandra; Whiting, Greg; Wilcott, Robert; Pinder, Lori; Pardue, Larry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/inbox/4.",
+   "hops" : [
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 4,
+         "rawfrom" : "patricia.lee@enron.com\r\n",
+         "to" : "john.swafford@enron.com, mary.fischer@enron.com"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 28,
+         "rawfrom" : "Patricia A Lee/HOU/EES on 08/17/2001 03:57 PM ---------------------------\n",
+         "to" : "Cathy Pittenger/HOU/EES@EES"
+      },
+      {
+         "from" : "cathy.pittenger@enron.com",
+         "line" : 40,
+         "rawfrom" : "Cathy Pittenger\n",
+         "to" : "Sara Ray/HOU/EES@EES"
+      },
+      {
+         "from" : "shusser@enron.com",
+         "line" : 79,
+         "rawfrom" : "Shanna Husser/HOU/EES on 08/10/2001 12:49 PM ---------------------------\n",
+         "to" : "Sara Ray/HOU/EES@EES, Kimberly Nelson/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/157.",
+   "hops" : [
+      {
+         "from" : "kurt.anderson@enron.com",
+         "line" : 4,
+         "rawfrom" : "kurt.anderson@enron.com\r\n",
+         "to" : "benjamin.bell@enron.com"
+      },
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 90,
+         "rawfrom" : "Benjamin Bell/EWC/Enron on 05/27/2002 \n",
+         "to" : "Michael@zilkha.com"
+      },
+      {
+         "from" : "michael@zilkha.com",
+         "line" : 119,
+         "rawfrom" : "Michael@zilkha.com on 05/23/2002 11:40:05 AM\n",
+         "to" : "steven.zwolinski@ps.ge.com, colleen.repplier@ps.ge.com,"
+      },
+      {
+         "from" : "gverkleeren@zilkha.com",
+         "line" : 210,
+         "rawfrom" : "\"Gary Verkleeren\" <GVerkleeren@zilkha.com>\n",
+         "to" : "<kurt.anderson@ps.ge.com>"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/169.",
+   "hops" : [
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 4,
+         "rawfrom" : "benjamin.bell@enron.com\r\n",
+         "to" : "lois.woodland@enron.com"
+      },
+      {
+         "from" : "benjamin.bell@enron.com",
+         "line" : 33,
+         "rawfrom" : "Benjamin Bell/EWC/Enron on 05/27/2002 \n",
+         "to" : "Michael@zilkha.com"
+      },
+      {
+         "from" : "michael@zilkha.com",
+         "line" : 62,
+         "rawfrom" : "Michael@zilkha.com on 05/23/2002 11:40:05 AM\n",
+         "to" : "steven.zwolinski@ps.ge.com, colleen.repplier@ps.ge.com,"
+      },
+      {
+         "from" : "gverkleeren@zilkha.com",
+         "line" : 153,
+         "rawfrom" : "\"Gary Verkleeren\" <GVerkleeren@zilkha.com>\n",
+         "to" : "<kurt.anderson@ps.ge.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/336.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com, mark.walker@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 71,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Bo Thisted/EWC/Enron@Enron"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 91,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/19/2002 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 109,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/05/2002 \n",
+         "to" : "Mike Abbott/EWC/Enron@ENRON, George Griese/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/354.",
+   "hops" : [
+      {
+         "from" : "olivia.martinez@enron.com",
+         "line" : 4,
+         "rawfrom" : "olivia.martinez@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 68,
+         "rawfrom" : "Mark Fisher\n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 87,
+         "rawfrom" : "Mark Fisher/EWC/Enron on 03/21/2002 08:18 \n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 129,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 147,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/20/2002 \n",
+         "to" : "Kurt Anderson/EWC/Enron@ENRON, Bo Thisted/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 5
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/373.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 24,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 51,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 65,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/12/2002 08:34 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 83,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/08/2002 04:09 \n",
+         "to" : "Jim Wallace/EWC/Enron@Enron"
+      },
+      {
+         "from" : "k@nytimes.com",
+         "line" : 126,
+         "rawfrom" : "K.D.  Meyer \n",
+         "to" : "Jodi.Bello@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/375.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 23,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/12/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 37,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/12/2002 08:34 \n",
+         "to" : "Bo Thisted/EWC/Enron@Enron, Mike Abbott/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "jawallace12050@aol.com",
+         "line" : 55,
+         "rawfrom" : "Jim Wallace/EWC/Enron on 03/08/2002 04:09 \n",
+         "to" : "Jim Wallace/EWC/Enron@Enron"
+      },
+      {
+         "from" : "k@nytimes.com",
+         "line" : 98,
+         "rawfrom" : "K.D.  Meyer \n",
+         "to" : "Jodi.Bello@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/385.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 29,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/08/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 45,
+         "rawfrom" : "Hollis Kimbrough\n",
+         "to" : "Mike Lewis/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 64,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/08/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/390.",
+   "hops" : [
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 4,
+         "rawfrom" : "hollis.kimbrough@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 23,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/07/2002 \n",
+         "to" : "Klaus Holtel/DEVELOP/TWT/DE@TWTDE"
+      },
+      {
+         "from" : "hollis.kimbrough@enron.com",
+         "line" : 80,
+         "rawfrom" : "Hollis Kimbrough/EWC/Enron on 03/06/2002 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON, Ulrich Schomakers/SERVICE/TWT/DE@TWTDE,"
+      },
+      {
+         "from" : "ulrich.schomakers@enron.com",
+         "line" : 207,
+         "rawfrom" : "Ulrich Schomakers@TWTDE\n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/70.",
+   "hops" : [
+      {
+         "from" : "john.ruiz@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.ruiz@enron.com\r\n",
+         "to" : "kim.nguyen@enron.com"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 48,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 70,
+         "rawfrom" : "Mark Fisher\n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 100,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 124,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 163,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 175,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 202,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/75.",
+   "hops" : [
+      {
+         "from" : "kim.nguyen@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.nguyen@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "mark.fisher@enron.com",
+         "line" : 38,
+         "rawfrom" : "Mark Fisher\n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 68,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Mark Fisher/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 92,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 131,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 143,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 170,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/77.",
+   "hops" : [
+      {
+         "from" : "kim.nguyen@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.nguyen@enron.com\r\n",
+         "to" : "mark.fisher@enron.com"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 36,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/24/2002 10:06 \n",
+         "to" : "Kim Nguyen/EWC/Enron@Enron"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 75,
+         "rawfrom" : "Kim Nguyen\n",
+         "to" : "Jeff Duff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 87,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:43 \n",
+         "to" : "Hollis Kimbrough/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "knguyen@looksmart.net",
+         "line" : 114,
+         "rawfrom" : "Kim Nguyen/EWC/Enron on 06/21/2002 04:36 \n",
+         "to" : "Joe Chapman/EWC/Enron@ENRON, Kim Nguyen/EWC/Enron@Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/78.",
+   "hops" : [
+      {
+         "from" : "jeff.duff@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.duff@enron.com\r\n",
+         "to" : "wcmarshall@aep.com"
+      },
+      {
+         "from" : "wcmarshall@aep.com",
+         "line" : 41,
+         "rawfrom" : "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "to" : "JEJackson@cps-satx.com"
+      },
+      {
+         "from" : "jejackson@cps-satx.com",
+         "line" : 75,
+         "rawfrom" : "JEJackson@cps-satx.com",
+         "to" : "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from" : "tnmccastlain@aep.com",
+         "line" : 96,
+         "rawfrom" : "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "to" : "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/notes_inbox/80.",
+   "hops" : [
+      {
+         "from" : "jeff.duff@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.duff@enron.com\r\n",
+         "to" : "kurt.anderson@enron.com"
+      },
+      {
+         "from" : "dfmatson@attbi.com",
+         "line" : 62,
+         "rawfrom" : "dfmatson@attbi.com",
+         "to" : "? ? ? ?Jeff Duff <Jeff.Duff@ps.ge.com>, Ward Marshall"
+      },
+      {
+         "from" : "wcmarshall@aep.com",
+         "line" : 93,
+         "rawfrom" : "wcmarshall@aep.com on 06/24/2002 05:07:17 AM\n",
+         "to" : "JEJackson@cps-satx.com"
+      },
+      {
+         "from" : "jejackson@cps-satx.com",
+         "line" : 127,
+         "rawfrom" : "JEJackson@cps-satx.com",
+         "to" : "? ? ? ?\"'tnmccastlain@aep.com'\" <tnmccastlain@aep.com>,"
+      },
+      {
+         "from" : "tnmccastlain@aep.com",
+         "line" : 148,
+         "rawfrom" : "tnmccastlain@aep.com [mailto:tnmccastlain@aep.com]\n",
+         "to" : "wcmarshall@aep.com; rpwalker@aep.com; rkblackshear@aep.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/personal/13.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "mfischer41@aol.com"
+      },
+      {
+         "from" : "mfischer@enron.com",
+         "line" : 63,
+         "rawfrom" : "mfischer@enron.com\n",
+         "to" : "donnelly@gddcpa.com"
+      },
+      {
+         "from" : "donnelly@gddcpa.com",
+         "line" : 90,
+         "rawfrom" : "David Donnelly <donnelly@gddcpa.com> on 05/16/2001 01:05:18 PM\n",
+         "to" : "\"'mfischer@enron.com'\" <mfischer@enron.com>"
+      },
+      {
+         "from" : "mfischer@enron.com",
+         "line" : 134,
+         "rawfrom" : "mfischer@enron.com [mailto:mfischer@enron.com]\n",
+         "to" : "donnelly@gddcpa.com"
+      },
+      {
+         "from" : "donnelly@gddcpa.com",
+         "line" : 188,
+         "rawfrom" : "David Donnelly <donnelly@gddcpa.com> on 05/15/2001 10:56:31 AM\n",
+         "to" : "\"'Mary Fischer'\" <mfischer@enron.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/2.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "anissa.green@enron.com"
+      },
+      {
+         "from" : "anissa.green@enron.com",
+         "line" : 33,
+         "rawfrom" : " Anissa Green                           08/20/2001 03:50 PM Phone No: 713-345-3479\t\n",
+         "to" : "Chad Gardner/HOU/EES@EES"
+      },
+      {
+         "from" : "chad.gardner@enron.com",
+         "line" : 60,
+         "rawfrom" : "Chad Gardner\n",
+         "to" : "Anissa Green/HOU/EES@EES"
+      },
+      {
+         "from" : "anissa.green@enron.com",
+         "line" : 77,
+         "rawfrom" : " Anissa Green                           08/15/2001 04:19 PM Phone No: 713-345-3479\t\n",
+         "to" : "Chad Gardner/HOU/EES@EES, Clint Cockrell/ENRON@enronXgate"
+      },
+      {
+         "from" : "anissa.green@enron.com",
+         "line" : 98,
+         "rawfrom" : " Anissa Green                           08/15/2001 01:53 PM Phone No: 713-345-3479\t\n",
+         "to" : "Chad Gardner/HOU/EES@EES, Clint Cockrell/ENRON@enronXgate"
+      },
+      {
+         "from" : "chad.gardner@enron.com",
+         "line" : 120,
+         "rawfrom" : "Chad Gardner\n",
+         "to" : "Anissa Green/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/21.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "richard.laird@enron.com"
+      },
+      {
+         "from" : "jerry.moore@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tMoore, Jerry Thomas  \n",
+         "to" : "Pham, Lynda; Fischer, Mary"
+      },
+      {
+         "from" : "lynda.pham@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tPham, Lynda  \n",
+         "to" : "Fischer, Mary"
+      },
+      {
+         "from" : "lynda.pham@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tPham, Lynda  \n",
+         "to" : "Miller, Peggy; Fischer, Mary"
+      },
+      {
+         "from" : "peggy.miller@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tMiller, Peggy  \n",
+         "to" : "Pham, Lynda; Fischer, Mary"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/22.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "robert.wilcott@enron.com"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Caminos, Facundo"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Fischer, Mary; Ng, Mark"
+      },
+      {
+         "from" : "donette.dewar@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tDewar, Donette  \n",
+         "to" : "Locklear, Essie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/26.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "john.swafford@enron.com, facundo.caminos@enron.com"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Caminos, Facundo"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Swafford, John; Caminos, Facundo; Merritt, Michelle"
+      },
+      {
+         "from" : "john.swafford@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tSwafford, John  \n",
+         "to" : "Caminos, Facundo"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tLocklear, Essie  \n",
+         "to" : "Fischer, Mary; Ng, Mark"
+      },
+      {
+         "from" : "donette.dewar@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tDewar, Donette  \n",
+         "to" : "Locklear, Essie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/46.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "leesa.white@enron.com"
+      },
+      {
+         "from" : "leesa.white@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhite, Leesa  \n",
+         "to" : "Fischer, Mary"
+      },
+      {
+         "from" : "leesa.white@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tWhite, Leesa  \n",
+         "to" : "Doyle, Debbie; Eldridge, David; Fischer, Mary; Gardner, Wayne; Gartner, Julie S.; Glod, Annette; Jones, Shelly; Kimball, Mary; pamela landry"
+      },
+      {
+         "from" : "sue_wadsworth@enron.net",
+         "line" : 62,
+         "rawfrom" : "\tWadsworth, Sue  \n",
+         "to" : "Adams, Felecia; Ayers, Lesley; Chapa, Barbara; Crooks, William; Cruver, Brian; Darrah, Jacqui; Denton, Rhonda L.; Dhruv, Tushar; Fraylon, Damon; Fuller, Phyllis; Hall, Lyla; Hamlin, Mason; Herron, Steve; Ibrahim, Amr; King, Terri; Lewis, Susan; Lodi, Fahd; Macpherson, Sigrid; Mendez, Angela; Napier, Dale; Nash, Tim; Patel, Sheetal; Poranski, Peter; Priddy, Janice; Reynolds, Deborah; Roman, Deborah; Rose, Mary Sue; Sloan, Mary; Sugarek, Velvet; Trevino, Linda S.; Weeks, Charm; White, Leesa; Wilbeck, Tom; Willard, Kathy; Wood, Ron; Yao, Anne S."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/61.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "todd.richards@enron.com"
+      },
+      {
+         "from" : "vicsandra.trujillo@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTrujillo, Vicsandra  \n",
+         "to" : "Swafford, John; Ng, Mark; Fischer, Mary"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tLee, Patricia A.  \n",
+         "to" : "Trujillo, Vicsandra"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tEssie Locklear  \n",
+         "to" : "Patricia A Lee"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tLee, Patricia  \n",
+         "to" : "Locklear, Essie"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 69,
+         "rawfrom" : "From:\tLeon Branom/ENRON@enronXgate on 09/17/2001 02:56 PM\n",
+         "to" : "Vicsandra Trujillo/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/fischer-m/sent_items/62.",
+   "hops" : [
+      {
+         "from" : "mary.fischer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.fischer@enron.com\r\n",
+         "to" : "vicsandra.trujillo@enron.com, mary.nguyen@enron.com, john.swafford@enron.com"
+      },
+      {
+         "from" : "todd.richards@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRichards, Todd  \n",
+         "to" : "Fischer, Mary"
+      },
+      {
+         "from" : "vicsandra.trujillo@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tTrujillo, Vicsandra  \n",
+         "to" : "Swafford, John; Ng, Mark; Fischer, Mary"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tLee, Patricia A.  \n",
+         "to" : "Trujillo, Vicsandra"
+      },
+      {
+         "from" : "essie.locklear@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tEssie Locklear  \n",
+         "to" : "Patricia A Lee"
+      },
+      {
+         "from" : "patricia.lee@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tLee, Patricia  \n",
+         "to" : "Locklear, Essie"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 86,
+         "rawfrom" : "From:\tLeon Branom/ENRON@enronXgate on 09/17/2001 02:56 PM\n",
+         "to" : "Vicsandra Trujillo/ENRON@enronXgate"
+      }
+   ],
+   "skipped" : 1
+}
+]

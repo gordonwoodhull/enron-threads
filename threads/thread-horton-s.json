@@ -1,0 +1,2556 @@
+[
+{
+   "file" : "enron-raw/horton-s/_sent_mail/112.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "cegann@dow.com"
+      },
+      {
+         "from" : "cegann@dow.com",
+         "line" : 24,
+         "rawfrom" : "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "to" : "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "to" : "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from" : "dfsintl@swbell.net",
+         "line" : 64,
+         "rawfrom" : "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "to" : "stanley.horton@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/_sent_mail/137.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "gary.smith@enron.com"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 21,
+         "rawfrom" : "Gary P Smith/ENRON@enronXgate on 05/16/2001 04:21 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "laura.kinningham@enron.com",
+         "line" : 37,
+         "rawfrom" : " Laura Kinningham  \n",
+         "to" : "Gary P Smith"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 47,
+         "rawfrom" : "Steve Hotte/ENRON@enronXgate on 05/09/2001 03:20 PM\n",
+         "to" : "Laura Kinningham/OTS/Enron@Enron"
+      },
+      {
+         "from" : "michael.sullivan@enron.com",
+         "line" : 57,
+         "rawfrom" : " Sullivan, Michael  \n",
+         "to" : "Stern, Ellis; Kinningham, Laura; Hotte, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/_sent_mail/170.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "cindy.stark@enron.com"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 27,
+         "rawfrom" : "Cindy Stark\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 44,
+         "rawfrom" : "Cindy Stark/Corp/Enron on 05/02/2001 \n",
+         "to" : "Cindy Stark/Corp/Enron@Enron"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 64,
+         "rawfrom" : "Walt Zimmerman/Houston/Eott on 05/02/2001 04:19 PM -----\n",
+         "to" : "Stanley_Horton@Enron.com@Eott, Dana Gibbs/Houston/Eott@Eott"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/_sent_mail/178.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "nasim.khan@enron.com"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 24,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 41,
+         "rawfrom" : "Stanley Horton@ENRON\n",
+         "to" : "Nasim H Khan/TRANSREDES@TRANSREDES"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 52,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/_sent_mail/213.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "aaron.brown@enron.com"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 23,
+         "rawfrom" : "Aaron Brown/ENRON@enronXgate on 04/24/2001 02:24 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 34,
+         "rawfrom" : " Horton, Stanley  \n",
+         "to" : "Brown, Aaron (Executive Comp)"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 42,
+         "rawfrom" : "Aaron Brown/ENRON@enronXgate on 04/24/2001 10:42 AM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron, PEGGY FOWLER/ENRON@enronxgate"
+      },
+      {
+         "from" : "peggy_fowler@pgn.com=",
+         "line" : 91,
+         "rawfrom" : "FOWLER, PEGGY \n",
+         "to" : "Brown, Aaron (Executive Comp); Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/_sent_mail/250.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "dee.svatos@enron.com"
+      },
+      {
+         "from" : "dee.svatos@enron.com",
+         "line" : 22,
+         "rawfrom" : "Dee Svatos/ENRON@enronXgate on 04/12/2001 02:05 PM\r\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jerry.peters@enron.com",
+         "line" : 56,
+         "rawfrom" : "Jerry Peters/ENRON@enronXgate on 04/12/2001 11:39 AM\r\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron, Ben Glisan/HOU/ECT@ECT, Kelly H=20"
+      },
+      {
+         "from" : "john.jesse@enron.com",
+         "line" : 89,
+         "rawfrom" : " Jesse, John =20\r\n",
+         "to" : "Peters, Jerry"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/149.",
+   "hops" : [
+      {
+         "from" : "steve.duffy@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.duffy@enron.com\r\n",
+         "to" : "walt.zimmerman@enron.com"
+      },
+      {
+         "from" : "zimmerman@enron.com",
+         "line" : 32,
+         "rawfrom" : "ZIMMERMAN        \n",
+         "to" : "Steve Duffy/Houston/Eott@Eott"
+      },
+      {
+         "from" : "steve_duffy@eott.com",
+         "line" : 76,
+         "rawfrom" : "Steve Duffy\n",
+         "to" : "Walt Zimmerman/Houston/Eott@Eott"
+      },
+      {
+         "from" : "zimmerman@enron.com",
+         "line" : 103,
+         "rawfrom" : "ZIMMERMAN        \n",
+         "to" : "Dana Gibbs/Houston/Eott@Eott, Lori Maddox/Houston/Eott@Eott, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/214.",
+   "hops" : [
+      {
+         "from" : "steve.duffy@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.duffy@enron.com\r\n",
+         "to" : "walt.zimmerman@enron.com"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 27,
+         "rawfrom" : "Walt Zimmerman\n",
+         "to" : "Steve Duffy/Houston/Eott@Eott"
+      },
+      {
+         "from" : "steve_duffy@eott.com",
+         "line" : 44,
+         "rawfrom" : "Steve Duffy\n",
+         "to" : "Michael Burke/Houston/Eott@Eott"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 78,
+         "rawfrom" : "Walt Zimmerman\n",
+         "to" : "Michael Burke/Houston/Eott@Eott"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/244.",
+   "hops" : [
+      {
+         "from" : "rockford.meyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "rockford.meyer@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "rockford.meyer@enron.com",
+         "line" : 30,
+         "rawfrom" : "Rockford Meyer/FGT/Enron on 05/30/2000 \n",
+         "to" : "Rockford Meyer"
+      },
+      {
+         "from" : "dan.pribble@enron.com",
+         "line" : 42,
+         "rawfrom" : "Dan Pribble/OTS/Enron on 05/30/2000 06:55 \n",
+         "to" : "Dan Pribble/OTS/Enron@ENRON, Rick Craig/OTS/Enron@ENRON"
+      },
+      {
+         "from" : "allan.weatherford@enron.com",
+         "line" : 54,
+         "rawfrom" : "Allan Weatherford/GCO/Enron on 05/26/2000 \n",
+         "to" : "Peter R Stark/OTS/Enron@ENRON, Merlin Moseman/OTS/Enron@ENRON, Allan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/358.",
+   "hops" : [
+      {
+         "from" : "jeff.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.brown@enron.com\r\n",
+         "to" : "stanley.horton@enron.com, shelley.corman@enron.com"
+      },
+      {
+         "from" : "jeff_brown@enron.com",
+         "line" : 25,
+         "rawfrom" : "Jeff Brown/HOU/EES on 07/21/2000 04:28 PM \n",
+         "to" : "Jeff Brown/HOU/EES@EES"
+      },
+      {
+         "from" : "cynthia_sandherr@enron.com",
+         "line" : 41,
+         "rawfrom" : "Cynthia Sandherr/Corp/Enron on 07/21/2000 \n",
+         "to" : "\"'Cynthia.Sandherr@enron.com%internet'\" <Cynthia.Sandherr@enron.com>"
+      },
+      {
+         "from" : "cynx1@usa.net",
+         "line" : 54,
+         "rawfrom" : "Cynthia.Sandherr@enron.com%internet\n",
+         "to" : "Glick, Richard"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/572.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "dee.svatos@enron.com"
+      },
+      {
+         "from" : "dee.svatos@enron.com",
+         "line" : 22,
+         "rawfrom" : "Dee Svatos/ENRON@enronXgate on 04/12/2001 02:05 PM\r\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jerry.peters@enron.com",
+         "line" : 56,
+         "rawfrom" : "Jerry Peters/ENRON@enronXgate on 04/12/2001 11:39 AM\r\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron, Ben Glisan/HOU/ECT@ECT, Kelly H=20"
+      },
+      {
+         "from" : "john.jesse@enron.com",
+         "line" : 89,
+         "rawfrom" : " Jesse, John =20\r\n",
+         "to" : "Peters, Jerry"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/6.",
+   "hops" : [
+      {
+         "from" : "danoble@att.net",
+         "line" : 4,
+         "rawfrom" : "danoble@att.net\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "cindy_stark@enron.com",
+         "line" : 44,
+         "rawfrom" : "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "to" : "Dave Noble"
+      },
+      {
+         "from" : "danoble@att.net",
+         "line" : 63,
+         "rawfrom" : "\"Dave Noble\" <danoble@att.net> on 12/20/99 07:40:59 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy_stark@enron.com",
+         "line" : 85,
+         "rawfrom" : "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "to" : "Dave Noble"
+      },
+      {
+         "from" : "danoble@att.net",
+         "line" : 105,
+         "rawfrom" : "\"Dave Noble\" <danoble@att.net> on 12/17/99 10:43:12 AM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/609.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "aaron.brown@enron.com"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 23,
+         "rawfrom" : "Aaron Brown/ENRON@enronXgate on 04/24/2001 02:24 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 34,
+         "rawfrom" : " Horton, Stanley  \n",
+         "to" : "Brown, Aaron (Executive Comp)"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 42,
+         "rawfrom" : "Aaron Brown/ENRON@enronXgate on 04/24/2001 10:42 AM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron, PEGGY FOWLER/ENRON@enronxgate"
+      },
+      {
+         "from" : "peggy_fowler@pgn.com=",
+         "line" : 91,
+         "rawfrom" : "FOWLER, PEGGY \n",
+         "to" : "Brown, Aaron (Executive Comp); Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/644.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "nasim.khan@enron.com"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 24,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 41,
+         "rawfrom" : "Stanley Horton@ENRON\n",
+         "to" : "Nasim H Khan/TRANSREDES@TRANSREDES"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 52,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/652.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "cindy.stark@enron.com"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 27,
+         "rawfrom" : "Cindy Stark\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 44,
+         "rawfrom" : "Cindy Stark/Corp/Enron on 05/02/2001 \n",
+         "to" : "Cindy Stark/Corp/Enron@Enron"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 64,
+         "rawfrom" : "Walt Zimmerman/Houston/Eott on 05/02/2001 04:19 PM -----\n",
+         "to" : "Stanley_Horton@Enron.com@Eott, Dana Gibbs/Houston/Eott@Eott"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/685.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "gary.smith@enron.com"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 21,
+         "rawfrom" : "Gary P Smith/ENRON@enronXgate on 05/16/2001 04:21 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "laura.kinningham@enron.com",
+         "line" : 37,
+         "rawfrom" : " Laura Kinningham  \n",
+         "to" : "Gary P Smith"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 47,
+         "rawfrom" : "Steve Hotte/ENRON@enronXgate on 05/09/2001 03:20 PM\n",
+         "to" : "Laura Kinningham/OTS/Enron@Enron"
+      },
+      {
+         "from" : "michael.sullivan@enron.com",
+         "line" : 57,
+         "rawfrom" : " Sullivan, Michael  \n",
+         "to" : "Stern, Ellis; Kinningham, Laura; Hotte, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/all_documents/711.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "cegann@dow.com"
+      },
+      {
+         "from" : "cegann@dow.com",
+         "line" : 24,
+         "rawfrom" : "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "to" : "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "to" : "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from" : "dfsintl@swbell.net",
+         "line" : 64,
+         "rawfrom" : "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "to" : "stanley.horton@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/156.",
+   "hops" : [
+      {
+         "from" : "corman@enron.com",
+         "line" : 4,
+         "rawfrom" : "corman@enron.com\r\n",
+         "to" : "drew.fossum@enron.com, gary.smith@enron.com, rod.hayslett@enron.com,"
+      },
+      {
+         "from" : "drew_fossum@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tFossum, Drew  \n",
+         "to" : "Smith, Gary; Hayslett, Rod; Lowry, Phil; McCarty, Danny; Corman, Shelley; Hotte, Steve; Hartsoe, Joe; Prentice, James; Cordes, Bill"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tSmith, Gary  \n",
+         "to" : "Hayslett, Rod; Lowry, Phil; McCarty, Danny; Corman, Shelley; Fossum, Drew; Hotte, Steve; Hartsoe, Joe; Prentice, James; Cordes, Bill"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Beck, Sally; Colwell, Wes"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/166.",
+   "hops" : [
+      {
+         "from" : "van@enron.com",
+         "line" : 4,
+         "rawfrom" : "van@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "hvan@enron.com",
+         "line" : 37,
+         "rawfrom" : "Henry Van/ENRON_DEVELOPMENT on 06/01/2001 02:58 PM -----\n",
+         "to" : "Stanley Horton/Corp/Enron@ENRON  cc:   Subject: Re: Methane Auto"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 53,
+         "rawfrom" : "Stanley Horton@ENRON\n",
+         "to" : "Henry Van/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "hvan@enron.com",
+         "line" : 64,
+         "rawfrom" : "Henry Van@ENRON_DEVELOPMENT\n",
+         "to" : "Stanley Horton@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/218.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "mark.metts@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 30,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Stark, Cindy"
+      },
+      {
+         "from" : "mark.metts@enron.com",
+         "line" : 41,
+         "rawfrom" : "Metts, Mark <mark.metts@enron.com>\n",
+         "to" : "Horton, Stanley <Stanley.Horton@ENRON.com>"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 51,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Metts, Mark"
+      },
+      {
+         "from" : "mark.metts@enron.com",
+         "line" : 62,
+         "rawfrom" : "Metts, Mark <mark.metts@enron.com>\n",
+         "to" : "Horton, Stanley <Stanley.Horton@ENRON.com>"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 71,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Metts, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/222.",
+   "hops" : [
+      {
+         "from" : "lawrence_clayton@eott.com",
+         "line" : 4,
+         "rawfrom" : "lawrence_clayton@eott.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "lawrence_clayton@eott.com",
+         "line" : 22,
+         "rawfrom" : "Lawrence Clayton/Houston/Eott on 12/19/2001 11:31 AM\n",
+         "to" : "Lawrence Clayton/Houston/Eott@Eott"
+      },
+      {
+         "from" : "\"oram, andrew\"",
+         "line" : 85,
+         "rawfrom" : "\"Oram, Andrew\"\n",
+         "to" : "\"'Lawrence_Clayton@eott.com'\" <Lawrence_Clayton@eott.com>"
+      },
+      {
+         "from" : "orama@moodys.com",
+         "line" : 165,
+         "rawfrom" : "Oram, Andrew\n",
+         "to" : "'Lawrence_Clayton@eott.com'"
+      },
+      {
+         "from" : "orama@moodys.com",
+         "line" : 188,
+         "rawfrom" : "Oram, Andrew\n",
+         "to" : "'Lawrence_Clayton@eott.com'"
+      },
+      {
+         "from" : "lawrence_clayton@eott.com",
+         "line" : 243,
+         "rawfrom" : "Lawrence_Clayton@eott.com [mailto:Lawrence_Clayton@eott.com]\n",
+         "to" : "Andrew.Oram%moodys.com%EOTTEXTERNAL@eott.com"
+      },
+      {
+         "from" : "\"oram, andrew\"",
+         "line" : 266,
+         "rawfrom" : "\"Oram, Andrew\"\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/236.",
+   "hops" : [
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 4,
+         "rawfrom" : "james.saunders@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Saunders, James"
+      },
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tSaunders, James  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tSaunders, James  \n",
+         "to" : "Hayslett, Rod; Geaccone, Tracy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/237.",
+   "hops" : [
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 4,
+         "rawfrom" : "adam.umanoff@enron.com\r\n",
+         "to" : "mark.metts@enron.com, stanley.horton@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 21,
+         "rawfrom" : "From:\tMark Metts/Enron@EnronXGate on 12/26/2001 12:37 PM CST\n",
+         "to" : "Stanley Horton/ENRON@enronXgate, Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Umanoff, Adam"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 63,
+         "rawfrom" : "Adam Umanoff/EWC/Enron on 12/21/2001 05:48 PM ---------------------------\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON, Eric Newell/EWC/Enron@ENRON, John Lamb/EWC/Enron@ENRON, Bob Gates/EWC/Enron@ENRON, Mike Westbeld/EWC/Enron@Enron, Darrell Orban/EWC/Enron@ENRON, Mary McCann/EWC/Enron@ENRON, Jay Godfrey/EWC/Enron@ENRON, Alan Nueman/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/238.",
+   "hops" : [
+      {
+         "from" : "mark.metts@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.metts@enron.com\r\n",
+         "to" : "stanley.horton@enron.com, adam.umanoff@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Umanoff, Adam"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 54,
+         "rawfrom" : "Adam Umanoff/EWC/Enron on 12/21/2001 05:48 PM ---------------------------\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON, Eric Newell/EWC/Enron@ENRON, John Lamb/EWC/Enron@ENRON, Bob Gates/EWC/Enron@ENRON, Mike Westbeld/EWC/Enron@Enron, Darrell Orban/EWC/Enron@ENRON, Mary McCann/EWC/Enron@ENRON, Jay Godfrey/EWC/Enron@ENRON, Alan Nueman/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/250.",
+   "hops" : [
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 4,
+         "rawfrom" : "adam.umanoff@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 25,
+         "rawfrom" : "Adam Umanoff/EWC/Enron on 11/18/2001 03:56 PM ---------------------------\n",
+         "to" : "Herbert Peels/MATERIAL/TWT/DE@TWTDE"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 38,
+         "rawfrom" : "Adam Umanoff/EWC/Enron on 11/14/2001 09:41 AM ---------------------------\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "mary.mccann@enron.com",
+         "line" : 51,
+         "rawfrom" : "Mary McCann/EWC/Enron on 11/13/2001 08:52 AM ---------------------------\n",
+         "to" : "Mary McCann/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/282.",
+   "hops" : [
+      {
+         "from" : "c..williams@enron.com",
+         "line" : 4,
+         "rawfrom" : "c..williams@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Williams, Robert C."
+      },
+      {
+         "from" : "robert.c.williams@enron.com=",
+         "line" : 30,
+         "rawfrom" : "\tWilliams, Robert C.  \n",
+         "to" : "Williams, Robert C.; Horton, Stanley; Causey, Richard; Buy, Rick; Frevert, Mark"
+      },
+      {
+         "from" : "robert.c.williams@enron.com=",
+         "line" : 39,
+         "rawfrom" : "\tWilliams, Robert C.  \n",
+         "to" : "Horton, Stanley; Causey, Richard; Buy, Rick; Frevert, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/305.",
+   "hops" : [
+      {
+         "from" : "mark.metts@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.metts@enron.com\r\n",
+         "to" : "adam.umanoff@enron.com"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Metts, Mark"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 42,
+         "rawfrom" : "From:\tMark Metts/Enron@EnronXGate on 11/20/2001 10:49 AM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Metts, Mark"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 58,
+         "rawfrom" : "From:\tHeath Schiesser/ENRON@enronXgate on 11/20/2001 10:15 AM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON, mileslw@windturbinecompany.com@SMTP@enronXgate"
+      },
+      {
+         "from" : "mileslw@windturbinecompany.com",
+         "line" : 81,
+         "rawfrom" : "MilesLW [mailto:mileslw@windturbinecompany.com]\n",
+         "to" : "Schiesser, Heath"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/311.",
+   "hops" : [
+      {
+         "from" : "mitch.meyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "mitch.meyer@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Meyer, Mitch"
+      },
+      {
+         "from" : "mitch.meyer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMeyer, Mitch  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "mitch.meyer@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMeyer, Mitch  \n",
+         "to" : "'Stan Horton.@ENRON'"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Stan Horton.@ENRON\n",
+         "to" : "Enron Global Services - US@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/331.",
+   "hops" : [
+      {
+         "from" : "mark.metts@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.metts@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Metts, Mark"
+      },
+      {
+         "from" : "mmetts@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMetts, Mark  \n",
+         "to" : "Horton, Stanley; Stark, Cindy"
+      },
+      {
+         "from" : "amit.walia@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tWalia, Amit  \n",
+         "to" : "David\" \"Munoz (E-mail); Matthew\" \"Harris (E-mail); Umanoff, Adam"
+      },
+      {
+         "from" : "amit.walia@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tWalia, Amit  \n",
+         "to" : "Metts, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/356.",
+   "hops" : [
+      {
+         "from" : "steve.hotte@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.hotte@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "sandra.cernoch@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCernoch, Sandra  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "joanne.bisbee@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tBisbee, Joanne  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "lisa.sawyer@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tSawyer, Lisa  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "mark.gigliotti@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gigliotti, Mark \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "larry.steward@enron.com",
+         "line" : 72,
+         "rawfrom" : "Steward, Larry \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "scott.abshire@enron.com",
+         "line" : 82,
+         "rawfrom" : "\tAbshire, Scott  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "sylvia.thomas@enron.com",
+         "line" : 92,
+         "rawfrom" : "\tThomas, Sylvia  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "don.stacy@enron.com",
+         "line" : 100,
+         "rawfrom" : "\tStacy, Don  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "james.sumpter@enron.com",
+         "line" : 119,
+         "rawfrom" : "\tSumpter, James  \n",
+         "to" : "Hotte, Steve"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/360.",
+   "hops" : [
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 4,
+         "rawfrom" : "adam.umanoff@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 22,
+         "rawfrom" : "From:\tStanley Horton/ENRON@enronXgate on 11/21/2001 12:41 PM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 39,
+         "rawfrom" : "From:\tStanley Horton/ENRON@enronXgate on 11/21/2001 12:03 PM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Newell, Eric; Orban, Darrell"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 59,
+         "rawfrom" : "Adam Umanoff/EWC/Enron on 11/21/2001 07:35 AM ---------------------------\n",
+         "to" : "Kenneth Lay/Enron@EnronXGate, Adam Umanoff/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/379.",
+   "hops" : [
+      {
+         "from" : "rod.hayslett@enron.com",
+         "line" : 4,
+         "rawfrom" : "rod.hayslett@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "keith.marlow@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMarlow, Keith  \n",
+         "to" : "Smith, Gary"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 39,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Marlow, Keith"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tSmith, Gary  \n",
+         "to" : "Hayslett, Rod; Stanley, Brian"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 60,
+         "rawfrom" : "\tHayslett, Rod  \n",
+         "to" : "Smith, Gary; Stanley, Brian"
+      },
+      {
+         "from" : "keith.marlow@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tMarlow, Keith  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/391.",
+   "hops" : [
+      {
+         "from" : "mariella.mahan@enron.com",
+         "line" : 4,
+         "rawfrom" : "mariella.mahan@enron.com\r\n",
+         "to" : "a..hughes@enron.com, stanley.horton@enron.com"
+      },
+      {
+         "from" : "steve.jernigan@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tJernigan, Steve  \n",
+         "to" : "Mahan, Mariella"
+      },
+      {
+         "from" : "boyceturbopower@attglobal.net",
+         "line" : 39,
+         "rawfrom" : "\t\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON  \n",
+         "to" : "Jernigan, Steve"
+      },
+      {
+         "from" : "steve.jernigan@enron.com",
+         "line" : 66,
+         "rawfrom" : "Steve.Jernigan@enron.com [mailto:Steve.Jernigan@enron.com]\n",
+         "to" : "boyceturbopower@attglobal.net"
+      },
+      {
+         "from" : "boyceturbopower@attglobal.net",
+         "line" : 81,
+         "rawfrom" : "\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON\n",
+         "to" : "Jernigan, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/65.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "gann@enron.com, cegann@dow.com"
+      },
+      {
+         "from" : "cegann@dow.com",
+         "line" : 24,
+         "rawfrom" : "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "to" : "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "to" : "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from" : "dfsintl@swbell.net",
+         "line" : 64,
+         "rawfrom" : "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "to" : "stanley.horton@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/8.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "cindy.stark@enron.com"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 24,
+         "rawfrom" : "Cindy Stark\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 39,
+         "rawfrom" : "Cindy Stark/Corp/Enron on 05/02/2001 03:25 PM ---------------------------\n",
+         "to" : "Cindy Stark/Corp/Enron@Enron"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 56,
+         "rawfrom" : "Walt Zimmerman/Houston/Eott on 05/02/2001 04:19 PM -----\n",
+         "to" : "Stanley_Horton@Enron.com@Eott, Dana Gibbs/Houston/Eott@Eott  cc: Molly Sample/Houston/Eott@Eott, Peggy Menchaca/Corp/Enron@Enron  Subject: Reelection of EOTT Energy Corp. Directors and Committee Members"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/_sent_mail/14.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "nasim.khan@enron.com"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 24,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 38,
+         "rawfrom" : "Stanley Horton@ENRON\n",
+         "to" : "Nasim H Khan/TRANSREDES@TRANSREDES"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 49,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/_sent_mail/21.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "cindy.stark@enron.com"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 24,
+         "rawfrom" : "Cindy Stark\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 39,
+         "rawfrom" : "Cindy Stark/Corp/Enron on 05/02/2001 03:25 PM ---------------------------\n",
+         "to" : "Cindy Stark/Corp/Enron@Enron"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 56,
+         "rawfrom" : "Walt Zimmerman/Houston/Eott on 05/02/2001 04:19 PM -----\n",
+         "to" : "Stanley_Horton@Enron.com@Eott, Dana Gibbs/Houston/Eott@Eott  cc: Molly Sample/Houston/Eott@Eott, Peggy Menchaca/Corp/Enron@Enron  Subject: Reelection of EOTT Energy Corp. Directors and Committee Members"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/deleted_items/_sent_mail/78.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "gann@enron.com, cegann@dow.com"
+      },
+      {
+         "from" : "cegann@dow.com",
+         "line" : 24,
+         "rawfrom" : "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "to" : "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "to" : "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from" : "dfsintl@swbell.net",
+         "line" : 64,
+         "rawfrom" : "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "to" : "stanley.horton@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/discussion_threads/139.",
+   "hops" : [
+      {
+         "from" : "steve.duffy@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.duffy@enron.com\r\n",
+         "to" : "walt.zimmerman@enron.com"
+      },
+      {
+         "from" : "zimmerman@enron.com",
+         "line" : 32,
+         "rawfrom" : "ZIMMERMAN        \n",
+         "to" : "Steve Duffy/Houston/Eott@Eott"
+      },
+      {
+         "from" : "steve_duffy@eott.com",
+         "line" : 76,
+         "rawfrom" : "Steve Duffy\n",
+         "to" : "Walt Zimmerman/Houston/Eott@Eott"
+      },
+      {
+         "from" : "zimmerman@enron.com",
+         "line" : 103,
+         "rawfrom" : "ZIMMERMAN        \n",
+         "to" : "Dana Gibbs/Houston/Eott@Eott, Lori Maddox/Houston/Eott@Eott, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/discussion_threads/203.",
+   "hops" : [
+      {
+         "from" : "steve.duffy@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.duffy@enron.com\r\n",
+         "to" : "walt.zimmerman@enron.com"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 27,
+         "rawfrom" : "Walt Zimmerman\n",
+         "to" : "Steve Duffy/Houston/Eott@Eott"
+      },
+      {
+         "from" : "steve_duffy@eott.com",
+         "line" : 44,
+         "rawfrom" : "Steve Duffy\n",
+         "to" : "Michael Burke/Houston/Eott@Eott"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 78,
+         "rawfrom" : "Walt Zimmerman\n",
+         "to" : "Michael Burke/Houston/Eott@Eott"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/discussion_threads/230.",
+   "hops" : [
+      {
+         "from" : "rockford.meyer@enron.com",
+         "line" : 4,
+         "rawfrom" : "rockford.meyer@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "rockford.meyer@enron.com",
+         "line" : 30,
+         "rawfrom" : "Rockford Meyer/FGT/Enron on 05/30/2000 \n",
+         "to" : "Rockford Meyer"
+      },
+      {
+         "from" : "dan.pribble@enron.com",
+         "line" : 42,
+         "rawfrom" : "Dan Pribble/OTS/Enron on 05/30/2000 06:55 \n",
+         "to" : "Dan Pribble/OTS/Enron@ENRON, Rick Craig/OTS/Enron@ENRON"
+      },
+      {
+         "from" : "allan.weatherford@enron.com",
+         "line" : 54,
+         "rawfrom" : "Allan Weatherford/GCO/Enron on 05/26/2000 \n",
+         "to" : "Peter R Stark/OTS/Enron@ENRON, Merlin Moseman/OTS/Enron@ENRON, Allan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/discussion_threads/332.",
+   "hops" : [
+      {
+         "from" : "jeff.brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeff.brown@enron.com\r\n",
+         "to" : "stanley.horton@enron.com, shelley.corman@enron.com"
+      },
+      {
+         "from" : "jeff_brown@enron.com",
+         "line" : 25,
+         "rawfrom" : "Jeff Brown/HOU/EES on 07/21/2000 04:28 PM \n",
+         "to" : "Jeff Brown/HOU/EES@EES"
+      },
+      {
+         "from" : "cynthia_sandherr@enron.com",
+         "line" : 41,
+         "rawfrom" : "Cynthia Sandherr/Corp/Enron on 07/21/2000 \n",
+         "to" : "\"'Cynthia.Sandherr@enron.com%internet'\" <Cynthia.Sandherr@enron.com>"
+      },
+      {
+         "from" : "cynx1@usa.net",
+         "line" : 54,
+         "rawfrom" : "Cynthia.Sandherr@enron.com%internet\n",
+         "to" : "Glick, Richard"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/discussion_threads/6.",
+   "hops" : [
+      {
+         "from" : "danoble@att.net",
+         "line" : 4,
+         "rawfrom" : "danoble@att.net\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "cindy_stark@enron.com",
+         "line" : 44,
+         "rawfrom" : "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "to" : "Dave Noble"
+      },
+      {
+         "from" : "danoble@att.net",
+         "line" : 63,
+         "rawfrom" : "\"Dave Noble\" <danoble@att.net> on 12/20/99 07:40:59 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy_stark@enron.com",
+         "line" : 85,
+         "rawfrom" : "Cindy_Stark@enron.com [mailto:Cindy_Stark@enron.com]On Behalf Of\n",
+         "to" : "Dave Noble"
+      },
+      {
+         "from" : "danoble@att.net",
+         "line" : 105,
+         "rawfrom" : "\"Dave Noble\" <danoble@att.net> on 12/17/99 10:43:12 AM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/inbox/72.",
+   "hops" : [
+      {
+         "from" : "mariella.mahan@enron.com",
+         "line" : 4,
+         "rawfrom" : "mariella.mahan@enron.com\r\n",
+         "to" : "stanley.horton@enron.com"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Mahan, Mariella"
+      },
+      {
+         "from" : "mariella.mahan@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMahan, Mariella  \n",
+         "to" : "Hughes, James A.; Horton, Stanley"
+      },
+      {
+         "from" : "steve.jernigan@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tJernigan, Steve  \n",
+         "to" : "Mahan, Mariella"
+      },
+      {
+         "from" : "boyceturbopower@attglobal.net",
+         "line" : 64,
+         "rawfrom" : "\t\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON  \n",
+         "to" : "Jernigan, Steve"
+      },
+      {
+         "from" : "steve.jernigan@enron.com",
+         "line" : 91,
+         "rawfrom" : "Steve.Jernigan@enron.com [mailto:Steve.Jernigan@enron.com]\n",
+         "to" : "boyceturbopower@attglobal.net"
+      },
+      {
+         "from" : "boyceturbopower@attglobal.net",
+         "line" : 106,
+         "rawfrom" : "\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON\n",
+         "to" : "Jernigan, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent/142.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "dee.svatos@enron.com"
+      },
+      {
+         "from" : "dee.svatos@enron.com",
+         "line" : 22,
+         "rawfrom" : "Dee Svatos/ENRON@enronXgate on 04/12/2001 02:05 PM\r\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jerry.peters@enron.com",
+         "line" : 56,
+         "rawfrom" : "Jerry Peters/ENRON@enronXgate on 04/12/2001 11:39 AM\r\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron, Ben Glisan/HOU/ECT@ECT, Kelly H=20"
+      },
+      {
+         "from" : "john.jesse@enron.com",
+         "line" : 89,
+         "rawfrom" : " Jesse, John =20\r\n",
+         "to" : "Peters, Jerry"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent/179.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "aaron.brown@enron.com"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 23,
+         "rawfrom" : "Aaron Brown/ENRON@enronXgate on 04/24/2001 02:24 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 34,
+         "rawfrom" : " Horton, Stanley  \n",
+         "to" : "Brown, Aaron (Executive Comp)"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 42,
+         "rawfrom" : "Aaron Brown/ENRON@enronXgate on 04/24/2001 10:42 AM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron, PEGGY FOWLER/ENRON@enronxgate"
+      },
+      {
+         "from" : "peggy_fowler@pgn.com=",
+         "line" : 91,
+         "rawfrom" : "FOWLER, PEGGY \n",
+         "to" : "Brown, Aaron (Executive Comp); Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent/214.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "nasim.khan@enron.com"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 24,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 41,
+         "rawfrom" : "Stanley Horton@ENRON\n",
+         "to" : "Nasim H Khan/TRANSREDES@TRANSREDES"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 52,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent/222.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "cindy.stark@enron.com"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 27,
+         "rawfrom" : "Cindy Stark\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 44,
+         "rawfrom" : "Cindy Stark/Corp/Enron on 05/02/2001 \n",
+         "to" : "Cindy Stark/Corp/Enron@Enron"
+      },
+      {
+         "from" : "walt_zimmerman@eott.com",
+         "line" : 64,
+         "rawfrom" : "Walt Zimmerman/Houston/Eott on 05/02/2001 04:19 PM -----\n",
+         "to" : "Stanley_Horton@Enron.com@Eott, Dana Gibbs/Houston/Eott@Eott"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent/255.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "gary.smith@enron.com"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 21,
+         "rawfrom" : "Gary P Smith/ENRON@enronXgate on 05/16/2001 04:21 PM\n",
+         "to" : "Stanley Horton/Corp/Enron@Enron"
+      },
+      {
+         "from" : "laura.kinningham@enron.com",
+         "line" : 37,
+         "rawfrom" : " Laura Kinningham  \n",
+         "to" : "Gary P Smith"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 47,
+         "rawfrom" : "Steve Hotte/ENRON@enronXgate on 05/09/2001 03:20 PM\n",
+         "to" : "Laura Kinningham/OTS/Enron@Enron"
+      },
+      {
+         "from" : "michael.sullivan@enron.com",
+         "line" : 57,
+         "rawfrom" : " Sullivan, Michael  \n",
+         "to" : "Stern, Ellis; Kinningham, Laura; Hotte, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent/280.",
+   "hops" : [
+      {
+         "from" : "cindy.stark@enron.com",
+         "line" : 4,
+         "rawfrom" : "cindy.stark@enron.com\r\n",
+         "to" : "cegann@dow.com"
+      },
+      {
+         "from" : "cegann@dow.com",
+         "line" : 24,
+         "rawfrom" : "\"Gann, Christopher (CE)\" <CEGANN@dow.com> on 05/24/2001 01:39:21 PM\n",
+         "to" : "\"'Stanley.Horton@enron.com'\" <Stanley.Horton@enron.com>"
+      },
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "Stanley.Horton@enron.com [mailto:Stanley.Horton@enron.com]\n",
+         "to" : "DFS International, Inc.; CEGANN@dow.com"
+      },
+      {
+         "from" : "dfsintl@swbell.net",
+         "line" : 64,
+         "rawfrom" : "\"DFS International, Inc.\" <dfsintl@swbell.net> on 05/23/2001 11:09:14 AM\n",
+         "to" : "stanley.horton@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/103.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "gary.smith@enron.com"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 22,
+         "rawfrom" : "Smith, Gary \n",
+         "to" : "Barrow, Cynthia"
+      },
+      {
+         "from" : "cynthia.barrow@enron.com",
+         "line" : 32,
+         "rawfrom" : "Barrow, Cynthia \n",
+         "to" : "Smith, Gary"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 45,
+         "rawfrom" : "Smith, Gary \n",
+         "to" : "Barrow, Cynthia"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 53,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Charbonneau, Loren"
+      },
+      {
+         "from" : "loren.charbonneau@enron.com",
+         "line" : 63,
+         "rawfrom" : "Charbonneau, Loren \n",
+         "to" : "Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/111.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mariella.mahan@enron.com"
+      },
+      {
+         "from" : "=09mahan, mariella =20",
+         "line" : 25,
+         "rawfrom" : "=09Mahan, Mariella =20\r\n",
+         "to" : "=09Horton, Stanley"
+      },
+      {
+         "from" : "=09horton, stanley =20",
+         "line" : 84,
+         "rawfrom" : "=09Horton, Stanley =20\r\n",
+         "to" : "=09Mahan, Mariella"
+      },
+      {
+         "from" : "=09mahan, mariella =20",
+         "line" : 93,
+         "rawfrom" : "=09Mahan, Mariella =20\r\n",
+         "to" : "=09Horton, Stanley; Hughes, James A.; Hayslett, Rod; Sommers, Jeffrey E."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/116.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/125.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "adam.umanoff@enron.com"
+      },
+      {
+         "from" : "=09umanoff, adam =20",
+         "line" : 23,
+         "rawfrom" : "=09Umanoff, Adam =20\r\n",
+         "to" : "=09Horton, Stanley"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 42,
+         "rawfrom" : "From:=09Stanley Horton/ENRON@enronXgate on 11/19/2001 07:45 AM CST\r\n",
+         "to" : "=09Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "=09umanoff, adam =20",
+         "line" : 59,
+         "rawfrom" : "=09Umanoff, Adam =20\r\n",
+         "to" : "=09Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/132.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "steve.hotte@enron.com"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHotte, Steve  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "lillian.villarreal@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tVillarreal, Lillian  \n",
+         "to" : "DL-ETS IT Everyone; DL-ETS Newsletter Distribution"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/137.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mark.metts@enron.com"
+      },
+      {
+         "from" : "mmetts@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMetts, Mark  \n",
+         "to" : "Umanoff, Adam"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Metts, Mark"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 47,
+         "rawfrom" : "From:\tMark Metts/Enron@EnronXGate on 11/20/2001 10:49 AM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Metts, Mark"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 63,
+         "rawfrom" : "From:\tHeath Schiesser/ENRON@enronXgate on 11/20/2001 10:15 AM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON, mileslw@windturbinecompany.com@SMTP@enronXgate"
+      },
+      {
+         "from" : "mileslw@windturbinecompany.com",
+         "line" : 86,
+         "rawfrom" : "MilesLW [mailto:mileslw@windturbinecompany.com]\n",
+         "to" : "Schiesser, Heath"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/138.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mitch.meyer@enron.com"
+      },
+      {
+         "from" : "mitch.meyer@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMeyer, Mitch  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "mitch.meyer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMeyer, Mitch  \n",
+         "to" : "'Stan Horton.@ENRON'"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Stan Horton.@ENRON\n",
+         "to" : "Enron Global Services - US@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/139.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mark.metts@enron.com"
+      },
+      {
+         "from" : "mmetts@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMetts, Mark  \n",
+         "to" : "Horton, Stanley; Stark, Cindy"
+      },
+      {
+         "from" : "amit.walia@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWalia, Amit  \n",
+         "to" : "David\" \"Munoz (E-mail); Matthew\" \"Harris (E-mail); Umanoff, Adam"
+      },
+      {
+         "from" : "amit.walia@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tWalia, Amit  \n",
+         "to" : "Metts, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/142.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "jim.fallon@enron.com"
+      },
+      {
+         "from" : "rod_hayslett@pgn.com",
+         "line" : 22,
+         "rawfrom" : "Hayslett, Rod \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "james.saunders@enron.com",
+         "line" : 33,
+         "rawfrom" : "Saunders, James <James.Saunders@ENRON.com>\n",
+         "to" : "Hayslett, Rod <Rod.Hayslett@ENRON.com>"
+      },
+      {
+         "from" : "morris.brassfield@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tBrassfield, Morris  \n",
+         "to" : "Saunders, James"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/146.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "adam.umanoff@enron.com"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 30,
+         "rawfrom" : "From:\tStanley Horton/ENRON@enronXgate on 11/21/2001 12:03 PM CST\n",
+         "to" : "Adam Umanoff/EWC/Enron@ENRON"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tUmanoff, Adam  \n",
+         "to" : "Newell, Eric; Orban, Darrell"
+      },
+      {
+         "from" : "adam.umanoff@enron.com",
+         "line" : 50,
+         "rawfrom" : "Adam Umanoff/EWC/Enron on 11/21/2001 07:35 AM ---------------------------\n",
+         "to" : "Kenneth Lay/Enron@EnronXGate, Adam Umanoff/EWC/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/147.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "steve.hotte@enron.com"
+      },
+      {
+         "from" : "steve_hotte@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHotte, Steve  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "sandra.cernoch@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCernoch, Sandra  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "joanne.bisbee@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tBisbee, Joanne  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "lisa.sawyer@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tSawyer, Lisa  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "mark.gigliotti@enron.com",
+         "line" : 71,
+         "rawfrom" : "Gigliotti, Mark \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "larry.steward@enron.com",
+         "line" : 80,
+         "rawfrom" : "Steward, Larry \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "scott.abshire@enron.com",
+         "line" : 90,
+         "rawfrom" : "\tAbshire, Scott  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "sylvia.thomas@enron.com",
+         "line" : 100,
+         "rawfrom" : "\tThomas, Sylvia  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "don.stacy@enron.com",
+         "line" : 108,
+         "rawfrom" : "\tStacy, Don  \n",
+         "to" : "Hotte, Steve"
+      },
+      {
+         "from" : "james.sumpter@enron.com",
+         "line" : 127,
+         "rawfrom" : "\tSumpter, James  \n",
+         "to" : "Hotte, Steve"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/153.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mariella.mahan@enron.com"
+      },
+      {
+         "from" : "mariella.mahan@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tMahan, Mariella  \n",
+         "to" : "Hughes, James A.; Horton, Stanley"
+      },
+      {
+         "from" : "steve.jernigan@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tJernigan, Steve  \n",
+         "to" : "Mahan, Mariella"
+      },
+      {
+         "from" : "boyceturbopower@attglobal.net",
+         "line" : 50,
+         "rawfrom" : "\t\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON  \n",
+         "to" : "Jernigan, Steve"
+      },
+      {
+         "from" : "steve.jernigan@enron.com",
+         "line" : 77,
+         "rawfrom" : "Steve.Jernigan@enron.com [mailto:Steve.Jernigan@enron.com]\n",
+         "to" : "boyceturbopower@attglobal.net"
+      },
+      {
+         "from" : "boyceturbopower@attglobal.net",
+         "line" : 92,
+         "rawfrom" : "\"Dr.Meherwan.P.Boyce P.E.\" <boyceturbopower@attglobal.net>@ENRON\n",
+         "to" : "Jernigan, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/3.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "nasim.khan@enron.com"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 24,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 38,
+         "rawfrom" : "Stanley Horton@ENRON\n",
+         "to" : "Nasim H Khan/TRANSREDES@TRANSREDES"
+      },
+      {
+         "from" : "nasim.khan@enron.com",
+         "line" : 49,
+         "rawfrom" : "Nasim H Khan@TRANSREDES\n",
+         "to" : "Stanley Horton@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/33.",
+   "hops" : [
+      {
+         "from" : "horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "horton@enron.com\r\n",
+         "to" : "molly.sample@enron.com"
+      },
+      {
+         "from" : "molly_sample@eott.com",
+         "line" : 22,
+         "rawfrom" : "\tSample, Molly  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "molly.harris@enron.com",
+         "line" : 35,
+         "rawfrom" : "Molly \n",
+         "to" : "Molly Sample/Houston/Eott@Eott, Dana R Gibbs/HOU/ECT@ECT, Lori Maddox/Houston/Eott@Eott  cc:   Subject: RE: Name that partnership!!"
+      },
+      {
+         "from" : "molly_sample@eott.com",
+         "line" : 43,
+         "rawfrom" : "\tSample, Molly  \n",
+         "to" : "Gibbs, Dana; Maddox, Lori; Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/38.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "al.vandarwarka@enron.com, mike.nelson@enron.com"
+      },
+      {
+         "from" : "al.vandarwarka@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tVandarwarka, Al  \n",
+         "to" : "Nelson, Mike"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:\tDinah Sultanik/ENRON@enronXgate on 11/28/2001 04:37 PM\n",
+         "to" : "Al Vandarwarka/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ann.vaughn@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tVaughn, Ann  \n",
+         "to" : "Sultanik, Dinah"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSmith, Gary  \n",
+         "to" : "Vaughn, Ann"
+      },
+      {
+         "from" : "al.vandarwarka@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tVandarwarka, Al  \n",
+         "to" : "Smith, Gary"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/39.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mike.nelson@enron.com"
+      },
+      {
+         "from" : "mike.nelson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Nelson, Mike \n",
+         "to" : "Horton, Stanley; Vandarwarka, Al"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 36,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Vandarwarka, Al; Nelson, Mike"
+      },
+      {
+         "from" : "al.vandarwarka@enron.com",
+         "line" : 47,
+         "rawfrom" : "  Vandarwarka, Al  \n",
+         "to" : "Nelson, Mike"
+      },
+      {
+         "from" : "dinah.sultanik@enron.com",
+         "line" : 54,
+         "rawfrom" : "  Dinah Sultanik/ENRON@enronXgate on 11/28/2001 04:37 PM \n",
+         "to" : "Al Vandarwarka/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ann.vaughn@enron.com",
+         "line" : 69,
+         "rawfrom" : "  Vaughn, Ann  \n",
+         "to" : "Sultanik, Dinah"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 77,
+         "rawfrom" : "  Smith, Gary  \n",
+         "to" : "Vaughn, Ann"
+      },
+      {
+         "from" : "al.vandarwarka@enron.com",
+         "line" : 88,
+         "rawfrom" : "  Vandarwarka, Al  \n",
+         "to" : "Smith, Gary"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/40.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mike.nelson@enron.com"
+      },
+      {
+         "from" : "mike.nelson@enron.com",
+         "line" : 22,
+         "rawfrom" : "Nelson, Mike \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 31,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Nelson, Mike"
+      },
+      {
+         "from" : "mike.nelson@enron.com",
+         "line" : 41,
+         "rawfrom" : "Nelson, Mike \n",
+         "to" : "Horton, Stanley; Vandarwarka, Al"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 55,
+         "rawfrom" : "Horton, Stanley \n",
+         "to" : "Vandarwarka, Al; Nelson, Mike"
+      },
+      {
+         "from" : "al.vandarwarka@enron.com",
+         "line" : 66,
+         "rawfrom" : "  Vandarwarka, Al  \n",
+         "to" : "Nelson, Mike"
+      },
+      {
+         "from" : "dinah.sultanik@enron.com",
+         "line" : 73,
+         "rawfrom" : "  Dinah Sultanik/ENRON@enronXgate on 11/28/2001 04:37 PM \n",
+         "to" : "Al Vandarwarka/ET&S/Enron@ENRON"
+      },
+      {
+         "from" : "ann.vaughn@enron.com",
+         "line" : 88,
+         "rawfrom" : "  Vaughn, Ann  \n",
+         "to" : "Sultanik, Dinah"
+      },
+      {
+         "from" : "gary.smith@enron.com",
+         "line" : 96,
+         "rawfrom" : "  Smith, Gary  \n",
+         "to" : "Vaughn, Ann"
+      },
+      {
+         "from" : "al.vandarwarka@enron.com",
+         "line" : 107,
+         "rawfrom" : "  Vandarwarka, Al  \n",
+         "to" : "Smith, Gary"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/52.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "john.ambler@enron.com"
+      },
+      {
+         "from" : "john.ambler@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tAmbler, John  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Ambler, John"
+      },
+      {
+         "from" : "john.ambler@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tAmbler, John  \n",
+         "to" : "Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/73.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "shelley.corman@enron.com"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Corman, Shelley; Hayslett, Rod"
+      },
+      {
+         "from" : "shelley_corman@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCorman, Shelley  \n",
+         "to" : "Hayslett, Rod"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/76.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "a..hughes@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 20,
+         "rawfrom" : "Frevert, Mark \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "asnyirenda@zesco.co.zm",
+         "line" : 29,
+         "rawfrom" : "A.S. Nyirenda [mailto:asnyirenda@zesco.co.zm]\n",
+         "to" : "Frevert, Mark; mmetts@enron.com; Baxter, Cliff AEP HPL USER; Skilling, Jeff; Lay, Kenneth"
+      },
+      {
+         "from" : "asnyirenda@zesco.co.zm",
+         "line" : 40,
+         "rawfrom" : "A.S. Nyirenda <mailto:asnyirenda@zesco.co.zm> \n",
+         "to" : "Cuthbert E. Roberts <mailto:crobert2@ei.enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/horton-s/sent_items/77.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "mark.frevert@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 22,
+         "rawfrom" : "Frevert, Mark \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "asnyirenda@zesco.co.zm",
+         "line" : 30,
+         "rawfrom" : "A.S. Nyirenda [mailto:asnyirenda@zesco.co.zm]\n",
+         "to" : "Frevert, Mark; mmetts@enron.com; Baxter, Cliff AEP HPL USER; Skilling, Jeff; Lay, Kenneth"
+      },
+      {
+         "from" : "asnyirenda@zesco.co.zm",
+         "line" : 41,
+         "rawfrom" : "A.S. Nyirenda <mailto:asnyirenda@zesco.co.zm> \n",
+         "to" : "Cuthbert E. Roberts <mailto:crobert2@ei.enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+]

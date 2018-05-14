@@ -1,0 +1,32 @@
+[
+{
+   "file" : "enron-raw/meyers-a/deleted_items/139.",
+   "hops" : [
+      {
+         "from" : "thomas.rosendahl@ubspw.com",
+         "line" : 4,
+         "rawfrom" : "thomas.rosendahl@ubspw.com\r\n",
+         "to" : "albert.meyers@enron.com"
+      },
+      {
+         "from" : "bert.meyers@enron.com",
+         "line" : 26,
+         "rawfrom" : "Meyers, Albert [mailto:Bert.Meyers@enron.com]\n",
+         "to" : "Rosendahl, Thomas G."
+      },
+      {
+         "from" : "thomas.rosendahl@ubspw.com",
+         "line" : 42,
+         "rawfrom" : "Rosendahl, Thomas G. [mailto:thomas.rosendahl@ubspw.com]\n",
+         "to" : "Meyers, Albert"
+      },
+      {
+         "from" : "bert.meyers@enron.com",
+         "line" : 57,
+         "rawfrom" : "Meyers, Albert [mailto:Bert.Meyers@enron.com]\n",
+         "to" : "thomas.rosendahl@ubspainewebber.com"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,490 @@
+[
+{
+   "file" : "enron-raw/badeer-r/_sent_mail/43.",
+   "hops" : [
+      {
+         "from" : "robert.badeer@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.badeer@enron.com\r\n",
+         "to" : "matt.motley@enron.com"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 23,
+         "rawfrom" : "Robert Badeer/HOU/ECT on 06/27/2000 06:27 \n",
+         "to" : "Jeff Dasovich/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, Sandra"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 35,
+         "rawfrom" : "Susan J Mara/SFO/EES on 06/27/2000 12:24 \n",
+         "to" : "\"William Hall\" <wfhall2@duke-energy.com>, \"Trond Aschehoug\""
+      },
+      {
+         "from" : "curtis_l_kebler@reliantenergy.com",
+         "line" : 67,
+         "rawfrom" : "curtis_l_kebler@reliantenergy.com\n",
+         "to" : "john_h_stout@reliantenergy.com; stephanie-newell@reliantenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/all_documents/111.",
+   "hops" : [
+      {
+         "from" : "mary.hain@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.hain@enron.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "mhain@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mary Hain/HOU/ECT on 08/17/2000 02:26 PM \n",
+         "to" : "James D Steffes/HOU/EES@EES"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 38,
+         "rawfrom" : "James D Steffes@EES\n",
+         "to" : "Steven J Kean/HOU/EES@EES, Mark Palmer/Corp/Enron@ENRON, Karen"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 57,
+         "rawfrom" : "James D Steffes/HOU/EES on 08/17/2000 \n",
+         "to" : "James D Steffes/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/all_documents/240.",
+   "hops" : [
+      {
+         "from" : "robert.badeer@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.badeer@enron.com\r\n",
+         "to" : "matt.motley@enron.com"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 23,
+         "rawfrom" : "Robert Badeer/HOU/ECT on 06/27/2000 06:27 \n",
+         "to" : "Jeff Dasovich/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, Sandra"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 35,
+         "rawfrom" : "Susan J Mara/SFO/EES on 06/27/2000 12:24 \n",
+         "to" : "\"William Hall\" <wfhall2@duke-energy.com>, \"Trond Aschehoug\""
+      },
+      {
+         "from" : "curtis_l_kebler@reliantenergy.com",
+         "line" : 67,
+         "rawfrom" : "curtis_l_kebler@reliantenergy.com\n",
+         "to" : "john_h_stout@reliantenergy.com; stephanie-newell@reliantenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/california/8.",
+   "hops" : [
+      {
+         "from" : "mary.hain@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.hain@enron.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "mhain@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mary Hain/HOU/ECT on 08/17/2000 02:26 PM \n",
+         "to" : "James D Steffes/HOU/EES@EES"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 38,
+         "rawfrom" : "James D Steffes@EES\n",
+         "to" : "Steven J Kean/HOU/EES@EES, Mark Palmer/Corp/Enron@ENRON, Karen"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 57,
+         "rawfrom" : "James D Steffes/HOU/EES on 08/17/2000 \n",
+         "to" : "James D Steffes/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/deleted_items/1.",
+   "hops" : [
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 4,
+         "rawfrom" : "john.monaco@citi.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 37,
+         "rawfrom" : "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "to" : "Monaco, John [EM]"
+      },
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 53,
+         "rawfrom" : "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "enron.mailsweeper.admin@enron.com",
+         "line" : 64,
+         "rawfrom" : "enron.mailsweeper.admin@enron.com\n",
+         "to" : "Monaco, John [EM]"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/deleted_items/12.",
+   "hops" : [
+      {
+         "from" : "management.ubsw@enron.com",
+         "line" : 4,
+         "rawfrom" : "management.ubsw@enron.com\r\n",
+         "to" : "m..love@enron.com, mike.grigsby@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 25,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Love, Phillip M.; UBSW Energy Information Risk Management"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "UBSW Energy Information Risk Management"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "UBSW Energy Information Risk Management"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/badeer-r/deleted_items/13.",
+   "hops" : [
+      {
+         "from" : "m..love@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..love@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com, robert.badeer@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 34,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Love, Phillip M.; UBSW Energy Information Risk Management"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "UBSW Energy Information Risk Management"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "UBSW Energy Information Risk Management"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/badeer-r/deleted_items/4.",
+   "hops" : [
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 4,
+         "rawfrom" : "john.monaco@citi.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 34,
+         "rawfrom" : "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "to" : "Monaco, John [EM]"
+      },
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 48,
+         "rawfrom" : "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 72,
+         "rawfrom" : "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "to" : "Monaco, John [EM]"
+      },
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 88,
+         "rawfrom" : "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "enron.mailsweeper.admin@enron.com",
+         "line" : 99,
+         "rawfrom" : "enron.mailsweeper.admin@enron.com\n",
+         "to" : "Monaco, John [EM]"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/deleted_items/7.",
+   "hops" : [
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 4,
+         "rawfrom" : "ina.rangel@enron.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "amanda.curless@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCurless, Amanda  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Curless, Amanda"
+      },
+      {
+         "from" : "amanda.curless@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tCurless, Amanda  \n",
+         "to" : "Rangel, Ina"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/discussion_threads/169.",
+   "hops" : [
+      {
+         "from" : "mary.hain@enron.com",
+         "line" : 4,
+         "rawfrom" : "mary.hain@enron.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "mhain@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mary Hain/HOU/ECT on 08/17/2000 02:26 PM \n",
+         "to" : "James D Steffes/HOU/EES@EES"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 38,
+         "rawfrom" : "James D Steffes@EES\n",
+         "to" : "Steven J Kean/HOU/EES@EES, Mark Palmer/Corp/Enron@ENRON, Karen"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 57,
+         "rawfrom" : "James D Steffes/HOU/EES on 08/17/2000 \n",
+         "to" : "James D Steffes/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/discussion_threads/55.",
+   "hops" : [
+      {
+         "from" : "robert.badeer@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.badeer@enron.com\r\n",
+         "to" : "matt.motley@enron.com"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 23,
+         "rawfrom" : "Robert Badeer/HOU/ECT on 06/27/2000 06:27 \n",
+         "to" : "Jeff Dasovich/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, Sandra"
+      },
+      {
+         "from" : "susan_j_mara@enron.com",
+         "line" : 35,
+         "rawfrom" : "Susan J Mara/SFO/EES on 06/27/2000 12:24 \n",
+         "to" : "\"William Hall\" <wfhall2@duke-energy.com>, \"Trond Aschehoug\""
+      },
+      {
+         "from" : "curtis_l_kebler@reliantenergy.com",
+         "line" : 67,
+         "rawfrom" : "curtis_l_kebler@reliantenergy.com\n",
+         "to" : "john_h_stout@reliantenergy.com; stephanie-newell@reliantenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/inbox/3.",
+   "hops" : [
+      {
+         "from" : "management.ubsw@enron.com",
+         "line" : 4,
+         "rawfrom" : "management.ubsw@enron.com\r\n",
+         "to" : "robert.badeer@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Love, Phillip M.; UBSW Energy Information Risk Management"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "UBSW Energy Information Risk Management"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "UBSW Energy Information Risk Management"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/badeer-r/sent_items/1.",
+   "hops" : [
+      {
+         "from" : "robert.badeer@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.badeer@enron.com\r\n",
+         "to" : "'monaco@enron.com, john.monaco@citi.com"
+      },
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 25,
+         "rawfrom" : "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 49,
+         "rawfrom" : "Badeer, Robert [mailto:Robert.Badeer@ubswenergy.com]\n",
+         "to" : "Monaco, John [EM]"
+      },
+      {
+         "from" : "john.monaco@citi.com",
+         "line" : 65,
+         "rawfrom" : "Monaco, John [EM] [mailto:john.monaco@citi.com]\n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "enron.mailsweeper.admin@enron.com",
+         "line" : 76,
+         "rawfrom" : "enron.mailsweeper.admin@enron.com\n",
+         "to" : "Monaco, John [EM]"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/sent_items/2.",
+   "hops" : [
+      {
+         "from" : "robert.badeer@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.badeer@enron.com\r\n",
+         "to" : "ina.rangel@enron.com"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "amanda.curless@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCurless, Amanda  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Curless, Amanda"
+      },
+      {
+         "from" : "amanda.curless@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tCurless, Amanda  \n",
+         "to" : "Rangel, Ina"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/badeer-r/sent_items/4.",
+   "hops" : [
+      {
+         "from" : "robert.badeer@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.badeer@enron.com\r\n",
+         "to" : "mike.grigsby@enron.com"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Badeer, Robert"
+      },
+      {
+         "from" : "robert.badeer@ubswenergy.com",
+         "line" : 30,
+         "rawfrom" : "\tBadeer, Robert  \n",
+         "to" : "Grigsby, Mike"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 39,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Badeer, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+]

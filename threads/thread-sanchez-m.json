@@ -1,0 +1,950 @@
+[
+{
+   "file" : "enron-raw/sanchez-m/inbox/65.",
+   "hops" : [
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 4,
+         "rawfrom" : "tori.kuykendall@enron.com\r\n",
+         "to" : "monique.sanchez@enron.com, mike.grigsby@enron.com, matthew.lenhart@enron.com,"
+      },
+      {
+         "from" : "diane_hoyuela@foleys.com",
+         "line" : 23,
+         "rawfrom" : "Diane_Hoyuela@Foleys.com [mailto:Diane_Hoyuela@Foleys.com]\n",
+         "to" : "marcgarcia@earthlink.com; Hamm Laura; terra.henderson@accenture.com;"
+      },
+      {
+         "from" : "khoyuela@rice.edu",
+         "line" : 39,
+         "rawfrom" : "\"Kristy Hoyuela\" <khoyuela@rice.edu> on 10/11/2001 10:50 PM\n",
+         "to" : "<Diane_Hoyuela@Foleys.com>"
+      },
+      {
+         "from" : "longhornliz@mail.utexas.edu",
+         "line" : 48,
+         "rawfrom" : "\"Elizabeth Anderson\" <longhornliz@mail.utexas.edu>\n",
+         "to" : "\"Deana\" <UTde@mail.utexas.edu>; \"Bex\" <Kristin_Bexley@baylor.edu>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/inbox/67.",
+   "hops" : [
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 4,
+         "rawfrom" : "jmenconi@adv-eng-ser-inc.com\r\n",
+         "to" : "msanche2@enron.com"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 27,
+         "rawfrom" : "John Menconi [mailto:jmenconi@adv-eng-ser-inc.com]\n",
+         "to" : "'barbarb menconi'"
+      },
+      {
+         "from" : "bmenconi@flash.net",
+         "line" : 41,
+         "rawfrom" : "barbarb menconi [mailto:bmenconi@flash.net]\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 51,
+         "rawfrom" : "John Menconi <jmenconi@adv-eng-ser-inc.com>\n",
+         "to" : "Mom (E-mail) <bmenconi@flash.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/private_folders/other/2.",
+   "hops" : [
+      {
+         "from" : "fermis@hotmail.com",
+         "line" : 4,
+         "rawfrom" : "fermis@hotmail.com\r\n",
+         "to" : "monique.sanchez@enron.com"
+      },
+      {
+         "from" : "tvaughan@prebon.com",
+         "line" : 21,
+         "rawfrom" : "Trevor Vaughan <TVaughan@prebon.com>\n",
+         "to" : "\"'fermis@hotmail.com'\" <fermis@hotmail.com>"
+      },
+      {
+         "from" : "> > from:\tdonald tencellent jr.",
+         "line" : 34,
+         "rawfrom" : "> > From:\tDonald Tencellent Jr.\n",
+         "to" : "Trevor Vaughan"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 42,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 50,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; gamacorp@aol.com; owenandsuz@yahoo.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/private_folders/other/9.",
+   "hops" : [
+      {
+         "from" : "krweaber@pfdj.com",
+         "line" : 4,
+         "rawfrom" : "krweaber@pfdj.com\r\n",
+         "to" : "monique.sanchez@enron.com"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 22,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "krweaber@pfdj.com"
+      },
+      {
+         "from" : "krweaber@pfdj.com",
+         "line" : 40,
+         "rawfrom" : "krweaber@pfdj.com",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 63,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "krweaber@pfdj.com"
+      },
+      {
+         "from" : "krweaber@pfdj.com",
+         "line" : 259,
+         "rawfrom" : "krweaber@pfdj.com",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 302,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "krweaber@pfdj.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 317,
+         "rawfrom" : "Monique Sanchez/HOU/ECT on 09/18/2000\n",
+         "to" : "Monique Sanchez/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ashleastu@aol.com",
+         "line" : 335,
+         "rawfrom" : " Ashleastu@aol.com\n",
+         "to" : "sarah_c_buck@hotmail.com, jennyreese@hotmail.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/10.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "moshuffle@hotmail.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 22,
+         "rawfrom" : "Monique Sanchez/HOU/ECT on 05/10/2001 03:15 PM ---------------------------\n",
+         "to" : "\"'msanche2@enron.com'\" <msanche2@enron.com>"
+      },
+      {
+         "from" : "deena.ferado@gte.net",
+         "line" : 48,
+         "rawfrom" : "Deena Ferado <deena.ferado@gte.net>\n",
+         "to" : "fwend <gina1569@aol.com>, staci <rnstaci@aol.com>, Tara Pearson\t <tjp239@yahoo.com>, LisaLISASALAZAR@aol.com, Jenny\t <jennifer_murphy@csd.k12.ca.us>, RWeiss9820@aol.com, \t\"Deceglie, Sabina, BMG - NY1540\" <Sabina.DeCeglie@bmge.com>"
+      },
+      {
+         "from" : "carmen.feliciano@eds.com",
+         "line" : 58,
+         "rawfrom" : "Feliciano, Carmen E <carmen.feliciano@eds.com>\n",
+         "to" : "Alex Feliciano (E-mail) <FeliciAl@shu.edu>; Elizabeth Ortega (E-mail)"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/100.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "tori.kuykendall@enron.com",
+         "line" : 22,
+         "rawfrom" : "Kuykendall, Tori \n",
+         "to" : "Sanchez, Monique; Grigsby, Mike; Lenhart, Matthew; Reitmeyer, Jay;"
+      },
+      {
+         "from" : "diane_hoyuela@foleys.com",
+         "line" : 32,
+         "rawfrom" : "Diane_Hoyuela@Foleys.com [mailto:Diane_Hoyuela@Foleys.com]\n",
+         "to" : "marcgarcia@earthlink.com; Hamm Laura; terra.henderson@accenture.com;"
+      },
+      {
+         "from" : "khoyuela@rice.edu",
+         "line" : 48,
+         "rawfrom" : "\"Kristy Hoyuela\" <khoyuela@rice.edu> on 10/11/2001 10:50 PM\n",
+         "to" : "<Diane_Hoyuela@Foleys.com>"
+      },
+      {
+         "from" : "longhornliz@mail.utexas.edu",
+         "line" : 57,
+         "rawfrom" : "\"Elizabeth Anderson\" <longhornliz@mail.utexas.edu>\n",
+         "to" : "\"Deana\" <UTde@mail.utexas.edu>; \"Bex\" <Kristin_Bexley@baylor.edu>;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/105.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 22,
+         "rawfrom" : "\t\"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON  \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 30,
+         "rawfrom" : "John Menconi [mailto:jmenconi@adv-eng-ser-inc.com]\n",
+         "to" : "'Sanchez, Monique'"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 46,
+         "rawfrom" : "Sanchez, Monique [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 55,
+         "rawfrom" : "        \"John Menconi\" <jmenconi@adv-eng-ser-inc.com>@ENRON\n",
+         "to" : "Monique Sanchez \\(E-mail\\)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/17.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "dpriese@worldnet.att.net"
+      },
+      {
+         "from" : "dpriese@worldnet.att.net",
+         "line" : 28,
+         "rawfrom" : "\"Dennis Priese\" <dpriese@worldnet.att.net> on 05/09/2001 07:42:59 AM\n",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 41,
+         "rawfrom" : "<Monique.Sanchez@enron.com>\n",
+         "to" : "<dpriese@worldnet.att.net>"
+      },
+      {
+         "from" : "dpriese@worldnet.att.net",
+         "line" : 67,
+         "rawfrom" : "dpriese@worldnet.att.net",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 76,
+         "rawfrom" : "<Monique.Sanchez@enron.com>\n",
+         "to" : "<dpriese@worldnet.att.net>"
+      },
+      {
+         "from" : "dpriese@worldnet.att.net",
+         "line" : 93,
+         "rawfrom" : "dpriese@worldnet.att.net",
+         "to" : "\"monique sanchez\" <monique.sanchez@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/18.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "dpriese@worldnet.att.net"
+      },
+      {
+         "from" : "dpriese@worldnet.att.net",
+         "line" : 25,
+         "rawfrom" : "\"Dennis Priese\" <dpriese@worldnet.att.net> on 05/08/2001 02:13:46 PM\n",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 34,
+         "rawfrom" : "<Monique.Sanchez@enron.com>\n",
+         "to" : "<dpriese@worldnet.att.net>"
+      },
+      {
+         "from" : "dpriese@worldnet.att.net",
+         "line" : 51,
+         "rawfrom" : "\"Dennis Priese\" <dpriese@worldnet.att.net> on 04/30/2001 06:11:52 PM\n",
+         "to" : "\"monique sanchez\" <monique.sanchez@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/19.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 24,
+         "rawfrom" : "jmenconi@adv-eng-ser-inc.com",
+         "to" : "\"Jarrod Haughn \\(E-mail\\)\" <JHaughn@worldnet.att.net>, \"Kristine Lawrence \\(E-mail\\)\" <REMEMBERMEL@cs.com>, \"Monique Sanchez \\(E-mail\\)\" <msanche2@enron.com>, \"Trip Friend \\(E-mail\\)\" <JWFRIEND@dow.com>, \"Susan Scott \\(E-mail\\)\" <Susan.M.Scott@enron.com>"
+      },
+      {
+         "from" : "todd_doss@dell.com",
+         "line" : 45,
+         "rawfrom" : "Todd_Doss@Dell.com [mailto:Todd_Doss@Dell.com]\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com; rparry@bcm.tmc.edu"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 70,
+         "rawfrom" : "John Menconi [mailto:jmenconi@adv-eng-ser-inc.com]\n",
+         "to" : "Todd Doss (E-mail); Robert Parry (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/25.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "susan.scott@enron.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : " Monique Sanchez                           05/04/2001 09:20 AM\t\n",
+         "to" : "<jmenconi@adv-eng-ser-inc.com>"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 44,
+         "rawfrom" : "jmenconi@adv-eng-ser-inc.com",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 55,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 65,
+         "rawfrom" : "Monique Sanchez/HOU/ECT on 05/04/2001\n",
+         "to" : "lfrazervobs@aol.com, meredith415@hotmail.com, bpatel@Princeton.EDU,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/26.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "jmenconi@adv-eng-ser-inc.com",
+         "line" : 33,
+         "rawfrom" : "jmenconi@adv-eng-ser-inc.com",
+         "to" : "<Monique.Sanchez@enron.com>"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 44,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 54,
+         "rawfrom" : "Monique Sanchez/HOU/ECT on 05/04/2001\n",
+         "to" : "lfrazervobs@aol.com, meredith415@hotmail.com, bpatel@Princeton.EDU,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/30.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "sanchez@enron.com, ksanchez@houstonisd.org"
+      },
+      {
+         "from" : "ksanchez@houstonisd.org",
+         "line" : 23,
+         "rawfrom" : "\"Sanchez, Kathryn A\" <ksanchez@houstonisd.org> on 05/02/2001 01:33:51 PM\n",
+         "to" : "Monique.Sanchez@enron.com"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 45,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "ksanchez@houstonisd.org"
+      },
+      {
+         "from" : "ksanchez@houstonisd.org",
+         "line" : 58,
+         "rawfrom" : "\"Sanchez, Kathryn A\" <ksanchez@houstonisd.org> on 05/02/2001 01:10:31 PM\n",
+         "to" : "Monique.Sanchez@enron.com"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 80,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "ksanchez@houstonisd.org"
+      },
+      {
+         "from" : "ksanchez@houstonisd.org",
+         "line" : 96,
+         "rawfrom" : "\"Sanchez, Kathryn A\" <ksanchez@houstonisd.org> on 05/02/2001 01:03:55 PM\n",
+         "to" : "\"Sanchez, Monique\" <Monique.Sanchez@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/31.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "sanchez@enron.com, ksanchez@houstonisd.org"
+      },
+      {
+         "from" : "ksanchez@houstonisd.org",
+         "line" : 24,
+         "rawfrom" : "\"Sanchez, Kathryn A\" <ksanchez@houstonisd.org> on 05/02/2001 01:10:31 PM\n",
+         "to" : "Monique.Sanchez@enron.com"
+      },
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 46,
+         "rawfrom" : "Monique.Sanchez@enron.com [mailto:Monique.Sanchez@enron.com]\n",
+         "to" : "ksanchez@houstonisd.org"
+      },
+      {
+         "from" : "ksanchez@houstonisd.org",
+         "line" : 62,
+         "rawfrom" : "\"Sanchez, Kathryn A\" <ksanchez@houstonisd.org> on 05/02/2001 01:03:55 PM\n",
+         "to" : "\"Sanchez, Monique\" <Monique.Sanchez@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/42.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "susan.scott@enron.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 22,
+         "rawfrom" : "Monique Sanchez/HOU/ECT on 05/01/2001 07:40 AM ---------------------------\n",
+         "to" : "Monique.Sanchez@enron.com"
+      },
+      {
+         "from" : "monique.sanchez@enron.c",
+         "line" : 52,
+         "rawfrom" : "Monique.Sanchez@enron.c",
+         "to" : "Joseph F. Reid@Accenture"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 84,
+         "rawfrom" : "Joseph.F.Reid@accenture.com on 04/26/2001 02:51:10 PM\n",
+         "to" : "Monique.sanchez@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "m..scott@enron.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 22,
+         "rawfrom" : "\tJoseph.F.Reid@accenture.com@ENRON [mailto:IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "monique.sanchez@enron.c",
+         "line" : 39,
+         "rawfrom" : "Monique.Sanchez@enron.c",
+         "to" : "IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 63,
+         "rawfrom" : "  Joseph.F.Reid@accenture.com@ENRON\n",
+         "to" : "Sanchez, Monique"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/66.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "joseph.f.reid@accenture.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 24,
+         "rawfrom" : "\tJoseph.F.Reid@accenture.com@ENRON [mailto:IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "monique.sanchez@enron.c",
+         "line" : 41,
+         "rawfrom" : "Monique.Sanchez@enron.c",
+         "to" : "IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 65,
+         "rawfrom" : "  Joseph.F.Reid@accenture.com@ENRON\n",
+         "to" : "Sanchez, Monique"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/67.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "sscott5@enron.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'Joseph.F.Reid@accenture.com@ENRON'"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 32,
+         "rawfrom" : "\tJoseph.F.Reid@accenture.com@ENRON [mailto:IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "monique.sanchez@enron.c",
+         "line" : 49,
+         "rawfrom" : "Monique.Sanchez@enron.c",
+         "to" : "IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 73,
+         "rawfrom" : "  Joseph.F.Reid@accenture.com@ENRON\n",
+         "to" : "Sanchez, Monique"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/70.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jake_scarbrough@hotmail.com, '@enron.com, jmenconi@adv-eng-ser-inc.com,"
+      },
+      {
+         "from" : "fermis@hotmail.com",
+         "line" : 23,
+         "rawfrom" : "\t\"Frank Ermis\" <fermis@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Frank+20Ermis+22+20+3Cfermis+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "tvaughan@prebon.com",
+         "line" : 30,
+         "rawfrom" : "Trevor Vaughan <TVaughan@prebon.com>\n",
+         "to" : "\"'fermis@hotmail.com'\" <fermis@hotmail.com>"
+      },
+      {
+         "from" : "> > from:\tdonald tencellent jr.",
+         "line" : 43,
+         "rawfrom" : "> > From:\tDonald Tencellent Jr.\n",
+         "to" : "Trevor Vaughan"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 51,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 59,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; gamacorp@aol.com; owenandsuz@yahoo.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/71.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "'hotmail.com@enron.com, ksanchez@houstonisd.org, sscott5@enron.com,"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 23,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'jake_scarbrough@hotmail.com,'; 'jmenconi@adv-eng-ser-inc.com,'"
+      },
+      {
+         "from" : "fermis@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "\t\"Frank Ermis\" <fermis@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Frank+20Ermis+22+20+3Cfermis+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "tvaughan@prebon.com",
+         "line" : 38,
+         "rawfrom" : "Trevor Vaughan <TVaughan@prebon.com>\n",
+         "to" : "\"'fermis@hotmail.com'\" <fermis@hotmail.com>"
+      },
+      {
+         "from" : "> > from:\tdonald tencellent jr.",
+         "line" : 51,
+         "rawfrom" : "> > From:\tDonald Tencellent Jr.\n",
+         "to" : "Trevor Vaughan"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 59,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 67,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; gamacorp@aol.com; owenandsuz@yahoo.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/72.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jmenconi@adv-eng-ser-inc.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'hotmail.com,ksanchez@houstonisd.org,sscott5@enron.com,emharris@dow.com'"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'jake_scarbrough@hotmail.com,'; 'jmenconi@adv-eng-ser-inc.com,'"
+      },
+      {
+         "from" : "fermis@hotmail.com",
+         "line" : 38,
+         "rawfrom" : "\t\"Frank Ermis\" <fermis@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Frank+20Ermis+22+20+3Cfermis+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "tvaughan@prebon.com",
+         "line" : 45,
+         "rawfrom" : "Trevor Vaughan <TVaughan@prebon.com>\n",
+         "to" : "\"'fermis@hotmail.com'\" <fermis@hotmail.com>"
+      },
+      {
+         "from" : "> > from:\tdonald tencellent jr.",
+         "line" : 58,
+         "rawfrom" : "> > From:\tDonald Tencellent Jr.\n",
+         "to" : "Trevor Vaughan"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 66,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 74,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; gamacorp@aol.com; owenandsuz@yahoo.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/73.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "jake_scarbrough@hotmail.com, '@enron.com"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'jmenconi@adv-eng-ser-inc.com'"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'hotmail.com,ksanchez@houstonisd.org,sscott5@enron.com,emharris@dow.com'"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 38,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "'jake_scarbrough@hotmail.com,'; 'jmenconi@adv-eng-ser-inc.com,'"
+      },
+      {
+         "from" : "fermis@hotmail.com",
+         "line" : 46,
+         "rawfrom" : "\t\"Frank Ermis\" <fermis@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Frank+20Ermis+22+20+3Cfermis+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "tvaughan@prebon.com",
+         "line" : 53,
+         "rawfrom" : "Trevor Vaughan <TVaughan@prebon.com>\n",
+         "to" : "\"'fermis@hotmail.com'\" <fermis@hotmail.com>"
+      },
+      {
+         "from" : "> > from:\tdonald tencellent jr.",
+         "line" : 66,
+         "rawfrom" : "> > From:\tDonald Tencellent Jr.\n",
+         "to" : "Trevor Vaughan"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 74,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 82,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; gamacorp@aol.com; owenandsuz@yahoo.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/74.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "dutch.quigley@enron.com"
+      },
+      {
+         "from" : "fermis@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Frank Ermis\" <fermis@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Frank+20Ermis+22+20+3Cfermis+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "tvaughan@prebon.com",
+         "line" : 29,
+         "rawfrom" : "Trevor Vaughan <TVaughan@prebon.com>\n",
+         "to" : "\"'fermis@hotmail.com'\" <fermis@hotmail.com>"
+      },
+      {
+         "from" : "> > from:\tdonald tencellent jr.",
+         "line" : 42,
+         "rawfrom" : "> > From:\tDonald Tencellent Jr.\n",
+         "to" : "Trevor Vaughan"
+      },
+      {
+         "from" : "rita.nagle@gs.com",
+         "line" : 50,
+         "rawfrom" : "\tNagle, Rita[SMTP:rita.nagle@gs.com]\n",
+         "to" : "Donald Tencellent Jr."
+      },
+      {
+         "from" : "expedition@everestbasecamp.com",
+         "line" : 58,
+         "rawfrom" : "himex [mailto:expedition@everestbasecamp.com]\n",
+         "to" : "patrickw@Youthstream.com; gamacorp@aol.com; owenandsuz@yahoo.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/93.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "cindy.richardson@enron.com"
+      },
+      {
+         "from" : "cindy.richardson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRichardson, Cindy  \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "msanche2@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSanchez, Monique  \n",
+         "to" : "Richardson, Cindy"
+      },
+      {
+         "from" : "cindy.richardson@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tRichardson, Cindy  \n",
+         "to" : "'EnronRunners@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/sanchez-m/sent_items/96.",
+   "hops" : [
+      {
+         "from" : "monique.sanchez@enron.com",
+         "line" : 4,
+         "rawfrom" : "monique.sanchez@enron.com\r\n",
+         "to" : "joseph.f.reid@accenture.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 22,
+         "rawfrom" : "\tJoseph.F.Reid@accenture.com@ENRON [mailto:IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Sanchez, Monique"
+      },
+      {
+         "from" : "monique.sanchez@enron.c",
+         "line" : 39,
+         "rawfrom" : "Monique.Sanchez@enron.c",
+         "to" : "IMCEANOTES-Joseph+2EF+2EReid+40accenture+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "joseph.f.reid@accenture.com",
+         "line" : 60,
+         "rawfrom" : "  Joseph.F.Reid@accenture.com@ENRON\n",
+         "to" : "Sanchez, Monique"
+      }
+   ],
+   "skipped" : 0
+}
+]

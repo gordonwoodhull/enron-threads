@@ -1,0 +1,2105 @@
+[
+{
+   "file" : "enron-raw/martin-t/_sent_mail/10.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "thomas.martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 03/20/2001 03:51 PM ---------------------------\n",
+         "to" : "Elsa Villarreal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 33,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 07/13/2000 11:14 AM ---------------------------\n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 40,
+         "rawfrom" : "From:\tGreg Brazaitis on 07/12/2000 01:36 PM\n",
+         "to" : "Edward D Gottlob/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/_sent_mail/15.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "brian.redmond@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 25,
+         "rawfrom" : "From:\tJoan Quick/ENRON@enronXgate on 03/26/2001 12:26 PM\n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Baumbach, David; Boyt, Eric"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBaumbach, David  \n",
+         "to" : "Boyt, Eric"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 69,
+         "rawfrom" : " David Baumbach @ ECT                           03/26/2001 08:33 AM \n",
+         "to" : "Joan Quick/HOU/ECT, Eric Boyt/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/all_documents/109.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "thomas.martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 03/20/2001 \n",
+         "to" : "Elsa Villarreal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 34,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 07/13/2000 \n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.brazaitis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Greg Brazaitis on 07/12/2000 01:36 PM\n",
+         "to" : "Edward D Gottlob/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/all_documents/65.",
+   "hops" : [
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 4,
+         "rawfrom" : "brian.redmond@enron.com\r\n",
+         "to" : "jim.coffey@enron.com, thomas.martin@enron.com"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 33,
+         "rawfrom" : " Jim Coffey                           02/01/2001 06:25 PM\n",
+         "to" : "Brian Redmond/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jackie.nelson@enron.com",
+         "line" : 51,
+         "rawfrom" : " Jackie Nelson                           01/31/2001 05:00 PM\n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jackie.nelson@enron.com",
+         "line" : 71,
+         "rawfrom" : "Jackie Nelson/HOU/ECT on 01/31/2001 04:49 \n",
+         "to" : "Edie Leschber/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jacquelyn.azore@enron.com",
+         "line" : 86,
+         "rawfrom" : "Jacquelyn Azore/NA/Enron on 01/26/2001 \n",
+         "to" : "Suzanne Nicholie/Corp/Enron@ENRON, Paula Harris/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jacquelyn.azore@enron.com",
+         "line" : 98,
+         "rawfrom" : "Jacquelyn Azore/NA/Enron on 09/08/2000 \n",
+         "to" : "Jacquelyn Azore/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/calendar/14.",
+   "hops" : [
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 4,
+         "rawfrom" : "laura.vuittonet@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=fsolis>",
+         "line" : 22,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FSOLIS>\n",
+         "to" : "Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Azipper>, Benson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbenson>, Presto, Kevin M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpresto>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Sturm, Fletcher J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsturm>, Shively, Hunter S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hshivel>, Grigsby, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgrigsb>, Martin, Thomas A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmartin>, Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Davis, Mark Dana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdavis>, Gilbert-smith, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dsmith3>, Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Harora>, Ermis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fermis>, DL-ENA Trading Track </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-ENATradingTrack>"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=tmartin>",
+         "line" : 52,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TMARTIN>\n",
+         "to" : "Buckley, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbuckley>"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Lewis, Andrew H.; Zipper, Andy; Benson, Robert; Presto, Kevin M.; Arnold, John; Sturm, Fletcher J.; Shively, Hunter S.; Grigsby, Mike; Martin, Thomas A.; Neal, Scott; Davis, Mark Dana; Gilbert-smith, Doug; Arora, Harry; DL-ENA Trading Track; Ermis, Frank"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/147.",
+   "hops" : [
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 4,
+         "rawfrom" : "sean.percy@enron.com\r\n",
+         "to" : "joe.hall@enron.com"
+      },
+      {
+         "from" : "joe_hall@drsoptronics.com",
+         "line" : 28,
+         "rawfrom" : "\tHall, Joe  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "martin.thomas@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tThomas, Martin  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/148.",
+   "hops" : [
+      {
+         "from" : "joe.hall@enron.com",
+         "line" : 4,
+         "rawfrom" : "joe.hall@enron.com\r\n",
+         "to" : "sean.percy@enron.com"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "martin.thomas@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tThomas, Martin  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/149.",
+   "hops" : [
+      {
+         "from" : "joe.hall@enron.com",
+         "line" : 4,
+         "rawfrom" : "joe.hall@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "joe_hall@drsoptronics.com",
+         "line" : 33,
+         "rawfrom" : "\tHall, Joe  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "martin.thomas@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tThomas, Martin  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 79,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/164.",
+   "hops" : [
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 4,
+         "rawfrom" : "lynemartin@msn.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "mmbassani@shellus.com",
+         "line" : 23,
+         "rawfrom" : "Bassani, Margaret M SOPC\n",
+         "to" : "'John Martin'; 'Ken and Mary Ann Martin'; 'Jim Martin'; 'Lyne Martin'; 'Mary Martin'; 'John Martin'"
+      },
+      {
+         "from" : "dbassani@abm.com",
+         "line" : 33,
+         "rawfrom" : "Doug Bassani [mailto:dbassani@abm.com]\n",
+         "to" : "Bassani, Margaret MM SHLOIL; Sarah Black"
+      },
+      {
+         "from" : "john.moore@enron.com",
+         "line" : 57,
+         "rawfrom" : "John Moore/Security/ABM on 10/24/01 03:43 PM -----\n",
+         "to" : "Jamey"
+      },
+      {
+         "from" : "bob.carter@enron.com",
+         "line" : 161,
+         "rawfrom" : "Carter, Bob\n",
+         "to" : "'rlangner@langnersecurity.com'  ; 'clangner@langnersecurity.com'  ;"
+      },
+      {
+         "from" : "sarah.shaw@maguirepartners.com",
+         "line" : 168,
+         "rawfrom" : "Shaw, Sarah\n",
+         "to" : "WFC.BMO;  WFC.BMO.DH"
+      },
+      {
+         "from" : "chiseppa@msn.com",
+         "line" : 174,
+         "rawfrom" : "julie seppa  [mailto:chiseppa@msn.com]\n",
+         "to" : "helenb123; Jerry Bentley; Sarah_Shaw"
+      },
+      {
+         "from" : "sseppa@knutsenins.com",
+         "line" : 185,
+         "rawfrom" : "Scott Seppa  [mailto:sseppa@knutsenins.com]\n",
+         "to" : "'Angela'; 'Bev'; 'Bob and Barbara Canessa'; 'BobK';  'Brent';"
+      },
+      {
+         "from" : "hseppa@bankofastoria.com",
+         "line" : 195,
+         "rawfrom" : "Heather  Seppa [SMTP:hseppa@bankofastoria.com]\n",
+         "to" : "'Scott Seppa'"
+      },
+      {
+         "from" : "rralph@mtpower.com",
+         "line" : 213,
+         "rawfrom" : "Ralph, Rose Marie [mailto:rralph@mtpower.com]\n",
+         "to" : "'wsta@yahoogroups.com'"
+      },
+      {
+         "from" : "tony.nespoli@icn.siemens.com",
+         "line" : 219,
+         "rawfrom" : "Nespoli, Tony  [mailto:Tony.Nespoli@icn.siemens.com]\n",
+         "to" : "Burns, Scott;  'john.pino@morganstanley.com';"
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/183.",
+   "hops" : [
+      {
+         "from" : "clfauxde@houston.rr.com",
+         "line" : 4,
+         "rawfrom" : "clfauxde@houston.rr.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "thomas.a.martin@enron.com",
+         "line" : 26,
+         "rawfrom" : "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "to" : "\"Cindy Knapp\" <clfauxde@houston.rr.com>"
+      },
+      {
+         "from" : "clfauxde@houston.rr.com",
+         "line" : 41,
+         "rawfrom" : "\"Cindy Knapp\" <clfauxde@houston.rr.com>@ENRON\n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "thomas.a.martin@enron.com",
+         "line" : 63,
+         "rawfrom" : "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "to" : "<clfauxde@houston.rr.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/194.",
+   "hops" : [
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 4,
+         "rawfrom" : "laura.vuittonet@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Bates, Kimberly; Villarreal, Alexandra; Vuittonet, Laura; Rybarski, Amanda"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tArnold, John  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Arnold, John"
+      },
+      {
+         "from" : "tammy.shepperd@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tShepperd, Tammy R.  \n",
+         "to" : "Arnold, John; Black, Don; Hall, Bob M"
+      },
+      {
+         "from" : "martin.bucknell@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tBucknell, Martin  \n",
+         "to" : "Lavorato, John; Colwell, Wes; Piper, Greg; Pickering, Mark; Donovan, Bill; Rub, Jenny; Kitchen, Louise; Shepperd, Tammy R."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/deleted_items/200.",
+   "hops" : [
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 4,
+         "rawfrom" : "laura.vuittonet@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Vuittonet, Laura"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Rangel, Ina"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/discussion_threads/104.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "thomas.martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 03/20/2001 \n",
+         "to" : "Elsa Villarreal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 34,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 07/13/2000 \n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.brazaitis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Greg Brazaitis on 07/12/2000 01:36 PM\n",
+         "to" : "Edward D Gottlob/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/10.",
+   "hops" : [
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 4,
+         "rawfrom" : "lynemartin@msn.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "mmbassani@shellus.com",
+         "line" : 23,
+         "rawfrom" : "Bassani, Margaret M SOPC\n",
+         "to" : "'Lyne Martin'"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 32,
+         "rawfrom" : "Lyne Martin [mailto:lynemartin@msn.com]\n",
+         "to" : "Bassani, Margaret M SOPC"
+      },
+      {
+         "from" : "mmbassani@shellus.com",
+         "line" : 39,
+         "rawfrom" : "Bassani, Margaret M SOPC\n",
+         "to" : "'Jim Martin'; 'Ken and Mary Ann Martin'; 'Lyne Martin'; 'Mary Martin'; 'John and Diane Martin'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/130.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 28,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 53,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Forster, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/137.",
+   "hops" : [
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 4,
+         "rawfrom" : "lynemartin@msn.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 25,
+         "rawfrom" : "Lyne Martin\n",
+         "to" : "mark bain"
+      },
+      {
+         "from" : "clfauxde@houston.rr.com",
+         "line" : 83,
+         "rawfrom" : "\"Cindy Knapp\" <clfauxde@houston.rr.com>\n",
+         "to" : "\"Bain, Mark & Debbie\" <mbain0@hotmail.com>"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 94,
+         "rawfrom" : "Lyne Martin\n",
+         "to" : "Cindy Knapp"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/166.",
+   "hops" : [
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 4,
+         "rawfrom" : "brian.redmond@enron.com\r\n",
+         "to" : "gary.bryan@enron.com, morris.larubbio@enron.com, jd.buss@enron.com,"
+      },
+      {
+         "from" : "frank.vickers@enron.com",
+         "line" : 23,
+         "rawfrom" : "Vickers, Frank \n",
+         "to" : "Luce, Laura; Redmond, Brian; Tycholiz, Barry; Lagrasta, Fred; Neal, Scott; Shively, Hunter S.; Grigsby, Mike"
+      },
+      {
+         "from" : "christopher.f.calger@enron.com",
+         "line" : 38,
+         "rawfrom" : "  Calger, Christopher F.  \n",
+         "to" : "Vickers, Frank"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 56,
+         "rawfrom" : "  Forster, David  \n",
+         "to" : "Redmond, Brian; Luce, Laura; Lagrasta, Fred; Vickers, Frank; Tycholiz, Barry; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/193.",
+   "hops" : [
+      {
+         "from" : "anne.koehler@enron.com",
+         "line" : 4,
+         "rawfrom" : "anne.koehler@enron.com\r\n",
+         "to" : "george.weissman@enron.com, a..martin@enron.com, david.baumbach@enron.com"
+      },
+      {
+         "from" : "713-853-3448",
+         "line" : 35,
+         "rawfrom" : "713-853-3448\n",
+         "to" : "Sandi M Braband/HOU/ECT@ECT  cc: Melissa Graves/HOU/ECT, Jim Coffey/HOU/ECT@ECT, Brian M Riley/HOU/ECT@ECT, Greg Brazaitis/HOU/ECT@ECT, Lee L Papayoti/HOU/ECT@ECT, Barbara N Gray/HOU/ECT@ECT, Anne C Koehler/HOU/ECT@ECT, Terry Sanvido/Corp/Enron  Subject: Re: Schedules to PURCHASE AND SALE AGREEMENT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 58,
+         "rawfrom" : " George Weissman                           04/04/2001 11:17 AM\t\n",
+         "to" : "Sandi M Braband/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 78,
+         "rawfrom" : "From:\tJim Coffey on 01/16/2001 11:45 AM\n",
+         "to" : "George Weissman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 91,
+         "rawfrom" : " George Weissman                           01/10/2001 11:20 AM\t\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 101,
+         "rawfrom" : "George Weissman/HOU/ECT on 01/10/2001 11:12 AM ---------------------------\n",
+         "to" : "George Weissman/HOU/ECT@ECT, Sandi M Braband/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sandi.braband@enron.com",
+         "line" : 131,
+         "rawfrom" : "Sandi M Braband/HOU/ECT on 01/08/2001 12:59 PM -----\n",
+         "to" : "Sandi M Braband/HOU/ECT@ECT  cc: Robert Walker/HOU/ECT@ECT, Melissa Graves/HOU/ECT@ECT, Jill T Zivley/HOU/ECT@ECT, Jim Coffey/HOU/ECT@ECT  Subject: Re: Schedules to PURCHASE AND SALE AGREEMENT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 147,
+         "rawfrom" : " George Weissman                           12/01/2000 04:47 PM\t\n",
+         "to" : "Robert Walker/HOU/ECT@ECT, Sandi M Braband/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 160,
+         "rawfrom" : "George Weissman/HOU/ECT on 12/01/2000 04:37 PM ---------------------------\n",
+         "to" : "George Weissman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "toofargar@aol.com",
+         "line" : 173,
+         "rawfrom" : "Bob.\n",
+         "to" : "Robert Walker/HOU/ECT@ECT  cc:   Subject: Re: Schedules to PURCHASE AND SALE AGREEMENT"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/194.",
+   "hops" : [
+      {
+         "from" : "barbara.gray@enron.com",
+         "line" : 4,
+         "rawfrom" : "barbara.gray@enron.com\r\n",
+         "to" : "anne.koehler@enron.com"
+      },
+      {
+         "from" : "713-853-3448",
+         "line" : 46,
+         "rawfrom" : "713-853-3448\n",
+         "to" : "Sandi M Braband/HOU/ECT@ECT  cc: Melissa Graves/HOU/ECT, Jim Coffey/HOU/ECT@ECT, Brian M Riley/HOU/ECT@ECT, Greg Brazaitis/HOU/ECT@ECT, Lee L Papayoti/HOU/ECT@ECT, Barbara N Gray/HOU/ECT@ECT, Anne C Koehler/HOU/ECT@ECT, Terry Sanvido/Corp/Enron  Subject: Re: Schedules to PURCHASE AND SALE AGREEMENT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 69,
+         "rawfrom" : " George Weissman                           04/04/2001 11:17 AM\t\n",
+         "to" : "Sandi M Braband/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 89,
+         "rawfrom" : "From:\tJim Coffey on 01/16/2001 11:45 AM\n",
+         "to" : "George Weissman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 102,
+         "rawfrom" : " George Weissman                           01/10/2001 11:20 AM\t\n",
+         "to" : "Jim Coffey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 112,
+         "rawfrom" : "George Weissman/HOU/ECT on 01/10/2001 11:12 AM ---------------------------\n",
+         "to" : "George Weissman/HOU/ECT@ECT, Sandi M Braband/HOU/ECT@ECT"
+      },
+      {
+         "from" : "sandi.braband@enron.com",
+         "line" : 142,
+         "rawfrom" : "Sandi M Braband/HOU/ECT on 01/08/2001 12:59 PM -----\n",
+         "to" : "Sandi M Braband/HOU/ECT@ECT  cc: Robert Walker/HOU/ECT@ECT, Melissa Graves/HOU/ECT@ECT, Jill T Zivley/HOU/ECT@ECT, Jim Coffey/HOU/ECT@ECT  Subject: Re: Schedules to PURCHASE AND SALE AGREEMENT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 158,
+         "rawfrom" : " George Weissman                           12/01/2000 04:47 PM\t\n",
+         "to" : "Robert Walker/HOU/ECT@ECT, Sandi M Braband/HOU/ECT@ECT"
+      },
+      {
+         "from" : "george.weissman@enron.com",
+         "line" : 171,
+         "rawfrom" : "George Weissman/HOU/ECT on 12/01/2000 04:37 PM ---------------------------\n",
+         "to" : "George Weissman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "toofargar@aol.com",
+         "line" : 184,
+         "rawfrom" : "Bob.\n",
+         "to" : "Robert Walker/HOU/ECT@ECT  cc:   Subject: Re: Schedules to PURCHASE AND SALE AGREEMENT"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/208.",
+   "hops" : [
+      {
+         "from" : "s..shively@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..shively@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "lisa.kinsey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKinsey, Lisa  \n",
+         "to" : "Donohoe, Tom; Ruscitti, Kevin; Shively, Hunter S."
+      },
+      {
+         "from" : "victor.lamadrid@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLamadrid, Victor  \n",
+         "to" : "Loocke, Kelly; Farmer, Daren J.; Kinsey, Lisa; Martin, Thomas A."
+      },
+      {
+         "from" : "sabra.l.dinari@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tDinari, Sabra L.  \n",
+         "to" : "Ferries, Nelson; Kelly, Katherine L.; Taylor, Craig"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/211.",
+   "hops" : [
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "karen.buckley@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Allen, Phillip K.; Arnold, John; Aucoin, Berney; Black, Don; Davis, Mark Dana; Gaskill, Chris; Gilbert-Smith, Doug; Gossett, Jeffrey C.; Grigsby, Mike; Herndon, Rogers; Thomas, Martin; McMichael Jr., Ed; Neal, Scott; Presto, Kevin; Schwieger, Jim; Shively, Hunter S.; Sturm, Fletcher; Superty, Robert; White, Stacey; Will, Lloyd"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 52,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Allen, Phillip; Arnold, John; Aucoin, Berney; Davis, Dana; Gaskill, Chris; Gilbert-Smith, Doug; Grigsby, Mike; Herndon, Rogers; Martin, Thomas A.; McMichael, Ed; Neal, Scott; Presto, Kevin; Schwieger, Jim; Shively, Hunter S.; Sturm, Fletcher; Will, Lloyd"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/247.",
+   "hops" : [
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 4,
+         "rawfrom" : "kim.melodick@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 22,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 40,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Allen, Phillip K.; Arnold, John; Arora, Harry; Aucoin, Berney; Baughman, Edward D.; Belden, Tim; Calger, Christopher F.; Davis, Mark Dana; Deffner, Joseph; Duran, W. David; Grigsby, Mike; Herndon, Rogers; Josey, Scott; Lagrasta, Fred; Luce, Laura; Lydecker Jr., Richard; Martin, Thomas A.; McMichael, Ed; Miller, Don; Miller, Michael L.; Milnthorp, Rob; Mrha, Jean; Neal, Scott; Presto, Kevin; Redmond, Brian; Shively, Hunter S.; Sturm, Fletcher; Thompson, John; Tricoli, Carl; Tycholiz, Barry; Vickers, Frank; Yzaguirre, Max; Gilbert-Smith, Doug; Jacoby, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/272.",
+   "hops" : [
+      {
+         "from" : "irma.alvarez@enron.com",
+         "line" : 4,
+         "rawfrom" : "irma.alvarez@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 29,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Alvarez, Irma"
+      },
+      {
+         "from" : "irma.alvarez@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tAlvarez, Irma  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Brasseaux, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/327.",
+   "hops" : [
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 4,
+         "rawfrom" : "brian.redmond@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "alan@nnu.com",
+         "line" : 22,
+         "rawfrom" : "Alan Kaniss [mailto:alan@nnu.com]\n",
+         "to" : "Redmond, Brian"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 38,
+         "rawfrom" : "Redmond, Brian [mailto:Brian.Redmond@ENRON.com]\n",
+         "to" : "Alan Kaniss"
+      },
+      {
+         "from" : "alan@nnu.com",
+         "line" : 57,
+         "rawfrom" : "Alan Kaniss [mailto:alan@nnu.com]\n",
+         "to" : "Allen J. Michel (E-mail); Redmond, Brian; Buddy Ellisor (E-mail);"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/385.",
+   "hops" : [
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 4,
+         "rawfrom" : "laura.vuittonet@enron.com\r\n",
+         "to" : "bward@mitchellgs.com"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 30,
+         "rawfrom" : "Redmond, Brian \n",
+         "to" : "'bward@mitchellgs.com'"
+      },
+      {
+         "from" : "bward@mitchellgs.com",
+         "line" : 47,
+         "rawfrom" : "Bill Ward [mailto:bward@mitchellgs.com]\n",
+         "to" : "Redmond, Brian"
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 62,
+         "rawfrom" : "Redmond, Brian [mailto:Brian.Redmond@enron.com]\n",
+         "to" : "Bill Ward; Martin, Thomas A."
+      },
+      {
+         "from" : "bward@mitchellgs.com",
+         "line" : 79,
+         "rawfrom" : "Bill Ward [mailto:bward@mitchellgs.com]\n",
+         "to" : "'bredmon@ect.enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/39.",
+   "hops" : [
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 4,
+         "rawfrom" : "jd.buss@enron.com\r\n",
+         "to" : "gary.bryan@enron.com, morris.larubbio@enron.com, charles.weldon@enron.com,"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Imai, Rika"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Imai, Rika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/inbox/49.",
+   "hops" : [
+      {
+         "from" : "gary.bryan@enron.com",
+         "line" : 4,
+         "rawfrom" : "gary.bryan@enron.com\r\n",
+         "to" : "a..martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 22,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Bryan, Gary"
+      },
+      {
+         "from" : "mike.curry@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCurry, Mike  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "jking100@aol.com",
+         "line" : 40,
+         "rawfrom" : "\tKing, Jeff  \n",
+         "to" : "Portz, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/118.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "m.hall@enron.com"
+      },
+      {
+         "from" : "bob.m.hall@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tHall, Bob M  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "jennifer.denny@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tDenny, Jennifer  \n",
+         "to" : "Hall, Bob M"
+      },
+      {
+         "from" : "robert.cass@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tCass, Robert B.  \n",
+         "to" : "Lozano, Melba; Meredith, Kevin; Walker, Chris"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 64,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Cass, Robert B."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/121.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "karen.buckley@enron.com"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 36,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/123.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "georgia.fogo@enron.com"
+      },
+      {
+         "from" : "georgia.fogo@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tFogo, Georgia  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 35,
+         "rawfrom" : "From:\tThomas A Martin/ENRON@enronXgate on 05/15/2001 03:39 PM\n",
+         "to" : "Georgia Fogo/HR/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "georgia.fogo@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tFogo, Georgia  \n",
+         "to" : "tmartin@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/126.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "abigail.taylor@enron.com"
+      },
+      {
+         "from" : "abigail.taylor@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTaylor, Abigail  \n",
+         "to" : "Dunn, Howard"
+      },
+      {
+         "from" : "abigail.taylor@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tTaylor, Abigail  \n",
+         "to" : "Dunn, Howard"
+      },
+      {
+         "from" : "abigail.taylor@enron.com",
+         "line" : 98,
+         "rawfrom" : "\tTaylor, Abigail  \n",
+         "to" : "Dunn, Howard"
+      },
+      {
+         "from" : "abigail.taylor@enron.com",
+         "line" : 119,
+         "rawfrom" : "\tTaylor, Abigail  \n",
+         "to" : "Dunn, Howard"
+      }
+   ],
+   "skipped" : 4
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/146.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "kim.melodick@enron.com"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 32,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Allen, Phillip K.; Arnold, John; Arora, Harry; Aucoin, Berney; Baughman, Edward D.; Belden, Tim; Calger, Christopher F.; Davis, Mark Dana; Deffner, Joseph; Duran, W. David; Grigsby, Mike; Herndon, Rogers; Josey, Scott; Lagrasta, Fred; Luce, Laura; Lydecker Jr., Richard; Martin, Thomas A.; McMichael, Ed; Miller, Don; Miller, Michael L.; Milnthorp, Rob; Mrha, Jean; Neal, Scott; Presto, Kevin; Redmond, Brian; Shively, Hunter S.; Sturm, Fletcher; Thompson, John; Tricoli, Carl; Tycholiz, Barry; Vickers, Frank; Yzaguirre, Max; Gilbert-Smith, Doug; Jacoby, Ben"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/147.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "joe.hall@enron.com"
+      },
+      {
+         "from" : "joe_hall@drsoptronics.com",
+         "line" : 24,
+         "rawfrom" : "\tHall, Joe  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "martin.thomas@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tThomas, Martin  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/148.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "sean.percy@enron.com"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "joe_hall@drsoptronics.com",
+         "line" : 38,
+         "rawfrom" : "\tHall, Joe  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      },
+      {
+         "from" : "martin.thomas@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tThomas, Martin  \n",
+         "to" : "Percy, Sean"
+      },
+      {
+         "from" : "sean.percy@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tPercy, Sean  \n",
+         "to" : "Hall, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/151.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "david.baumbach@enron.com"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBaumbach, David  \n",
+         "to" : "Coffey Jr., Jim; Koehler, Anne C.; Schwieger, Jim; Redmond, Brian; Martin, Thomas A."
+      },
+      {
+         "from" : "kyle.r.lilly@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tLilly, Kyle R.  \n",
+         "to" : "Baumbach, David"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tBaumbach, David  \n",
+         "to" : "Lilly, Kyle R."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/156.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "lynemartin@msn.com"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Lyne Martin\" <lynemartin@msn.com>@ENRON  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "mcmwino@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "Mary Martin\n",
+         "to" : "Lyne Martin"
+      },
+      {
+         "from" : "mcmwino@yahoo.com",
+         "line" : 61,
+         "rawfrom" : "Mary Martin\n",
+         "to" : "Lyne Martin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/168.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "bryan.hull@enron.com"
+      },
+      {
+         "from" : "bryan.hull@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHull, Bryan  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 30,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Hull, Bryan"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/179.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "lynemartin@msn.com"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Lyne Martin\" <lynemartin@msn.com>@ENRON  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "mmbassani@shellus.com",
+         "line" : 33,
+         "rawfrom" : "Bassani, Margaret M SOPC\n",
+         "to" : "'Lyne Martin'"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 43,
+         "rawfrom" : "Lyne Martin [mailto:lynemartin@msn.com]\n",
+         "to" : "Margaret Bassani"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/181.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "laura.vuittonet@enron.com"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 31,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Vuittonet, Laura"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/218.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBrawner, Sandra F.  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tKeavey, Peter F.  \n",
+         "to" : "Brawner, Sandra F."
+      },
+      {
+         "from" : "patrick.tucker@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tTucker, Patrick  \n",
+         "to" : "Pollan, Sylvia S.; Culotta, Lindsay; Murrell, Russell E; Plachy, Denver; Cuilla, Martin; Storey, Geoff; Yawapongsiri, Virawan; Mahmassani, Souad; Donohoe, Tom; Ruscitti, Kevin; Shively, Hunter S.; Lewis, Andrew H.; Giron, Darron C.; Frihart, Bryant; Tucker, Patrick; Roberts, Linda; Luce, Laura; Hogan, Irena D.; Vickers, Frank; Williams, Jason (Trading); Mims, Patrice L.; Simpson, James; Hodge, John; Keavey, Peter F.; Mckay, Brad; Mckay, Jonathan; Pereira, Susan W.; Pimenov, Vladi; Ring, Andrea; Savvas, Leonidas; Townsend, Judy; Versen, Victoria; Barbe, Robin; Concannon, Ruth; Goodell, Scott; Jones, David; Kaiser, Jared; Loving, Scott; Bates, Kimberly; Muhl, Gil; Smith, Maureen; Smith, Shauywn; Taylor, Craig; Willis, Jim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/232.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "ina.rangel@enron.com"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 34,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 53,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Rangel, Ina"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/234.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "kitkatmartin@msn.com"
+      },
+      {
+         "from" : "kitkatmartin@msn.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Kathryn Martin\" <kitkatmartin@msn.com>@ENRON  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "thomas.a.martin@enron.com",
+         "line" : 37,
+         "rawfrom" : "Thomas.A.Martin@enron.com\n",
+         "to" : "kitkatmartin@msn.com"
+      },
+      {
+         "from" : "kitkatmartin@msn.com",
+         "line" : 63,
+         "rawfrom" : "  \"Kathryn Martin\" <kitkatmartin@msn.com>@ENRON\n",
+         "to" : "Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/235.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "laura.vuittonet@enron.com"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Vuittonet, Laura"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Rangel, Ina"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/236.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "laura.vuittonet@enron.com"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Vuittonet, Laura"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Rangel, Ina"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/238.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "eric.bass@enron.com, bryan.hull@enron.com"
+      },
+      {
+         "from" : "gary.bryan@enron.com",
+         "line" : 23,
+         "rawfrom" : "Bryan, Gary \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "linda.roberts@enron.com",
+         "line" : 31,
+         "rawfrom" : "Roberts, Linda \n",
+         "to" : "Quick, Joan; Zivley, Jill T.; Bryan, Gary"
+      },
+      {
+         "from" : "sharon.otoole@elpaso.com",
+         "line" : 39,
+         "rawfrom" : "O'Toole, Sharon [mailto:Sharon.OToole@ElPaso.com]\n",
+         "to" : "'Blanca Daugherty'; 'Debbie Chance-HM'; 'Diana Naylor Knox'; 'Kevin O'Toole'; Roberts, Linda; 'Martha Senf'; Baden, Pamela; 'Stacy Franz'; Miller, Stephanie; 'Steve McGough'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/239.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "jim.schwieger@enron.com, f..brawner@enron.com"
+      },
+      {
+         "from" : "gary.bryan@enron.com",
+         "line" : 25,
+         "rawfrom" : "Bryan, Gary \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "linda.roberts@enron.com",
+         "line" : 33,
+         "rawfrom" : "Roberts, Linda \n",
+         "to" : "Quick, Joan; Zivley, Jill T.; Bryan, Gary"
+      },
+      {
+         "from" : "sharon.otoole@elpaso.com",
+         "line" : 41,
+         "rawfrom" : "O'Toole, Sharon [mailto:Sharon.OToole@ElPaso.com]\n",
+         "to" : "'Blanca Daugherty'; 'Debbie Chance-HM'; 'Diana Naylor Knox'; 'Kevin O'Toole'; Roberts, Linda; 'Martha Senf'; Baden, Pamela; 'Stacy Franz'; Miller, Stephanie; 'Steve McGough'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/243.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "laura.vuittonet@enron.com"
+      },
+      {
+         "from" : "laura.vuittonet@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tVuittonet, Laura  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Bates, Kimberly; Villarreal, Alexandra; Vuittonet, Laura; Rybarski, Amanda"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tArnold, John  \n",
+         "to" : "Rangel, Ina"
+      },
+      {
+         "from" : "ina.rangel@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tRangel, Ina  \n",
+         "to" : "Arnold, John"
+      },
+      {
+         "from" : "tammy.shepperd@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tShepperd, Tammy R.  \n",
+         "to" : "Arnold, John; Black, Don; Hall, Bob M"
+      },
+      {
+         "from" : "martin.bucknell@enron.com",
+         "line" : 105,
+         "rawfrom" : "\tBucknell, Martin  \n",
+         "to" : "Lavorato, John; Colwell, Wes; Piper, Greg; Pickering, Mark; Donovan, Bill; Rub, Jenny; Kitchen, Louise; Shepperd, Tammy R."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/245.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "clfauxde@houston.rr.com"
+      },
+      {
+         "from" : "clfauxde@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Cindy Knapp\" <clfauxde@houston.rr.com>@ENRON  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "thomas.a.martin@enron.com",
+         "line" : 36,
+         "rawfrom" : "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "to" : "\"Cindy Knapp\" <clfauxde@houston.rr.com>"
+      },
+      {
+         "from" : "clfauxde@houston.rr.com",
+         "line" : 51,
+         "rawfrom" : "\"Cindy Knapp\" <clfauxde@houston.rr.com>@ENRON\n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "thomas.a.martin@enron.com",
+         "line" : 73,
+         "rawfrom" : "\"Martin, Thomas A.\" <Thomas.A.Martin@enron.com>\n",
+         "to" : "<clfauxde@houston.rr.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/38.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "david.forster@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 38,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 63,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Forster, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/44.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "lynemartin@msn.com"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Lyne Martin\" <lynemartin@msn.com>@ENRON  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 35,
+         "rawfrom" : "Lyne Martin\n",
+         "to" : "mark bain"
+      },
+      {
+         "from" : "clfauxde@houston.rr.com",
+         "line" : 93,
+         "rawfrom" : "\"Cindy Knapp\" <clfauxde@houston.rr.com>\n",
+         "to" : "\"Bain, Mark & Debbie\" <mbain0@hotmail.com>"
+      },
+      {
+         "from" : "lynemartin@msn.com",
+         "line" : 104,
+         "rawfrom" : "Lyne Martin\n",
+         "to" : "Cindy Knapp"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/6.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "jd.buss@enron.com"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Bryan, Gary; Larubbio, Morris; Weldon, V. Charles; Baumbach, David; Bass, Eric; Martin, Thomas A.; Olsen, Michael"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Imai, Rika"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Imai, Rika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/64.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "c..gossett@enron.com"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "Martin, Thomas A."
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 36,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Gossett, Jeffrey C."
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "Martin, Thomas A."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/77.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "brian.redmond@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 25,
+         "rawfrom" : "From:\tJoan Quick/ENRON@enronXgate on 03/26/2001 12:26 PM\n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Baumbach, David; Boyt, Eric"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBaumbach, David  \n",
+         "to" : "Boyt, Eric"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 69,
+         "rawfrom" : " David Baumbach @ ECT                           03/26/2001 08:33 AM \n",
+         "to" : "Joan Quick/HOU/ECT, Eric Boyt/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/82.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "thomas.martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 03/20/2001 03:51 PM ---------------------------\n",
+         "to" : "Elsa Villarreal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 33,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 07/13/2000 11:14 AM ---------------------------\n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 40,
+         "rawfrom" : "From:\tGreg Brazaitis on 07/12/2000 01:36 PM\n",
+         "to" : "Edward D Gottlob/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/93.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "michelle.parks@enron.com, brian.redmond@enron.com, h..wallis@enron.com,"
+      },
+      {
+         "from" : "michelle.parks@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tParks, Michelle  \n",
+         "to" : "Redmond, Brian; Wallis, Janet H.; Ahn, Chris; Ducote, James; Martin, Thomas A."
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tRedmond, Brian  \n",
+         "to" : "Parks, Michelle; Wallis, Janet H.; Ahn, Chris; Ducote, James; Martin, Thomas A."
+      },
+      {
+         "from" : "michelle.parks@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tParks, Michelle  \n",
+         "to" : "Redmond, Brian; Wallis, Janet H.; Ahn, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/sent_items/94.",
+   "hops" : [
+      {
+         "from" : "a..martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "a..martin@enron.com\r\n",
+         "to" : "michelle.parks@enron.com"
+      },
+      {
+         "from" : "michelle.parks@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tParks, Michelle  \n",
+         "to" : "Martin, Thomas A.; Redmond, Brian; Wallis, Janet H.; Ahn, Chris; Ducote, James"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 32,
+         "rawfrom" : "\tMartin, Thomas A.  \n",
+         "to" : "Parks, Michelle; Redmond, Brian; Wallis, Janet H.; Ahn, Chris; Ducote, James"
+      },
+      {
+         "from" : "michelle.parks@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tParks, Michelle  \n",
+         "to" : "Redmond, Brian; Wallis, Janet H.; Ahn, Chris; Ducote, James; Martin, Thomas A."
+      },
+      {
+         "from" : "brian.redmond@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tRedmond, Brian  \n",
+         "to" : "Parks, Michelle; Wallis, Janet H.; Ahn, Chris; Ducote, James; Martin, Thomas A."
+      },
+      {
+         "from" : "michelle.parks@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tParks, Michelle  \n",
+         "to" : "Redmond, Brian; Wallis, Janet H.; Ahn, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/tom_s_docs/21.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "thomas.martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 03/20/2001 \n",
+         "to" : "Elsa Villarreal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 34,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 07/13/2000 \n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "greg.brazaitis@enron.com",
+         "line" : 42,
+         "rawfrom" : "Greg Brazaitis on 07/12/2000 01:36 PM\n",
+         "to" : "Edward D Gottlob/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/martin-t/tom_s_docs/3.",
+   "hops" : [
+      {
+         "from" : "thomas.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "thomas.martin@enron.com\r\n",
+         "to" : "thomas.martin@enron.com"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 23,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 03/20/2001 03:51 PM ---------------------------\n",
+         "to" : "Elsa Villarreal/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tmartin3079@msn.com",
+         "line" : 33,
+         "rawfrom" : "Thomas A Martin/HOU/ECT on 07/13/2000 11:14 AM ---------------------------\n",
+         "to" : "Thomas A Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 40,
+         "rawfrom" : "From:\tGreg Brazaitis on 07/12/2000 01:36 PM\n",
+         "to" : "Edward D Gottlob/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+]

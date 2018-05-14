@@ -1,0 +1,2161 @@
+[
+{
+   "file" : "enron-raw/hodge-j/all_documents/107.",
+   "hops" : [
+      {
+         "from" : "ben.jacoby@enron.com",
+         "line" : 4,
+         "rawfrom" : "ben.jacoby@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "raimund.grube@enron.com",
+         "line" : 34,
+         "rawfrom" : "Raimund Grube@ENRON\n",
+         "to" : "Ben Jacoby/HOU/ECT@ECT"
+      },
+      {
+         "from" : "raimund.grube@enron.com",
+         "line" : 55,
+         "rawfrom" : "Raimund Grube/Corp/Enron on 03/30/2001 \n",
+         "to" : "Raimund Grube/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.hodge@enron.com",
+         "line" : 70,
+         "rawfrom" : "John Hodge/Corp/Enron on 03/30/2001 01:30 \n",
+         "to" : "\"John W. Hodge (E-mail)\" <john.hodge@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/11.",
+   "hops" : [
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "stephanie.miller@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 24,
+         "rawfrom" : "Stephanie Miller/Corp/Enron on 12/21/2000 \n",
+         "to" : "Stephanie Miller/Corp/Enron@ENRON, Jared Kaiser/HOU/ECT@ECT, David"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 41,
+         "rawfrom" : "Stephanie Miller@ENRON\n",
+         "to" : "Julie A Gomez/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 54,
+         "rawfrom" : " Jared Kaiser @ ECT                           12/20/2000 02:56 PM\n",
+         "to" : "Stephanie Miller/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/111.",
+   "hops" : [
+      {
+         "from" : "greg.martin@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.martin@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "ying.liu@enron.com",
+         "line" : 37,
+         "rawfrom" : "Ying Liu@ENRON\n",
+         "to" : "Greg Martin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ying.liu@enron.com",
+         "line" : 48,
+         "rawfrom" : "Ying Liu/NA/Enron on 03/07/2001 09:05 AM \n",
+         "to" : "Ying Liu/NA/Enron@ENRON"
+      },
+      {
+         "from" : "ying.liu@enron.com",
+         "line" : 75,
+         "rawfrom" : "Ying Liu\n",
+         "to" : "John Hodge/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/225.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "martin.rosell@enron.com"
+      },
+      {
+         "from" : "martin.rosell@enron.com",
+         "line" : 29,
+         "rawfrom" : "Martin Rosell\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "martin.rosell@enron.com",
+         "line" : 47,
+         "rawfrom" : "Martin Rosell/OSL/ECT on 2000-11-01 09:27 \n",
+         "to" : "Martin Rosell/OSL/ECT@ECT"
+      },
+      {
+         "from" : "martin.rosell@enron.com",
+         "line" : 80,
+         "rawfrom" : "Martin Rosell\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "martin.rosell@enron.com",
+         "line" : 102,
+         "rawfrom" : "Martin Rosell/OSL/ECT on 2000-10-30 16:20 \n",
+         "to" : "Martin Rosell/OSL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/242.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "dick.jenkins@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 30,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 12/07/2000 11:02 AM -----\n",
+         "to" : "Robert B Cass/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.taylor@enron.com",
+         "line" : 45,
+         "rawfrom" : "Mark Taylor\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT, Dan J Hyvl/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.taylor@enron.com",
+         "line" : 55,
+         "rawfrom" : "Mark Taylor/HOU/ECT on 12/07/2000 09:27 AM -----\n",
+         "to" : "Stacy E Dickson/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/244.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "paul_a_karns@fpl.com"
+      },
+      {
+         "from" : "paul_a_karns@fpl.com",
+         "line" : 28,
+         "rawfrom" : "Paul_A_Karns@fpl.com\n",
+         "to" : "Jeffrey.T.Hodge@enron.com"
+      },
+      {
+         "from" : "jeffrey.t.hodge@enron.com",
+         "line" : 43,
+         "rawfrom" : "Jeffrey.T.Hodge@enron.com on 11/29/2000 04:37:02 PM\n",
+         "to" : "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from" : "jeffrey.t.hodge@enron.com",
+         "line" : 91,
+         "rawfrom" : "Jeffrey.T.Hodge@enron.com on 11/20/2000 10:51:16 AM\n",
+         "to" : "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from" : "jeffrey.t.hodge@enron.com",
+         "line" : 130,
+         "rawfrom" : "Jeffrey.T.Hodge@enron.com on 11/17/2000 09:13:30 AM\n",
+         "to" : "Paul_A_Karns@fpl.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/261.",
+   "hops" : [
+      {
+         "from" : "gregg.penman@enron.com",
+         "line" : 4,
+         "rawfrom" : "gregg.penman@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "gregg.penman@enron.com",
+         "line" : 31,
+         "rawfrom" : "Gregg Penman/Corp/Enron on 12/12/2000 10:03 AM -----\n",
+         "to" : "gregg.penman@enron.com, m.klyasheff@pecorp.com"
+      },
+      {
+         "from" : "gloria.sandoval@neg.pge.com",
+         "line" : 46,
+         "rawfrom" : "Sandoval, Gloria [mailto:Gloria.Sandoval@neg.pge.com]\n",
+         "to" : "'r.rodriguez@pecorp.com'"
+      },
+      {
+         "from" : "tanya.murphy@neg.pge.com",
+         "line" : 62,
+         "rawfrom" : "Murphy, Tanya\n",
+         "to" : "Sandoval, Gloria; Barker, Joe"
+      },
+      {
+         "from" : "tanya.murphy@neg.pge.com",
+         "line" : 72,
+         "rawfrom" : "Murphy, Tanya\n",
+         "to" : "Barker, Joe"
+      },
+      {
+         "from" : "tanya.murphy@neg.pge.com",
+         "line" : 82,
+         "rawfrom" : "Murphy, Tanya\n",
+         "to" : "Sandoval, Gloria"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/283.",
+   "hops" : [
+      {
+         "from" : "michael.slade@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.slade@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 27,
+         "rawfrom" : "Jeffrey T Hodge\n",
+         "to" : "Michael Slade/LON/ECT@ECT"
+      },
+      {
+         "from" : "michael.slade@enron.com",
+         "line" : 43,
+         "rawfrom" : "Michael Slade\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.slade@enron.com",
+         "line" : 59,
+         "rawfrom" : "Michael Slade/LON/ECT on 12/12/2000 15:51 \n",
+         "to" : "\"'Michael.Slade@enron.com'\" <Michael.Slade@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/287.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "cyndie.balfour-flanagan@enron.com, mary.gosnell@enron.com,"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 35,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 55,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 74,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 89,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/288.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 38,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Cyndie Balfour-Flanagan/Corp/Enron@ENRON, Mary G Gosnell/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 60,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 80,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 99,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 114,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/289.",
+   "hops" : [
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 4,
+         "rawfrom" : "cyndie.balfour-flanagan@enron.com\r\n",
+         "to" : "tanya.rohauer@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 56,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 76,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 95,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 110,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/290.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "cyndie.balfour-flanagan@enron.com"
+      },
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 40,
+         "rawfrom" : "Cyndie Balfour-Flanagan@ENRON\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 82,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 102,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 121,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 136,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/292.",
+   "hops" : [
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 4,
+         "rawfrom" : "cyndie.balfour-flanagan@enron.com\r\n",
+         "to" : "tanya.rohauer@enron.com"
+      },
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 62,
+         "rawfrom" : "Cyndie Balfour-Flanagan@ENRON\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 104,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 124,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 143,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 158,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/296.",
+   "hops" : [
+      {
+         "from" : "teresa.bushman@enron.com",
+         "line" : 4,
+         "rawfrom" : "teresa.bushman@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 40,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 12/13/2000 08:33 PM -----\n",
+         "to" : "Teresa G Bushman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "joseph.deffner@enron.com",
+         "line" : 58,
+         "rawfrom" : "Joseph Deffner   12/13/2000 02:42 PM\n",
+         "to" : "Michael Garberding/HOU/ECT@ECT"
+      },
+      {
+         "from" : "joseph.deffner@enron.com",
+         "line" : 69,
+         "rawfrom" : "Joseph Deffner/HOU/ECT on 12/13/2000 \n",
+         "to" : "\"Rosser, Dianna\" <drosser@velaw.com>@ENRON"
+      },
+      {
+         "from" : "drosser@velaw.com",
+         "line" : 103,
+         "rawfrom" : "\"Rosser, Dianna\" <drosser@velaw.com>\n",
+         "to" : "\"'teresa.g.bushman@enron.com'\" <teresa.g.bushman@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/307.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "nony.flores@enron.com"
+      },
+      {
+         "from" : "nony.flores@enron.com",
+         "line" : 28,
+         "rawfrom" : "Nony Flores\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "nony.flores@enron.com",
+         "line" : 44,
+         "rawfrom" : "Nony Flores/HOU/ECT on 05/29/2001 11:54 AM -----\n",
+         "to" : "Nony Flores/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.viverito@enron.com",
+         "line" : 63,
+         "rawfrom" : "John Viverito/Corp/Enron on 05/29/2001 09:03 AM -----\n",
+         "to" : "billswenson@akllp.com, Phillip Ballard/Enron@EnronXGate, Joan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/309.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "james.keller@enron.com"
+      },
+      {
+         "from" : "james.e.keller@enron.com",
+         "line" : 30,
+         "rawfrom" : "James E Keller@EES\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "deborah.culver@enron.com",
+         "line" : 52,
+         "rawfrom" : " Deborah Culver                           05/21/2001 06:53 PM\n",
+         "to" : "James E Keller/HOU/EES@EES"
+      },
+      {
+         "from" : "deborah.culver@enron.com",
+         "line" : 68,
+         "rawfrom" : " Deborah Culver                           05/21/2001 06:51 PM\n",
+         "to" : "James E Keller/HOU/EES@EES, Mike D Smith/HOU/EES@EES"
+      },
+      {
+         "from" : "jay.sparling@enron.com",
+         "line" : 89,
+         "rawfrom" : " Jay Sparling                           05/21/2001 03:38 PM\n",
+         "to" : "Deborah Culver/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/326.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "stacy.dickson@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 23,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 06/07/2001 01:41 PM -----\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "\"padilla, monica\" <monica_padilla@city.palo-alto.ca.us>@enron",
+         "line" : 41,
+         "rawfrom" : " \"Padilla, Monica\" <Monica_Padilla@city.palo-alto.ca.us>@ENRON \n",
+         "to" : "Ward, Kim S."
+      },
+      {
+         "from" : "bmcc@mccarthylaw.com",
+         "line" : 55,
+         "rawfrom" : "Barry McCarthy [mailto:bmcc@mccarthylaw.com]\n",
+         "to" : "Dailey, Karla; Padilla, Monica"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/327.",
+   "hops" : [
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keohane@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com, rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 29,
+         "rawfrom" : "Peter Keohane/CAL/ECT on 06/07/2001 01:39 \n",
+         "to" : "Peter Keohane/CAL/ECT@ECT"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 46,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 06/07/2001 02:24 PM -----\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kimberly.bates@enron.com",
+         "line" : 55,
+         "rawfrom" : " Bates, Kimberly  \n",
+         "to" : "'mhenergy@yahoo.com'"
+      },
+      {
+         "from" : "sabina.rank@enron.com",
+         "line" : 63,
+         "rawfrom" : " Rank, Sabina  \n",
+         "to" : "Bates, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/all_documents/40.",
+   "hops" : [
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 4,
+         "rawfrom" : "phil.demoes@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 23,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 01/29/2001 \n",
+         "to" : "<Phil.DeMoes@enron.com>"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 34,
+         "rawfrom" : "<Phil.DeMoes@enron.com>\n",
+         "to" : "Mona Simon <mbsimon@eatel.net>"
+      },
+      {
+         "from" : "mbsimon@eatel.net",
+         "line" : 49,
+         "rawfrom" : "\"Mona Simon\" <mbsimon@eatel.net> on 01/23/2001 02:03:17 PM\n",
+         "to" : "<phil.demoes@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/118.",
+   "hops" : [
+      {
+         "from" : "kay.mann@enron.com",
+         "line" : 4,
+         "rawfrom" : "kay.mann@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Mann, Kay"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Nemec, Gerald"
+      },
+      {
+         "from" : "andrew.edison@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tEdison, Andrew  \n",
+         "to" : "Sanders, Richard B.; Hodge, Jeffrey T."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/127.",
+   "hops" : [
+      {
+         "from" : "susan.elledge@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.elledge@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Elledge, Susan"
+      },
+      {
+         "from" : "susan.elledge@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tElledge, Susan  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "joanne.rozycki@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tRozycki, Joanne  \n",
+         "to" : "Elledge, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/134.",
+   "hops" : [
+      {
+         "from" : "t..hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "t..hodge@enron.com\r\n",
+         "to" : "joel.ephross@enron.com"
+      },
+      {
+         "from" : "joel.ephross@enron.com",
+         "line" : 33,
+         "rawfrom" : "Ephross, Joel=20\r\n",
+         "to" : "Cook, Mary; Proffitt, Tim; Hodge, Jeffrey T.; Taylor, Mark E (Legal)"
+      },
+      {
+         "from" : "mary.cook@enron.com",
+         "line" : 58,
+         "rawfrom" : "Cook, Mary=20\r\n",
+         "to" : "Ephross, Joel; Proffitt, Tim; Hodge, Jeffrey T.; Taylor, Mark E"
+      },
+      {
+         "from" : "joel.ephross@enron.com",
+         "line" : 73,
+         "rawfrom" : "Ephross, Joel=20\r\n",
+         "to" : "Cook, Mary; Proffitt, Tim; Hodge, Jeffrey T."
+      },
+      {
+         "from" : "mary.cook@enron.com",
+         "line" : 105,
+         "rawfrom" : "Cook, Mary=20\r\n",
+         "to" : "Proffitt, Tim; Ephross, Joel; Hodge, Jeffrey T."
+      },
+      {
+         "from" : "tim.proffitt@enron.com",
+         "line" : 120,
+         "rawfrom" : "Proffitt, Tim=20\r\n",
+         "to" : "Bradford, William S.; Ephross, Joel; Cook, Mary; Taylor, Mark E"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/180.",
+   "hops" : [
+      {
+         "from" : "ruth.concannon@enron.com",
+         "line" : 4,
+         "rawfrom" : "ruth.concannon@enron.com\r\n",
+         "to" : "gil.muhl@enron.com"
+      },
+      {
+         "from" : "eanderson@keyspanenergy.com",
+         "line" : 32,
+         "rawfrom" : "\t\"Edwin P Anderson\" <eanderson@keyspanenergy.com>@ENRON  \n",
+         "to" : "Gil Muhl; Ruth Concannon"
+      },
+      {
+         "from" : "rmontenes@keyspanenergy.com",
+         "line" : 51,
+         "rawfrom" : "\"Richard T. Montenes\" <rmontenes@keyspanenergy.com>\n",
+         "to" : "Edwin P Anderson <eanderson@keyspanenergy.com>"
+      },
+      {
+         "from" : "rmontenes@keyspanenergy.com",
+         "line" : 78,
+         "rawfrom" : "\"Richard T. Montenes\" <rmontenes@keyspanenergy.com>\n",
+         "to" : "Ruth Concannon <rconcan@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/253.",
+   "hops" : [
+      {
+         "from" : "t..hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "t..hodge@enron.com\r\n",
+         "to" : "tanya.rohauer@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 38,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "St. Clair, Carol; Sager, Elizabeth; Rohauer, Tanya"
+      },
+      {
+         "from" : "peter.j.pavluk@dynegy.com",
+         "line" : 46,
+         "rawfrom" : "\tPeter.J.Pavluk@dynegy.com@ENRON  \n",
+         "to" : "wbradfo@ect.enron.com"
+      },
+      {
+         "from" : "peter.j.pavluk@dynegy.com",
+         "line" : 82,
+         "rawfrom" : "Peter J Pavluk/HOU/Dynegy on 10/29/01 09:43 AM -----\n",
+         "to" : "Peter J Pavluk/HOU/Dynegy@Dynegy"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/468.",
+   "hops" : [
+      {
+         "from" : "steve.van@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.van@enron.com\r\n",
+         "to" : "carol.st.@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "St. Clair, Carol; Sayre, Frank; Van Hooser, Steve"
+      },
+      {
+         "from" : "st@tfts.tozzini.com.br",
+         "line" : 48,
+         "rawfrom" : "\tSt. Clair, Carol  \n",
+         "to" : "Sayre, Frank; Van Hooser, Steve"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=svanhoo>",
+         "line" : 68,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SVANHOO>\n",
+         "to" : "Williams, Jason R (Credit) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilli10>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/deleted_items/492.",
+   "hops" : [
+      {
+         "from" : "steve.van@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.van@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "st@tfts.tozzini.com.br",
+         "line" : 24,
+         "rawfrom" : "\tSt. Clair, Carol  \n",
+         "to" : "Van Hooser, Steve"
+      },
+      {
+         "from" : "steve.vanhooser@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tVan Hooser, Steve  \n",
+         "to" : "St. Clair, Carol"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "St. Clair, Carol; Sayre, Frank; Van Hooser, Steve"
+      },
+      {
+         "from" : "st@tfts.tozzini.com.br",
+         "line" : 73,
+         "rawfrom" : "\tSt. Clair, Carol  \n",
+         "to" : "Sayre, Frank; Van Hooser, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/discussion_threads/34.",
+   "hops" : [
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 4,
+         "rawfrom" : "phil.demoes@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 23,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 01/29/2001 \n",
+         "to" : "<Phil.DeMoes@enron.com>"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 34,
+         "rawfrom" : "<Phil.DeMoes@enron.com>\n",
+         "to" : "Mona Simon <mbsimon@eatel.net>"
+      },
+      {
+         "from" : "mbsimon@eatel.net",
+         "line" : 49,
+         "rawfrom" : "\"Mona Simon\" <mbsimon@eatel.net> on 01/23/2001 02:03:17 PM\n",
+         "to" : "<phil.demoes@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/discussion_threads/8.",
+   "hops" : [
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "stephanie.miller@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 24,
+         "rawfrom" : "Stephanie Miller/Corp/Enron on 12/21/2000 \n",
+         "to" : "Stephanie Miller/Corp/Enron@ENRON, Jared Kaiser/HOU/ECT@ECT, David"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 41,
+         "rawfrom" : "Stephanie Miller@ENRON\n",
+         "to" : "Julie A Gomez/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jared.kaiser@enron.com",
+         "line" : 54,
+         "rawfrom" : " Jared Kaiser @ ECT                           12/20/2000 02:56 PM\n",
+         "to" : "Stephanie Miller/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/117.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 41,
+         "rawfrom" : " Scott Dozier                           05/11/2001 11:00 AM\t\n",
+         "to" : "John Hodge/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.hodge@enron.com",
+         "line" : 67,
+         "rawfrom" : "John Hodge\n",
+         "to" : "Scott Dozier/NA/Enron@Enron"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 81,
+         "rawfrom" : " Scott Dozier                           05/09/2001 04:46 PM\t\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, John Hodge/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/191.",
+   "hops" : [
+      {
+         "from" : "e..crady@enron.com",
+         "line" : 4,
+         "rawfrom" : "e..crady@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Crady, Ned E."
+      },
+      {
+         "from" : "michael.garberding@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tGarberding, Michael  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "gil.muhl@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMuhl, Gil  \n",
+         "to" : "Diamond, Russell; Garberding, Michael; Edmonds, Marcus"
+      },
+      {
+         "from" : "john.e.norman@bankofamerica.com",
+         "line" : 52,
+         "rawfrom" : "\t\"Norman, John E\" <john.e.norman@bankofamerica.com>@ENRON  \n",
+         "to" : "gmuhl@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/193.",
+   "hops" : [
+      {
+         "from" : "no.address@enron.com",
+         "line" : 4,
+         "rawfrom" : "no.address@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Miller, Don (Asset Mktg)"
+      },
+      {
+         "from" : "don.miller@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMiller, Don (Asset Mktg)  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "treasa.kirby@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tKirby, Treasa  \n",
+         "to" : "Miller, Don (Asset Mktg)"
+      },
+      {
+         "from" : "nina.edmonds@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tEdmonds, Nina  \n",
+         "to" : "Kirby, Treasa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/194.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 24,
+         "rawfrom" : "\tBradford, William S.  \n",
+         "to" : "St. Clair, Carol; Sager, Elizabeth; Rohauer, Tanya"
+      },
+      {
+         "from" : "peter.j.pavluk@dynegy.com",
+         "line" : 32,
+         "rawfrom" : "\tPeter.J.Pavluk@dynegy.com@ENRON  \n",
+         "to" : "wbradfo@ect.enron.com"
+      },
+      {
+         "from" : "peter.j.pavluk@dynegy.com",
+         "line" : 68,
+         "rawfrom" : "Peter J Pavluk/HOU/Dynegy on 10/29/01 09:43 AM -----\n",
+         "to" : "Peter J Pavluk/HOU/Dynegy@Dynegy"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/268.",
+   "hops" : [
+      {
+         "from" : "postmaster@enron.com",
+         "line" : 4,
+         "rawfrom" : "postmaster@enron.com\r\n",
+         "to" : "john.hodge@enron.com"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=jhodge2>",
+         "line" : 29,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JHODGE2>\n",
+         "to" : "clowe@intcx.com"
+      },
+      {
+         "from" : "john.hodge@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tHodge, John  \n",
+         "to" : "'ice helpdesk <icehelpdesk@intcx.com>'"
+      },
+      {
+         "from" : "clowe@intcx.com",
+         "line" : 49,
+         "rawfrom" : "\tChris Lowe <clowe@intcx.com>@ENRON   On Behalf Of ice\n",
+         "to" : "'jgriffiths@nisource.com'; Hodge, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/378.",
+   "hops" : [
+      {
+         "from" : "djhyvl@aep.com",
+         "line" : 4,
+         "rawfrom" : "djhyvl@aep.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "\"phil schnorbach\"=20",
+         "line" : 28,
+         "rawfrom" : "       \"Phil Schnorbach\"=20\r\n",
+         "to" : "<djhyvl@aep.com>, <smbraband@aep.com>=20"
+      },
+      {
+         "from" : "pschnorbach@tielp.com",
+         "line" : 61,
+         "rawfrom" : "Phil Schnorbach [mailto:PSchnorbach@tielp.com]\r\n",
+         "to" : "'djhyvl@aep.com'; 'smbraband@aep.com'"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 83,
+         "rawfrom" : "Coffey Jr., Jim [mailto:Jim.Coffey@ENRON.com]\r\n",
+         "to" : "SCHNORBACH, PHIL"
+      },
+      {
+         "from" : "pschnorbach@tielp.com",
+         "line" : 101,
+         "rawfrom" : "Phil Schnorbach [mailto:PSchnorbach@tielp.com]\r\n",
+         "to" : "Coffey Jr., Jim"
+      },
+      {
+         "from" : "jim.coffey@enron.com",
+         "line" : 109,
+         "rawfrom" : "Coffey Jr., Jim [mailto:Jim.Coffey@ENRON.com]\r\n",
+         "to" : "SCHNORBACH, PHIL"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/423.",
+   "hops" : [
+      {
+         "from" : "steve.van@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.van@enron.com\r\n",
+         "to" : "ed.mcmichael@enron.com, chris.germany@enron.com, ruth.concannon@enron.com,"
+      },
+      {
+         "from" : "steve.vanhooser@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tVan Hooser, Steve  \n",
+         "to" : "McMichael Jr., Ed; Germany, Chris; Concannon, Ruth; Miller, Stephanie; Little, Kelli; Garza, Maria"
+      },
+      {
+         "from" : "steve.vanhooser@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tVan Hooser, Steve  \n",
+         "to" : "McMichael Jr., Ed; Germany, Chris; Concannon, Ruth; Miller, Stephanie; Little, Kelli; Garza, Maria"
+      },
+      {
+         "from" : "steve.vanhooser@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tVan Hooser, Steve  \n",
+         "to" : "'jspiers@aklp.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/452.",
+   "hops" : [
+      {
+         "from" : "carol.st.@enron.com",
+         "line" : 4,
+         "rawfrom" : "carol.st.@enron.com\r\n",
+         "to" : "t..hodge@enron.com, john.viverito@enron.com"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 33,
+         "rawfrom" : "Bradford, William S. \n",
+         "to" : "St. Clair, Carol"
+      },
+      {
+         "from" : "ken.curry@enron.com",
+         "line" : 42,
+         "rawfrom" : "Curry, Ken \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "gayle.c.hayter@conoco.com",
+         "line" : 57,
+         "rawfrom" : "Hayter, Gayle C. [mailto:Gayle.C.Hayter@conoco.com]\n",
+         "to" : "Curry, Ken"
+      },
+      {
+         "from" : "gayle.c.hayter@conoco.com",
+         "line" : 67,
+         "rawfrom" : "\tHayter, Gayle C.  \n",
+         "to" : "Finn, Greg"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/454.",
+   "hops" : [
+      {
+         "from" : "john.viverito@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.viverito@enron.com\r\n",
+         "to" : "carol.st.@enron.com"
+      },
+      {
+         "from" : "st@tfts.tozzini.com.br",
+         "line" : 28,
+         "rawfrom" : "\tSt. Clair, Carol  \n",
+         "to" : "Hodge, Jeffrey T.; Viverito, John"
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 47,
+         "rawfrom" : "Bradford, William S. \n",
+         "to" : "St. Clair, Carol"
+      },
+      {
+         "from" : "ken.curry@enron.com",
+         "line" : 56,
+         "rawfrom" : "Curry, Ken \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "gayle.c.hayter@conoco.com",
+         "line" : 71,
+         "rawfrom" : "Hayter, Gayle C. [mailto:Gayle.C.Hayter@conoco.com]\n",
+         "to" : "Curry, Ken"
+      },
+      {
+         "from" : "gayle.c.hayter@conoco.com",
+         "line" : 81,
+         "rawfrom" : "\tHayter, Gayle C.  \n",
+         "to" : "Finn, Greg"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/459.",
+   "hops" : [
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 4,
+         "rawfrom" : "stacey.richardson@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "kim.s.theriot@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tTheriot, Kim S.  \n",
+         "to" : "Elledge, Susan"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tWallumrod, Ellen  \n",
+         "to" : "Theriot, Kim S."
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Richardson, Stacey; Wallumrod, Ellen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/483.",
+   "hops" : [
+      {
+         "from" : "ruth.concannon@enron.com",
+         "line" : 4,
+         "rawfrom" : "ruth.concannon@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "jaime.williams@enron.com",
+         "line" : 22,
+         "rawfrom" : "Williams, Jaime \n",
+         "to" : "Concannon, Ruth"
+      },
+      {
+         "from" : "ibsjhs@earthlink.net",
+         "line" : 32,
+         "rawfrom" : "Julie Smith [mailto:ibsjhs@earthlink.net]\n",
+         "to" : "Williams, Jaime"
+      },
+      {
+         "from" : "armando.calvo@elpaso.com",
+         "line" : 43,
+         "rawfrom" : "\"Calvo, Armando\" <Armando.Calvo@ElPaso.com>\n",
+         "to" : "<ibsjhs@earthlink.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/537.",
+   "hops" : [
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 4,
+         "rawfrom" : "leslie.hansen@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "rfmarkha@southernco.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON  \n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 39,
+         "rawfrom" : "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "to" : "RFMARKHA@southernco.com"
+      },
+      {
+         "from" : "rfmarkha@southernco.com",
+         "line" : 54,
+         "rawfrom" : "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 76,
+         "rawfrom" : "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "to" : "RFMARKHA@southernco.com"
+      },
+      {
+         "from" : "rfmarkha@southernco.com",
+         "line" : 95,
+         "rawfrom" : "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 121,
+         "rawfrom" : "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "to" : "RFMARKHA@southernco.com"
+      },
+      {
+         "from" : "rfmarkha@southernco.com",
+         "line" : 141,
+         "rawfrom" : "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 151,
+         "rawfrom" : "Leslie.Hansen@enron.com [mailto:Leslie.Hansen@enron.com]\n",
+         "to" : "RFMARKHA@southernco.com"
+      },
+      {
+         "from" : "rfmarkha@southernco.com",
+         "line" : 178,
+         "rawfrom" : "  \"Markham, Robert F.\" <RFMARKHA@southernco.com>@ENRON\n",
+         "to" : "Hansen, Leslie"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 204,
+         "rawfrom" : "Hansen, Leslie [mailto:Leslie.Hansen@enron.com]\n",
+         "to" : "RFMARKHA@southernco.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/541.",
+   "hops" : [
+      {
+         "from" : "kay.mann@enron.com",
+         "line" : 4,
+         "rawfrom" : "kay.mann@enron.com\r\n",
+         "to" : "t..hodge@enron.com"
+      },
+      {
+         "from" : "ruth.concannon@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tConcannon, Ruth  \n",
+         "to" : "Mann, Kay"
+      },
+      {
+         "from" : "kmann@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMann, Kay  \n",
+         "to" : "Concannon, Ruth"
+      },
+      {
+         "from" : "ruth.concannon@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tConcannon, Ruth  \n",
+         "to" : "Mann, Kay"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/72.",
+   "hops" : [
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.dozier@enron.com\r\n",
+         "to" : "cynthia.franklin@enron.com"
+      },
+      {
+         "from" : "cynthia.franklin@enron.com",
+         "line" : 32,
+         "rawfrom" : " Cynthia Franklin                           05/15/2001 05:57 AM\t\n",
+         "to" : "Scott Dozier/NA/Enron@Enron"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 49,
+         "rawfrom" : " Scott Dozier                           05/11/2001 11:00 AM\t\n",
+         "to" : "John Hodge/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.hodge@enron.com",
+         "line" : 75,
+         "rawfrom" : "John Hodge\n",
+         "to" : "Scott Dozier/NA/Enron@Enron"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 89,
+         "rawfrom" : " Scott Dozier                           05/09/2001 04:46 PM\t\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, John Hodge/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/inbox/73.",
+   "hops" : [
+      {
+         "from" : "cynthia.franklin@enron.com",
+         "line" : 4,
+         "rawfrom" : "cynthia.franklin@enron.com\r\n",
+         "to" : "scott.dozier@enron.com"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 31,
+         "rawfrom" : " Scott Dozier                           05/11/2001 11:00 AM\t\n",
+         "to" : "John Hodge/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.hodge@enron.com",
+         "line" : 57,
+         "rawfrom" : "John Hodge\n",
+         "to" : "Scott Dozier/NA/Enron@Enron"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 71,
+         "rawfrom" : " Scott Dozier                           05/09/2001 04:46 PM\t\n",
+         "to" : "Dick Jenkins/HOU/ECT@ECT, John Hodge/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/20.",
+   "hops" : [
+      {
+         "from" : "gregg.penman@enron.com",
+         "line" : 4,
+         "rawfrom" : "gregg.penman@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "gregg.penman@enron.com",
+         "line" : 31,
+         "rawfrom" : "Gregg Penman/Corp/Enron on 12/12/2000 10:03 AM -----\n",
+         "to" : "gregg.penman@enron.com, m.klyasheff@pecorp.com"
+      },
+      {
+         "from" : "gloria.sandoval@neg.pge.com",
+         "line" : 46,
+         "rawfrom" : "Sandoval, Gloria [mailto:Gloria.Sandoval@neg.pge.com]\n",
+         "to" : "'r.rodriguez@pecorp.com'"
+      },
+      {
+         "from" : "tanya.murphy@neg.pge.com",
+         "line" : 62,
+         "rawfrom" : "Murphy, Tanya\n",
+         "to" : "Sandoval, Gloria; Barker, Joe"
+      },
+      {
+         "from" : "tanya.murphy@neg.pge.com",
+         "line" : 72,
+         "rawfrom" : "Murphy, Tanya\n",
+         "to" : "Barker, Joe"
+      },
+      {
+         "from" : "tanya.murphy@neg.pge.com",
+         "line" : 82,
+         "rawfrom" : "Murphy, Tanya\n",
+         "to" : "Sandoval, Gloria"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/38.",
+   "hops" : [
+      {
+         "from" : "michael.slade@enron.com",
+         "line" : 4,
+         "rawfrom" : "michael.slade@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 27,
+         "rawfrom" : "Jeffrey T Hodge\n",
+         "to" : "Michael Slade/LON/ECT@ECT"
+      },
+      {
+         "from" : "michael.slade@enron.com",
+         "line" : 43,
+         "rawfrom" : "Michael Slade\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "michael.slade@enron.com",
+         "line" : 59,
+         "rawfrom" : "Michael Slade/LON/ECT on 12/12/2000 15:51 \n",
+         "to" : "\"'Michael.Slade@enron.com'\" <Michael.Slade@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/42.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "cyndie.balfour-flanagan@enron.com, mary.gosnell@enron.com,"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 35,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 55,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 74,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 89,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/43.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 38,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Cyndie Balfour-Flanagan/Corp/Enron@ENRON, Mary G Gosnell/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 60,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 80,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 99,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 114,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/44.",
+   "hops" : [
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 4,
+         "rawfrom" : "cyndie.balfour-flanagan@enron.com\r\n",
+         "to" : "tanya.rohauer@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 56,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 76,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 95,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 110,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/45.",
+   "hops" : [
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 4,
+         "rawfrom" : "tanya.rohauer@enron.com\r\n",
+         "to" : "cyndie.balfour-flanagan@enron.com"
+      },
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 40,
+         "rawfrom" : "Cyndie Balfour-Flanagan@ENRON\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 82,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 102,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 121,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 136,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/47.",
+   "hops" : [
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 4,
+         "rawfrom" : "cyndie.balfour-flanagan@enron.com\r\n",
+         "to" : "tanya.rohauer@enron.com"
+      },
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 62,
+         "rawfrom" : "Cyndie Balfour-Flanagan@ENRON\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 104,
+         "rawfrom" : "Tanya Rohauer/HOU/ECT on 12/13/2000 11:50 \n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 124,
+         "rawfrom" : " Tanya Rohauer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 143,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Tanya Rohauer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 158,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 12/05/2000 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/50.",
+   "hops" : [
+      {
+         "from" : "teresa.bushman@enron.com",
+         "line" : 4,
+         "rawfrom" : "teresa.bushman@enron.com\r\n",
+         "to" : "jeffrey.hodge@enron.com"
+      },
+      {
+         "from" : "teresa.g.bushman@enron.com",
+         "line" : 40,
+         "rawfrom" : "Teresa G Bushman/HOU/ECT on 12/13/2000 08:33 PM -----\n",
+         "to" : "Teresa G Bushman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "joseph.deffner@enron.com",
+         "line" : 58,
+         "rawfrom" : "Joseph Deffner   12/13/2000 02:42 PM\n",
+         "to" : "Michael Garberding/HOU/ECT@ECT"
+      },
+      {
+         "from" : "joseph.deffner@enron.com",
+         "line" : 69,
+         "rawfrom" : "Joseph Deffner/HOU/ECT on 12/13/2000 \n",
+         "to" : "\"Rosser, Dianna\" <drosser@velaw.com>@ENRON"
+      },
+      {
+         "from" : "drosser@velaw.com",
+         "line" : 103,
+         "rawfrom" : "\"Rosser, Dianna\" <drosser@velaw.com>\n",
+         "to" : "\"'teresa.g.bushman@enron.com'\" <teresa.g.bushman@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/notes_inbox/62.",
+   "hops" : [
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keohane@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com, rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 29,
+         "rawfrom" : "Peter Keohane/CAL/ECT on 06/07/2001 01:39 \n",
+         "to" : "Peter Keohane/CAL/ECT@ECT"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 46,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 06/07/2001 02:24 PM -----\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kimberly.bates@enron.com",
+         "line" : 55,
+         "rawfrom" : " Bates, Kimberly  \n",
+         "to" : "'mhenergy@yahoo.com'"
+      },
+      {
+         "from" : "sabina.rank@enron.com",
+         "line" : 63,
+         "rawfrom" : " Rank, Sabina  \n",
+         "to" : "Bates, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent/13.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "dick.jenkins@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 30,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 12/07/2000 11:02 AM -----\n",
+         "to" : "Robert B Cass/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.taylor@enron.com",
+         "line" : 45,
+         "rawfrom" : "Mark Taylor\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT, Dan J Hyvl/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.taylor@enron.com",
+         "line" : 55,
+         "rawfrom" : "Mark Taylor/HOU/ECT on 12/07/2000 09:27 AM -----\n",
+         "to" : "Stacy E Dickson/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent/14.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "paul_a_karns@fpl.com"
+      },
+      {
+         "from" : "paul_a_karns@fpl.com",
+         "line" : 28,
+         "rawfrom" : "Paul_A_Karns@fpl.com\n",
+         "to" : "Jeffrey.T.Hodge@enron.com"
+      },
+      {
+         "from" : "jeffrey.t.hodge@enron.com",
+         "line" : 43,
+         "rawfrom" : "Jeffrey.T.Hodge@enron.com on 11/29/2000 04:37:02 PM\n",
+         "to" : "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from" : "jeffrey.t.hodge@enron.com",
+         "line" : 91,
+         "rawfrom" : "Jeffrey.T.Hodge@enron.com on 11/20/2000 10:51:16 AM\n",
+         "to" : "Paul_A_Karns@fpl.com"
+      },
+      {
+         "from" : "jeffrey.t.hodge@enron.com",
+         "line" : 130,
+         "rawfrom" : "Jeffrey.T.Hodge@enron.com on 11/17/2000 09:13:30 AM\n",
+         "to" : "Paul_A_Karns@fpl.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent/29.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "nony.flores@enron.com"
+      },
+      {
+         "from" : "nony.flores@enron.com",
+         "line" : 28,
+         "rawfrom" : "Nony Flores\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "nony.flores@enron.com",
+         "line" : 44,
+         "rawfrom" : "Nony Flores/HOU/ECT on 05/29/2001 11:54 AM -----\n",
+         "to" : "Nony Flores/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.viverito@enron.com",
+         "line" : 63,
+         "rawfrom" : "John Viverito/Corp/Enron on 05/29/2001 09:03 AM -----\n",
+         "to" : "billswenson@akllp.com, Phillip Ballard/Enron@EnronXGate, Joan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent/30.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "james.keller@enron.com"
+      },
+      {
+         "from" : "james.e.keller@enron.com",
+         "line" : 30,
+         "rawfrom" : "James E Keller@EES\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "deborah.culver@enron.com",
+         "line" : 52,
+         "rawfrom" : " Deborah Culver                           05/21/2001 06:53 PM\n",
+         "to" : "James E Keller/HOU/EES@EES"
+      },
+      {
+         "from" : "deborah.culver@enron.com",
+         "line" : 68,
+         "rawfrom" : " Deborah Culver                           05/21/2001 06:51 PM\n",
+         "to" : "James E Keller/HOU/EES@EES, Mike D Smith/HOU/EES@EES"
+      },
+      {
+         "from" : "jay.sparling@enron.com",
+         "line" : 89,
+         "rawfrom" : " Jay Sparling                           05/21/2001 03:38 PM\n",
+         "to" : "Deborah Culver/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent/34.",
+   "hops" : [
+      {
+         "from" : "jeffrey.hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.hodge@enron.com\r\n",
+         "to" : "stacy.dickson@enron.com"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 23,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 06/07/2001 01:41 PM -----\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT"
+      },
+      {
+         "from" : "\"padilla, monica\" <monica_padilla@city.palo-alto.ca.us>@enron",
+         "line" : 41,
+         "rawfrom" : " \"Padilla, Monica\" <Monica_Padilla@city.palo-alto.ca.us>@ENRON \n",
+         "to" : "Ward, Kim S."
+      },
+      {
+         "from" : "bmcc@mccarthylaw.com",
+         "line" : 55,
+         "rawfrom" : "Barry McCarthy [mailto:bmcc@mccarthylaw.com]\n",
+         "to" : "Dailey, Karla; Padilla, Monica"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent_items/37.",
+   "hops" : [
+      {
+         "from" : "don.miller@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tMiller, Don (Asset Mktg)  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Miller, Don (Asset Mktg)"
+      },
+      {
+         "from" : "don.miller@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tMiller, Don (Asset Mktg)  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "treasa.kirby@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tKirby, Treasa  \n",
+         "to" : "Miller, Don (Asset Mktg)"
+      },
+      {
+         "from" : "nina.edmonds@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tEdmonds, Nina  \n",
+         "to" : "Kirby, Treasa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent_items/51.",
+   "hops" : [
+      {
+         "from" : "t..hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "t..hodge@enron.com\r\n",
+         "to" : "joanne.rozycki@enron.com"
+      },
+      {
+         "from" : "lindsay.culotta@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tCulotta, Lindsay  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tHodge, Jeffrey T.  \n",
+         "to" : "Culotta, Lindsay"
+      },
+      {
+         "from" : "lindsay.culotta@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tCulotta, Lindsay  \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "ndrgroup@att.net",
+         "line" : 74,
+         "rawfrom" : "ndrgroup@att.net [mailto:ndrgroup@att.net]\n",
+         "to" : "Culotta, Lindsay; gerald.raines@michcon.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/hodge-j/sent_items/98.",
+   "hops" : [
+      {
+         "from" : "t..hodge@enron.com",
+         "line" : 4,
+         "rawfrom" : "t..hodge@enron.com\r\n",
+         "to" : "peter.keohane@enron.com"
+      },
+      {
+         "from" : "kim.s.theriot@enron.com",
+         "line" : 29,
+         "rawfrom" : "Theriot, Kim S. \n",
+         "to" : "Hodge, Jeffrey T."
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 50,
+         "rawfrom" : "Rohauer, Tanya \n",
+         "to" : "Theriot, Kim S.; Hodge, Jeffrey T."
+      },
+      {
+         "from" : "cvanscyoc@tmvgas.com",
+         "line" : 63,
+         "rawfrom" : "Chris Van Scyoc [mailto:cvanscyoc@tmvgas.com]\n",
+         "to" : "Rohauer, Tanya"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,2793 @@
+[
+{
+   "file" : "enron-raw/mckay-j/deleted_items/167.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/deleted_items/7.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 22,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 33,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 44,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 55,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 66,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 77,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 88,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "shawn@apbenergy.com",
+         "line" : 99,
+         "rawfrom" : " <Shawn Ridge <shawn@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 110,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 120,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 130,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 140,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 150,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 160,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 170,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 180,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 190,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 200,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 210,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 222,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 232,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 250,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 259,
+         "rawfrom" : "\tGreg Holtgrave [mailto:greg@apbenergy.com]\n",
+         "to" : "'Jonathan.Mckay@enron.com'"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 268,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 278,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 289,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 300,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 312,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 323,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 334,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 349,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/mckay-j/deleted_items/8.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 22,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 33,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 46,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 57,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 68,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 79,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 90,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 101,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 113,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 124,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 135,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 146,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 157,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 168,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 179,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 190,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 201,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 212,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 223,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 234,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 245,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 256,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 267,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/deleted_items/80.",
+   "hops" : [
+      {
+         "from" : "peggy.hedstrom@enron.com",
+         "line" : 4,
+         "rawfrom" : "peggy.hedstrom@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com, brian.gillis@enron.com, kathy.reeves@enron.com"
+      },
+      {
+         "from" : "laura.scott@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tScott, Laura  \n",
+         "to" : "Hedstrom, Peggy"
+      },
+      {
+         "from" : "peggy.hedstrom@ubsw.com",
+         "line" : 32,
+         "rawfrom" : "\tHedstrom, Peggy  \n",
+         "to" : "Mckay, Jonathan; Reeves, Kathy; Gillis, Brian; Scott, Laura"
+      },
+      {
+         "from" : "shelly.stubbs@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tStubbs, Shelly  \n",
+         "to" : "Hedstrom, Peggy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/deleted_items/9.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 22,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 32,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 42,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 52,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 62,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 72,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 82,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 92,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 102,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 112,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 122,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 132,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 142,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 152,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 162,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 172,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 182,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 192,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 202,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "> from:\tsteve casey",
+         "line" : 212,
+         "rawfrom" : "> From:\tSteve Casey\n",
+         "to" : "'Jonathan.McKay@ENRON.com'"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 223,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 233,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 242,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 251,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 260,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 269,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 278,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 287,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 296,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 305,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 314,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 323,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 332,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 341,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 350,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 359,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/deleted_items/92.",
+   "hops" : [
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 4,
+         "rawfrom" : "peter.keohane@enron.com\r\n",
+         "to" : "mckay.jonathan@enron.com, rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 27,
+         "rawfrom" : "Peter Keohane/CAL/ECT on 06/07/2001 01:39 PM ---------------------------\n",
+         "to" : "Peter Keohane/CAL/ECT@ECT"
+      },
+      {
+         "from" : "jhodge@enron.com",
+         "line" : 41,
+         "rawfrom" : "Jeffrey T Hodge/HOU/ECT on 06/07/2001 02:24 PM -----\n",
+         "to" : "Jeffrey T Hodge/HOU/ECT@ECT  cc:   Subject: FW: INDEX PRICING"
+      },
+      {
+         "from" : "kimberly.bates@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBates, Kimberly  \n",
+         "to" : "'mhenergy@yahoo.com'"
+      },
+      {
+         "from" : "sabina.rank@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tRank, Sabina  \n",
+         "to" : "Bates, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/enron/36.",
+   "hops" : [
+      {
+         "from" : "chris.germany@enron.com",
+         "line" : 4,
+         "rawfrom" : "chris.germany@enron.com\r\n",
+         "to" : "kelly.donlevy-lee@enron.com, nicole.laporte@enron.com"
+      },
+      {
+         "from" : "kelly.donlevy-lee@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tDonlevy-Lee, Kelly  \n",
+         "to" : "Germany, Chris"
+      },
+      {
+         "from" : "michelle.wells@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tWells, Michelle  \n",
+         "to" : "Vallejo, Stacey; Donlevy-Lee, Kelly"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tLaporte, Nicole  \n",
+         "to" : "Germany, Chris"
+      },
+      {
+         "from" : "chris.germany@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tGermany, Chris  \n",
+         "to" : "Laporte, Nicole"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tLaporte, Nicole  \n",
+         "to" : "Germany, Chris"
+      },
+      {
+         "from" : "chris.germany@enron.com",
+         "line" : 91,
+         "rawfrom" : "\tGermany, Chris  \n",
+         "to" : "Laporte, Nicole"
+      },
+      {
+         "from" : "kimat.singla@enron.com",
+         "line" : 102,
+         "rawfrom" : "\tSingla, Kimat  \n",
+         "to" : "Germany, Chris"
+      },
+      {
+         "from" : "chris.germany@enron.com",
+         "line" : 113,
+         "rawfrom" : "\tGermany, Chris  \n",
+         "to" : "Laporte, Nicole; Singla, Kimat"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/enron/40.",
+   "hops" : [
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 4,
+         "rawfrom" : "melba.lozano@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Lozano, Melba"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Lambie, Chris"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Lambie, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/25.",
+   "hops" : [
+      {
+         "from" : "beth.jenkins@enron.com",
+         "line" : 4,
+         "rawfrom" : "beth.jenkins@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "ozzie.pagan@enron.com",
+         "line" : 22,
+         "rawfrom" : "Pagan, Ozzie \n",
+         "to" : "Jenkins, Beth; Chapman, Christy"
+      },
+      {
+         "from" : "swanita_99@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "Kroll, Heather \n",
+         "to" : "Pagan, Ozzie"
+      },
+      {
+         "from" : "billy_braddock@enron.net",
+         "line" : 42,
+         "rawfrom" : "Braddock, Billy \n",
+         "to" : "Kroll, Heather; Rorschach, Reagan; Acevedo, Rudy"
+      },
+      {
+         "from" : "adam.pollock@enron.com",
+         "line" : 52,
+         "rawfrom" : "Pollock, Adam \n",
+         "to" : "Hudler, Cindy; Leibman, Lara; Williams, Bryan; Braddock, Billy;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/30.",
+   "hops" : [
+      {
+         "from" : "beth.jenkins@enron.com",
+         "line" : 4,
+         "rawfrom" : "beth.jenkins@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "ozzie.pagan@enron.com",
+         "line" : 21,
+         "rawfrom" : "Pagan, Ozzie \n",
+         "to" : "Jenkins, Beth"
+      },
+      {
+         "from" : "swanita_99@yahoo.com",
+         "line" : 29,
+         "rawfrom" : "Kroll, Heather \n",
+         "to" : "Rorschach, Reagan; Pagan, Ozzie; Braddock, Billy; Stepenovitch, Joe; Emmons, Suzette; Day, Amanda; Piazze, Tara"
+      },
+      {
+         "from" : "williams@tvmcapital.com",
+         "line" : 37,
+         "rawfrom" : "Mark Williams [mailto:williams@tvmcapital.com]\n",
+         "to" : "undisclosed-recipients"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/33.",
+   "hops" : [
+      {
+         "from" : "brad.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "brad.mckay@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 22,
+         "rawfrom" : "\tGriffith, John  \n",
+         "to" : "Mckay, Brad; Zipper, Andy; Maggi, Mike; Arnold, John; Quigley, Dutch; Taylor, Craig; 'mattc@elitebrokers.net'"
+      },
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMoon, Eric  \n",
+         "to" : "Griffith, John"
+      },
+      {
+         "from" : "etjmoon@prodigy.net",
+         "line" : 38,
+         "rawfrom" : "\t\"Tami, Eric and Jake Moon\" <etjmoon@prodigy.net>@ENRON  \n",
+         "to" : "Julie Turner; Papa; Moon, Eric; Granny; Frank Jimenez"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/43.",
+   "hops" : [
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 4,
+         "rawfrom" : "barry.tycholiz@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "ktycholiz@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "Barry & Kim Tycholiz [mailto:ktycholiz@houston.rr.com]\n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 29,
+         "rawfrom" : "\"Tycholiz, Barry\" <Barry.Tycholiz@enron.com>\n",
+         "to" : "<ktycholiz@houston.rr.com>"
+      },
+      {
+         "from" : "matthew.lenhart@enron.com",
+         "line" : 39,
+         "rawfrom" : "Lenhart, Matthew\n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "randall.l.gay@enron.com",
+         "line" : 48,
+         "rawfrom" : "Gay, Randall L.\n",
+         "to" : "Lenhart, Matthew"
+      },
+      {
+         "from" : "ted.evans@enron.com",
+         "line" : 57,
+         "rawfrom" : "Evans, Ted\n",
+         "to" : "Gay, Randall L.; Groenewold, Shannon; Lisk, Daniel; Sutherland,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/52.",
+   "hops" : [
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 4,
+         "rawfrom" : "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 25,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 49,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 60,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 79,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 106,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 128,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 158,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 186,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/53.",
+   "hops" : [
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 4,
+         "rawfrom" : "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 41,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 67,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 87,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 114,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 139,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/55.",
+   "hops" : [
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 4,
+         "rawfrom" : "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 24,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 42,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 68,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 88,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 115,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 140,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/56.",
+   "hops" : [
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 4,
+         "rawfrom" : "jeffrey.r.pearson@dartmouth.edu\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 38,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 55,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 81,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 103,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/personal/69.",
+   "hops" : [
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 4,
+         "rawfrom" : "geri.greenall@elpaso.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 41,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 50,
+         "rawfrom" : "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 64,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 75,
+         "rawfrom" : "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 95,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/retail/23.",
+   "hops" : [
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 4,
+         "rawfrom" : "kate.joslyn@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tJoslyn, Kate  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tJoslyn, Kate  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/retail/31.",
+   "hops" : [
+      {
+         "from" : "chad.bruce@enron.com",
+         "line" : 4,
+         "rawfrom" : "chad.bruce@enron.com\r\n",
+         "to" : "kate.joslyn@enron.com, jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 27,
+         "rawfrom" : "Joslyn, Kate \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 42,
+         "rawfrom" : "Mckay, Jonathan \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 71,
+         "rawfrom" : "Mckay, Jonathan \n",
+         "to" : "Frers, Greg"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/mckay-j/retail/32.",
+   "hops" : [
+      {
+         "from" : "mark.dickin@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.dickin@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com, albert.luc@enron.com, randel.dalgleish@enron.com"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 29,
+         "rawfrom" : "Joslyn, Kate \n",
+         "to" : "Dickin, Mark"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 36,
+         "rawfrom" : "Joslyn, Kate \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 48,
+         "rawfrom" : "Mckay, Jonathan \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 72,
+         "rawfrom" : "Mckay, Jonathan \n",
+         "to" : "Frers, Greg"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/mckay-j/retail/48.",
+   "hops" : [
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 4,
+         "rawfrom" : "kate.joslyn@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "ian.cooke@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCooke, Ian  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tJonathan McKay  \n",
+         "to" : "Ian Cooke"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 56,
+         "rawfrom" : "From:\tKate Joslyn/ENRON@enronXgate on 06/07/2001 09:02 AM CDT\n",
+         "to" : "Jonathan McKay/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/11.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "bjenkins2@houston.rr.com"
+      },
+      {
+         "from" : "stephen.brown@rbcdain.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Brown, Stephen\" <Stephen.Brown@Rbcdain.com>@ENRON  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 40,
+         "rawfrom" : "Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Brown, Stephen"
+      },
+      {
+         "from" : "stephen.brown@rbcdain.com",
+         "line" : 62,
+         "rawfrom" : "  \"Brown, Stephen\" <Stephen.Brown@Rbcdain.com>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/130.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "martin.cuilla@enron.com"
+      },
+      {
+         "from" : "=09johnston, greg =20",
+         "line" : 37,
+         "rawfrom" : "=09Johnston, Greg =20\r\n",
+         "to" : "=09Mckay, Jonathan"
+      },
+      {
+         "from" : "=09mckay, jonathan =20",
+         "line" : 48,
+         "rawfrom" : "=09Mckay, Jonathan =20\r\n",
+         "to" : "=09Johnston, Greg"
+      },
+      {
+         "from" : "=09johnston, greg =20",
+         "line" : 64,
+         "rawfrom" : "=09Johnston, Greg =20\r\n",
+         "to" : "=09Heal, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/15.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "karen.buckley@enron.com"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/157.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "carla.o'neil@enron.com"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 22,
+         "rawfrom" : "\tO'Neil, Carla  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "O'Neil, Carla"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 38,
+         "rawfrom" : "\tO'Neil, Carla  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/17.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "chance.rabon@enron.com"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 22,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 31,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 40,
+         "rawfrom" : "\tGreg Holtgrave [mailto:greg@apbenergy.com]\n",
+         "to" : "'Jonathan.Mckay@enron.com'"
+      },
+      {
+         "from" : "john.borenius@gfinet.com",
+         "line" : 49,
+         "rawfrom" : " <John Borenius <John.Borenius@GFInet.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "john.borenius@gfinet.com",
+         "line" : 69,
+         "rawfrom" : " <John Borenius <John.Borenius@GFInet.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 93,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 104,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 113,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "stephen.brown@rbcdain.com",
+         "line" : 131,
+         "rawfrom" : " <\"Brown, Stephen\" <Stephen.Brown@Rbcdain.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 157,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 168,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 177,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 187,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "john.borenius@gfinet.com",
+         "line" : 198,
+         "rawfrom" : " <John Borenius <John.Borenius@GFInet.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 220,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 229,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 241,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 252,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 261,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "john.borenius@gfinet.com",
+         "line" : 272,
+         "rawfrom" : " <John Borenius <John.Borenius@GFInet.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 292,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 302,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 311,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 322,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 331,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "john.borenius@gfinet.com",
+         "line" : 341,
+         "rawfrom" : " <John Borenius <John.Borenius@GFInet.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 355,
+         "rawfrom" : "> From:\tMckay, Jonathan [SMTP:Jonathan.McKay@ENRON.com]\n",
+         "to" : "AMiser@natsources.com; greg@apbenergy.com; john.borenius@gfinet.com;"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 409,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 420,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 429,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 439,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 448,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "john.borenius@gfinet.com",
+         "line" : 459,
+         "rawfrom" : " <John Borenius <John.Borenius@GFInet.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "tomd@amerexenergy.com",
+         "line" : 484,
+         "rawfrom" : " <\"Tom Dobson\" <tomd@amerexenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 495,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 505,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 515,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "> from:\tsteve casey",
+         "line" : 525,
+         "rawfrom" : "> From:\tSteve Casey\n",
+         "to" : "'Jonathan.McKay@ENRON.com'"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 536,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 546,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 556,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 566,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "greg@apbenergy.com",
+         "line" : 576,
+         "rawfrom" : " <\"Greg Holtgrave\" <greg@apbenergy.com>@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 586,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 596,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      },
+      {
+         "from" : "scasey@tfsbrokers.com",
+         "line" : 606,
+         "rawfrom" : " <scasey@tfsbrokers.com@ENRON>\n",
+         "to" : "Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/171.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "beth_jenkins@fpl.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 22,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 30,
+         "rawfrom" : "\t\"J&J Zufferli\" <jzufferli@home.com>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "witless@telusplanet.net",
+         "line" : 36,
+         "rawfrom" : "\"marilee\" <witless@telusplanet.net>\n",
+         "to" : "\"J&J Zufferli\" <jzufferli@home.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/172.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "beth_jenkins@fpl.com"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 22,
+         "rawfrom" : "\tZufferli, John  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jzufferli@home.com",
+         "line" : 30,
+         "rawfrom" : "\t\"J&J Zufferli\" <jzufferli@home.com>@ENRON  \n",
+         "to" : "Zufferli, John"
+      },
+      {
+         "from" : "nhall1@txu.com",
+         "line" : 38,
+         "rawfrom" : "\"Nancy Hall\" <nhall1@txu.com>\n",
+         "to" : "<jzufferli@home.com>"
+      },
+      {
+         "from" : "nhall1@txu.com",
+         "line" : 56,
+         "rawfrom" : "Nancy Hall/ENERGY/TXU on 06/12/2001\n",
+         "to" : "Toastmasters"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/175.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "kate.joslyn@enron.com"
+      },
+      {
+         "from" : "ian.cooke@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCooke, Ian  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tJonathan McKay  \n",
+         "to" : "Ian Cooke"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:\tKate Joslyn/ENRON@enronXgate on 06/07/2001 09:02 AM CDT\n",
+         "to" : "Jonathan McKay/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/183.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 24,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 43,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 63,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/184.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "rodf@telusplanet.net"
+      },
+      {
+         "from" : "rodf@telusplanet.net",
+         "line" : 22,
+         "rawfrom" : "\t\"Rod Forsythe\" <rodf@telusplanet.net>@ENRON [mailto:IMCEANOTES-+22Rod+20Forsythe+22+20+3Crodf+40telusplanet+2Enet+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 38,
+         "rawfrom" : "From:\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "rodf@telusplanet.net"
+      },
+      {
+         "from" : "rodf@telusplanet.net",
+         "line" : 77,
+         "rawfrom" : "  \"Rod Forsythe\" <rodf@telusplanet.net>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/185.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 26,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 50,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 67,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 93,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 115,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/193.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "r..barker@enron.com"
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Barker, James R."
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/194.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "r..barker@enron.com"
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Barker, James R."
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/195.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 33,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 42,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 60,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 86,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 106,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 133,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 158,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/196.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "r..barker@enron.com"
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Barker, James R."
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Barker, James R."
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 71,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/198.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "jeffrey.r.pearson@dartmouth.edu"
+      },
+      {
+         "from" : "jeffrey.r.pearson@dartmouth.edu",
+         "line" : 24,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\" <Jeffrey.R.Pearson@Dartmouth.EDU>@ENRON [mailto:IMCEANOTES-+22Jeffrey+20R+2E+20Pearson+22+20+3CJeffrey+2ER+2EPearson+40Dartmouth+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 35,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 59,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 70,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 89,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 116,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 138,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 168,
+         "rawfrom" : "Mckay, Jonathan [mailto:Jonathan.McKay@enron.com]\n",
+         "to" : "Jeffrey.R.Pearson@Dartmouth.EDU"
+      },
+      {
+         "from" : "\"jeffrey r. pearson\"",
+         "line" : 196,
+         "rawfrom" : "\t\"Jeffrey R. Pearson\"\n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/2.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "bjenkins2@houston.rr.com"
+      },
+      {
+         "from" : "phemsing@edc-see.ca",
+         "line" : 22,
+         "rawfrom" : "\t\"Hemsing, Paul\" <phemsing@edc-see.ca>@ENRON [mailto:IMCEANOTES-+22Hemsing+2C+20Paul+22+20+3Cphemsing+40edc-see+2Eca+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 57,
+         "rawfrom" : "> From:\tJonathan.Mckay@enron.com [SMTP:Jonathan.Mckay@enron.com]\n",
+         "to" : "phemsing@edc-see.ca"
+      },
+      {
+         "from" : "phemsing@edc-see.ca",
+         "line" : 82,
+         "rawfrom" : "  \"Hemsing, Paul\" <phemsing@edc-see.ca>@ENRON\n",
+         "to" : "Mckay, Jon (E-mail)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/201.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "beth.jenkins@enron.com"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 22,
+         "rawfrom" : "\tJenkins, Beth  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 29,
+         "rawfrom" : "From:\tJonathan Mckay/ENRON@enronXgate on 09/07/2001 09:27 AM\n",
+         "to" : "Beth Jenkins/HOU/EES@EES"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 43,
+         "rawfrom" : "\tJenkins, Beth  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/203.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "beth.jenkins@enron.com"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 22,
+         "rawfrom" : "\tJenkins, Beth  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 30,
+         "rawfrom" : "From:\tJonathan Mckay/ENRON@enronXgate on 09/07/2001 12:30 PM\n",
+         "to" : "Beth Jenkins/HOU/EES@EES"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 40,
+         "rawfrom" : "\tJenkins, Beth  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/234.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "r..barker@enron.com"
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Barker, James R."
+      },
+      {
+         "from" : "james.barker@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tBarker, James R.  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/244.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "beth.jenkins@enron.com"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 23,
+         "rawfrom" : "\tJenkins, Beth  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 30,
+         "rawfrom" : "From:\tJonathan Mckay/ENRON@enronXgate on 10/11/2001 12:49 PM\n",
+         "to" : "Beth Jenkins/HOU/EES@EES"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 40,
+         "rawfrom" : "\tJenkins, Beth  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/255.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "chris.lambie@enron.com"
+      },
+      {
+         "from" : "brad.mckay@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMckay, Brad  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "john.griffith@ubswenergy.com",
+         "line" : 30,
+         "rawfrom" : "\tGriffith, John  \n",
+         "to" : "Mckay, Brad; Zipper, Andy; Maggi, Mike; Arnold, John; Quigley, Dutch; Taylor, Craig; 'mattc@elitebrokers.net'"
+      },
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tMoon, Eric  \n",
+         "to" : "Griffith, John"
+      },
+      {
+         "from" : "etjmoon@prodigy.net",
+         "line" : 46,
+         "rawfrom" : "\t\"Tami, Eric and Jake Moon\" <etjmoon@prodigy.net>@ENRON  \n",
+         "to" : "Julie Turner; Papa; Moon, Eric; Granny; Frank Jimenez"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/311.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "chris.lambie@enron.com"
+      },
+      {
+         "from" : "chuck.ames@enron.com",
+         "line" : 22,
+         "rawfrom" : "Ames, Chuck \n",
+         "to" : "Pimenov, Vladi; Mckay, Jonathan"
+      },
+      {
+         "from" : "chris.gaskill@enron.com",
+         "line" : 31,
+         "rawfrom" : "Gaskill, Chris \n",
+         "to" : "Ames, Chuck"
+      },
+      {
+         "from" : "michael.hiley@abnamro.com",
+         "line" : 40,
+         "rawfrom" : "michael.hiley@abnamro.com [mailto:michael.hiley@abnamro.com]\n",
+         "to" : "chris_gaskill@enron.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/324.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "vladi.pimenov@enron.com"
+      },
+      {
+         "from" : "beth_jenkins@fpl.com",
+         "line" : 22,
+         "rawfrom" : "Jenkins, Beth \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "gwoulfe@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "Woulfe, Greg \n",
+         "to" : "Jenkins, Beth"
+      },
+      {
+         "from" : "george_skordilis@notes.ntrs.com",
+         "line" : 40,
+         "rawfrom" : "George Skordilis [mailto:George_Skordilis@notes.ntrs.com]\n",
+         "to" : "LaSalle@telocity.com; mjevans@megsinet.net; tdfernand@home.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/58.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "tuckiejeff@hotmail.com"
+      },
+      {
+         "from" : "tuckiejeff@hotmail.com",
+         "line" : 30,
+         "rawfrom" : "\t\"Jeff Pearson\" <tuckiejeff@hotmail.com>@ENRON [mailto:IMCEANOTES-+22Jeff+20Pearson+22+20+3Ctuckiejeff+40hotmail+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 37,
+         "rawfrom" : "Jonathan.Mckay@enron.com  \n",
+         "to" : "tuckiejeff@hotmail.com"
+      },
+      {
+         "from" : "\"jeff pearson\" @enron",
+         "line" : 53,
+         "rawfrom" : "\"Jeff Pearson\" @ENRON  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/62.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "geri.greenall@elpaso.com"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Greenall+2C+20Geri+22+20+3CGeri+2EGreenall+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 51,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 60,
+         "rawfrom" : "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 74,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 85,
+         "rawfrom" : "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 105,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "geri.greenall@elpaso.com"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 25,
+         "rawfrom" : "\t\"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Greenall+2C+20Geri+22+20+3CGeri+2EGreenall+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 46,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 56,
+         "rawfrom" : "  Jonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 74,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/67.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "melba.lozano@enron.com"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Lozano, Melba"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Lambie, Chris"
+      },
+      {
+         "from" : "melba.lozano@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tLozano, Melba  \n",
+         "to" : "Lambie, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/91.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "geri.greenall@elpaso.com"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON [mailto:IMCEANOTES-+22Greenall+2C+20Geri+22+20+3CGeri+2EGreenall+40ElPaso+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tJonathan.Mckay@enron.com [mailto:Jonathan.Mckay@enron.com]\n",
+         "to" : "Greenall, Geri"
+      },
+      {
+         "from" : "geri.greenall@elpaso.com",
+         "line" : 48,
+         "rawfrom" : "  \"Greenall, Geri\" <Geri.Greenall@ElPaso.com>@ENRON\n",
+         "to" : "Cowan, Mike; Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/97.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "kate.joslyn@enron.com"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tJoslyn, Kate  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tJoslyn, Kate  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/98.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "beth.jenkins@enron.com"
+      },
+      {
+         "from" : "mike.a.roberts@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRoberts, Mike A.  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Roberts, Mike A."
+      },
+      {
+         "from" : "mike.a.roberts@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tRoberts, Mike A.  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/sent_items/99.",
+   "hops" : [
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 4,
+         "rawfrom" : "jonathan.mckay@enron.com\r\n",
+         "to" : "kate.joslyn@enron.com"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tJoslyn, Kate  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Joslyn, Kate"
+      },
+      {
+         "from" : "kate.joslyn@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tJoslyn, Kate  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/ubs_warburg/10.",
+   "hops" : [
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "karen.buckley@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Mckay, Jonathan"
+      },
+      {
+         "from" : "jonathan.mckay@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tMckay, Jonathan  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Mckay, Jonathan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/ubs_warburg/8.",
+   "hops" : [
+      {
+         "from" : "scott.neal@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.neal@enron.com\r\n",
+         "to" : "jonathan.mckay@enron.com, andrea.ring@enron.com"
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tShively, Hunter S.  \n",
+         "to" : "Grigsby, Mike; Martin, Thomas A.; Allen, Phillip K.; Neal, Scott"
+      },
+      {
+         "from" : "robert.superty@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSuperty, Robert  \n",
+         "to" : "Shively, Hunter S."
+      },
+      {
+         "from" : "hunter.s.shively@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tShively, Hunter S.  \n",
+         "to" : "Superty, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mckay-j/ubswenergy_com/5.",
+   "hops" : [
+      {
+         "from" : "scott.neal@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.neal@enron.com\r\n",
+         "to" : "f..brawner@enron.com, andrea.ring@enron.com, judy.townsend@enron.com,"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Neal, Scott"
+      },
+      {
+         "from" : "sneal@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tNeal, Scott  \n",
+         "to" : "Keiser, Kam"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Neal, Scott"
+      },
+      {
+         "from" : "virendra.patel@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tPatel, Virendra  \n",
+         "to" : "Keiser, Kam"
+      }
+   ],
+   "skipped" : 0
+}
+]

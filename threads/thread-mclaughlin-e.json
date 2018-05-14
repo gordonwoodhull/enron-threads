@@ -1,0 +1,4342 @@
+[
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/100.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shannon.mcpearson@enron.com"
+      },
+      {
+         "from" : "shannon.mcpearson@enron.com",
+         "line" : 31,
+         "rawfrom" : "Shannon McPearson @ ECT                02/21/2001 08:37 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Kori Loibl/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 46,
+         "rawfrom" : " Tracey Irvin                           02/21/2001 07:22 AM\n",
+         "to" : "Shannon McPearson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "nancy.hernandez@enron.com",
+         "line" : 63,
+         "rawfrom" : " Nancy Hernandez @ ENRON                           02/20/2001 02:57 PM\n",
+         "to" : "Debbie R Brackett/HOU/ECT@ECT, John D Powell/HOU/ECT, Ron Nolte/Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/109.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "cecilia.cheung@enron.com"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 28,
+         "rawfrom" : "Cecilia Cheung/ENRON@enronXgate on 01/26/2001 03:48 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 42,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Cheung, Cecilia"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 58,
+         "rawfrom" : "Cecilia Cheung/ENRON@enronXgate on 01/26/2001 11:04 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/113.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "tommy.garza@enron.com"
+      },
+      {
+         "from" : "tommy.garza@enron.com",
+         "line" : 29,
+         "rawfrom" : "Tommy Garza/ENRON@enronXgate on 02/14/2001 02:25 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 49,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Tommy Garza/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 63,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 02/13/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/138.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 26,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 44,
+         "rawfrom" : "Kam Keiser/HOU/ECT on 01/31/2001 07:55 PM \n",
+         "to" : "Kam Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, David"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 60,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/31/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/145.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "william.kelly@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 31,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 01/31/2001 \n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      },
+      {
+         "from" : "william.kelly@enron.com",
+         "line" : 51,
+         "rawfrom" : " William Kelly @ ECT                           01/31/2001 03:00 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "wolfmark@cibc.com",
+         "line" : 62,
+         "rawfrom" : "Mark Wolf/ENRON@enronXgate on 01/31/2001 02:23 PM\n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/157.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "marc.janichen@enron.com"
+      },
+      {
+         "from" : "marc.janichen@enron.com",
+         "line" : 31,
+         "rawfrom" : "Marc Janichen@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "marc.janichen@enron.com",
+         "line" : 52,
+         "rawfrom" : "Marc Janichen/LON/ECT on 30/01/2001 14:02 \n",
+         "to" : "Marc Janichen/LON/ECT@ECT"
+      },
+      {
+         "from" : "rudy.dautel@enron.com",
+         "line" : 64,
+         "rawfrom" : "Rudy Dautel/EU/Enron on 24/01/2001 09:20 \n",
+         "to" : "Rudy Dautel/EU/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/250.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "mechelle.stevens@enron.com"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 26,
+         "rawfrom" : " Mechelle Stevens @ ECT                           11/03/2000 08:26 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 43,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 56,
+         "rawfrom" : " Dutch Quigley @ ECT                           11/01/2000 03:28 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 70,
+         "rawfrom" : " Mechelle Stevens                           11/01/2000 03:27 PM\n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/271.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "susan.scott@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 24,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 09/21/20=\r\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 39,
+         "rawfrom" : " Eric Bass                           09/21/2000 08:17 AM\r\n",
+         "to" : "Luis Mena/NA/Enron@Enron, mballases@hotmail.com, Ami=20"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 58,
+         "rawfrom" : "Eric Bass/HOU/ECT on 09/21/2000 08:15 A=\r\n",
+         "to" : "\"Inside UT Football Subscribers\"=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/28.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shirley.mcdowell@enron.com"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 29,
+         "rawfrom" : "Shirley McDowell/ENRON@enronXgate on 04/18/2001 03:37 PM\n",
+         "to" : "David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 52,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 66,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 80,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Gossett, Jeffrey; Keiser, Kam; Giron, Darron; Love, Phillip; Baumbach,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/47.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dutch.quigley@enron.com"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 31,
+         "rawfrom" : " Dutch Quigley @ ECT                           03/27/2001 07:50 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 50,
+         "rawfrom" : "Dutch Quigley/HOU/ECT on 03/27/2001 07:55 \n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 60,
+         "rawfrom" : "John Arnold/HOU/ECT on 03/26/2001 02:56 \n",
+         "to" : "\"'john.arnold@enron.com'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/52.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shirley.mcdowell@enron.com"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 30,
+         "rawfrom" : "Shirley McDowell/ENRON@enronXgate on 03/21/2001 03:20 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 42,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 58,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/69.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 26,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 37,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 53,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/73.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "sherry.dawson@enron.com"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 26,
+         "rawfrom" : " Julie Brewer                           03/01/2001 09:33 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 45,
+         "rawfrom" : " Julie Brewer                           02/27/2001 04:59 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 61,
+         "rawfrom" : "Julie Brewer/NA/Enron on 02/27/2001 04:58 \n",
+         "to" : "Jason Moore/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jason.moore@enron.com",
+         "line" : 75,
+         "rawfrom" : "Jason Moore@ECT\n",
+         "to" : "Cheryl Johnson/Corp/Enron@Enron, Marilyn Colbert/HOU/ECT@ECT"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 96,
+         "rawfrom" : " Larry Joe Hunter                           02/27/2001 11:14 AM\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT, Bernice Rodriguez/HOU/ECT@ECT, Jason"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 116,
+         "rawfrom" : "Tana Jones on 02/27/2001 09:26 AM\n",
+         "to" : "Laurel Adams/HOU/ECT@ECT, Janie Aguayo/HOU/ECT@ECT, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/74.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "julie.brewer@enron.com"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 26,
+         "rawfrom" : " Julie Brewer                           03/01/2001 09:33 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 45,
+         "rawfrom" : " Julie Brewer                           02/27/2001 04:59 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 61,
+         "rawfrom" : "Julie Brewer/NA/Enron on 02/27/2001 04:58 \n",
+         "to" : "Jason Moore/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jason.moore@enron.com",
+         "line" : 75,
+         "rawfrom" : "Jason Moore@ECT\n",
+         "to" : "Cheryl Johnson/Corp/Enron@Enron, Marilyn Colbert/HOU/ECT@ECT"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 96,
+         "rawfrom" : " Larry Joe Hunter                           02/27/2001 11:14 AM\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT, Bernice Rodriguez/HOU/ECT@ECT, Jason"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 116,
+         "rawfrom" : "Tana Jones on 02/27/2001 09:26 AM\n",
+         "to" : "Laurel Adams/HOU/ECT@ECT, Janie Aguayo/HOU/ECT@ECT, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/83.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 33,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 53,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 02/26/2001 11:48 \n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 65,
+         "rawfrom" : "Tara Sweitzer/HOU/ECT on 02/26/2001 07:39 \n",
+         "to" : "tara.sweitzer@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 78,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 02/26/2001 \n",
+         "to" : "dawne.c.kenne@enron.com, torrey.moorer@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/_sent_mail/85.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 28,
+         "rawfrom" : " Andrea R Guillen @ ECT                           02/26/2001 10:23 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 47,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 59,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 77,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 94,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/196.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.guillen@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 31,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 61,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 78,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/230.",
+   "hops" : [
+      {
+         "from" : "patrick.mulvany@enron.com",
+         "line" : 4,
+         "rawfrom" : "patrick.mulvany@enron.com\r\n",
+         "to" : "andres.balmaceda@enron.com, anne.bike@enron.com, amy.cavazos@enron.com,"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 30,
+         "rawfrom" : " Ornelas, Bianca  \n",
+         "to" : "Mulvany, Patrick"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 41,
+         "rawfrom" : " Bianca Ornelas                           02/09/2001 09:47 AM\n",
+         "to" : "Anne Bike/Corp/Enron@Enron, Carole Frank/NA/Enron@ENRON, Jason"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 76,
+         "rawfrom" : " Larry Joe Hunter @ ECT                      \n",
+         "to" : "Bianca Ornelas/NA/Enron@Enron"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 90,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Carol St Clair/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT, Susan"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 119,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Carol St Clair/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT, Susan"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 152,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Mark Taylor/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/264.",
+   "hops" : [
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 4,
+         "rawfrom" : "mechelle.stevens@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 24,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Mechelle Stevens/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 41,
+         "rawfrom" : " Mechelle Stevens @ ECT                           03/26/2001 08:35 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 60,
+         "rawfrom" : " Mechelle Stevens                           03/20/2001 11:03 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/289.",
+   "hops" : [
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 4,
+         "rawfrom" : "george.huan@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com, errol.mclaughlin@enron.com, jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "dawn.kenne@enron.com",
+         "line" : 43,
+         "rawfrom" : " Kenne, Dawn  \n",
+         "to" : "Huan, George; McLaughlin, Errol; Gossett, Jeffrey"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 58,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 04/16/2001 05:05 \n",
+         "to" : "George Huan/Enron@EnronXGate, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 78,
+         "rawfrom" : " Kevin Meredith @ ENRON                      \n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/358.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "susan.scott@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 24,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 09/21/20=\r\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 39,
+         "rawfrom" : " Eric Bass                           09/21/2000 08:17 AM\r\n",
+         "to" : "Luis Mena/NA/Enron@Enron, mballases@hotmail.com, Ami=20"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 58,
+         "rawfrom" : "Eric Bass/HOU/ECT on 09/21/2000 08:15 A=\r\n",
+         "to" : "\"Inside UT Football Subscribers\"=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/393.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "mechelle.stevens@enron.com"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 26,
+         "rawfrom" : " Mechelle Stevens @ ECT                           11/03/2000 08:26 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 43,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 56,
+         "rawfrom" : " Dutch Quigley @ ECT                           11/01/2000 03:28 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 70,
+         "rawfrom" : " Mechelle Stevens                           11/01/2000 03:27 PM\n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/627.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "marc.janichen@enron.com"
+      },
+      {
+         "from" : "marc.janichen@enron.com",
+         "line" : 31,
+         "rawfrom" : "Marc Janichen@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "marc.janichen@enron.com",
+         "line" : 52,
+         "rawfrom" : "Marc Janichen/LON/ECT on 30/01/2001 14:02 \n",
+         "to" : "Marc Janichen/LON/ECT@ECT"
+      },
+      {
+         "from" : "rudy.dautel@enron.com",
+         "line" : 64,
+         "rawfrom" : "Rudy Dautel/EU/Enron on 24/01/2001 09:20 \n",
+         "to" : "Rudy Dautel/EU/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/646.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "william.kelly@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 31,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 01/31/2001 \n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      },
+      {
+         "from" : "william.kelly@enron.com",
+         "line" : 51,
+         "rawfrom" : " William Kelly @ ECT                           01/31/2001 03:00 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "wolfmark@cibc.com",
+         "line" : 62,
+         "rawfrom" : "Mark Wolf/ENRON@enronXgate on 01/31/2001 02:23 PM\n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/669.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 26,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 44,
+         "rawfrom" : "Kam Keiser/HOU/ECT on 01/31/2001 07:55 PM \n",
+         "to" : "Kam Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, David"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 60,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/31/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/712.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "tommy.garza@enron.com"
+      },
+      {
+         "from" : "tommy.garza@enron.com",
+         "line" : 29,
+         "rawfrom" : "Tommy Garza/ENRON@enronXgate on 02/14/2001 02:25 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 49,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Tommy Garza/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 63,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 02/13/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/720.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "cecilia.cheung@enron.com"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 28,
+         "rawfrom" : "Cecilia Cheung/ENRON@enronXgate on 01/26/2001 03:48 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 42,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Cheung, Cecilia"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 58,
+         "rawfrom" : "Cecilia Cheung/ENRON@enronXgate on 01/26/2001 11:04 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/737.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shannon.mcpearson@enron.com"
+      },
+      {
+         "from" : "shannon.mcpearson@enron.com",
+         "line" : 31,
+         "rawfrom" : "Shannon McPearson @ ECT                02/21/2001 08:37 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Kori Loibl/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 46,
+         "rawfrom" : " Tracey Irvin                           02/21/2001 07:22 AM\n",
+         "to" : "Shannon McPearson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "nancy.hernandez@enron.com",
+         "line" : 63,
+         "rawfrom" : " Nancy Hernandez @ ENRON                           02/20/2001 02:57 PM\n",
+         "to" : "Debbie R Brackett/HOU/ECT@ECT, John D Powell/HOU/ECT, Ron Nolte/Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/763.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 28,
+         "rawfrom" : " Andrea R Guillen @ ECT                           02/26/2001 10:23 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 47,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 59,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 77,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 94,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/765.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 33,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 53,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 02/26/2001 11:48 \n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 65,
+         "rawfrom" : "Tara Sweitzer/HOU/ECT on 02/26/2001 07:39 \n",
+         "to" : "tara.sweitzer@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 78,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 02/26/2001 \n",
+         "to" : "dawne.c.kenne@enron.com, torrey.moorer@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/785.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "julie.brewer@enron.com"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 26,
+         "rawfrom" : " Julie Brewer                           03/01/2001 09:33 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 45,
+         "rawfrom" : " Julie Brewer                           02/27/2001 04:59 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 61,
+         "rawfrom" : "Julie Brewer/NA/Enron on 02/27/2001 04:58 \n",
+         "to" : "Jason Moore/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jason.moore@enron.com",
+         "line" : 75,
+         "rawfrom" : "Jason Moore@ECT\n",
+         "to" : "Cheryl Johnson/Corp/Enron@Enron, Marilyn Colbert/HOU/ECT@ECT"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 96,
+         "rawfrom" : " Larry Joe Hunter                           02/27/2001 11:14 AM\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT, Bernice Rodriguez/HOU/ECT@ECT, Jason"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 116,
+         "rawfrom" : "Tana Jones on 02/27/2001 09:26 AM\n",
+         "to" : "Laurel Adams/HOU/ECT@ECT, Janie Aguayo/HOU/ECT@ECT, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/786.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "sherry.dawson@enron.com"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 26,
+         "rawfrom" : " Julie Brewer                           03/01/2001 09:33 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 45,
+         "rawfrom" : " Julie Brewer                           02/27/2001 04:59 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 61,
+         "rawfrom" : "Julie Brewer/NA/Enron on 02/27/2001 04:58 \n",
+         "to" : "Jason Moore/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jason.moore@enron.com",
+         "line" : 75,
+         "rawfrom" : "Jason Moore@ECT\n",
+         "to" : "Cheryl Johnson/Corp/Enron@Enron, Marilyn Colbert/HOU/ECT@ECT"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 96,
+         "rawfrom" : " Larry Joe Hunter                           02/27/2001 11:14 AM\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT, Bernice Rodriguez/HOU/ECT@ECT, Jason"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 116,
+         "rawfrom" : "Tana Jones on 02/27/2001 09:26 AM\n",
+         "to" : "Laurel Adams/HOU/ECT@ECT, Janie Aguayo/HOU/ECT@ECT, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/791.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 26,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 37,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 53,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/847.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shirley.mcdowell@enron.com"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 30,
+         "rawfrom" : "Shirley McDowell/ENRON@enronXgate on 03/21/2001 03:20 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 42,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 58,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/856.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dutch.quigley@enron.com"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 31,
+         "rawfrom" : " Dutch Quigley @ ECT                           03/27/2001 07:50 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 50,
+         "rawfrom" : "Dutch Quigley/HOU/ECT on 03/27/2001 07:55 \n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 60,
+         "rawfrom" : "John Arnold/HOU/ECT on 03/26/2001 02:56 \n",
+         "to" : "\"'john.arnold@enron.com'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/90.",
+   "hops" : [
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 4,
+         "rawfrom" : "torrey.moorer@enron.com\r\n",
+         "to" : "jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 54,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Torrey Moorer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 76,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/16/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gregory.carraway@enron.com",
+         "line" : 87,
+         "rawfrom" : "Gregory Carraway/Corp/Enron on 01/16/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/915.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shirley.mcdowell@enron.com"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 29,
+         "rawfrom" : "Shirley McDowell/ENRON@enronXgate on 04/18/2001 03:37 PM\n",
+         "to" : "David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 52,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 66,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 80,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Gossett, Jeffrey; Keiser, Kam; Giron, Darron; Love, Phillip; Baumbach,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/92.",
+   "hops" : [
+      {
+         "from" : "sheri.thomas@enron.com",
+         "line" : 4,
+         "rawfrom" : "sheri.thomas@enron.com\r\n",
+         "to" : "jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 39,
+         "rawfrom" : " Torrey Moorer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 77,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Torrey Moorer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 99,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/16/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gregory.carraway@enron.com",
+         "line" : 110,
+         "rawfrom" : "Gregory Carraway/Corp/Enron on 01/16/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/all_documents/981.",
+   "hops" : [
+      {
+         "from" : "trey.hardy@enron.com",
+         "line" : 4,
+         "rawfrom" : "trey.hardy@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 26,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Hardy, Trey"
+      },
+      {
+         "from" : "trey.hardy@enron.com",
+         "line" : 39,
+         "rawfrom" : "Trey Hardy/ENRON@enronXgate on 05/02/2001 03:08 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jason.r.williams@enron.com",
+         "line" : 55,
+         "rawfrom" : " Williams, Jason R.  \n",
+         "to" : "Hardy, Trey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/110.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "jeremy.wong@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Gossett, Jeffrey C.; McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 106,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 114,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 128,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 162,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 171,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/144.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "s..lim@enron.com"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Gossett, Jeffrey C.; McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 90,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 99,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/157.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "stephen.perich@enron.com, thomas.underwood@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Love, Phillip M.; Palmer, B. Scott; Couch, Greg; McLaughlin Jr., Errol; Gossett, Jeffrey C.; Valdes, John"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "Keiser, Kam; Palmer, B. Scott; Couch, Greg; McLaughlin Jr., Errol; Gossett, Jeffrey C.; Valdes, John"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Love, Phillip M.; Palmer, B. Scott; Couch, Greg; McLaughlin Jr., Errol; Gossett, Jeffrey C.; Valdes, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/207.",
+   "hops" : [
+      {
+         "from" : "dan.thibaut@enron.com",
+         "line" : 4,
+         "rawfrom" : "dan.thibaut@enron.com\r\n",
+         "to" : "tara.sweitzer@enron.com"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSweitzer, Tara  \n",
+         "to" : "Thibaut, Dan; May, Larry"
+      },
+      {
+         "from" : "dan.thibaut@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tThibaut, Dan  \n",
+         "to" : "Sweitzer, Tara"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tSweitzer, Tara  \n",
+         "to" : "Thibaut, Dan"
+      },
+      {
+         "from" : "dan.thibaut@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tThibaut, Dan  \n",
+         "to" : "Sweitzer, Tara"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tSweitzer, Tara  \n",
+         "to" : "May, Larry; Thibaut, Dan; Riordan, Sean; Cheung, Cecilia; Rivera, Oscar"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/216.",
+   "hops" : [
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeremy.wong@enron.com\r\n",
+         "to" : "zimin.lu@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lu, Zimin"
+      },
+      {
+         "from" : "zhiyong.wei@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tWei, Zhiyong  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "zlu@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tLu, Zimin  \n",
+         "to" : "May, Larry; Zhiyong Wei/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/219.",
+   "hops" : [
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeremy.wong@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lu, Zimin"
+      },
+      {
+         "from" : "zhiyong.wei@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tWei, Zhiyong  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "zlu@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tLu, Zimin  \n",
+         "to" : "May, Larry; Zhiyong Wei/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/220.",
+   "hops" : [
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 4,
+         "rawfrom" : "truong.vu@enron.com\r\n",
+         "to" : "richard.cross@enron.com, c..gossett@enron.com, s..lim@enron.com"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=jgosset>",
+         "line" : 112,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>\n",
+         "to" : "Vu, Truong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvu>"
+      },
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 121,
+         "rawfrom" : "\tVu, Truong  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 144,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Vu, Truong"
+      },
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 157,
+         "rawfrom" : "\tVu, Truong  \n",
+         "to" : "Baumbach, David; Bowen, Bob; Brogan, Theresa T.; Brown,"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=rcross>",
+         "line" : 183,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RCROSS>\n",
+         "to" : "Vu, Truong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvu>"
+      },
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 195,
+         "rawfrom" : "\tVu, Truong  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 216,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Rivera, Oscar; Sharma, Shifali"
+      },
+      {
+         "from" : "oscar.rivera@enron.com",
+         "line" : 229,
+         "rawfrom" : "\tRivera, Oscar  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 242,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Rivera, Oscar"
+      },
+      {
+         "from" : "oscar.rivera@enron.com",
+         "line" : 250,
+         "rawfrom" : "\tRivera, Oscar  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 273,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Wong, Jeremy; Rivera, Oscar"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/250.",
+   "hops" : [
+      {
+         "from" : "patrick.ryder@enron.com",
+         "line" : 4,
+         "rawfrom" : "patrick.ryder@enron.com\r\n",
+         "to" : "brad.jones@enron.com, errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "b.palmer@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPalmer, B. Scott  \n",
+         "to" : "Ryder, Patrick"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Keiser, Kam; Winfree, O'Neal D.; Mills, Bruce; Palmer, B. Scott; Love, Phillip M."
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Keiser, Kam; Winfree, O'Neal D.; Mills, Bruce; Palmer, B. Scott; Love, Phillip M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/290.",
+   "hops" : [
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 4,
+         "rawfrom" : "anne.bike@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com, sherry.dawson@enron.com, laura.vargas@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tDiane Anderson  \n",
+         "to" : "Anne Bike"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 58,
+         "rawfrom" : "From:\tAnne Bike/ENRON@enronXgate on 06/20/2001 02:21 PM\n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 102,
+         "rawfrom" : "From:\tMichelle Waldhauser/Enron@EUEnronXGate on 06/20/2001 08:40 AM GDT\n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 116,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Scott, Susan; Waldhauser, Michelle; Walker, Chris; Kenne, Dawn C.; Frank, Carole; Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/360.",
+   "hops" : [
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 4,
+         "rawfrom" : "george.huan@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com, errol.mclaughlin@enron.com, jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "dawn.kenne@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tKenne, Dawn  \n",
+         "to" : "Huan, George; McLaughlin, Errol; Gossett, Jeffrey"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 57,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 04/16/2001 05:05 PM ---------------------------\n",
+         "to" : "George Huan/Enron@EnronXGate, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 75,
+         "rawfrom" : " Kevin Meredith @ ENRON                           04/11/2001 01:53 PM\t\n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/388.",
+   "hops" : [
+      {
+         "from" : "justin.rostant@enron.com",
+         "line" : 4,
+         "rawfrom" : "justin.rostant@enron.com\r\n",
+         "to" : "matthew.olney@enron.com"
+      },
+      {
+         "from" : "matthew.olney@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tOlney, Matthew  \n",
+         "to" : "Rostant, Justin"
+      },
+      {
+         "from" : "justin.rostant@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tRostant, Justin  \n",
+         "to" : "Olney, Matthew"
+      },
+      {
+         "from" : "matthew.olney@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tOlney, Matthew  \n",
+         "to" : "Rostant, Justin"
+      },
+      {
+         "from" : "justin.rostant@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tRostant, Justin  \n",
+         "to" : "McLaughlin Jr., Errol; Olney, Matthew"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/77.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "tracey.irvin@enron.com"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tIrvin, Tracey  \n",
+         "to" : "Gossett, Jeffrey C."
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Irvin, Tracey"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tIrvin, Tracey  \n",
+         "to" : "Rohauer, Tanya"
+      },
+      {
+         "from" : "todd.warwick@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tWarwick, Todd  \n",
+         "to" : "Irvin, Tracey"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 87,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Burnett, Stacey; Reeves, Leslie; Hodges, Georgeanne; Gossett, Jeffrey C."
+      },
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 111,
+         "rawfrom" : "\tShoup, Cynthia  \n",
+         "to" : "Burnett, Stacey"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/deleted_items/99.",
+   "hops" : [
+      {
+         "from" : "patrick.ryder@enron.com",
+         "line" : 4,
+         "rawfrom" : "patrick.ryder@enron.com\r\n",
+         "to" : "joey.taylor@enron.com, c..giron@enron.com, m..love@enron.com,"
+      },
+      {
+         "from" : "joey.taylor@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tTaylor, Joey  \n",
+         "to" : "Giron, Darron C.; Love, Phillip M.; McLaughlin Jr., Errol; Mills, Bruce; Palmer, B. Scott; Ryder, Patrick; Winfree, O'Neal D."
+      },
+      {
+         "from" : "dgiron@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tGiron, Darron C.  \n",
+         "to" : "Love, Phillip M.; McLaughlin Jr., Errol; Mills, Bruce; Palmer, B. Scott; Ryder, Patrick; Taylor, Joey; Winfree, O'Neal D."
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "Giron, Darron C.; McLaughlin Jr., Errol; Mills, Bruce; Palmer, B. Scott; Ryder, Patrick; Taylor, Joey; Winfree, O'Neal D."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/181.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.guillen@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 31,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 61,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 78,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/214.",
+   "hops" : [
+      {
+         "from" : "patrick.mulvany@enron.com",
+         "line" : 4,
+         "rawfrom" : "patrick.mulvany@enron.com\r\n",
+         "to" : "andres.balmaceda@enron.com, anne.bike@enron.com, amy.cavazos@enron.com,"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 30,
+         "rawfrom" : " Ornelas, Bianca  \n",
+         "to" : "Mulvany, Patrick"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 41,
+         "rawfrom" : " Bianca Ornelas                           02/09/2001 09:47 AM\n",
+         "to" : "Anne Bike/Corp/Enron@Enron, Carole Frank/NA/Enron@ENRON, Jason"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 76,
+         "rawfrom" : " Larry Joe Hunter @ ECT                      \n",
+         "to" : "Bianca Ornelas/NA/Enron@Enron"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 90,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Carol St Clair/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT, Susan"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 119,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Carol St Clair/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT, Susan"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 152,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Mark Taylor/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/269.",
+   "hops" : [
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 4,
+         "rawfrom" : "george.huan@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com, errol.mclaughlin@enron.com, jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "dawn.kenne@enron.com",
+         "line" : 43,
+         "rawfrom" : " Kenne, Dawn  \n",
+         "to" : "Huan, George; McLaughlin, Errol; Gossett, Jeffrey"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 58,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 04/16/2001 05:05 \n",
+         "to" : "George Huan/Enron@EnronXGate, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 78,
+         "rawfrom" : " Kevin Meredith @ ENRON                      \n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/330.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "susan.scott@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 24,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 09/21/20=\r\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 39,
+         "rawfrom" : " Eric Bass                           09/21/2000 08:17 AM\r\n",
+         "to" : "Luis Mena/NA/Enron@Enron, mballases@hotmail.com, Ami=20"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 58,
+         "rawfrom" : "Eric Bass/HOU/ECT on 09/21/2000 08:15 A=\r\n",
+         "to" : "\"Inside UT Football Subscribers\"=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/538.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "william.kelly@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 31,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 01/31/2001 \n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      },
+      {
+         "from" : "william.kelly@enron.com",
+         "line" : 51,
+         "rawfrom" : " William Kelly @ ECT                           01/31/2001 03:00 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "wolfmark@cibc.com",
+         "line" : 62,
+         "rawfrom" : "Mark Wolf/ENRON@enronXgate on 01/31/2001 02:23 PM\n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/629.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 28,
+         "rawfrom" : " Andrea R Guillen @ ECT                           02/26/2001 10:23 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 47,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 59,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 77,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 94,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/discussion_threads/811.",
+   "hops" : [
+      {
+         "from" : "trey.hardy@enron.com",
+         "line" : 4,
+         "rawfrom" : "trey.hardy@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 26,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Hardy, Trey"
+      },
+      {
+         "from" : "trey.hardy@enron.com",
+         "line" : 39,
+         "rawfrom" : "Trey Hardy/ENRON@enronXgate on 05/02/2001 03:08 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jason.r.williams@enron.com",
+         "line" : 55,
+         "rawfrom" : " Williams, Jason R.  \n",
+         "to" : "Hardy, Trey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/114.",
+   "hops" : [
+      {
+         "from" : "anne.bike@enron.com",
+         "line" : 4,
+         "rawfrom" : "anne.bike@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com, sherry.dawson@enron.com, laura.vargas@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tDiane Anderson  \n",
+         "to" : "Anne Bike"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 58,
+         "rawfrom" : "From:\tAnne Bike/ENRON@enronXgate on 06/20/2001 02:21 PM\n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Bike, Anne"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 102,
+         "rawfrom" : "From:\tMichelle Waldhauser/Enron@EUEnronXGate on 06/20/2001 08:40 AM GDT\n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 116,
+         "rawfrom" : "\tAnderson, Diane  \n",
+         "to" : "Scott, Susan; Waldhauser, Michelle; Walker, Chris; Kenne, Dawn C.; Frank, Carole; Kuykendall, Tori"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/146.",
+   "hops" : [
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 4,
+         "rawfrom" : "truong.vu@enron.com\r\n",
+         "to" : "richard.cross@enron.com, c..gossett@enron.com, s..lim@enron.com"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=jgosset>",
+         "line" : 112,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>\n",
+         "to" : "Vu, Truong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvu>"
+      },
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 121,
+         "rawfrom" : "\tVu, Truong  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 144,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Vu, Truong"
+      },
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 157,
+         "rawfrom" : "\tVu, Truong  \n",
+         "to" : "Baumbach, David; Bowen, Bob; Brogan, Theresa T.; Brown,"
+      },
+      {
+         "from" : "</o=enron/ou=na/cn=recipients/cn=rcross>",
+         "line" : 183,
+         "rawfrom" : " </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RCROSS>\n",
+         "to" : "Vu, Truong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvu>"
+      },
+      {
+         "from" : "truong.vu@enron.com",
+         "line" : 195,
+         "rawfrom" : "\tVu, Truong  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 216,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Rivera, Oscar; Sharma, Shifali"
+      },
+      {
+         "from" : "oscar.rivera@enron.com",
+         "line" : 229,
+         "rawfrom" : "\tRivera, Oscar  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 242,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Rivera, Oscar"
+      },
+      {
+         "from" : "oscar.rivera@enron.com",
+         "line" : 250,
+         "rawfrom" : "\tRivera, Oscar  \n",
+         "to" : "Cross, Richard"
+      },
+      {
+         "from" : "richard.cross@enron.com",
+         "line" : 273,
+         "rawfrom" : "\tCross, Richard  \n",
+         "to" : "Wong, Jeremy; Rivera, Oscar"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/150.",
+   "hops" : [
+      {
+         "from" : "dan.thibaut@enron.com",
+         "line" : 4,
+         "rawfrom" : "dan.thibaut@enron.com\r\n",
+         "to" : "tara.sweitzer@enron.com"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSweitzer, Tara  \n",
+         "to" : "Thibaut, Dan; May, Larry"
+      },
+      {
+         "from" : "dan.thibaut@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tThibaut, Dan  \n",
+         "to" : "Sweitzer, Tara"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tSweitzer, Tara  \n",
+         "to" : "Thibaut, Dan"
+      },
+      {
+         "from" : "dan.thibaut@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tThibaut, Dan  \n",
+         "to" : "Sweitzer, Tara"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 81,
+         "rawfrom" : "\tSweitzer, Tara  \n",
+         "to" : "May, Larry; Thibaut, Dan; Riordan, Sean; Cheung, Cecilia; Rivera, Oscar"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/157.",
+   "hops" : [
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeremy.wong@enron.com\r\n",
+         "to" : "zimin.lu@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lu, Zimin"
+      },
+      {
+         "from" : "zhiyong.wei@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tWei, Zhiyong  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "zlu@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tLu, Zimin  \n",
+         "to" : "May, Larry; Zhiyong Wei/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/158.",
+   "hops" : [
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeremy.wong@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lu, Zimin"
+      },
+      {
+         "from" : "zhiyong.wei@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tWei, Zhiyong  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "zlu@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tLu, Zimin  \n",
+         "to" : "May, Larry; Zhiyong Wei/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/35.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 4,
+         "rawfrom" : "andrea.guillen@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 31,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 61,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 78,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/48.",
+   "hops" : [
+      {
+         "from" : "patrick.mulvany@enron.com",
+         "line" : 4,
+         "rawfrom" : "patrick.mulvany@enron.com\r\n",
+         "to" : "andres.balmaceda@enron.com, anne.bike@enron.com, amy.cavazos@enron.com,"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 30,
+         "rawfrom" : " Ornelas, Bianca  \n",
+         "to" : "Mulvany, Patrick"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 41,
+         "rawfrom" : " Bianca Ornelas                           02/09/2001 09:47 AM\n",
+         "to" : "Anne Bike/Corp/Enron@Enron, Carole Frank/NA/Enron@ENRON, Jason"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 76,
+         "rawfrom" : " Larry Joe Hunter @ ECT                      \n",
+         "to" : "Bianca Ornelas/NA/Enron@Enron"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 90,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Carol St Clair/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT, Susan"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 119,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Carol St Clair/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT, Susan"
+      },
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 152,
+         "rawfrom" : " Russell Diamond                                                      \n",
+         "to" : "Mark Taylor/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Tana Jones/HOU/ECT@ECT,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/66.",
+   "hops" : [
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 4,
+         "rawfrom" : "mechelle.stevens@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 24,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Mechelle Stevens/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 41,
+         "rawfrom" : " Mechelle Stevens @ ECT                           03/26/2001 08:35 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 60,
+         "rawfrom" : " Mechelle Stevens                           03/20/2001 11:03 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/78.",
+   "hops" : [
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 4,
+         "rawfrom" : "george.huan@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com, errol.mclaughlin@enron.com, jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "dawn.kenne@enron.com",
+         "line" : 43,
+         "rawfrom" : " Kenne, Dawn  \n",
+         "to" : "Huan, George; McLaughlin, Errol; Gossett, Jeffrey"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 58,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 04/16/2001 05:05 \n",
+         "to" : "George Huan/Enron@EnronXGate, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 78,
+         "rawfrom" : " Kevin Meredith @ ENRON                      \n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/eol___tagg/90.",
+   "hops" : [
+      {
+         "from" : "george.huan@enron.com",
+         "line" : 4,
+         "rawfrom" : "george.huan@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com, errol.mclaughlin@enron.com, jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "dawn.kenne@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tKenne, Dawn  \n",
+         "to" : "Huan, George; McLaughlin, Errol; Gossett, Jeffrey"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 57,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 04/16/2001 05:05 PM ---------------------------\n",
+         "to" : "George Huan/Enron@EnronXGate, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 75,
+         "rawfrom" : " Kevin Meredith @ ENRON                           04/11/2001 01:53 PM\t\n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/gossett/15.",
+   "hops" : [
+      {
+         "from" : "c..gossett@enron.com",
+         "line" : 4,
+         "rawfrom" : "c..gossett@enron.com\r\n",
+         "to" : "david.baumbach@enron.com, anne.bike@enron.com, kam.keiser@enron.com,"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tGlover, Sheila  \n",
+         "to" : "Sweeney, Kevin; Gossett, Jeffrey C.; Hall, D. Todd"
+      },
+      {
+         "from" : "sheila.glover@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tGlover, Sheila  \n",
+         "to" : "Sweeney, Kevin; Gossett, Jeffrey C.; Hall, D. Todd"
+      },
+      {
+         "from" : "karima.husain@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tHusain, Karima  \n",
+         "to" : "Glover, Sheila; Abel, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/gossett/4.",
+   "hops" : [
+      {
+         "from" : "c..gossett@enron.com",
+         "line" : 4,
+         "rawfrom" : "c..gossett@enron.com\r\n",
+         "to" : "shona.wilson@enron.com"
+      },
+      {
+         "from" : "shona.wilson@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWilson, Shona  \n",
+         "to" : "Gossett, Jeffrey C."
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "Wilson, Shona"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tGossett, Jeffrey C.  \n",
+         "to" : "Thibodeaux, Kenneth"
+      },
+      {
+         "from" : "kenneth.thibodeaux@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tThibodeaux, Kenneth  \n",
+         "to" : "Gossett, Jeffrey C."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/gossett/57.",
+   "hops" : [
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 4,
+         "rawfrom" : "torrey.moorer@enron.com\r\n",
+         "to" : "jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 54,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Torrey Moorer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 76,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/16/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gregory.carraway@enron.com",
+         "line" : 87,
+         "rawfrom" : "Gregory Carraway/Corp/Enron on 01/16/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/gossett/59.",
+   "hops" : [
+      {
+         "from" : "sheri.thomas@enron.com",
+         "line" : 4,
+         "rawfrom" : "sheri.thomas@enron.com\r\n",
+         "to" : "jeffrey.gossett@enron.com"
+      },
+      {
+         "from" : "torrey.moorer@enron.com",
+         "line" : 39,
+         "rawfrom" : " Torrey Moorer                                                          \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 77,
+         "rawfrom" : "Jeffrey C Gossett\n",
+         "to" : "Torrey Moorer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 99,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/16/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gregory.carraway@enron.com",
+         "line" : 110,
+         "rawfrom" : "Gregory Carraway/Corp/Enron on 01/16/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/122.",
+   "hops" : [
+      {
+         "from" : "shona.wilson@enron.com",
+         "line" : 4,
+         "rawfrom" : "shona.wilson@enron.com\r\n",
+         "to" : "m..love@enron.com, kam.keiser@enron.com, d..winfree@enron.com,"
+      },
+      {
+         "from" : "susan.trevino@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tTrevino, Susan  \n",
+         "to" : "Wilson, Shona; Abel, Chris; Ayala, Susie"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "Keiser, Kam; Trevino, Susan"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Trevino, Susan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/132.",
+   "hops" : [
+      {
+         "from" : "s..lim@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..lim@enron.com\r\n",
+         "to" : "c..gossett@enron.com, errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/16.",
+   "hops" : [
+      {
+         "from" : "tom.engel@enron.com",
+         "line" : 4,
+         "rawfrom" : "tom.engel@enron.com\r\n",
+         "to" : "m..smith@enron.com, a..allen@enron.com, susan.amador@enron.com,"
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 68,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; ="
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 105,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; ="
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 205,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Johnson, Jeff"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/161.",
+   "hops" : [
+      {
+         "from" : "s..lim@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..lim@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com, c..gossett@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 90,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 99,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/201.",
+   "hops" : [
+      {
+         "from" : "kenneth.thibodeaux@enron.com",
+         "line" : 4,
+         "rawfrom" : "kenneth.thibodeaux@enron.com\r\n",
+         "to" : "nancy.hernandez@enron.com, karima.husain@enron.com, hal.mckinney@enron.com,"
+      },
+      {
+         "from" : "nancy.hernandez@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tHernandez, Nancy  \n",
+         "to" : "Husain, Karima; McKinney, Hal; Abel, Chris; Wilson, Shona; Luong, Anita; Thibodeaux, Kenneth; Allison, John; Trevino, Susan; Schultz, Cassandra; Adams, Aaron; McClure, Zakia; Ramesh, Ganapathy; Considine, Keith; Lim, Francis S.; Prejean, Frank; Bruce, Michelle; McLaughlin Jr., Errol; McDowell, Shirley; Scott, Susan M.; Couch, Greg; Barrington, Paul; Johnson, Luchas; Quigley, Dutch; Schulte, Vanessa; Wang, Huei-Ying; Jones, Brad; Shea, Alex; Brewer, Charles"
+      },
+      {
+         "from" : "karima.husain@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tHusain, Karima  \n",
+         "to" : "McKinney, Hal; Abel, Chris; Wilson, Shona; Luong, Anita; Thibodeaux, Kenneth; Allison, John; Trevino, Susan; Hernandez, Nancy; Schultz, Cassandra; Adams, Aaron; McClure, Zakia; Ramesh, Ganapathy; Considine, Keith; Lim, Francis S.; Prejean, Frank; Bruce, Michelle; McLaughlin Jr., Errol; McDowell, Shirley; Scott, Susan M.; Couch, Greg; Barrington, Paul; Johnson, Luchas; Quigley, Dutch; Schulte, Vanessa; Wang, Huei-Ying; Jones, Brad; Shea, Alex; Brewer, Charles"
+      },
+      {
+         "from" : "hal.mckinney@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tMcKinney, Hal  \n",
+         "to" : "Abel, Chris; Wilson, Shona; Luong, Anita; Thibodeaux, Kenneth; Allison, John; Trevino, Susan; Hernandez, Nancy; Schultz, Cassandra; Adams, Aaron; McClure, Zakia; Ramesh, Ganapathy; Considine, Keith; Lim, Francis S.; Husain, Karima; Prejean, Frank; Bruce, Michelle; McLaughlin Jr., Errol; McDowell, Shirley; Scott, Susan M.; Couch, Greg; Barrington, Paul; Johnson, Luchas; Quigley, Dutch; Schulte, Vanessa; Wang, Huei-Ying; Jones, Brad; Shea, Alex; Brewer, Charles"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/214.",
+   "hops" : [
+      {
+         "from" : "meliza.evanson@enron.com",
+         "line" : 4,
+         "rawfrom" : "meliza.evanson@enron.com\r\n",
+         "to" : "amanda.quiller@enron.com, errol.mclaughlin@enron.com,"
+      },
+      {
+         "from" : "elberg.gelin@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGelin, Elberg  \n",
+         "to" : "Evanson, Meliza"
+      },
+      {
+         "from" : "kimberly.shoaf@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tShoaf, Kimberly  \n",
+         "to" : "Reese, Jeanette C.; Hopley, George; Alston, Cassandra; Tellis, Claude; Gelin, Elberg; Bryce, Samantha; Yowman, Andrea; Sterling, Jevaughn; Cobb Jr., John; Brown, Daniel; Greenlee, Debny; Paige, Barbara; Reese, Mark; Hudson, L'Sheryl; Frazier, Lamar; Davis, Tracy; Poulson, Marc; Franklin II, Clifton; Schaffer, Brian; Adams, Erica; Samuel, Brent"
+      },
+      {
+         "from" : "tamika.hebert@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tHebert, Tamika  \n",
+         "to" : "Shoaf, Kimberly; McDaniel, Kirk; Kimble, Stephanie; Hamb, Edward; Hatch, Tyrone; Davis, Natasha; Alexander, Kim D; Tellis, Claude; Ross, Derrick; Mcclure, Mark; Wynne, Rita; Dillingham, Geynille; Bellard, Lyelle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/223.",
+   "hops" : [
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 4,
+         "rawfrom" : "cecilia.cheung@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tCheung, Cecilia  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tCheung, Cecilia  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 91,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Cheung, Cecilia"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/26.",
+   "hops" : [
+      {
+         "from" : "susan.elledge@enron.com",
+         "line" : 4,
+         "rawfrom" : "susan.elledge@enron.com\r\n",
+         "to" : "m..smith@enron.com, a..allen@enron.com, susan.amador@enron.com,"
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 79,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; ="
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 148,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Anastas, Sherry; Anderson, Bridgette; Aucoin, Evelyn; Baxter, Bryce; Be="
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 193,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/27.",
+   "hops" : [
+      {
+         "from" : "l..denton@enron.com",
+         "line" : 4,
+         "rawfrom" : "l..denton@enron.com\r\n",
+         "to" : "m..smith@enron.com, a..allen@enron.com, susan.amador@enron.com,"
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 65,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; ="
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 133,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Anastas, Sherry; Anderson, Bridgette; Aucoin, Evelyn; Baxter, Bryce; Be="
+      },
+      {
+         "from" : "regan.smith@enron.com",
+         "line" : 178,
+         "rawfrom" : "Smith, Regan M.=20\r\n",
+         "to" : "Allen, Thresa A.; Amador, Susan; Anastas, Sherry; Anderson, Bridgette; ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/29.",
+   "hops" : [
+      {
+         "from" : "d..winfree@enron.com",
+         "line" : 4,
+         "rawfrom" : "d..winfree@enron.com\r\n",
+         "to" : "kam.keiser@enron.com, c..giron@enron.com, m..love@enron.com,"
+      },
+      {
+         "from" : "=09qavi, faheem =20",
+         "line" : 24,
+         "rawfrom" : "=09Qavi, Faheem =20\r\n",
+         "to" : "=09Winfree, O'Neal D."
+      },
+      {
+         "from" : "=09martinez, bob =20",
+         "line" : 44,
+         "rawfrom" : "=09Martinez, Bob =20\r\n",
+         "to" : "=09Adamik, Darren; Andrews, Stephen; Ballmer, Charles; Barber, Michael; ="
+      },
+      {
+         "from" : "=09henry, jane hilburn =20",
+         "line" : 68,
+         "rawfrom" : "=09Henry, Jane Hilburn =20\r\n",
+         "to" : "=09Stock, Steve; Johnson, Jeff; Schomer, Chris; Smith, Regan M.; Ballmer="
+      },
+      {
+         "from" : "=09henry, jane hilburn =20",
+         "line" : 101,
+         "rawfrom" : "=09Henry, Jane Hilburn =20\r\n",
+         "to" : "=09Stock, Steve; Johnson, Jeff; Schomer, Chris; Smith, Regan M.; Ballmer="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/399.",
+   "hops" : [
+      {
+         "from" : "derek.bailey@enron.com",
+         "line" : 4,
+         "rawfrom" : "derek.bailey@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "marcus.edmonds@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tEdmonds, Marcus  \n",
+         "to" : "Bailey, Derek"
+      },
+      {
+         "from" : "robert.cothran@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCothran, Robert  \n",
+         "to" : "Edmonds, Marcus; Garberding, Michael"
+      },
+      {
+         "from" : "marcus.edmonds@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tEdmonds, Marcus  \n",
+         "to" : "Bailey, Derek; Harris, Kim"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/423.",
+   "hops" : [
+      {
+         "from" : "joey.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "joey.taylor@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Taylor, Joey; Rostant, Justin"
+      },
+      {
+         "from" : "joey.taylor@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tTaylor, Joey  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "justin.rostant@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tRostant, Justin  \n",
+         "to" : "Taylor, Joey"
+      },
+      {
+         "from" : "joey.taylor@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tTaylor, Joey  \n",
+         "to" : "Rostant, Justin"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Taylor, Joey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/433.",
+   "hops" : [
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 4,
+         "rawfrom" : "bianca.ornelas@enron.com\r\n",
+         "to" : "kori.loibl@enron.com"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 29,
+         "rawfrom" : "Stevens, Mechelle \n",
+         "to" : "Ornelas, Bianca"
+      },
+      {
+         "from" : "bianca.ornelas@enron.com",
+         "line" : 39,
+         "rawfrom" : "Ornelas, Bianca \n",
+         "to" : "Loibl, Kori"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 54,
+         "rawfrom" : "Anderson, Diane \n",
+         "to" : "Ornelas, Bianca"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 64,
+         "rawfrom" : "Stevens, Mechelle \n",
+         "to" : "Anderson, Diane"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/435.",
+   "hops" : [
+      {
+         "from" : "elizabeth.soto@enron.com",
+         "line" : 4,
+         "rawfrom" : "elizabeth.soto@enron.com\r\n",
+         "to" : "michelle.akers@enron.com, derek.bailey@enron.com, david.baumbach@enron.com,"
+      },
+      {
+         "from" : "heather.choate@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tChoate, Heather  \n",
+         "to" : "Romero, Araceli; Soto, Elizabeth; Gonzales, Alexander R.; Saldana, Alex; Jackson, Brandee; Hennessy, Sonia; Showers, Digna"
+      },
+      {
+         "from" : "christa.winfrey@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tWinfrey, Christa  \n",
+         "to" : "Tijerina, Shirley; Hogan, Irena D.; Solis, Melissa; Bates, Kimberly; Harvey, Claudette; Black, Tamara Jae; Coleman, Venita; Rode, Tina; Holcombe, Tina ; Clyatt, Julie; Roberts, Chaun; Vuittonet, Laura; Jones, Melissa; Rangel, Ina; Presas, Jessica; Salinas, Michael; Collins, Angie; Finnels-Neal, La Donna; Snow, Dina; Villarreal, Alexandra; Young, Becky; Irvine, Geraldine; Rybarski, Amanda; Choate, Heather; Chapman, Christy; Leigh, Lorie; Zarsky, Lisa; Gordon, D'ann; Butler, Shelly; Noske, Linda J."
+      },
+      {
+         "from" : "tammy.shepperd@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tShepperd, Tammy R.  \n",
+         "to" : "Tijerina, Shirley; Hogan, Irena D.; Solis, Melissa; Bates, Kimberly; Harvey, Claudette; Black, Tamara Jae; Coleman, Venita; Rode, Tina; Holcombe, Tina ; Clyatt, Julie; Roberts, Chaun; Vuittonet, Laura; Jones, Melissa; Rangel, Ina; Presas, Jessica; Salinas, Michael; Collins, Angie; Finnels-Neal, La Donna; Snow, Dina; Villarreal, Alexandra; Young, Becky; Irvine, Geraldine; Rybarski, Amanda; Choate, Heather; Chapman, Christy; Leigh, Lorie; Zarsky, Lisa; Gordon, D'ann; Butler, Shelly; Noske, Linda J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/436.",
+   "hops" : [
+      {
+         "from" : "m..love@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..love@enron.com\r\n",
+         "to" : "kam.keiser@enron.com, errol.mclaughlin@enron.com, d..winfree@enron.com,"
+      },
+      {
+         "from" : "bruce.mills@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tMills, Bruce  \n",
+         "to" : "Love, Phillip M."
+      },
+      {
+         "from" : "jason.williams@enron.net",
+         "line" : 31,
+         "rawfrom" : "\tWilliams, Jason (Trading)  \n",
+         "to" : "Mills, Bruce"
+      },
+      {
+         "from" : "patrick.tucker@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tTucker, Patrick  \n",
+         "to" : "Pollan, Sylvia S.; Culotta, Lindsay; Murrell, Russell E; Plachy, Denver; Cuilla, Martin; Storey, Geoff; Yawapongsiri, Virawan; Mahmassani, Souad; Donohoe, Tom; Ruscitti, Kevin; Shively, Hunter S.; Lewis, Andrew H.; Giron, Darron C.; Frihart, Bryant; Roberts, Linda; Luce, Laura; Hogan, Irena D.; Vickers, Frank; Williams, Jason (Trading); Mims, Patrice L.; Simpson, James; Hodge, John; Keavey, Peter F.; Mckay, Brad; Mckay, Jonathan; Pereira, Susan W.; Pimenov, Vladi; Ring, Andrea; Savvas, Leonidas; Townsend, Judy; Versen, Victoria; Barbe, Robin; Concannon, Ruth; Goodell, Scott; Jones, David; Kaiser, Jared; Loving, Scott; Bates, Kimberly; Muhl, Gil; Smith, Maureen; Smith, Shauywn; Taylor, Craig; Willis, Jim; Tucker, Patrick; McCaffrey, Deirdre; Penman, Gregg; Kinsey, Lisa; Brady, Kevin; Pendergrass, Cora"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/66.",
+   "hops" : [
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 4,
+         "rawfrom" : "cecilia.cheung@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Cheung, Cecilia"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tCheung, Cecilia  \n",
+         "to" : "Keiser, Kam"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tCheung, Cecilia  \n",
+         "to" : "Keiser, Kam; Wong, Jeremy"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Cheung, Cecilia; Wong, Jeremy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/74.",
+   "hops" : [
+      {
+         "from" : "c..gossett@enron.com",
+         "line" : 4,
+         "rawfrom" : "c..gossett@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tIrvin, Tracey  \n",
+         "to" : "Gossett, Jeffrey C."
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Irvin, Tracey"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tIrvin, Tracey  \n",
+         "to" : "Rohauer, Tanya"
+      },
+      {
+         "from" : "todd.warwick@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tWarwick, Todd  \n",
+         "to" : "Irvin, Tracey"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 79,
+         "rawfrom" : "\tRohauer, Tanya  \n",
+         "to" : "Burnett, Stacey; Reeves, Leslie; Hodges, Georgeanne; Gossett, Jeffrey C."
+      },
+      {
+         "from" : "cynthia.shoup@enron.com",
+         "line" : 103,
+         "rawfrom" : "\tShoup, Cynthia  \n",
+         "to" : "Burnett, Stacey"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/94.",
+   "hops" : [
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeremy.wong@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 84,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 106,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Gossett, Jeffrey C.; McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 116,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 124,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 138,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 172,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 181,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/inbox/99.",
+   "hops" : [
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeremy.wong@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Wong, Jeremy"
+      },
+      {
+         "from" : "francis.lim@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tLim, Francis S.  \n",
+         "to" : "Gossett, Jeffrey C.; McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 99,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 107,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 121,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 155,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      },
+      {
+         "from" : "jeremy.wong@enron.com",
+         "line" : 164,
+         "rawfrom" : "\tWong, Jeremy  \n",
+         "to" : "Lim, Francis S."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/notes_inbox/46.",
+   "hops" : [
+      {
+         "from" : "trey.hardy@enron.com",
+         "line" : 4,
+         "rawfrom" : "trey.hardy@enron.com\r\n",
+         "to" : "errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 26,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Hardy, Trey"
+      },
+      {
+         "from" : "trey.hardy@enron.com",
+         "line" : 39,
+         "rawfrom" : "Trey Hardy/ENRON@enronXgate on 05/02/2001 03:08 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "jason.r.williams@enron.com",
+         "line" : 55,
+         "rawfrom" : " Williams, Jason R.  \n",
+         "to" : "Hardy, Trey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/prepays_structured_deals/7.",
+   "hops" : [
+      {
+         "from" : "patrick.ryder@enron.com",
+         "line" : 4,
+         "rawfrom" : "patrick.ryder@enron.com\r\n",
+         "to" : "brad.jones@enron.com, errol.mclaughlin@enron.com"
+      },
+      {
+         "from" : "b.palmer@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPalmer, B. Scott  \n",
+         "to" : "Ryder, Patrick"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Keiser, Kam; Winfree, O'Neal D.; Mills, Bruce; Palmer, B. Scott; Love, Phillip M."
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Keiser, Kam; Winfree, O'Neal D.; Mills, Bruce; Palmer, B. Scott; Love, Phillip M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/134.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "marc.janichen@enron.com"
+      },
+      {
+         "from" : "marc.janichen@enron.com",
+         "line" : 31,
+         "rawfrom" : "Marc Janichen@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "marc.janichen@enron.com",
+         "line" : 52,
+         "rawfrom" : "Marc Janichen/LON/ECT on 30/01/2001 14:02 \n",
+         "to" : "Marc Janichen/LON/ECT@ECT"
+      },
+      {
+         "from" : "rudy.dautel@enron.com",
+         "line" : 64,
+         "rawfrom" : "Rudy Dautel/EU/Enron on 24/01/2001 09:20 \n",
+         "to" : "Rudy Dautel/EU/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/146.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "william.kelly@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 31,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 01/31/2001 \n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      },
+      {
+         "from" : "william.kelly@enron.com",
+         "line" : 51,
+         "rawfrom" : " William Kelly @ ECT                           01/31/2001 03:00 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "wolfmark@cibc.com",
+         "line" : 62,
+         "rawfrom" : "Mark Wolf/ENRON@enronXgate on 01/31/2001 02:23 PM\n",
+         "to" : "William Kelly/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/153.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 26,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 44,
+         "rawfrom" : "Kam Keiser/HOU/ECT on 01/31/2001 07:55 PM \n",
+         "to" : "Kam Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, David"
+      },
+      {
+         "from" : "jeffrey_c_gossett@enron.com",
+         "line" : 60,
+         "rawfrom" : "Jeffrey C Gossett/HOU/ECT on 01/31/2001 \n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/178.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "tommy.garza@enron.com"
+      },
+      {
+         "from" : "tommy.garza@enron.com",
+         "line" : 29,
+         "rawfrom" : "Tommy Garza/ENRON@enronXgate on 02/14/2001 02:25 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 49,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Tommy Garza/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 63,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 02/13/2001 \n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/182.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "cecilia.cheung@enron.com"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 28,
+         "rawfrom" : "Cecilia Cheung/ENRON@enronXgate on 01/26/2001 03:48 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 42,
+         "rawfrom" : " McLaughlin, Errol  \n",
+         "to" : "Cheung, Cecilia"
+      },
+      {
+         "from" : "cecilia.cheung@enron.com",
+         "line" : 58,
+         "rawfrom" : "Cecilia Cheung/ENRON@enronXgate on 01/26/2001 11:04 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/191.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shannon.mcpearson@enron.com"
+      },
+      {
+         "from" : "shannon.mcpearson@enron.com",
+         "line" : 31,
+         "rawfrom" : "Shannon McPearson @ ECT                02/21/2001 08:37 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Kori Loibl/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tracey.irvin@enron.com",
+         "line" : 46,
+         "rawfrom" : " Tracey Irvin                           02/21/2001 07:22 AM\n",
+         "to" : "Shannon McPearson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "nancy.hernandez@enron.com",
+         "line" : 63,
+         "rawfrom" : " Nancy Hernandez @ ENRON                           02/20/2001 02:57 PM\n",
+         "to" : "Debbie R Brackett/HOU/ECT@ECT, John D Powell/HOU/ECT, Ron Nolte/Enron,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/20.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "susan.scott@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 24,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 09/21/20=\r\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 39,
+         "rawfrom" : " Eric Bass                           09/21/2000 08:17 AM\r\n",
+         "to" : "Luis Mena/NA/Enron@Enron, mballases@hotmail.com, Ami=20"
+      },
+      {
+         "from" : "eric_bass@enron.com",
+         "line" : 58,
+         "rawfrom" : "Eric Bass/HOU/ECT on 09/21/2000 08:15 A=\r\n",
+         "to" : "\"Inside UT Football Subscribers\"=20"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/206.",
+   "hops" : [
+      {
+         "from" : "andrea.guillen@enron.com",
+         "line" : 28,
+         "rawfrom" : " Andrea R Guillen @ ECT                           02/26/2001 10:23 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 47,
+         "rawfrom" : " Diane Anderson @ ENRON                           02/26/2001 08:46 AM\n",
+         "to" : "Andrea R Guillen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 59,
+         "rawfrom" : "Diane Anderson/NA/Enron on 02/26/2001 \n",
+         "to" : "Diane Anderson/NA/Enron@Enron"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 77,
+         "rawfrom" : " Diane Anderson                           02/09/2001 09:12 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "diane.anderson@enron.com",
+         "line" : 94,
+         "rawfrom" : " Diane Anderson                           02/07/2001 10:34 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON, Sherry Dawson/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/208.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 33,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 53,
+         "rawfrom" : "Dawn C Kenne/HOU/ECT on 02/26/2001 11:48 \n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tara.sweitzer@enron.com",
+         "line" : 65,
+         "rawfrom" : "Tara Sweitzer/HOU/ECT on 02/26/2001 07:39 \n",
+         "to" : "tara.sweitzer@enron.com"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 78,
+         "rawfrom" : "Errol McLaughlin/Corp/Enron on 02/26/2001 \n",
+         "to" : "dawne.c.kenne@enron.com, torrey.moorer@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/217.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "julie.brewer@enron.com"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 26,
+         "rawfrom" : " Julie Brewer                           03/01/2001 09:33 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 45,
+         "rawfrom" : " Julie Brewer                           02/27/2001 04:59 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 61,
+         "rawfrom" : "Julie Brewer/NA/Enron on 02/27/2001 04:58 \n",
+         "to" : "Jason Moore/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jason.moore@enron.com",
+         "line" : 75,
+         "rawfrom" : "Jason Moore@ECT\n",
+         "to" : "Cheryl Johnson/Corp/Enron@Enron, Marilyn Colbert/HOU/ECT@ECT"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 96,
+         "rawfrom" : " Larry Joe Hunter                           02/27/2001 11:14 AM\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT, Bernice Rodriguez/HOU/ECT@ECT, Jason"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 116,
+         "rawfrom" : "Tana Jones on 02/27/2001 09:26 AM\n",
+         "to" : "Laurel Adams/HOU/ECT@ECT, Janie Aguayo/HOU/ECT@ECT, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/218.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "sherry.dawson@enron.com"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 26,
+         "rawfrom" : " Julie Brewer                           03/01/2001 09:33 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 45,
+         "rawfrom" : " Julie Brewer                           02/27/2001 04:59 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "julie.brewer@enron.com",
+         "line" : 61,
+         "rawfrom" : "Julie Brewer/NA/Enron on 02/27/2001 04:58 \n",
+         "to" : "Jason Moore/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jason.moore@enron.com",
+         "line" : 75,
+         "rawfrom" : "Jason Moore@ECT\n",
+         "to" : "Cheryl Johnson/Corp/Enron@Enron, Marilyn Colbert/HOU/ECT@ECT"
+      },
+      {
+         "from" : "larry.joe.hunter@enron.com",
+         "line" : 96,
+         "rawfrom" : " Larry Joe Hunter                           02/27/2001 11:14 AM\n",
+         "to" : "Samuel Schott/HOU/ECT@ECT, Bernice Rodriguez/HOU/ECT@ECT, Jason"
+      },
+      {
+         "from" : "tjones3@ect.enron.com",
+         "line" : 116,
+         "rawfrom" : "Tana Jones on 02/27/2001 09:26 AM\n",
+         "to" : "Laurel Adams/HOU/ECT@ECT, Janie Aguayo/HOU/ECT@ECT, Kimberly"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/222.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dawn.kenne@enron.com"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 26,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 37,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Dawn C Kenne/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dawn.c.kenne@enron.com",
+         "line" : 53,
+         "rawfrom" : "Dawn C Kenne@ECT\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/239.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shirley.mcdowell@enron.com"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 30,
+         "rawfrom" : "Shirley McDowell/ENRON@enronXgate on 03/21/2001 03:20 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 42,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 58,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/244.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "dutch.quigley@enron.com"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 31,
+         "rawfrom" : " Dutch Quigley @ ECT                           03/27/2001 07:50 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 50,
+         "rawfrom" : "Dutch Quigley/HOU/ECT on 03/27/2001 07:55 \n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 60,
+         "rawfrom" : "John Arnold/HOU/ECT on 03/26/2001 02:56 \n",
+         "to" : "\"'john.arnold@enron.com'\" <john.arnold@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/263.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "shirley.mcdowell@enron.com"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 29,
+         "rawfrom" : "Shirley McDowell/ENRON@enronXgate on 04/18/2001 03:37 PM\n",
+         "to" : "David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 52,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 66,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Keiser, Kam; Giron, Darron; Baumbach, David; McLaughlin, Errol"
+      },
+      {
+         "from" : "shirley.mcdowell@enron.com",
+         "line" : 80,
+         "rawfrom" : " McDowell, Shirley  \n",
+         "to" : "Gossett, Jeffrey; Keiser, Kam; Giron, Darron; Love, Phillip; Baumbach,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent/41.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "mechelle.stevens@enron.com"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 26,
+         "rawfrom" : " Mechelle Stevens @ ECT                           11/03/2000 08:26 AM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 43,
+         "rawfrom" : "Errol McLaughlin@ENRON\n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dutch.quigley@ubswenergy.com",
+         "line" : 56,
+         "rawfrom" : " Dutch Quigley @ ECT                           11/01/2000 03:28 PM\n",
+         "to" : "Errol McLaughlin/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "mechelle.stevens@enron.com",
+         "line" : 70,
+         "rawfrom" : " Mechelle Stevens                           11/01/2000 03:27 PM\n",
+         "to" : "Dutch Quigley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/108.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "joey.taylor@enron.com"
+      },
+      {
+         "from" : "=09soto, elizabeth =20",
+         "line" : 22,
+         "rawfrom" : "=09Soto, Elizabeth =20\r\n",
+         "to" : "=09Akers, Michelle; Bailey, Derek; Baumbach, David; Bhatia, Randy; Bike,="
+      },
+      {
+         "from" : "=09choate, heather =20",
+         "line" : 44,
+         "rawfrom" : "=09Choate, Heather =20\r\n",
+         "to" : "=09Romero, Araceli; Soto, Elizabeth; Gonzales, Alexander R.; Saldana, Al="
+      },
+      {
+         "from" : "=09winfrey, christa =20",
+         "line" : 52,
+         "rawfrom" : "=09Winfrey, Christa =20\r\n",
+         "to" : "=09Tijerina, Shirley; Hogan, Irena D.; Solis, Melissa; Bates, Kimberly; ="
+      },
+      {
+         "from" : "=09shepperd, tammy r. =20",
+         "line" : 81,
+         "rawfrom" : "=09Shepperd, Tammy R. =20\r\n",
+         "to" : "=09Tijerina, Shirley; Hogan, Irena D.; Solis, Melissa; Bates, Kimberly; ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/11.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "stephen.perich@enron.com, thomas.underwood@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Love, Phillip M.; Palmer, B. Scott; Couch, Greg; McLaughlin Jr., Errol; Gossett, Jeffrey C.; Valdes, John"
+      },
+      {
+         "from" : "phillip.m.love@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tLove, Phillip M.  \n",
+         "to" : "Keiser, Kam; Palmer, B. Scott; Couch, Greg; McLaughlin Jr., Errol; Gossett, Jeffrey C.; Valdes, John"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Love, Phillip M.; Palmer, B. Scott; Couch, Greg; McLaughlin Jr., Errol; Gossett, Jeffrey C.; Valdes, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/121.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "amy.cavazos@enron.com"
+      },
+      {
+         "from" : "matthew.olney@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tOlney, Matthew  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "stephanie.hopkins@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tHopkins, Stephanie  \n",
+         "to" : "Rabon, Chance; Olney, Matthew"
+      },
+      {
+         "from" : "sladana-anna.kulic@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tKulic, Sladana-Anna  \n",
+         "to" : "Hopkins, Stephanie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "brad.jones@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Gossett, Jeffrey C.; Keiser, Kam"
+      },
+      {
+         "from" : "winston.jia@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tJia, Winston  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Jia, Winston"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/51.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "kam.keiser@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Gossett, Jeffrey C.; Keiser, Kam"
+      },
+      {
+         "from" : "winston.jia@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tJia, Winston  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Jia, Winston"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/68.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "jeff.royed@enron.com"
+      },
+      {
+         "from" : "jroyed@ev1.net",
+         "line" : 22,
+         "rawfrom" : "\tRoyed, Jeff  \n",
+         "to" : "Taylor, Joey; Olney, Matthew; McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Royed, Jeff"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tBreese, Mark  \n",
+         "to" : "Keiser, Kam"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/mclaughlin-e/sent_items/71.",
+   "hops" : [
+      {
+         "from" : "errol.mclaughlin@enron.com",
+         "line" : 4,
+         "rawfrom" : "errol.mclaughlin@enron.com\r\n",
+         "to" : "h..vu@enron.com"
+      },
+      {
+         "from" : "nancy.vu@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tVu, Nancy H.  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "nancy.vu@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tVu, Nancy H.  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "nancy.vu@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tVu, Nancy H.  \n",
+         "to" : "McLaughlin Jr., Errol"
+      },
+      {
+         "from" : "nancy.vu@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tVu, Nancy H.  \n",
+         "to" : "McLaughlin Jr., Errol; Perez, Agustin"
+      }
+   ],
+   "skipped" : 0
+}
+]

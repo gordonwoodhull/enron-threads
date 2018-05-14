@@ -1,0 +1,1656 @@
+[
+{
+   "file" : "enron-raw/causholli-m/deleted_items/184.",
+   "hops" : [
+      {
+         "from" : "nyree.chanaba@enron.com",
+         "line" : 4,
+         "rawfrom" : "nyree.chanaba@enron.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "teresa.robertson@travelpark.com",
+         "line" : 22,
+         "rawfrom" : "Teresa Robertson [mailto:teresa.robertson@travelpark.com]\n",
+         "to" : "Chanaba, Nyree"
+      },
+      {
+         "from" : "nyree.chanaba@enron.com",
+         "line" : 77,
+         "rawfrom" : "Chanaba, Nyree [mailto:Nyree.Chanaba@ENRON.com]\n",
+         "to" : "Teresa Robertson"
+      },
+      {
+         "from" : "teresa.robertson@travelpark.com",
+         "line" : 91,
+         "rawfrom" : "Teresa Robertson [mailto:teresa.robertson@travelpark.com]\n",
+         "to" : "Chanaba, Nyree"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/197.",
+   "hops" : [
+      {
+         "from" : "v..reed@enron.com",
+         "line" : 4,
+         "rawfrom" : "v..reed@enron.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tAllan, David  \n",
+         "to" : "Causholli, Monika; Reed, Andrea V."
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 34,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Reed, Andrea V.; Allan, David"
+      },
+      {
+         "from" : "euco.uutela@t-online.de",
+         "line" : 48,
+         "rawfrom" : "Esko Uutela [mailto:euco.uutela@t-online.de]\n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/2.",
+   "hops" : [
+      {
+         "from" : "morela.hernandez@enron.com",
+         "line" : 4,
+         "rawfrom" : "morela.hernandez@enron.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Hernandez, Morela"
+      },
+      {
+         "from" : "morela.hernandez@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tHernandez, Morela  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Aguilera-Peon, Maria Teresa; Allan, David; Biggerstaff, Finley; Boudreaux, Jay; Braune, Carlos; Bruce, Michelle; Bruce-Jones, Tom; Bruch, Greg; Bryja, James; Carter, Karen E.; Conner, Andrew R.; Crane, Bob; Dimitry, Dirk; Ferrell, Daniel; Foster, Michael; Hernandez, Morela; Juvane, Danilo; Kabel, Jeff; Kiehne, Sean; Rickard, Craig; Robinson, Richard T.; Schmidt, Joern; Schube, Jonathan; Stapley, Cecil"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/225.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "danilo.juvane@enron.com"
+      },
+      {
+         "from" : "danilo.juvane@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tJuvane, Danilo  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Juvane, Danilo"
+      },
+      {
+         "from" : "danilo.juvane@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tJuvane, Danilo  \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/228.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "e..carter@enron.com"
+      },
+      {
+         "from" : "karen.carter@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCarter, Karen E.  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "peggy.determeyer@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tDetermeyer, Peggy  \n",
+         "to" : "Kanji, Ayesha; Hernandez, Morela; Daetz, Milagros; Haque, Fariha; Bosek, Laura"
+      },
+      {
+         "from" : "robert.saltiel@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tSaltiel, Robert  \n",
+         "to" : "Wales, Stacey"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/260.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "dirk.dimitry@enron.com"
+      },
+      {
+         "from" : "dirk.dimitry@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDimitry, Dirk  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Dimitry, Dirk"
+      },
+      {
+         "from" : "dirk.dimitry@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tDimitry, Dirk  \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/283.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "craig.rickard@enron.com"
+      },
+      {
+         "from" : "craig.rickard@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tRickard, Craig  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Rickard, Craig"
+      },
+      {
+         "from" : "craig.rickard@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tRickard, Craig  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Crane, Bob; Conner, Andrew R.; Rickard, Craig; Allan, David; Carter, Karen E.; Dimitry, Dirk"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/291.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "e..carter@enron.com"
+      },
+      {
+         "from" : "karen.carter@enron.com",
+         "line" : 23,
+         "rawfrom" : "Carter, Karen E. \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 38,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Aguilera-Peon, Maria Teresa; Allan, David; Biggerstaff, Finley;"
+      },
+      {
+         "from" : "luis.velez@enron.com",
+         "line" : 51,
+         "rawfrom" : "Velez, Luis \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "joe.stivaletti@gs.com",
+         "line" : 61,
+         "rawfrom" : "Stivaletti, Joe [mailto:joe.stivaletti@gs.com]\n",
+         "to" : "Stivaletti, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/292.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "t..robinson@enron.com"
+      },
+      {
+         "from" : "robinson@rrassoc.com",
+         "line" : 28,
+         "rawfrom" : "Robinson, Richard T. \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 39,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Aguilera-Peon, Maria Teresa; Allan, David; Biggerstaff, Finley;"
+      },
+      {
+         "from" : "luis.velez@enron.com",
+         "line" : 52,
+         "rawfrom" : "Velez, Luis \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "joe.stivaletti@gs.com",
+         "line" : 62,
+         "rawfrom" : "Stivaletti, Joe [mailto:joe.stivaletti@gs.com]\n",
+         "to" : "Stivaletti, Joe"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/296.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "nyree.chanaba@enron.com"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 26,
+         "rawfrom" : "Allan, David \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "aewhitman@mindspring.com",
+         "line" : 38,
+         "rawfrom" : "Allen Whitman [mailto:aewhitman@mindspring.com]\n",
+         "to" : "Allan, David"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 58,
+         "rawfrom" : "Allan, David [mailto:David.Allan@ENRON.com]\n",
+         "to" : "Allen Whitman"
+      },
+      {
+         "from" : "aewhitman@mindspring.com",
+         "line" : 97,
+         "rawfrom" : "Allen Whitman [mailto:aewhitman@mindspring.com]\n",
+         "to" : "Allan, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/297.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "james.bryja@enron.com, t..robinson@enron.com, greg.bruch@enron.com"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 25,
+         "rawfrom" : "Allan, David \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "aewhitman@mindspring.com",
+         "line" : 37,
+         "rawfrom" : "Allen Whitman [mailto:aewhitman@mindspring.com]\n",
+         "to" : "Allan, David"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 57,
+         "rawfrom" : "Allan, David [mailto:David.Allan@ENRON.com]\n",
+         "to" : "Allen Whitman"
+      },
+      {
+         "from" : "aewhitman@mindspring.com",
+         "line" : 96,
+         "rawfrom" : "Allen Whitman [mailto:aewhitman@mindspring.com]\n",
+         "to" : "Allan, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/322.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "christopher.chenoweth@enron.com"
+      },
+      {
+         "from" : "christopher.chenoweth@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tChenoweth, Christopher  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "jay.boudreaux@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBoudreaux, Jay  \n",
+         "to" : "Chenoweth, Christopher"
+      },
+      {
+         "from" : "christopher.chenoweth@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tChenoweth, Christopher  \n",
+         "to" : "Boudreaux, Jay"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/323.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "elizabeth.hutchinson@enron.com"
+      },
+      {
+         "from" : "laura.bosek@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBosek, Laura  \n",
+         "to" : "Singh, Vikram; Causholli, Monika; Aguilera-Peon, Maria Teresa; Allan, David; Carter, Karen E.; Daetz, Milagros; Determeyer, Peggy; Haque, Fariha; Hernandez, Morela; Hutchinson, Elizabeth; Johnson, Jay; Kanji, Ayesha; Velez, Luis; Wales, Stacey"
+      },
+      {
+         "from" : "vikram.singh@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSingh, Vikram  \n",
+         "to" : "Causholli, Monika; Aguilera-Peon, Maria Teresa; Allan, David; Bosek, Laura; Carter, Karen E.; Daetz, Milagros; Determeyer, Peggy; Haque, Fariha; Hernandez, Morela; Hutchinson, Elizabeth; Johnson, Jay; Kanji, Ayesha; Velez, Luis; Wales, Stacey"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Aguilera-Peon, Maria Teresa; Allan, David; Bosek, Laura; Carter, Karen E.; Causholli, Monika; Daetz, Milagros; Determeyer, Peggy; Haque, Fariha; Hernandez, Morela; Hutchinson, Elizabeth; Johnson, Jay; Kanji, Ayesha; Velez, Luis; Wales, Stacey; Singh, Vikram"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/339.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "yana.kristal@enron.com"
+      },
+      {
+         "from" : "yana.kristal@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKristal, Yana  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Kristal, Yana"
+      },
+      {
+         "from" : "yana.kristal@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tKristal, Yana  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Kristal, Yana"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/344.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "margaret.daffin@enron.com"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/345.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "margaret.daffin@enron.com"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/379.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "e..carter@enron.com"
+      },
+      {
+         "from" : "karen.carter@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCarter, Karen E.  \n",
+         "to" : "Allan, David; Causholli, Monika"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tAllan, David  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Allan, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/380.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "peggy.determeyer@enron.com"
+      },
+      {
+         "from" : "=09determeyer, peggy =20",
+         "line" : 26,
+         "rawfrom" : "=09Determeyer, Peggy =20\r\n",
+         "to" : "=09Allan, David"
+      },
+      {
+         "from" : "=09allan, david =20",
+         "line" : 37,
+         "rawfrom" : "=09Allan, David =20\r\n",
+         "to" : "=09Determeyer, Peggy"
+      },
+      {
+         "from" : "=09determeyer, peggy =20",
+         "line" : 45,
+         "rawfrom" : "=09Determeyer, Peggy =20\r\n",
+         "to" : "=09Allan, David; Causholli, Monika"
+      },
+      {
+         "from" : "=09allan, david =20",
+         "line" : 82,
+         "rawfrom" : "=09Allan, David =20\r\n",
+         "to" : "=09Causholli, Monika"
+      },
+      {
+         "from" : "=09causholli, monika =20",
+         "line" : 102,
+         "rawfrom" : "=09Causholli, Monika =20\r\n",
+         "to" : "=09Allan, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/410.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "david.allan@enron.com"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 24,
+         "rawfrom" : "Allan, David \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 35,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Allan, David; Hutchinson, Elizabeth"
+      },
+      {
+         "from" : "timo@foex.fi",
+         "line" : 50,
+         "rawfrom" : "Timo Ter?s [mailto:timo@foex.fi]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 166,
+         "rawfrom" : "Causholli, Monika <Monika.Causholli@ENRON.com>\n",
+         "to" : "timo.teras@poyry.fi <timo.teras@poyry.fi>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/459.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "vikram.singh@enron.com"
+      },
+      {
+         "from" : "vikram.singh@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSingh, Vikram  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Singh, Vikram"
+      },
+      {
+         "from" : "vikram.singh@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tSingh, Vikram  \n",
+         "to" : "Aguilera-Peon, Maria Teresa; Allan, David; Carter, Karen E.; Causholli, Monika; Determeyer, Peggy; Hutchinson, Elizabeth; Johnson, Jay; Kanji, Ayesha; Velez, Luis; Wales, Stacey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/462.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "stacey.wales@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Wales, Stacey"
+      },
+      {
+         "from" : "david.ho@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tHo, David [mailto:david.ho@enron.com] \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Ho, David"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/473.",
+   "hops" : [
+      {
+         "from" : "e..carter@enron.com",
+         "line" : 4,
+         "rawfrom" : "e..carter@enron.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 26,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Carter, Karen E."
+      },
+      {
+         "from" : "karen.carter@enron.com",
+         "line" : 35,
+         "rawfrom" : "Carter, Karen E. \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 48,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Carter, Karen E."
+      },
+      {
+         "from" : "isc.registrar@enron.com",
+         "line" : 62,
+         "rawfrom" : "ISC Registrar \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/deleted_items/486.",
+   "hops" : [
+      {
+         "from" : "mcausholli@hotmail.com",
+         "line" : 4,
+         "rawfrom" : "mcausholli@hotmail.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "marketingdm@sdabocconi.it",
+         "line" : 21,
+         "rawfrom" : "marketingDM@sdabocconi.it \n",
+         "to" : "\"Monika Causholli\" <MCAUSHOLLI@HOTMAIL.COM>"
+      },
+      {
+         "from" : "mcausholli@hotmail.com",
+         "line" : 42,
+         "rawfrom" : "\"Monika Causholli\" <MCAUSHOLLI@HOTMAIL.COM>\n",
+         "to" : "marketingDM@sdabocconi.it"
+      },
+      {
+         "from" : "marketingdm@sdabocconi.it",
+         "line" : 65,
+         "rawfrom" : "marketingDM@sdabocconi.it \n",
+         "to" : "mcausholli@hotmail.com"
+      },
+      {
+         "from" : "mcausholli@hotmail.com",
+         "line" : 137,
+         "rawfrom" : "\"Monika Causholli\" <MCAUSHOLLI@HOTMAIL.COM>\n",
+         "to" : "mcf@sdabocconi.it"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/165.",
+   "hops" : [
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 4,
+         "rawfrom" : "nielsenj@bus.orst.edu\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 37,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 62,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 84,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/181.",
+   "hops" : [
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 4,
+         "rawfrom" : "nielsenj@bus.orst.edu\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 26,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 51,
+         "rawfrom" : "Causholli, Monika\n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 101,
+         "rawfrom" : "Causholli, Monika\n",
+         "to" : "Nielsen, James - COB"
+      }
+   ],
+   "skipped" : 5
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/182.",
+   "hops" : [
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 4,
+         "rawfrom" : "nielsenj@bus.orst.edu\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 22,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 44,
+         "rawfrom" : "Causholli, Monika\n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 94,
+         "rawfrom" : "Causholli, Monika\n",
+         "to" : "Nielsen, James - COB"
+      }
+   ],
+   "skipped" : 5
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/195.",
+   "hops" : [
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.allan@enron.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Allan, David"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tAllan, David  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Allan, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/33.",
+   "hops" : [
+      {
+         "from" : "utip@copacel.fr",
+         "line" : 4,
+         "rawfrom" : "utip@copacel.fr\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 29,
+         "rawfrom" : "Causholli, Monika <Monika.Causholli@enron.com>\n",
+         "to" : "Maryline Baertsoen <Utip@copacel.fr>"
+      },
+      {
+         "from" : "utip@copacel.fr",
+         "line" : 46,
+         "rawfrom" : "Maryline Baertsoen [mailto:Utip@copacel.fr]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 68,
+         "rawfrom" : "Causholli, Monika <Monika.Causholli@enron.com>\n",
+         "to" : "<utip@copacel.fr>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/77.",
+   "hops" : [
+      {
+         "from" : "avril.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "avril.forster@enron.com\r\n",
+         "to" : "monika.causholli@enron.com"
+      },
+      {
+         "from" : "julie.carpentier@statcan.ca",
+         "line" : 24,
+         "rawfrom" : "julie.carpentier@statcan.ca [mailto:julie.carpentier@statcan.ca]\n",
+         "to" : "Forster, Avril"
+      },
+      {
+         "from" : "forster@stcinet.statcan.ca",
+         "line" : 52,
+         "rawfrom" : "Forster@stcinet.statcan.ca [mailto:Forster@stcinet.statcan.ca] \n",
+         "to" : "Ottawa"
+      },
+      {
+         "from" : "infostats@statcan.ca",
+         "line" : 71,
+         "rawfrom" : "infostats@statcan.ca [mailto:infostats@statcan.ca]\n",
+         "to" : "Forster, Avril"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/inbox/89.",
+   "hops" : [
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.allan@enron.com\r\n",
+         "to" : "ayesha.kanji@enron.com, e..carter@enron.com, peggy.determeyer@enron.com,"
+      },
+      {
+         "from" : "andrea.v.reed@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tReed, Andrea V.  \n",
+         "to" : "Allan, David; Determeyer, Peggy; Hutchinson, Elizabeth; Singh, Vikram; Perez, Eugenio; Maxwell, David; Forster, Avril"
+      },
+      {
+         "from" : "christopher.helfrich@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tHelfrich, Christopher A.  \n",
+         "to" : "Malcolm, Rodney; Reed, Andrea V."
+      },
+      {
+         "from" : "bryan.seyfried@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tSeyfried, Bryan  \n",
+         "to" : "DL-Lon Enron Credit London; DL-Enron Credit Houston; Blesie, Brad; Zipter, Rudi"
+      },
+      {
+         "from" : "bryan.seyfried@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSeyfried, Bryan  \n",
+         "to" : "Sherriff, John; Brown, Michael - COO London; Edgley, Anne; Murphy, Ted; Gold, Joe; Lewis, Richard; Scrimshaw, Matthew; Dyson, Fernley; Lien, Thor"
+      },
+      {
+         "from" : "tomas.valnek@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tValnek, Tomas  \n",
+         "to" : "Seyfried, Bryan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/150.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "a.nichols@enron.com"
+      },
+      {
+         "from" : "natalie.nichols@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tNichols, Natalie A  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "eric.connor@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tConnor, Eric  \n",
+         "to" : "Nichols, Natalie A"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Aguilera-Peon, Maria Teresa; Allan, David; Biggerstaff, Finley; Bosek, Laura; Boudreaux, Jay; Braune, Carlos; Bruce-Jones, Tom; Bruch, Greg; Bryja, James; Carter, Karen E.; Carter, Ray; Conner, Andrew R.; Connor, Eric; Crane, Bob; Daetz, Milagros; Dimitry, Dirk; Dutton, Cassandra S.; Ferrell, Daniel; Forster, Avril; Foster, Michael; Golden, Sally; Helfrich, Christopher A.; Juvane, Danilo; Kabel, Jeff; Kanji, Ayesha; Kelemen, Andy; Kiehne, Sean; Malcolm, Rodney; Mccormick, George; Monroe, James; Pizzolato, Paul; Reed, Andrea V.; Rickard, Craig; Robinson, Richard T.; Saltiel, Robert; Schmidt, Joern; Schube, Jonathan; Stapley, Cecil; Wales, Stacey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/160.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "s..presas@enron.com"
+      },
+      {
+         "from" : "gracie.s.presas@enron.com",
+         "line" : 26,
+         "rawfrom" : "Presas, Gracie S. \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 35,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Presas, Gracie S."
+      },
+      {
+         "from" : "gracie.s.presas@enron.com",
+         "line" : 49,
+         "rawfrom" : "Presas, Gracie S. \n",
+         "to" : "Falik, Brian; Berutti, Aaron; Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/203.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "'nielsen@enron.com, nielsenj@bus.orst.edu"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 29,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "ronald.melicher@colorado.edu",
+         "line" : 45,
+         "rawfrom" : "Ron Melicher [mailto:Ronald.Melicher@Colorado.edu] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 57,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Ronald.Melicher@Colorado.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/205.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "'nielsen@enron.com, nielsenj@bus.orst.edu"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 32,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 47,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 63,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "ronald.melicher@colorado.edu",
+         "line" : 79,
+         "rawfrom" : "Ron Melicher [mailto:Ronald.Melicher@Colorado.edu] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 91,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Ronald.Melicher@Colorado.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/207.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "e..carter@enron.com"
+      },
+      {
+         "from" : "karen.carter@enron.com",
+         "line" : 22,
+         "rawfrom" : "Carter, Karen E. \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 35,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Carter, Karen E."
+      },
+      {
+         "from" : "isc.registrar@enron.com",
+         "line" : 49,
+         "rawfrom" : "ISC Registrar \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/217.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "'nielsen@enron.com, nielsenj@bus.orst.edu"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 26,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 35,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 54,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 69,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 85,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "ronald.melicher@colorado.edu",
+         "line" : 101,
+         "rawfrom" : "Ron Melicher [mailto:Ronald.Melicher@Colorado.edu] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 113,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Ronald.Melicher@Colorado.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/218.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "'nielsen@enron.com, nielsenj@bus.orst.edu"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 24,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 33,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 52,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 67,
+         "rawfrom" : "Causholli, Monika [mailto:Monika.Causholli@ENRON.com] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 83,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "ronald.melicher@colorado.edu",
+         "line" : 99,
+         "rawfrom" : "Ron Melicher [mailto:Ronald.Melicher@Colorado.edu] \n",
+         "to" : "Nielsen, James - COB"
+      },
+      {
+         "from" : "nielsenj@bus.orst.edu",
+         "line" : 111,
+         "rawfrom" : "Nielsen, James - COB [mailto:NielsenJ@bus.orst.edu]\n",
+         "to" : "Ronald.Melicher@Colorado.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/25.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "v..moreno@enron.com"
+      },
+      {
+         "from" : "douglas.v.moreno@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMoreno, Douglas V.  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Moreno, Douglas V."
+      },
+      {
+         "from" : "douglas.v.moreno@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tMoreno, Douglas V.  \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/36.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "pete.davis@enron.com"
+      },
+      {
+         "from" : "pete.davis@enroon.com",
+         "line" : 24,
+         "rawfrom" : "Davis, Pete \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 41,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Davis, Pete"
+      },
+      {
+         "from" : "pete.davis@enroon.com",
+         "line" : 55,
+         "rawfrom" : "Davis, Pete \n",
+         "to" : "Davis, Pete"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/48.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "ami.thakkar@enron.com"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 26,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 40,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Thakkar, Ami"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 53,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 68,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Thakkar, Ami"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 82,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/49.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "ami.thakkar@enron.com"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 26,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 40,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Thakkar, Ami"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 54,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "ami.thakkar@enron.com"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 26,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 41,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Thakkar, Ami"
+      },
+      {
+         "from" : "ami.thakkar@enron.com",
+         "line" : 55,
+         "rawfrom" : "Thakkar, Ami \n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/53.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "bobbi.tessandori@enron.com"
+      },
+      {
+         "from" : "bobbi.tessandori@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tTessandori, Bobbi  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Tessandori, Bobbi"
+      },
+      {
+         "from" : "bobbi.tessandori@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tTessandori, Bobbi  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Tessandori, Bobbi"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 80,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/54.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "bobbi.tessandori@enron.com"
+      },
+      {
+         "from" : "bobbi.tessandori@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tTessandori, Bobbi  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tDaffin, Margaret  \n",
+         "to" : "Tessandori, Bobbi"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Daffin, Margaret"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/62.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "v..reed@enron.com"
+      },
+      {
+         "from" : "vikram.singh@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tSingh, Vikram  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Singh, Vikram"
+      },
+      {
+         "from" : "vikram.singh@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tSingh, Vikram  \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tCausholli, Monika  \n",
+         "to" : "Singh, Vikram"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/90.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "nyree.chanaba@enron.com"
+      },
+      {
+         "from" : "teresa.robertson@travelpark.com",
+         "line" : 31,
+         "rawfrom" : "Teresa Robertson [mailto:teresa.robertson@travelpark.com]\n",
+         "to" : "Chanaba, Nyree"
+      },
+      {
+         "from" : "nyree.chanaba@enron.com",
+         "line" : 86,
+         "rawfrom" : "Chanaba, Nyree [mailto:Nyree.Chanaba@ENRON.com]\n",
+         "to" : "Teresa Robertson"
+      },
+      {
+         "from" : "teresa.robertson@travelpark.com",
+         "line" : 100,
+         "rawfrom" : "Teresa Robertson [mailto:teresa.robertson@travelpark.com]\n",
+         "to" : "Chanaba, Nyree"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/causholli-m/sent_items/95.",
+   "hops" : [
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 4,
+         "rawfrom" : "monika.causholli@enron.com\r\n",
+         "to" : "avril.forster@enron.com"
+      },
+      {
+         "from" : "andrea.v.reed@enron.com",
+         "line" : 34,
+         "rawfrom" : "Reed, Andrea V. \n",
+         "to" : "Causholli, Monika"
+      },
+      {
+         "from" : "david.allan@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tAllan, David  \n",
+         "to" : "Causholli, Monika; Reed, Andrea V."
+      },
+      {
+         "from" : "monika.causholli@enron.com",
+         "line" : 54,
+         "rawfrom" : "Causholli, Monika \n",
+         "to" : "Reed, Andrea V.; Allan, David"
+      },
+      {
+         "from" : "euco.uutela@t-online.de",
+         "line" : 68,
+         "rawfrom" : "Esko Uutela [mailto:euco.uutela@t-online.de]\n",
+         "to" : "Causholli, Monika"
+      }
+   ],
+   "skipped" : 0
+}
+]

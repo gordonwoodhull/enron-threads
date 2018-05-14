@@ -1,0 +1,1411 @@
+[
+{
+   "file" : "enron-raw/arora-h/all_documents/12.",
+   "hops" : [
+      {
+         "from" : "amy.spoede@enron.com",
+         "line" : 4,
+         "rawfrom" : "amy.spoede@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "amy.spoede@enron.com",
+         "line" : 26,
+         "rawfrom" : "Amy Spoede/HOU/ECT on 12/04/2000 04:37 PM \n",
+         "to" : "Amy Spoede/HOU/ECT@ECT"
+      },
+      {
+         "from" : "elise.clark@enron.com",
+         "line" : 37,
+         "rawfrom" : "Elise Clark/Corp/Enron on 12/04/2000 \n",
+         "to" : "Elise Clark/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 46,
+         "rawfrom" : "Harry Arora@ECT on 12/04/2000 02:41 PM\n",
+         "to" : "Michael K Patrick/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/all_documents/20.",
+   "hops" : [
+      {
+         "from" : "eileen.buerkert@enron.com",
+         "line" : 4,
+         "rawfrom" : "eileen.buerkert@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 30,
+         "rawfrom" : "Harry Arora@ECT\n",
+         "to" : "Eileen Buerkert/NA/Enron@Enron, Barbara Lewis/HOU/ECT@ECT, Heather"
+      },
+      {
+         "from" : "barbara.lewis@enron.com",
+         "line" : 51,
+         "rawfrom" : " Barbara Lewis                           12/18/2000 02:17 PM\n",
+         "to" : "Harry Arora/HOU/ECT@ECT"
+      },
+      {
+         "from" : "barbara.lewis@enron.com",
+         "line" : 63,
+         "rawfrom" : "Barbara Lewis/HOU/ECT on 12/18/2000 02:14 \n",
+         "to" : "Heather Alon/HOU/ECT@ECT, Barbara Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/all_documents/39.",
+   "hops" : [
+      {
+         "from" : "donald.herrick@enron.com",
+         "line" : 4,
+         "rawfrom" : "donald.herrick@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "donald.w.herrick@enron.com",
+         "line" : 24,
+         "rawfrom" : "Donald W Herrick/HOU/ECT on 01/26/2001 \n",
+         "to" : "Donald W Herrick/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 37,
+         "rawfrom" : "Kristi Demaiolo/NA/Enron on 01/26/2001 \n",
+         "to" : "\"'Kristi.Demaiolo@enron.com'\" <Kristi.Demaiolo@enron.com>"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 51,
+         "rawfrom" : "Kristi.Demaiolo@enron.com [mailto:Kristi.Demaiolo@enron.com]\n",
+         "to" : "jean-maurice.elkouby@creditlyonnais.co.uk"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/all_documents/55.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "saji.john@enron.com"
+      },
+      {
+         "from" : "saji_john@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "Saji John@ENRON COMMUNICATIONS on 02/07/2001 11:08 AM\n",
+         "to" : "Harry Arora/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 41,
+         "rawfrom" : "Harry Arora@ECT\n",
+         "to" : "Saji John/Enron Communications@ENRON COMMUNICATIONS@ENRON"
+      },
+      {
+         "from" : "saji_john@yahoo.com",
+         "line" : 54,
+         "rawfrom" : "Saji John@ENRON COMMUNICATIONS on 02/07/2001 10:39 AM\n",
+         "to" : "Harry Arora/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/deleted_items/143.",
+   "hops" : [
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.forster@enron.com\r\n",
+         "to" : "iris.mack@enron.com"
+      },
+      {
+         "from" : "avril.forster@enron.com",
+         "line" : 29,
+         "rawfrom" : "Forster, Avril=20\r\n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "irismmack@hotmail.com",
+         "line" : 38,
+         "rawfrom" : "Mack, Iris=20\r\n",
+         "to" : "Chen, Hai; Arora, Harry; Gualy, Jaime; Wang, Steve; Stalford, Robert=20"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 71,
+         "rawfrom" : "  Forster, David =20\r\n",
+         "to" : "Mack, Iris=20"
+      },
+      {
+         "from" : "irismmack@hotmail.com",
+         "line" : 82,
+         "rawfrom" : "  Mack, Iris =20\r\n",
+         "to" : "Forster, David=20"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 92,
+         "rawfrom" : "  Forster, David =20\r\n",
+         "to" : "Jacoby, Ben; Tapscott, Ron; Dypiangco, Mark; Churbock, Scott; Booth="
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 121,
+         "rawfrom" : "  Forster, David =20\r\n",
+         "to" : "Jacoby, Ben; Tapscott, Ron; Dypiangco, Mark; Churbock, Scott; Booth="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/deleted_items/168.",
+   "hops" : [
+      {
+         "from" : "benjamin.rogers@enron.com",
+         "line" : 4,
+         "rawfrom" : "benjamin.rogers@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Rogers, Benjamin"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 38,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Rogers, Benjamin"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/deleted_items/185.",
+   "hops" : [
+      {
+         "from" : "iris.mack@enron.com",
+         "line" : 4,
+         "rawfrom" : "iris.mack@enron.com\r\n",
+         "to" : "harry.arora@enron.com, greg.blair@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 30,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Mack, Iris"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 38,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Blair, Greg; Arora, Harry"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 48,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 60,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 89,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 100,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 132,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 144,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 158,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/deleted_items/200.",
+   "hops" : [
+      {
+         "from" : "jaime.gualy@enron.com",
+         "line" : 4,
+         "rawfrom" : "jaime.gualy@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 25,
+         "rawfrom" : "Meredith, Kevin \n",
+         "to" : "Gualy, Jaime"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 37,
+         "rawfrom" : "Hansen, Leslie \n",
+         "to" : "Meredith, Kevin"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 50,
+         "rawfrom" : "Meredith, Kevin \n",
+         "to" : "Hansen, Leslie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/deleted_items/79.",
+   "hops" : [
+      {
+         "from" : "iris.mack@enron.com",
+         "line" : 4,
+         "rawfrom" : "iris.mack@enron.com\r\n",
+         "to" : "hai.chen@enron.com, harry.arora@enron.com, jaime.gualy@enron.com,"
+      },
+      {
+         "from" : "=09forster, david =20",
+         "line" : 48,
+         "rawfrom" : "=09Forster, David =20\r\n",
+         "to" : "=09Mack, Iris"
+      },
+      {
+         "from" : "=09mack, iris =20",
+         "line" : 59,
+         "rawfrom" : "=09Mack, Iris =20\r\n",
+         "to" : "=09Forster, David"
+      },
+      {
+         "from" : "=09forster, david =20",
+         "line" : 69,
+         "rawfrom" : "=09Forster, David =20\r\n",
+         "to" : "=09Jacoby, Ben; Tapscott, Ron; Dypiangco, Mark; Churbock, Scott; Booth, ="
+      },
+      {
+         "from" : "=09forster, david =20",
+         "line" : 97,
+         "rawfrom" : "=09Forster, David =20\r\n",
+         "to" : "=09Jacoby, Ben; Tapscott, Ron; Dypiangco, Mark; Churbock, Scott; Booth, ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/discussion_threads/12.",
+   "hops" : [
+      {
+         "from" : "amy.spoede@enron.com",
+         "line" : 4,
+         "rawfrom" : "amy.spoede@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "amy.spoede@enron.com",
+         "line" : 26,
+         "rawfrom" : "Amy Spoede/HOU/ECT on 12/04/2000 04:37 PM \n",
+         "to" : "Amy Spoede/HOU/ECT@ECT"
+      },
+      {
+         "from" : "elise.clark@enron.com",
+         "line" : 37,
+         "rawfrom" : "Elise Clark/Corp/Enron on 12/04/2000 \n",
+         "to" : "Elise Clark/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 46,
+         "rawfrom" : "Harry Arora@ECT on 12/04/2000 02:41 PM\n",
+         "to" : "Michael K Patrick/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/discussion_threads/37.",
+   "hops" : [
+      {
+         "from" : "donald.herrick@enron.com",
+         "line" : 4,
+         "rawfrom" : "donald.herrick@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "donald.w.herrick@enron.com",
+         "line" : 24,
+         "rawfrom" : "Donald W Herrick/HOU/ECT on 01/26/2001 \n",
+         "to" : "Donald W Herrick/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 37,
+         "rawfrom" : "Kristi Demaiolo/NA/Enron on 01/26/2001 \n",
+         "to" : "\"'Kristi.Demaiolo@enron.com'\" <Kristi.Demaiolo@enron.com>"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 51,
+         "rawfrom" : "Kristi.Demaiolo@enron.com [mailto:Kristi.Demaiolo@enron.com]\n",
+         "to" : "jean-maurice.elkouby@creditlyonnais.co.uk"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/inbox/34.",
+   "hops" : [
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.blair@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Blair, Greg; Cavazos, Brandon"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tBlair, Greg  \n",
+         "to" : "Cavazos, Brandon"
+      },
+      {
+         "from" : "brandon.cavazos@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tCavazos, Brandon  \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tBlair, Greg  \n",
+         "to" : "Cavazos, Brandon"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/inbox/38.",
+   "hops" : [
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.blair@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 26,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 43,
+         "rawfrom" : "  Blair, Greg  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 55,
+         "rawfrom" : "  Blair, Greg  \n",
+         "to" : "Arora, Harry; Mack, Iris; Cavazos, Brandon"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/inbox/51.",
+   "hops" : [
+      {
+         "from" : "iris.mack@enron.com",
+         "line" : 4,
+         "rawfrom" : "iris.mack@enron.com\r\n",
+         "to" : "harry.arora@enron.com, greg.blair@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 30,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Mack, Iris"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 38,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Blair, Greg; Arora, Harry"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 48,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 60,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 89,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 100,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 132,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 144,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 158,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/inbox/80.",
+   "hops" : [
+      {
+         "from" : "jaime.gualy@enron.com",
+         "line" : 4,
+         "rawfrom" : "jaime.gualy@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 25,
+         "rawfrom" : "Meredith, Kevin \n",
+         "to" : "Gualy, Jaime"
+      },
+      {
+         "from" : "leslie.hansen@enron.com",
+         "line" : 37,
+         "rawfrom" : "Hansen, Leslie \n",
+         "to" : "Meredith, Kevin"
+      },
+      {
+         "from" : "kevin.meredith@enron.com",
+         "line" : 50,
+         "rawfrom" : "Meredith, Kevin \n",
+         "to" : "Hansen, Leslie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/inbox/saved_mail/35.",
+   "hops" : [
+      {
+         "from" : "gurmeet.x.singh@accenture.com",
+         "line" : 4,
+         "rawfrom" : "gurmeet.x.singh@accenture.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 43,
+         "rawfrom" : "<Harry.Arora@enron.com>)\n",
+         "to" : "Gurmeet X. Singh@Accenture"
+      },
+      {
+         "from" : "gurmeet.x.singh@accenture.com",
+         "line" : 59,
+         "rawfrom" : "gurmeet.x.singh@accenture.com\n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 106,
+         "rawfrom" : "<Harry.Arora@enron.com>)\n",
+         "to" : "Gurmeet X. Singh@Accenture"
+      },
+      {
+         "from" : "gurmeet.x.singh@accenture.com",
+         "line" : 129,
+         "rawfrom" : "gurmeet.x.singh@accenture.com\n",
+         "to" : "Arora, Harry"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/arora-h/savedmail/15.",
+   "hops" : [
+      {
+         "from" : "donald.herrick@enron.com",
+         "line" : 4,
+         "rawfrom" : "donald.herrick@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "donald.w.herrick@enron.com",
+         "line" : 24,
+         "rawfrom" : "Donald W Herrick/HOU/ECT on 01/26/2001 \n",
+         "to" : "Donald W Herrick/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 37,
+         "rawfrom" : "Kristi Demaiolo/NA/Enron on 01/26/2001 \n",
+         "to" : "\"'Kristi.Demaiolo@enron.com'\" <Kristi.Demaiolo@enron.com>"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 51,
+         "rawfrom" : "Kristi.Demaiolo@enron.com [mailto:Kristi.Demaiolo@enron.com]\n",
+         "to" : "jean-maurice.elkouby@creditlyonnais.co.uk"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/savedmail/30.",
+   "hops" : [
+      {
+         "from" : "eileen.buerkert@enron.com",
+         "line" : 4,
+         "rawfrom" : "eileen.buerkert@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 30,
+         "rawfrom" : "Harry Arora@ECT\n",
+         "to" : "Eileen Buerkert/NA/Enron@Enron, Barbara Lewis/HOU/ECT@ECT, Heather"
+      },
+      {
+         "from" : "barbara.lewis@enron.com",
+         "line" : 51,
+         "rawfrom" : " Barbara Lewis                           12/18/2000 02:17 PM\n",
+         "to" : "Harry Arora/HOU/ECT@ECT"
+      },
+      {
+         "from" : "barbara.lewis@enron.com",
+         "line" : 63,
+         "rawfrom" : "Barbara Lewis/HOU/ECT on 12/18/2000 02:14 \n",
+         "to" : "Heather Alon/HOU/ECT@ECT, Barbara Lewis/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/savedmail/37.",
+   "hops" : [
+      {
+         "from" : "amy.spoede@enron.com",
+         "line" : 4,
+         "rawfrom" : "amy.spoede@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "amy.spoede@enron.com",
+         "line" : 26,
+         "rawfrom" : "Amy Spoede/HOU/ECT on 12/04/2000 04:37 PM \n",
+         "to" : "Amy Spoede/HOU/ECT@ECT"
+      },
+      {
+         "from" : "elise.clark@enron.com",
+         "line" : 37,
+         "rawfrom" : "Elise Clark/Corp/Enron on 12/04/2000 \n",
+         "to" : "Elise Clark/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 46,
+         "rawfrom" : "Harry Arora@ECT on 12/04/2000 02:41 PM\n",
+         "to" : "Michael K Patrick/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/savedmail/62.",
+   "hops" : [
+      {
+         "from" : "donald.herrick@enron.com",
+         "line" : 4,
+         "rawfrom" : "donald.herrick@enron.com\r\n",
+         "to" : "harry.arora@enron.com"
+      },
+      {
+         "from" : "donald.w.herrick@enron.com",
+         "line" : 23,
+         "rawfrom" : "Donald W Herrick/HOU/ECT on 01/26/2001 11:19 AM ---------------------------\n",
+         "to" : "Donald W Herrick/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 34,
+         "rawfrom" : "Kristi Demaiolo/NA/Enron on 01/26/2001 10:55 AM ---------------------------\n",
+         "to" : "\"'Kristi.Demaiolo@enron.com'\" <Kristi.Demaiolo@enron.com>"
+      },
+      {
+         "from" : "kristi.demaiolo@enron.com",
+         "line" : 48,
+         "rawfrom" : "Kristi.Demaiolo@enron.com [mailto:Kristi.Demaiolo@enron.com]\n",
+         "to" : "jean-maurice.elkouby@creditlyonnais.co.uk"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent/7.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "saji.john@enron.com"
+      },
+      {
+         "from" : "saji_john@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "Saji John@ENRON COMMUNICATIONS on 02/07/2001 11:08 AM\n",
+         "to" : "Harry Arora/HOU/ECT@ECT@ENRON"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 41,
+         "rawfrom" : "Harry Arora@ECT\n",
+         "to" : "Saji John/Enron Communications@ENRON COMMUNICATIONS@ENRON"
+      },
+      {
+         "from" : "saji_john@yahoo.com",
+         "line" : 54,
+         "rawfrom" : "Saji John@ENRON COMMUNICATIONS on 02/07/2001 10:39 AM\n",
+         "to" : "Harry Arora/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/2.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "benjamin.rogers@enron.com"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 30,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Rogers, Benjamin"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/27.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "w..white@enron.com"
+      },
+      {
+         "from" : "mary.cilia@enron.com",
+         "line" : 28,
+         "rawfrom" : "Cilia, Mary \n",
+         "to" : "White, Stacey W.; Arora, Harry"
+      },
+      {
+         "from" : "karin.williams@enron.com",
+         "line" : 42,
+         "rawfrom" : "Williams, Karin \n",
+         "to" : "Cilia, Mary"
+      },
+      {
+         "from" : "david.hoog@enron.com",
+         "line" : 55,
+         "rawfrom" : "Hoog, David \n",
+         "to" : "Williams, Karin; Marcus, Larry"
+      },
+      {
+         "from" : "karin.williams@enron.com",
+         "line" : 65,
+         "rawfrom" : "Williams, Karin \n",
+         "to" : "Hoog, David; Marcus, Larry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/28.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "mary.cilia@enron.com"
+      },
+      {
+         "from" : "mary.cilia@enron.com",
+         "line" : 22,
+         "rawfrom" : "Cilia, Mary \n",
+         "to" : "White, Stacey W.; Arora, Harry"
+      },
+      {
+         "from" : "karin.williams@enron.com",
+         "line" : 36,
+         "rawfrom" : "Williams, Karin \n",
+         "to" : "Cilia, Mary"
+      },
+      {
+         "from" : "david.hoog@enron.com",
+         "line" : 49,
+         "rawfrom" : "Hoog, David \n",
+         "to" : "Williams, Karin; Marcus, Larry"
+      },
+      {
+         "from" : "karin.williams@enron.com",
+         "line" : 59,
+         "rawfrom" : "Williams, Karin \n",
+         "to" : "Hoog, David; Marcus, Larry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/3.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "benjamin.rogers@enron.com"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Rogers, Benjamin"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 49,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Rogers, Benjamin"
+      },
+      {
+         "from" : "brogers2@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tRogers, Benjamin  \n",
+         "to" : "Arora, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/40.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "iris.mack@enron.com"
+      },
+      {
+         "from" : "=09mack, iris =20",
+         "line" : 29,
+         "rawfrom" : "=09Mack, Iris =20\r\n",
+         "to" : "=09Danilov, Viacheslav; Issler, Paulo"
+      },
+      {
+         "from" : "=09issler, paulo =20",
+         "line" : 58,
+         "rawfrom" : "=09Issler, Paulo =20\r\n",
+         "to" : "=09Mack, Iris"
+      },
+      {
+         "from" : "=09danilov, viacheslav =20",
+         "line" : 73,
+         "rawfrom" : "=09Danilov, Viacheslav =20\r\n",
+         "to" : "=09Issler, Paulo"
+      },
+      {
+         "from" : "=09issler, paulo =20",
+         "line" : 91,
+         "rawfrom" : "=09Issler, Paulo =20\r\n",
+         "to" : "=09Danilov, Viacheslav"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/43.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "mason.hamlin@enron.com"
+      },
+      {
+         "from" : "mason.hamlin@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tHamlin, Mason  \n",
+         "to" : "Stalford, Robert; Arora, Harry"
+      },
+      {
+         "from" : "rstalford@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "\tStalford, Robert  \n",
+         "to" : "Hamlin, Mason"
+      },
+      {
+         "from" : "mason.hamlin@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tHamlin, Mason  \n",
+         "to" : "Arora, Harry; Stalford, Robert; Davis, Mark Dana"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/52.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "greg.blair@enron.com"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 23,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 45,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/54.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "karen.buckley@enron.com"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 36,
+         "rawfrom" : "\tArora, Harry  \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tBuckley, Karen  \n",
+         "to" : "Suarez, John; Cuilla, Martin; Schwieger, Jim; Brawner, Sandra F.; Carson, Mike; Arnold, John; Holst, Keith; Grigsby, Mike; King, Jeff; Benson, Robert; Ermis, Frank; Allen, Phillip K.; Arora, Harry; Forney, John M.; Mckay, Jonathan; Neal, Scott; Gilbert-smith, Doug; Shively, Hunter S.; Lewis, Andrew H.; Davis, Mark Dana; Zipper, Andy; Maggi, Mike; Presto, Kevin M.; May, Larry; Sturm, Fletcher J.; Mckay, Brad; Martin, Thomas A.; Storey, Geoff; Keavey, Peter F.; Ruscitti, Kevin"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/58.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "greg.blair@enron.com"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 41,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 52,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 84,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 96,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 110,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/59.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "iris.mack@enron.com"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 21,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 39,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 68,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 79,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 111,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 123,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 137,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/60.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "iris.mack@enron.com"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 21,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Blair, Greg; Arora, Harry"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 31,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 43,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 72,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 83,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 115,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 127,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 141,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/62.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "iris.mack@enron.com"
+      },
+      {
+         "from" : "irismmack@hotmail.com",
+         "line" : 33,
+         "rawfrom" : "Mack, Iris \n",
+         "to" : "Arora, Harry; Blair, Greg"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 50,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Mack, Iris"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 58,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Blair, Greg; Arora, Harry"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 68,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 80,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 109,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 120,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 152,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 164,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 178,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "iris.mack@enron.com, greg.blair@enron.com"
+      },
+      {
+         "from" : "irismmack@hotmail.com",
+         "line" : 28,
+         "rawfrom" : "Mack, Iris \n",
+         "to" : "Arora, Harry; Blair, Greg"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 45,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Mack, Iris"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 53,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Blair, Greg; Arora, Harry"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 63,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "harrysarora@yahoo.com",
+         "line" : 75,
+         "rawfrom" : "Arora, Harry \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 104,
+         "rawfrom" : "Blair, Greg \n",
+         "to" : "Arora, Harry; Cavazos, Brandon"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 115,
+         "rawfrom" : "\"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 147,
+         "rawfrom" : "  Greg.Blair@enron.com [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      },
+      {
+         "from" : "dwhilson@tva.gov",
+         "line" : 159,
+         "rawfrom" : "  \"Hilson, D. Wayne\" <dwhilson@tva.gov>@ENRON\n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 173,
+         "rawfrom" : "  Blair, Greg [ <mailto:Greg.Blair@enron.com>]\n",
+         "to" : "dwhilson@tva.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/64.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "greg.blair@enron.com, brandon.cavazos@enron.com"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBlair, Greg  \n",
+         "to" : "Cavazos, Brandon"
+      },
+      {
+         "from" : "brandon.cavazos@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tCavazos, Brandon  \n",
+         "to" : "Blair, Greg"
+      },
+      {
+         "from" : "greg.blair@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tBlair, Greg  \n",
+         "to" : "Cavazos, Brandon"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/arora-h/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "harry.arora@enron.com",
+         "line" : 4,
+         "rawfrom" : "harry.arora@enron.com\r\n",
+         "to" : "david.forster@enron.com"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Arora, Harry"
+      },
+      {
+         "from" : "terri.clynes@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tClynes, Terri  \n",
+         "to" : "Forster, David"
+      },
+      {
+         "from" : "david.forster@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tForster, David  \n",
+         "to" : "Clynes, Terri"
+      }
+   ],
+   "skipped" : 0
+}
+]

@@ -1,0 +1,3673 @@
+[
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/150.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 24,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 34,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 49,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/22.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 31,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 42,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 57,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/264.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 32,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 53,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 86,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/340.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 31,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 72,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 117,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 162,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/347.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 12/13/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT, Brian Gillis/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 73,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 101,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Brian Gillis/CAL/ECT@ECT, Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/351.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 73,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 115,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/372.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/402.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.mayeux@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/421.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.baumbach@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/433.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 29,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 11/28/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 51,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/28/2000 10:24 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Burton McIntyre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 64,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Ganapathy Ramesh/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ganapathy.ramesh@enron.com",
+         "line" : 89,
+         "rawfrom" : "Ganapathy Ramesh\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Nilay Basu/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/442.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 41,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 62,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Gabriel Monroy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/479.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 25,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Gabriel Monroy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 48,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/498.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "patrick.reedy@enron.com"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 36,
+         "rawfrom" : " Irena D Hogan                           11/02/2000 02:14 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Irena D Hogan/HOU/ECT on 11/02/2000 02:13 \n",
+         "to" : "Irena D Hogan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 63,
+         "rawfrom" : " Irena D Hogan                           11/01/2000 04:17 PM\n",
+         "to" : "Move-Team/EPSC/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/50.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 41,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 52,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/516.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 08:51 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 03:58 PM\n",
+         "to" : "bilal_bajwa@hotmail.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/517.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 09:10 AM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron, Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 04:02 PM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      },
+      {
+         "from" : "wei.hu@enron.com",
+         "line" : 68,
+         "rawfrom" : " Wei Hu                           08/07/2000 03:37 PM\n",
+         "to" : "Jeremy Wong/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/629.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com, rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 36,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Brooklyn Couch/HOU/ECT@ECT, Jeffrey McClellan/HOU/ECT@ECT, Frank"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 59,
+         "rawfrom" : " Jaime Navarro @ ENRON                           07/21/2000 09:33 AM\n",
+         "to" : "Todd Hardwick/Corp/Enron@Enron, Jimmy Manguba/HOU/ECT@ECT, Steven"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 76,
+         "rawfrom" : "Jaime Navarro/NA/Enron on 07/21/2000 \n",
+         "to" : "\"'AnnGuerra'\" <annguerra@pdq.net>, \"'bhdavis@ev1.net'\" <bhdavis@ev1.net>,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/630.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com, gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT, Shannon McPearson/HOU/ECT@ECT, Robin"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 37,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Mary Kay Moore/HOU/ECT@ECT, Melissa C Knightstep/HOU/ECT@ECT, Donna"
+      },
+      {
+         "from" : "stephanie_strong@enron.com",
+         "line" : 51,
+         "rawfrom" : "Stephanie Strong/HOU/ECT on 07/26/2000 \n",
+         "to" : "Stephanie Strong/HOU/ECT@ECT, Hang Bui/HOU/ECT@ECT"
+      },
+      {
+         "from" : "stephen.wolfe@enron.com",
+         "line" : 62,
+         "rawfrom" : "Stephen Wolfe/HOU/ECT on 07/26/2000 02:37 \n",
+         "to" : "Stephen Wolfe/HOU/ECT@ECT"
+      },
+      {
+         "from" : "janice.christensen@enron.com",
+         "line" : 72,
+         "rawfrom" : "Janice Christensen/HOU/ECT on 07/26/2000 \n",
+         "to" : "BryantLL@navair.navy.mil, ecarter@velaw.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/705.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 38,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 52,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 68,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 78,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/706.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 44,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 54,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/709.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 25,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 55,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 68,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 85,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/710.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 44,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 61,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/712.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 24,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 35,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 63,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/722.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 25,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 50,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 62,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/73.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "richard.tomaski@enron.com"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 26,
+         "rawfrom" : "Richard Tomaski@ENRON on 02/22/2001 02:59 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Richard Tomaski/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 61,
+         "rawfrom" : "Richard Tomaski@ENRON on 02/22/2001 08:29 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/84.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "chris.abel@enron.com"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 30,
+         "rawfrom" : "Chris Abel\n",
+         "to" : "Monica Hwang/HOU/EES@EES"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 46,
+         "rawfrom" : "Chris Abel/HOU/ECT on 02/22/2001 12:17 PM \n",
+         "to" : "Chris Abel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 63,
+         "rawfrom" : "Chris Abel@ECT\n",
+         "to" : "Monica Hwang/HOU/EES@EES"
+      },
+      {
+         "from" : "monica.hwang@enron.com",
+         "line" : 79,
+         "rawfrom" : "MONICA HWANG@EES\n",
+         "to" : "Chris Abel/HOU/ECT@ECT, Gabriel Monroy/HOU/ECT@ECT, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/_sent_mail/9.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 35,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 49,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 66,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 77,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 92,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/10.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 35,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 49,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 66,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 77,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 92,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/155.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 24,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 34,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 49,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/23.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 31,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 42,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 57,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/269.",
+   "hops" : [
+      {
+         "from" : "jeffrey.gossett@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.gossett@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 30,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 53,
+         "rawfrom" : "Kathy Reeves/CAL/ECT on 01/11/2001 02:33 \n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 71,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 92,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 125,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/272.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 32,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 53,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 86,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/352.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 31,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 72,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 117,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 162,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/359.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 12/13/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT, Brian Gillis/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 73,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 101,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Brian Gillis/CAL/ECT@ECT, Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/363.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 73,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 115,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/384.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/414.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.mayeux@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/433.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.baumbach@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/445.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 29,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 11/28/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 51,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/28/2000 10:24 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Burton McIntyre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 64,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Ganapathy Ramesh/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ganapathy.ramesh@enron.com",
+         "line" : 89,
+         "rawfrom" : "Ganapathy Ramesh\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Nilay Basu/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/455.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 41,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 62,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Gabriel Monroy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/472.",
+   "hops" : [
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 4,
+         "rawfrom" : "kathy.reeves@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 43,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 56,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/494.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 25,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Gabriel Monroy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 48,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/513.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "patrick.reedy@enron.com"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 36,
+         "rawfrom" : " Irena D Hogan                           11/02/2000 02:14 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Irena D Hogan/HOU/ECT on 11/02/2000 02:13 \n",
+         "to" : "Irena D Hogan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 63,
+         "rawfrom" : " Irena D Hogan                           11/01/2000 04:17 PM\n",
+         "to" : "Move-Team/EPSC/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/52.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 41,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 52,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/531.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 08:51 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 03:58 PM\n",
+         "to" : "bilal_bajwa@hotmail.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/532.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 09:10 AM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron, Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 04:02 PM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      },
+      {
+         "from" : "wei.hu@enron.com",
+         "line" : 68,
+         "rawfrom" : " Wei Hu                           08/07/2000 03:37 PM\n",
+         "to" : "Jeremy Wong/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/544.",
+   "hops" : [
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 4,
+         "rawfrom" : "sally.chen@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 20,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 32,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 53,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 61,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/665.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com, rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 36,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Brooklyn Couch/HOU/ECT@ECT, Jeffrey McClellan/HOU/ECT@ECT, Frank"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 59,
+         "rawfrom" : " Jaime Navarro @ ENRON                           07/21/2000 09:33 AM\n",
+         "to" : "Todd Hardwick/Corp/Enron@Enron, Jimmy Manguba/HOU/ECT@ECT, Steven"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 76,
+         "rawfrom" : "Jaime Navarro/NA/Enron on 07/21/2000 \n",
+         "to" : "\"'AnnGuerra'\" <annguerra@pdq.net>, \"'bhdavis@ev1.net'\" <bhdavis@ev1.net>,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/666.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com, gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT, Shannon McPearson/HOU/ECT@ECT, Robin"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 37,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Mary Kay Moore/HOU/ECT@ECT, Melissa C Knightstep/HOU/ECT@ECT, Donna"
+      },
+      {
+         "from" : "stephanie_strong@enron.com",
+         "line" : 51,
+         "rawfrom" : "Stephanie Strong/HOU/ECT on 07/26/2000 \n",
+         "to" : "Stephanie Strong/HOU/ECT@ECT, Hang Bui/HOU/ECT@ECT"
+      },
+      {
+         "from" : "stephen.wolfe@enron.com",
+         "line" : 62,
+         "rawfrom" : "Stephen Wolfe/HOU/ECT on 07/26/2000 02:37 \n",
+         "to" : "Stephen Wolfe/HOU/ECT@ECT"
+      },
+      {
+         "from" : "janice.christensen@enron.com",
+         "line" : 72,
+         "rawfrom" : "Janice Christensen/HOU/ECT on 07/26/2000 \n",
+         "to" : "BryantLL@navair.navy.mil, ecarter@velaw.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/75.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "richard.tomaski@enron.com"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 26,
+         "rawfrom" : "Richard Tomaski@ENRON on 02/22/2001 02:59 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Richard Tomaski/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 61,
+         "rawfrom" : "Richard Tomaski@ENRON on 02/22/2001 08:29 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/801.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 38,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 52,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 68,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 78,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/802.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 44,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 54,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/806.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 25,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 55,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 68,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 85,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/807.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 44,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 61,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/811.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 24,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 35,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 63,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/812.",
+   "hops" : [
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ryan.watt@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 53,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/825.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 25,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 50,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 62,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/all_documents/88.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "chris.abel@enron.com"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 30,
+         "rawfrom" : "Chris Abel\n",
+         "to" : "Monica Hwang/HOU/EES@EES"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 46,
+         "rawfrom" : "Chris Abel/HOU/ECT on 02/22/2001 12:17 PM \n",
+         "to" : "Chris Abel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 63,
+         "rawfrom" : "Chris Abel@ECT\n",
+         "to" : "Monica Hwang/HOU/EES@EES"
+      },
+      {
+         "from" : "monica.hwang@enron.com",
+         "line" : 79,
+         "rawfrom" : "MONICA HWANG@EES\n",
+         "to" : "Chris Abel/HOU/ECT@ECT, Gabriel Monroy/HOU/ECT@ECT, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/canada/2.",
+   "hops" : [
+      {
+         "from" : "jeffrey.gossett@enron.com",
+         "line" : 4,
+         "rawfrom" : "jeffrey.gossett@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 30,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Jeffrey C Gossett/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 53,
+         "rawfrom" : "Kathy Reeves/CAL/ECT on 01/11/2001 02:33 \n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 71,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 92,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 125,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/canada/3.",
+   "hops" : [
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 4,
+         "rawfrom" : "kathy.reeves@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 43,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 56,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/canada/45.",
+   "hops" : [
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ryan.watt@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 53,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/10.",
+   "hops" : [
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 4,
+         "rawfrom" : "ryan.watt@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 53,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/11.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 24,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 35,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 63,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/117.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com, gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT, Shannon McPearson/HOU/ECT@ECT, Robin"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 37,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Mary Kay Moore/HOU/ECT@ECT, Melissa C Knightstep/HOU/ECT@ECT, Donna"
+      },
+      {
+         "from" : "stephanie_strong@enron.com",
+         "line" : 51,
+         "rawfrom" : "Stephanie Strong/HOU/ECT on 07/26/2000 \n",
+         "to" : "Stephanie Strong/HOU/ECT@ECT, Hang Bui/HOU/ECT@ECT"
+      },
+      {
+         "from" : "stephen.wolfe@enron.com",
+         "line" : 62,
+         "rawfrom" : "Stephen Wolfe/HOU/ECT on 07/26/2000 02:37 \n",
+         "to" : "Stephen Wolfe/HOU/ECT@ECT"
+      },
+      {
+         "from" : "janice.christensen@enron.com",
+         "line" : 72,
+         "rawfrom" : "Janice Christensen/HOU/ECT on 07/26/2000 \n",
+         "to" : "BryantLL@navair.navy.mil, ecarter@velaw.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/118.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com, rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 36,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Brooklyn Couch/HOU/ECT@ECT, Jeffrey McClellan/HOU/ECT@ECT, Frank"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 59,
+         "rawfrom" : " Jaime Navarro @ ENRON                           07/21/2000 09:33 AM\n",
+         "to" : "Todd Hardwick/Corp/Enron@Enron, Jimmy Manguba/HOU/ECT@ECT, Steven"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 76,
+         "rawfrom" : "Jaime Navarro/NA/Enron on 07/21/2000 \n",
+         "to" : "\"'AnnGuerra'\" <annguerra@pdq.net>, \"'bhdavis@ev1.net'\" <bhdavis@ev1.net>,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/185.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 09:10 AM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron, Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 04:02 PM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      },
+      {
+         "from" : "wei.hu@enron.com",
+         "line" : 68,
+         "rawfrom" : " Wei Hu                           08/07/2000 03:37 PM\n",
+         "to" : "Jeremy Wong/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/186.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 08:51 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 03:58 PM\n",
+         "to" : "bilal_bajwa@hotmail.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/193.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "patrick.reedy@enron.com"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 36,
+         "rawfrom" : " Irena D Hogan                           11/02/2000 02:14 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Irena D Hogan/HOU/ECT on 11/02/2000 02:13 \n",
+         "to" : "Irena D Hogan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 63,
+         "rawfrom" : " Irena D Hogan                           11/01/2000 04:17 PM\n",
+         "to" : "Move-Team/EPSC/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/211.",
+   "hops" : [
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 4,
+         "rawfrom" : "kathy.reeves@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 43,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 56,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/226.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 29,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 11/28/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 51,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/28/2000 10:24 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Burton McIntyre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 64,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Ganapathy Ramesh/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ganapathy.ramesh@enron.com",
+         "line" : 89,
+         "rawfrom" : "Ganapathy Ramesh\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Nilay Basu/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/232.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.baumbach@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/238.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.mayeux@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/249.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/discussion_threads/258.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 12/13/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT, Brian Gillis/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 73,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 101,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Brian Gillis/CAL/ECT@ECT, Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/file/11.",
+   "hops" : [
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 4,
+         "rawfrom" : "sally.chen@enron.com\r\n",
+         "to" : "robin.rodrigue@enron.com"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 20,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 32,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 53,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 61,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/150.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 24,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 34,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 49,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/22.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 31,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 42,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 57,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/264.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 32,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 53,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 86,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/340.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 31,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 72,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 117,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 162,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/347.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 25,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 12/13/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT, Brian Gillis/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 73,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 101,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Brian Gillis/CAL/ECT@ECT, Kathy Reeves/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/351.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "paul_rodrigue@bigfoot.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paulrodrigue@yahoo.com",
+         "line" : 73,
+         "rawfrom" : "paulrodrigue@yahoo.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      },
+      {
+         "from" : "paul_rodrigue@bigfoot.com",
+         "line" : 115,
+         "rawfrom" : "paul_rodrigue@bigfoot.com",
+         "to" : "Robin.Rodrigue@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/372.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/402.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.mayeux@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/421.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "david.baumbach@enron.com"
+      },
+      {
+         "from" : "sally.chen@enron.com",
+         "line" : 20,
+         "rawfrom" : "Sally Chen on 10/24/2000 12:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 30,
+         "rawfrom" : "Vern Vallejo@ECT on 10/24/2000 12:17 PM\n",
+         "to" : "Sally Chen/NA/Enron@Enron"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 42,
+         "rawfrom" : "Vern Vallejo/HOU/ECT on 10/24/2000 12:09 \n",
+         "to" : "Vern Vallejo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 63,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "vern.vallejo@enron.com",
+         "line" : 71,
+         "rawfrom" : "Vern Vallejo on 07/12/2000 06:04 PM\n",
+         "to" : "John Jacobsen/HOU/ECT@ECT, Robert Richard/Corp/Enron@ENRON, Mason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/433.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 29,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 11/28/2000 \n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 51,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/28/2000 10:24 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Burton McIntyre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 64,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Ganapathy Ramesh/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ganapathy.ramesh@enron.com",
+         "line" : 89,
+         "rawfrom" : "Ganapathy Ramesh\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Nilay Basu/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/442.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 41,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 62,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Gabriel Monroy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 84,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/479.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 25,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Gabriel Monroy/HOU/ECT@ECT"
+      },
+      {
+         "from" : "gmonroy@enron.com",
+         "line" : 48,
+         "rawfrom" : "Gabriel Monroy\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/498.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "patrick.reedy@enron.com"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 36,
+         "rawfrom" : " Irena D Hogan                           11/02/2000 02:14 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Irena D Hogan/HOU/ECT on 11/02/2000 02:13 \n",
+         "to" : "Irena D Hogan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "irena.hogan@enron.com",
+         "line" : 63,
+         "rawfrom" : " Irena D Hogan                           11/01/2000 04:17 PM\n",
+         "to" : "Move-Team/EPSC/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/50.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 41,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 52,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/516.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 08:51 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 03:58 PM\n",
+         "to" : "bilal_bajwa@hotmail.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/517.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "crystal.hyde@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 25,
+         "rawfrom" : " Frank Hayden @ ENRON                           11/03/2000 09:10 AM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron, Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 38,
+         "rawfrom" : " Frank Hayden                           08/26/2000 04:02 PM\n",
+         "to" : "Bilal Bajwa/NA/Enron@Enron"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 50,
+         "rawfrom" : "Frank Hayden/Corp/Enron on 08/26/2000 \n",
+         "to" : "Frank Hayden/Corp/Enron@Enron"
+      },
+      {
+         "from" : "wei.hu@enron.com",
+         "line" : 68,
+         "rawfrom" : " Wei Hu                           08/07/2000 03:37 PM\n",
+         "to" : "Jeremy Wong/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/629.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "gabriel.monroy@enron.com, rahmaan.mwongozi@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 36,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Brooklyn Couch/HOU/ECT@ECT, Jeffrey McClellan/HOU/ECT@ECT, Frank"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 59,
+         "rawfrom" : " Jaime Navarro @ ENRON                           07/21/2000 09:33 AM\n",
+         "to" : "Todd Hardwick/Corp/Enron@Enron, Jimmy Manguba/HOU/ECT@ECT, Steven"
+      },
+      {
+         "from" : "jaime.navarro@enron.com",
+         "line" : 76,
+         "rawfrom" : "Jaime Navarro/NA/Enron on 07/21/2000 \n",
+         "to" : "\"'AnnGuerra'\" <annguerra@pdq.net>, \"'bhdavis@ev1.net'\" <bhdavis@ev1.net>,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/630.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "rahmaan.mwongozi@enron.com, gabriel.monroy@enron.com"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 25,
+         "rawfrom" : " Brooklyn Couch                           07/26/2000 06:24 PM\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT, Shannon McPearson/HOU/ECT@ECT, Robin"
+      },
+      {
+         "from" : "brooklyn.couch@enron.com",
+         "line" : 37,
+         "rawfrom" : "Brooklyn Couch/HOU/ECT on 07/26/2000 \n",
+         "to" : "Mary Kay Moore/HOU/ECT@ECT, Melissa C Knightstep/HOU/ECT@ECT, Donna"
+      },
+      {
+         "from" : "stephanie_strong@enron.com",
+         "line" : 51,
+         "rawfrom" : "Stephanie Strong/HOU/ECT on 07/26/2000 \n",
+         "to" : "Stephanie Strong/HOU/ECT@ECT, Hang Bui/HOU/ECT@ECT"
+      },
+      {
+         "from" : "stephen.wolfe@enron.com",
+         "line" : 62,
+         "rawfrom" : "Stephen Wolfe/HOU/ECT on 07/26/2000 02:37 \n",
+         "to" : "Stephen Wolfe/HOU/ECT@ECT"
+      },
+      {
+         "from" : "janice.christensen@enron.com",
+         "line" : 72,
+         "rawfrom" : "Janice Christensen/HOU/ECT on 07/26/2000 \n",
+         "to" : "BryantLL@navair.navy.mil, ecarter@velaw.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/705.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 38,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 52,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 68,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 78,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/706.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 28,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 44,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 54,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/709.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 25,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 55,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 68,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 85,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/710.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 44,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 61,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/712.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "ryan.watt@enron.com"
+      },
+      {
+         "from" : "ryan.watt@enron.com",
+         "line" : 24,
+         "rawfrom" : "Ryan Watt\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 35,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Ryan Watt/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 47,
+         "rawfrom" : "Robin Rodrigue/HOU/ECT on 06/07/2000 \n",
+         "to" : "Nicole LaPorte/CAL/ECT@ECT"
+      },
+      {
+         "from" : "nicole.laporte@enron.com",
+         "line" : 63,
+         "rawfrom" : "Nicole LaPorte\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT, Rahmaan Mwongozi/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/722.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "becky.pitre@enron.com"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 25,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 37,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      },
+      {
+         "from" : "becky_pitre@ees.enron.net",
+         "line" : 50,
+         "rawfrom" : "Becky Pitre\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 62,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Becky Pitre/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/73.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "richard.tomaski@enron.com"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 26,
+         "rawfrom" : "Richard Tomaski@ENRON on 02/22/2001 02:59 PM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 43,
+         "rawfrom" : "Robin Rodrigue@ECT\n",
+         "to" : "Richard Tomaski/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "richard.tomaski@enron.com",
+         "line" : 61,
+         "rawfrom" : "Richard Tomaski@ENRON on 02/22/2001 08:29 AM\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/84.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "chris.abel@enron.com"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 30,
+         "rawfrom" : "Chris Abel\n",
+         "to" : "Monica Hwang/HOU/EES@EES"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 46,
+         "rawfrom" : "Chris Abel/HOU/ECT on 02/22/2001 12:17 PM \n",
+         "to" : "Chris Abel/HOU/ECT@ECT"
+      },
+      {
+         "from" : "chris.abel@enron.com",
+         "line" : 63,
+         "rawfrom" : "Chris Abel@ECT\n",
+         "to" : "Monica Hwang/HOU/EES@EES"
+      },
+      {
+         "from" : "monica.hwang@enron.com",
+         "line" : 79,
+         "rawfrom" : "MONICA HWANG@EES\n",
+         "to" : "Chris Abel/HOU/ECT@ECT, Gabriel Monroy/HOU/ECT@ECT, Michael"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/rodrique-r/sent/9.",
+   "hops" : [
+      {
+         "from" : "robin.rodrigue@enron.com",
+         "line" : 4,
+         "rawfrom" : "robin.rodrigue@enron.com\r\n",
+         "to" : "kathy.reeves@enron.com"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 35,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 49,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 66,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rrodri2@ect.enron.com",
+         "line" : 77,
+         "rawfrom" : "Robin Rodrigue\n",
+         "to" : "Kathy Reeves/CAL/ECT@ECT"
+      },
+      {
+         "from" : "kathy.reeves@enron.com",
+         "line" : 92,
+         "rawfrom" : "Kathy Reeves\n",
+         "to" : "Robin Rodrigue/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+]

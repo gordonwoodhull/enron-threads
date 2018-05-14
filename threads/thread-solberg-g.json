@@ -1,0 +1,44 @@
+[
+{
+   "file" : "enron-raw/solberg-g/inbox/144.",
+   "hops" : [
+      {
+         "from" : "cburreson@hotmail.com",
+         "line" : 4,
+         "rawfrom" : "cburreson@hotmail.com\r\n",
+         "to" : "gsolberg@enron.com"
+      },
+      {
+         "from" : "anne@adventureexpress.com",
+         "line" : 29,
+         "rawfrom" : "Annie Taylor <anne@adventureexpress.com>\n",
+         "to" : "'Crystal Burreson' <cburreson@hotmail.com>"
+      },
+      {
+         "from" : "cburreson@hotmail.com",
+         "line" : 58,
+         "rawfrom" : "Crystal Burreson [mailto:cburreson@hotmail.com]\n",
+         "to" : "anne@adventureexpress.com"
+      },
+      {
+         "from" : "anne@adventureexpress.com",
+         "line" : 98,
+         "rawfrom" : "Annie Taylor <anne@adventureexpress.com>\n",
+         "to" : "'Crystal Burreson' <cburreson@hotmail.com>"
+      },
+      {
+         "from" : "cburreson@hotmail.com",
+         "line" : 135,
+         "rawfrom" : "Crystal Burreson [mailto:cburreson@hotmail.com]\n",
+         "to" : "anne@adventureexpress.com"
+      },
+      {
+         "from" : "anne@adventureexpress.com",
+         "line" : 200,
+         "rawfrom" : "Annie Taylor <anne@adventureexpress.com>\n",
+         "to" : "\"'cburreson@hotmail.com'\" <cburreson@hotmail.com>"
+      }
+   ],
+   "skipped" : 0
+}
+]

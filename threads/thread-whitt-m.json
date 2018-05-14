@@ -1,0 +1,3551 @@
+[
+{
+   "file" : "enron-raw/whitt-m/deleted_items/28.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "t..lucci@enron.com"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Fuller, Dave"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/149.",
+   "hops" : [
+      {
+         "from" : "t..lucci@enron.com",
+         "line" : 4,
+         "rawfrom" : "t..lucci@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, j..bump@enron.com, charles.varnell@enron.com"
+      },
+      {
+         "from" : "jbrewer.leathercenter@leathercenter.com",
+         "line" : 21,
+         "rawfrom" : "jbrewer.LEATHERCENTER@leathercenter.com [mailto:jbrewer.LEATHERCENTER@leathercenter.com]\n",
+         "to" : "chenson.LEATHERCENTER@leathercenter.com; bshook.LEATHERCENTER@leathercenter.com; jswank.LEATHERCENTER@leathercenter.com; dgonzale.LEATHERCENTER@leathercenter.com; texex@texas.net; neecee@netsync.net; plucci@enron.com; llocke.LEATHERCENTER@leathercenter.com"
+      },
+      {
+         "from" : "jeffw@worldstrides.com",
+         "line" : 31,
+         "rawfrom" : "jeffw@worldstrides.com\n",
+         "to" : "peer.ebbighausen@unistudios.com, jbrewer@leathercenter.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 42,
+         "rawfrom" : "From:Craig Smith\n",
+         "to" : "Julie Zangara; Jeff Whitt"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/178.",
+   "hops" : [
+      {
+         "from" : "t..lucci@enron.com",
+         "line" : 4,
+         "rawfrom" : "t..lucci@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, j..bump@enron.com, charles.varnell@enron.com,"
+      },
+      {
+         "from" : "jbrewer.leathercenter@leathercenter.com",
+         "line" : 22,
+         "rawfrom" : "jbrewer.LEATHERCENTER@leathercenter.com [mailto:jbrewer.LEATHERCENTER@leathercenter.com]\n",
+         "to" : "chenson.LEATHERCENTER@leathercenter.com; jswank.LEATHERCENTER@leathercenter.com; bshook.LEATHERCENTER@leathercenter.com; br33burke@aol.com; plucci@enron.com; jeffw@worldstrides.com; L97613@udscorp.com; ratelove@ev1.net; lisalindsley@hotmail.com"
+      },
+      {
+         "from" : "imahiker@hotmail.com",
+         "line" : 32,
+         "rawfrom" : "imahiker@hotmail.com\n",
+         "to" : "jbrewer@leathercenter.com, cwhouse@nwlink.com, musicl1@hotmail.com, celowrie@hotmail.com"
+      },
+      {
+         "from" : "rzittrower@aol.com",
+         "line" : 41,
+         "rawfrom" : "RZittrower@aol.com\n",
+         "to" : "mwcrews@bellsouth.net, GDcrews@hotmail.com, Kdcrews1@email.msn.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/252.",
+   "hops" : [
+      {
+         "from" : "sarah.zarkowsky@enron.com",
+         "line" : 4,
+         "rawfrom" : "sarah.zarkowsky@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 24,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Zarkowsky, Sarah"
+      },
+      {
+         "from" : "sarah.zarkowsky@enron.com",
+         "line" : 33,
+         "rawfrom" : "Zarkowsky, Sarah \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "ron.smith@enron.com",
+         "line" : 44,
+         "rawfrom" : "  Smith, Ron L.  \n",
+         "to" : "Zarkowsky, Sarah"
+      },
+      {
+         "from" : "sarah.zarkowsky@enron.com",
+         "line" : 57,
+         "rawfrom" : "  Zarkowsky, Sarah  \n",
+         "to" : "Smith, Ron L."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/263.",
+   "hops" : [
+      {
+         "from" : "paul.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "paul.miller@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Bump, Dan J.; Harrison, Tyrell; Lucci, Paul T.; Miller, Paul"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "suzanne.calcagno@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tCalcagno, Suzanne  \n",
+         "to" : "Kinsey, Lisa; Sullivan, Patti; Schrab, Mark L.; Miller, Stephanie; Superty, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/270.",
+   "hops" : [
+      {
+         "from" : "j..bump@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..bump@enron.com\r\n",
+         "to" : "dbump@kmg.com"
+      },
+      {
+         "from" : "dbump@kmg.com",
+         "line" : 24,
+         "rawfrom" : "\t\"Bump, David\" <dbump@kmg.com>@ENRON  \n",
+         "to" : "'Cdanjan8@cs.com'; 'dbump@houston.rr.com'; 'D-ROCK'; 'Ginnie & Cody'; 'Richard & Janet'"
+      },
+      {
+         "from" : "eshanks@houston.deepwater.com",
+         "line" : 32,
+         "rawfrom" : "Shanks, Earl [mailto:EShanks@houston.deepwater.com]\n",
+         "to" : "'Bill Mahone'; 'Bob Pauken'; 'Buddy Brooks'; 'David Lewis'; 'Dennis"
+      },
+      {
+         "from" : "emmettr@swbell.net",
+         "line" : 42,
+         "rawfrom" : "Emmett Richardson [mailto:emmettr@swbell.net]\n",
+         "to" : "Scott Bay; Ted Dubose; Bob LaCoste; Mike Krenek; Don Langrock; Glen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/278.",
+   "hops" : [
+      {
+         "from" : "m..landwehr@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..landwehr@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Landwehr, Susan M."
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLandwehr, Susan M.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Landwehr, Susan M.; Neustaedter, Robert; Kaufman, Paul; Kingerski, Harry"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tLandwehr, Susan M.  \n",
+         "to" : "Neustaedter, Robert; Kaufman, Paul; Whitt, Mark; Kingerski, Harry"
+      },
+      {
+         "from" : "robert.neustaedter@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tNeustaedter, Robert  \n",
+         "to" : "Landwehr, Susan M.; Kaufman, Paul; Whitt, Mark; Kingerski, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/283.",
+   "hops" : [
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 4,
+         "rawfrom" : "barry.tycholiz@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "carol.carter@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tCarter, Carol  \n",
+         "to" : "Tycholiz, Barry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/287.",
+   "hops" : [
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 4,
+         "rawfrom" : "barry.tycholiz@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "chad.clark@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tClark, Chad  \n",
+         "to" : "Le Dain, Eric"
+      },
+      {
+         "from" : "\"kevin lambert\" <kslambert2001@hotmail.com>@enron",
+         "line" : 58,
+         "rawfrom" : "\t\"kevin lambert\" <kslambert2001@hotmail.com>@ENRON  \n",
+         "to" : "Clark, Chad"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/289.",
+   "hops" : [
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 4,
+         "rawfrom" : "dave.fuller@enron.com\r\n",
+         "to" : "ameyer@wii.com"
+      },
+      {
+         "from" : "ameyer@wii.com",
+         "line" : 28,
+         "rawfrom" : "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "to" : "Fuller, Dave"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 47,
+         "rawfrom" : "\t\tFrom:\tFuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "to" : "Alan Meyer"
+      },
+      {
+         "from" : "ameyer@wii.com",
+         "line" : 61,
+         "rawfrom" : "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "to" : "Reynolds, Roger"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 108,
+         "rawfrom" : "\t\t\t\tFrom:\tReynolds, Roger\n",
+         "to" : "ameyer@wii.com"
+      },
+      {
+         "from" : "roger.reynolds@enron.com",
+         "line" : 116,
+         "rawfrom" : "\tReynolds, Roger  \n",
+         "to" : "'rnitura@ktminc.com';"
+      },
+      {
+         "from" : "sarah.dietrich@enron.com=20",
+         "line" : 137,
+         "rawfrom" : "\tDietrich, Sarah  \n",
+         "to" : "Reynolds, Roger"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/290.",
+   "hops" : [
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 4,
+         "rawfrom" : "dave.fuller@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "ameyer@wii.com",
+         "line" : 22,
+         "rawfrom" : "Alan Meyer [mailto:ameyer@wii.com]\n",
+         "to" : "Reynolds, Roger"
+      },
+      {
+         "from" : "roger.reynolds@enron.com",
+         "line" : 55,
+         "rawfrom" : "\t\tFrom:\tReynolds, Roger [mailto:Roger.Reynolds@enron.com]\n",
+         "to" : "ameyer@wii.com"
+      },
+      {
+         "from" : "roger.reynolds@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tReynolds, Roger  \n",
+         "to" : "'rnitura@ktminc.com'; ',ameyer@wii.com'"
+      },
+      {
+         "from" : "sarah.dietrich@enron.com=20",
+         "line" : 80,
+         "rawfrom" : "\tDietrich, Sarah  \n",
+         "to" : "Reynolds, Roger"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/292.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, stephanie.miller@enron.com, phil.polsky@enron.com,"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Stephanie; Polsky, Phil; Tycholiz, Barry"
+      },
+      {
+         "from" : "phil.polsky@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tPolsky, Phil  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "dale.t.sanders@williams.com",
+         "line" : 67,
+         "rawfrom" : "\t\"Sanders, Dale T.\" <Dale.T.Sanders@Williams.com>@ENRON  \n",
+         "to" : "Polsky, Phil"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/296.",
+   "hops" : [
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.walton@enron.com\r\n",
+         "to" : "jake.thomas@enron.com, mark.whitt@enron.com"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 98,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/299.",
+   "hops" : [
+      {
+         "from" : "j..bump@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..bump@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Stephanie; Polsky, Phil; Tycholiz, Barry"
+      },
+      {
+         "from" : "phil.polsky@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tPolsky, Phil  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "dale.t.sanders@williams.com",
+         "line" : 60,
+         "rawfrom" : "\t\"Sanders, Dale T.\" <Dale.T.Sanders@Williams.com>@ENRON  \n",
+         "to" : "Polsky, Phil"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/307.",
+   "hops" : [
+      {
+         "from" : "paul.kaufman@enron.com",
+         "line" : 4,
+         "rawfrom" : "paul.kaufman@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "christopher.f.calger@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tCalger, Christopher F.  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/327.",
+   "hops" : [
+      {
+         "from" : "m..landwehr@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..landwehr@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Landwehr, Susan M.; Neustaedter, Robert; Kaufman, Paul; Kingerski, Harry"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLandwehr, Susan M.  \n",
+         "to" : "Neustaedter, Robert; Kaufman, Paul; Whitt, Mark; Kingerski, Harry"
+      },
+      {
+         "from" : "robert.neustaedter@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tNeustaedter, Robert  \n",
+         "to" : "Landwehr, Susan M.; Kaufman, Paul; Whitt, Mark; Kingerski, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/337.",
+   "hops" : [
+      {
+         "from" : "nburge1@aol.com",
+         "line" : 21,
+         "rawfrom" : " <NBurge1@aol.com>\n",
+         "to" : "MarjeanAttridge@juno.com, ABoyer9566@aol.com, FIREBERG1@aol.com, KimLeAnn@aol.com, coolcreek3@msn.com., Burge@qwest.net, D1Deisch@aol.com, MAWhitt@aol.com"
+      },
+      {
+         "from" : "lkradway@aol.com",
+         "line" : 74,
+         "rawfrom" : " <LKRADWAY@aol.com>\n",
+         "to" : "NBurge1@aol.com, FCorno@aol.com, JRKirkham@aol.com"
+      },
+      {
+         "from" : "patsti2@aol.com",
+         "line" : 83,
+         "rawfrom" : " <Patsti2@aol.com>\n",
+         "to" : "LKRADWAY@aol.com, crodgers@casagrande.com, BSmith6184@aol.com"
+      },
+      {
+         "from" : "idahofitzs@aol.com",
+         "line" : 92,
+         "rawfrom" : " <IDAHOFITZS@aol.com>\n",
+         "to" : "bpvandal@yahoo.com, PMcMillen@lewiston.com, crodgers@casagrande.com, ccarson@lewiston.com, lkuther@mail.clarkston.com, mdonovan@seanet.com, WAFrancesR@cs.com, Patsti2@aol.com, rraileybart@aol.com"
+      },
+      {
+         "from" : "delbran@aol.com",
+         "line" : 101,
+         "rawfrom" : " <DelBran@aol.com>\n",
+         "to" : "LarryBrnan@aol.com, Roebrn@aol.com, HGButton@eoni.com, Wandac926@cs.com, RJTuffy@aol.com, Rdevlin@Completebbs.com, Ireneduffy@hotmail.com, BFiorilla@home.com, IDAHOFITZS@aol.com, Ghenson@Completebbs.com, Geoff21_2000@Yahoo.com, Missarlene@webtv.com, Mkenny@Pullman.com, pakman83@earthlink.net, akorvola@bentonrea.com, Monicanew@hotmail.com, bpaull@novell.uidaho.edu, PC1262@Juno.com, KPeep1028@aol.com, marypluhta@hotmail.com, Griedel@webtv.com, Skansblond@earthlink.net, ricky@pullman.com, Taswell@Turbonet.com, kwetmore@club261.aaa.com, Geopete@vcn.com, geowms@bmi.net"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/338.",
+   "hops" : [
+      {
+         "from" : "j..bump@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..bump@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 76,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 89,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/340.",
+   "hops" : [
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 4,
+         "rawfrom" : "jake.thomas@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, steve.walton@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 75,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 88,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/341.",
+   "hops" : [
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.walton@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/342.",
+   "hops" : [
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.walton@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 67,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/343.",
+   "hops" : [
+      {
+         "from" : "j..bump@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..bump@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Bump, Dan J."
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tBump, Dan J.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "ckennedy@patinaoil.com",
+         "line" : 44,
+         "rawfrom" : "\t\"Chris Kennedy\" <CKENNEDY@patinaoil.com>@ENRON  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 67,
+         "rawfrom" : "\tNemec, Gerald\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/354.",
+   "hops" : [
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 4,
+         "rawfrom" : "jake.thomas@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, steve.walton@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/382.",
+   "hops" : [
+      {
+         "from" : "gerald.nemec@enron.com",
+         "line" : 4,
+         "rawfrom" : "gerald.nemec@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "=09miller, stephanie =20",
+         "line" : 22,
+         "rawfrom" : "=09Miller, Stephanie =20\r\n",
+         "to" : "=09Tycholiz, Barry"
+      },
+      {
+         "from" : "=09lawner, leslie =20",
+         "line" : 30,
+         "rawfrom" : "=09Lawner, Leslie =20\r\n",
+         "to" : "=09Miller, Stephanie"
+      },
+      {
+         "from" : "=09miller, stephanie =20",
+         "line" : 56,
+         "rawfrom" : "=09Miller, Stephanie =20\r\n",
+         "to" : "=09Lawner, Leslie"
+      },
+      {
+         "from" : "=09tycholiz, barry =20",
+         "line" : 64,
+         "rawfrom" : "=09Tycholiz, Barry =20\r\n",
+         "to" : "=09Miller, Stephanie"
+      },
+      {
+         "from" : "=09nemec, gerald =20",
+         "line" : 75,
+         "rawfrom" : "=09Nemec, Gerald =20\r\n",
+         "to" : "=09Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/394.",
+   "hops" : [
+      {
+         "from" : "heidi.dubose@enron.com",
+         "line" : 4,
+         "rawfrom" : "heidi.dubose@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "DuBose, Heidi"
+      },
+      {
+         "from" : "officeofthechairman2@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tOffice of the Chairman, [mailto:OfficeoftheChairman2@ENRON.com] \n",
+         "to" : "All Enron Worldwide@ENRON"
+      },
+      {
+         "from" : "officeofthechairman2@enron.com",
+         "line" : 33,
+         "rawfrom" : "OfficeoftheChairman2@ENRON.com",
+         "to" : "All Enron Employees:"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/397.",
+   "hops" : [
+      {
+         "from" : "heidi.dubose@enron.com",
+         "line" : 4,
+         "rawfrom" : "heidi.dubose@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 33,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "DuBose, Heidi"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 45,
+         "rawfrom" : "Tycholiz, Barry \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "enron_update@concureworkplace.com",
+         "line" : 58,
+         "rawfrom" : "enron_update@concureworkplace.com\n",
+         "to" : "Tycholiz, Barry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/418.",
+   "hops" : [
+      {
+         "from" : "ginger.dernehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "ginger.dernehl@enron.com\r\n",
+         "to" : "m..landwehr@enron.com"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 40,
+         "rawfrom" : "Landwehr, Susan M. \n",
+         "to" : "Dernehl, Ginger"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 50,
+         "rawfrom" : "Landwehr, Susan M. \n",
+         "to" : "Noske, Linda J."
+      },
+      {
+         "from" : "pkaufma@ect.enron.com",
+         "line" : 61,
+         "rawfrom" : "  Kaufman, Paul  \n",
+         "to" : "Landwehr, Susan M.; Whitt, Mark"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 70,
+         "rawfrom" : "  Landwehr, Susan M.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 79,
+         "rawfrom" : "  Whitt, Mark  \n",
+         "to" : "Landwehr, Susan M."
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 88,
+         "rawfrom" : "  Landwehr, Susan M.  \n",
+         "to" : "Tycholiz, Barry; Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/420.",
+   "hops" : [
+      {
+         "from" : "m..landwehr@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..landwehr@enron.com\r\n",
+         "to" : "ginger.dernehl@enron.com"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 24,
+         "rawfrom" : "Landwehr, Susan M. \n",
+         "to" : "Noske, Linda J."
+      },
+      {
+         "from" : "pkaufma@ect.enron.com",
+         "line" : 35,
+         "rawfrom" : "  Kaufman, Paul  \n",
+         "to" : "Landwehr, Susan M.; Whitt, Mark"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 44,
+         "rawfrom" : "  Landwehr, Susan M.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 53,
+         "rawfrom" : "  Whitt, Mark  \n",
+         "to" : "Landwehr, Susan M."
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 62,
+         "rawfrom" : "  Landwehr, Susan M.  \n",
+         "to" : "Tycholiz, Barry; Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/432.",
+   "hops" : [
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 4,
+         "rawfrom" : "lhanse@br-inc.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 31,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 40,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 51,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 60,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "J. B. Smith"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 70,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "mwhitt@ect.enron.com"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 78,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "art.spratlin@butlersnow.com; tougsmith@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/67.",
+   "hops" : [
+      {
+         "from" : "j..bump@enron.com",
+         "line" : 4,
+         "rawfrom" : "j..bump@enron.com\r\n",
+         "to" : "t..lucci@enron.com, mark.whitt@enron.com, ken.choyce@enron.com,"
+      },
+      {
+         "from" : "sdulie12@aol.com",
+         "line" : 24,
+         "rawfrom" : "\tSdulie12@aol.com@ENRON  \n",
+         "to" : "Brown18807@aol.com; PBJ831@aol.com; cdanjan@iname.com; dan.bump@enron.com; dbump@houston.rr.com; back2tx@msn.com; JDULTAHOE@aol.com; KFRYE1@aol.com; kchitis@msn.com; stonte@msn.com; koreykirchner@hotmail.com; dloflin@trigo.com; Bred1019@aol.com; RMills4837@aol.com; lmize@houston.rr; Jcschulick@aol.com; BRaffe2179@aol.com; MAWhitt@aol.com; Whitt, Mark"
+      },
+      {
+         "from" : "mshelly@acpbs.com",
+         "line" : 36,
+         "rawfrom" : "\"mshelly\" <mshelly@acpbs.com>\n",
+         "to" : "<attorney@acpbs.com>, \"sally shelly\" <shelly@pclnet.net>,        \"Randy Walton\" <rbwlaw@zebra.net>, \"allen ritchie\" <aar@wrglaw.com>,        \"Toby Brown\" <tdb@cbycb.com>, \"Tim Hathorn\" <TimboH432@cs.com>,        \"Dan Loflin\" <dloflin@trigo.com>,        \"David Walker\" <David_Walker@bmc.com>,        \"scott duliban\" <sdulie12@aol.com>,        \"Jerod Schulick\" <jcschulick@aol.com>,        \"Rob Jordan (E-mail)\" <jordanrob@email.msn.com>,        \"neal\" <neal@pclnet.net>,        \"Johnston, Nick\" <Nick.Johnston@msfc.nasa.gov>,        \"charles woodroof\" <cwoodroof@pclnet.net>,        \"mike white\" <mike@pclnet.net>"
+      },
+      {
+         "from" : "jgurney@cusi.org",
+         "line" : 49,
+         "rawfrom" : "GURNEY JEFFREY <jgurney@cusi.org>\n",
+         "to" : "'Andy Stedman' <stedman@benefitwest.com>; 'Bart Richardson'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/802.",
+   "hops" : [
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 4,
+         "rawfrom" : "barry.tycholiz@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/inbox/89.",
+   "hops" : [
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 4,
+         "rawfrom" : "stephanie.miller@enron.com\r\n",
+         "to" : "mark.whitt@enron.com"
+      },
+      {
+         "from" : "jessica.presas@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPresas, Jessica  \n",
+         "to" : "Miller, Stephanie"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Presas, Jessica"
+      },
+      {
+         "from" : "jessica.presas@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tPresas, Jessica  \n",
+         "to" : "Miller, Stephanie; Ward, Kim S (Houston); Polsky, Phil; Bronstein, Mara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/115.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/118.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "jake.thomas@enron.com"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/120.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBump, Dan J.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Bump, Dan J."
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tBump, Dan J.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "ckennedy@patinaoil.com",
+         "line" : 52,
+         "rawfrom" : "\t\"Chris Kennedy\" <CKENNEDY@patinaoil.com>@ENRON  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 75,
+         "rawfrom" : "\tNemec, Gerald\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/121.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBump, Dan J.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "ckennedy@patinaoil.com",
+         "line" : 32,
+         "rawfrom" : "\t\"Chris Kennedy\" <CKENNEDY@patinaoil.com>@ENRON  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 55,
+         "rawfrom" : "\tNemec, Gerald\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/122.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "dave.fuller@enron.com"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Presas, Jessica; Tycholiz, Barry"
+      },
+      {
+         "from" : "jessica.presas@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPresas, Jessica  \n",
+         "to" : "Bronstein, Mara; Felling, Amy; Fuller, Dave; Harrison, Tyrell; Lucci, Paul T.; Miller, Stephanie; Polsky, Phil; Staab, Theresa; Ward, Kim S (Houston); Whitt, Mark"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Presas, Jessica"
+      },
+      {
+         "from" : "mikegrigsby@hotmail.com",
+         "line" : 49,
+         "rawfrom" : "\tGrigsby, Mike  \n",
+         "to" : "Allen, Phillip K.; Gay, Randall L.; Heu, Mog; Holst, Keith; Huang, Jason; Kuykendall, Tori; Lenhart, Matthew; Lisk, Daniel; Reitmeyer, Jay; Sanchez, Monique; Scott, Susan M.; Smith, Matt; South, Steven P.; Sullivan, Patti; Tholt, Jane M.; Tycholiz, Barry; Wolfe, Jason"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/126.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "jake.thomas@enron.com, steve.walton@enron.com"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/129.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "steve.walton@enron.com, paul.kaufman@enron.com"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "christopher.f.calger@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tCalger, Christopher F.  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/139.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "'appling@enron.com, mappling@chematch.com, steven.wolf@entergykoch.com"
+      },
+      {
+         "from" : "mappling@chematch.com",
+         "line" : 22,
+         "rawfrom" : "Appling, Mike [mailto:mappling@chematch.com]\n",
+         "to" : "Steven Wolf (E-mail)"
+      },
+      {
+         "from" : "steven.wolf@entergykoch.com",
+         "line" : 37,
+         "rawfrom" : "Wolf, Steven (EKT) [mailto:Steven.Wolf@entergykoch.com]\n",
+         "to" : "Appling, Mike"
+      },
+      {
+         "from" : "mappling@chematch.com",
+         "line" : 46,
+         "rawfrom" : "> From:\tAppling, Mike [SMTP:mappling@chematch.com]\n",
+         "to" : "Jerry Jernigan (E-mail); Steven Jernigan (E-mail); Steven Wolf"
+      },
+      {
+         "from" : "cfo.com_newsletters@cfo.com",
+         "line" : 57,
+         "rawfrom" : "CFO.com_Newsletters@cfo.com [mailto:CFO.com_Newsletters@cfo.com]\n",
+         "to" : "Appling, Mike"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/146.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 21,
+         "rawfrom" : "Lucci, Paul T. \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "pdowney@southerngas.org",
+         "line" : 29,
+         "rawfrom" : "Downey, Pat \n",
+         "to" : "Lucci, Paul T.; Whitt, Mark"
+      },
+      {
+         "from" : "chrisbaldwin@clearchannel.com",
+         "line" : 37,
+         "rawfrom" : "Baldwin, Chris [mailto:ChrisBaldwin@ClearChannel.com]\n",
+         "to" : "Downey, Pat"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/149.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "t..lucci@enron.com"
+      },
+      {
+         "from" : "mappling@chematch.com",
+         "line" : 22,
+         "rawfrom" : "Appling, Mike [mailto:mappling@chematch.com]\n",
+         "to" : "Arthur Carpentier (E-mail); Brett Treadwell (E-mail); Brian Cannell"
+      },
+      {
+         "from" : "john@herc.net",
+         "line" : 47,
+         "rawfrom" : "John O'Neal [mailto:john@herc.net]\n",
+         "to" : "McAfee, Larry"
+      },
+      {
+         "from" : "bileu@aol.com",
+         "line" : 54,
+         "rawfrom" : "<BILEU@aol.com>\n",
+         "to" : "<dick@dethloffinsurance.com>; <djjames@ipa.net>; <awferg@swbell.net>;"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/158.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "amy.felling@enron.com, t..lucci@enron.com, theresa.staab@enron.com,"
+      },
+      {
+         "from" : "heidi.dubose@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tDuBose, Heidi  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "DuBose, Heidi"
+      },
+      {
+         "from" : "officeofthechairman2@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tOffice of the Chairman, [mailto:OfficeoftheChairman2@ENRON.com] \n",
+         "to" : "All Enron Worldwide@ENRON"
+      },
+      {
+         "from" : "officeofthechairman2@enron.com",
+         "line" : 42,
+         "rawfrom" : "OfficeoftheChairman2@ENRON.com",
+         "to" : "All Enron Employees:"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/164.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "lhanse@br-inc.com"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 22,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 40,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 49,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 60,
+         "rawfrom" : "Hanse Lee [ <mailto:LHanse@br-inc.com>]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 69,
+         "rawfrom" : "Whitt, Mark [ <mailto:Mark.Whitt@ENRON.com>]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 78,
+         "rawfrom" : "Hanse Lee [ <mailto:LHanse@br-inc.com>]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 87,
+         "rawfrom" : "Whitt, Mark [ <mailto:Mark.Whitt@ENRON.com>]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 98,
+         "rawfrom" : "Hanse Lee [ <mailto:LHanse@br-inc.com>]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 107,
+         "rawfrom" : "Whitt, Mark [ <mailto:Mark.Whitt@ENRON.com>]\n",
+         "to" : "J. B. Smith"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 117,
+         "rawfrom" : "        J. B. Smith [ <mailto:jbsmith@ypcnm.com>]\n",
+         "to" : "mwhitt@ect.enron.com"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 125,
+         "rawfrom" : "        J. B. Smith [ <mailto:jbsmith@ypcnm.com>]\n",
+         "to" : "art.spratlin@butlersnow.com; tougsmith@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/174.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "lhanse@br-inc.com"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 22,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 42,
+         "rawfrom" : "Hanse Lee [ <mailto:LHanse@br-inc.com>]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 51,
+         "rawfrom" : "Whitt, Mark [ <mailto:Mark.Whitt@ENRON.com>]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 60,
+         "rawfrom" : "Hanse Lee [ <mailto:LHanse@br-inc.com>]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 69,
+         "rawfrom" : "Whitt, Mark [ <mailto:Mark.Whitt@ENRON.com>]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 80,
+         "rawfrom" : "Hanse Lee [ <mailto:LHanse@br-inc.com>]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 89,
+         "rawfrom" : "Whitt, Mark [ <mailto:Mark.Whitt@ENRON.com>]\n",
+         "to" : "J. B. Smith"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 99,
+         "rawfrom" : "        J. B. Smith [ <mailto:jbsmith@ypcnm.com>]\n",
+         "to" : "mwhitt@ect.enron.com"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 107,
+         "rawfrom" : "        J. B. Smith [ <mailto:jbsmith@ypcnm.com>]\n",
+         "to" : "art.spratlin@butlersnow.com; tougsmith@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/177.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "dave.fuller@enron.com"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 22,
+         "rawfrom" : "Fuller, Dave \n",
+         "to" : "Whitt, Mark; Tycholiz, Barry"
+      },
+      {
+         "from" : "barryp@bp.com",
+         "line" : 31,
+         "rawfrom" : "Barry, Penny [mailto:barryp@bp.com]\n",
+         "to" : "Fuller, Dave"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 49,
+         "rawfrom" : "Fuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "to" : "Barry, Penny"
+      },
+      {
+         "from" : "barryp@bp.com",
+         "line" : 61,
+         "rawfrom" : "Barry, Penny [mailto:barryp@bp.com]\n",
+         "to" : "Fuller, Dave"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 74,
+         "rawfrom" : "Fuller, Dave [mailto:Dave.Fuller@enron.com]\n",
+         "to" : "barryp@bp.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/18.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "tim.murphy@elpaso.com"
+      },
+      {
+         "from" : "sdulie12@aol.com",
+         "line" : 22,
+         "rawfrom" : "Sdulie12@aol.com [mailto:Sdulie12@aol.com]\n",
+         "to" : "Brown18807@aol.com; PBJ831@aol.com; cdanjan@iname.com;"
+      },
+      {
+         "from" : "mshelly@acpbs.com",
+         "line" : 36,
+         "rawfrom" : " <mshelly@acpbs.com>\n",
+         "to" : "attorney@acpbs.com, sally shelly <shelly@pclnet.net>, Randy Walton <rbwlaw@zebra.net>, allen ritchie <aar@wrglaw.com>, Toby Brown <tdb@cbycb.com>, Tim Hathorn <TimboH432@cs.com>, Dan Loflin <dloflin@trigo.com>, David Walker <David_Walker@bmc.com>, scott duliban <sdulie12@aol.com>, Jerod Schulick <jcschulick@aol.com>, Rob Jordan (E-mail) <jordanrob@email.msn.com>, neal <neal@pclnet.net>, Johnston, Nick <Nick.Johnston@msfc.nasa.gov>, charles woodroof <cwoodroof@pclnet.net>, mike white <mike@pclnet.net>"
+      },
+      {
+         "from" : "jgurney@cusi.org",
+         "line" : 43,
+         "rawfrom" : "GURNEY JEFFREY <jgurney@cusi.org>\n",
+         "to" : "'Andy Stedman' <stedman@benefitwest.com>; 'Bart Richardson'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/195.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "lhanse@br-inc.com"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 22,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 40,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 49,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 60,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 69,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "J. B. Smith"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 79,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "mwhitt@ect.enron.com"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 87,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "art.spratlin@butlersnow.com; tougsmith@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/196.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..legler@enron.com"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLucci, Paul T.  \n",
+         "to" : "Whitt, Mark; Harrison, Tyrell"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Le Dain, Eric"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 53,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Le Dain, Eric"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/197.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "lhanse@br-inc.com"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 22,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Hanse Lee"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 42,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 51,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "J. B. Smith"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 61,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "mwhitt@ect.enron.com"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 69,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "art.spratlin@butlersnow.com; tougsmith@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/198.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "lhanse@br-inc.com"
+      },
+      {
+         "from" : "lhanse@br-inc.com",
+         "line" : 22,
+         "rawfrom" : "Hanse Lee [mailto:LHanse@br-inc.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "J. B. Smith"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 41,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "mwhitt@ect.enron.com"
+      },
+      {
+         "from" : "jbsmith@ypcnm.com",
+         "line" : 49,
+         "rawfrom" : "\tJ. B. Smith [mailto:jbsmith@ypcnm.com] \n",
+         "to" : "art.spratlin@butlersnow.com; tougsmith@hotmail.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/26.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "janet.place@enron.com"
+      },
+      {
+         "from" : "janet.place@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tPlace, Janet  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Place, Janet"
+      },
+      {
+         "from" : "janet.place@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tPlace, Janet  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/28.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "'williams@enron.com, bob.williams@elpaso.com"
+      },
+      {
+         "from" : "bob.williams@elpaso.com",
+         "line" : 22,
+         "rawfrom" : "Williams, Bob [mailto:Bob.Williams@ElPaso.com]\n",
+         "to" : "'plucci@enron.com'; 'MWhitt@enron.com'"
+      },
+      {
+         "from" : "pdoyle@northmarq.com",
+         "line" : 33,
+         "rawfrom" : "Pat Doyle [mailto:pdoyle@northmarq.com]\n",
+         "to" : "Williams, Bob"
+      },
+      {
+         "from" : "lukenolan@bankunited.com",
+         "line" : 45,
+         "rawfrom" : "Luke Nolan [mailto:lukenolan@bankunited.com]\n",
+         "to" : "pdoyle@northmarq.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/32.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "stephanie.miller@enron.com"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "jessica.presas@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPresas, Jessica  \n",
+         "to" : "Miller, Stephanie"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Presas, Jessica"
+      },
+      {
+         "from" : "jessica.presas@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tPresas, Jessica  \n",
+         "to" : "Miller, Stephanie; Ward, Kim S (Houston); Polsky, Phil; Bronstein, Mara"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/339.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "paul.miller@enron.com"
+      },
+      {
+         "from" : "paul.miller@ps.ge.com",
+         "line" : 22,
+         "rawfrom" : "\tMiller, Paul  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Bump, Dan J.; Harrison, Tyrell; Lucci, Paul T.; Miller, Paul"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "suzanne.calcagno@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tCalcagno, Suzanne  \n",
+         "to" : "Kinsey, Lisa; Sullivan, Patti; Schrab, Mark L.; Miller, Stephanie; Superty, Robert"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/34.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "darren.vanek@enron.com"
+      },
+      {
+         "from" : "tricia.flanigan@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tFlanigan, Tricia  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Flanigan, Tricia"
+      },
+      {
+         "from" : "tricia.flanigan@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tFlanigan, Tricia  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/346.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "mawhitt@aol.com"
+      },
+      {
+         "from" : "brianday@aec.ca",
+         "line" : 22,
+         "rawfrom" : "Day, Brian (Denver) [mailto:BrianDay@aec.ca]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "> from:\tkrape, jack (denver)",
+         "line" : 31,
+         "rawfrom" : "> From:\tKrape, Jack (Denver) \n",
+         "to" : "Totzke, Christian (Denver); Day, Brian (Denver)"
+      },
+      {
+         "from" : "paul.skach@lewan.com",
+         "line" : 39,
+         "rawfrom" : "> From:\tPaul Skach [mailto:paul.skach@lewan.com]\n",
+         "to" : "Andy Richter (E-mail); Bill Artzer (E-mail); Brad Sandler (E-mail);"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/348.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "tyrell.harrison@enron.com"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Fuller, Dave"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/352.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 32,
+         "rawfrom" : "\tNemec, Gerald  \n",
+         "to" : "Fuller, Dave; Whitt, Mark"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/355.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 50,
+         "rawfrom" : "\tNemec, Gerald  \n",
+         "to" : "Fuller, Dave; Whitt, Mark"
+      },
+      {
+         "from" : "dave.fuller@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tFuller, Dave  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/360.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 22,
+         "rawfrom" : "Staab, Theresa \n",
+         "to" : "Whitt, Mark; Lucci, Paul T."
+      },
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 31,
+         "rawfrom" : "Jennifer Buffington [mailto:JBUFFING@westerngas.com]\n",
+         "to" : "Deannathaut@aol.com; Girly069Buf@aol.com; Theresa_Staab@enron.com;"
+      },
+      {
+         "from" : "rwasilow@westerngas.com",
+         "line" : 41,
+         "rawfrom" : " <Rwasilow@westerngas.com>\n",
+         "to" : "Jennifer Buffington <JBUFFING.MKTPO.D1DOMAIN@westerngas.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/367.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "paul.miller@enron.com"
+      },
+      {
+         "from" : "paul.miller@ps.ge.com",
+         "line" : 22,
+         "rawfrom" : "\tMiller, Paul  \n",
+         "to" : "Whitt, Mark; Bierbach, Brian; Baldridge, Don; Bump, Dan J.; Legler, Michael J.; Varnell, Charles"
+      },
+      {
+         "from" : "mitch.meyer@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tMeyer, Mitch  \n",
+         "to" : "Miller, Paul; Tuttle, Bruce"
+      },
+      {
+         "from" : "tagesell@midamerican.com",
+         "line" : 38,
+         "rawfrom" : "\t\"Gesell, Tom A\" <TAGesell@midamerican.com>@ENRON  \n",
+         "to" : "Dutler, Jane M; Dutler, Jane M; Meyer, Mitch; Scott McCoig (E-mail); Wally Piepho (E-mail); Semin, Frank"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/383.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "Tycholiz, Barry \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 33,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Lucci, Paul T.; Tycholiz, Barry"
+      },
+      {
+         "from" : "htebs@huber.com",
+         "line" : 42,
+         "rawfrom" : "Brian Stone [mailto:htebs@huber.com]\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/393.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "paul.miller@enron.com"
+      },
+      {
+         "from" : "paul.miller@ps.ge.com",
+         "line" : 23,
+         "rawfrom" : "\tMiller, Paul  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Paul"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Whitt, Mark; Polsky, Phil"
+      },
+      {
+         "from" : "rebecca.w.cantrell@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tCantrell, Rebecca W.  \n",
+         "to" : "Miller, Stephanie; Tholt, Jane M.; Shively, Hunter S.; Lucci, Paul T."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/396.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "'murphy@enron.com, tim.murphy@elpaso.com"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 28,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 43,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Murphy, Tim"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 52,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "'Bump, Dan'; 'Whitt, Mark'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/398.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "'murphy@enron.com, tim.murphy@elpaso.com"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 22,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Murphy, Tim"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 46,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 61,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Murphy, Tim"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 70,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "'Bump, Dan'; 'Whitt, Mark'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/399.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 23,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 32,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Murphy, Tim"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 47,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 62,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Murphy, Tim"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 71,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "'Bump, Dan'; 'Whitt, Mark'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/408.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "james.hoff@enron.com"
+      },
+      {
+         "from" : "james.hoff@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHoff, James  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Paul"
+      },
+      {
+         "from" : "paul.miller@ps.ge.com",
+         "line" : 39,
+         "rawfrom" : "\tMiller, Paul  \n",
+         "to" : "Whitt, Mark; Harrison, Tyrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/409.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/412.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "james.hoff@enron.com"
+      },
+      {
+         "from" : "james.hoff@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHoff, James  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Hoff, James"
+      },
+      {
+         "from" : "james.hoff@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tHoff, James  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Paul"
+      },
+      {
+         "from" : "paul.miller@ps.ge.com",
+         "line" : 55,
+         "rawfrom" : "\tMiller, Paul  \n",
+         "to" : "Whitt, Mark; Harrison, Tyrell"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/418.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/419.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "'murphy@enron.com, tim.murphy@elpaso.com"
+      },
+      {
+         "from" : "tim.murphy@elpaso.com",
+         "line" : 22,
+         "rawfrom" : "Murphy, Tim [mailto:Tim.Murphy@ElPaso.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "Murphy, Tim"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 40,
+         "rawfrom" : "Lucci, Paul T. \n",
+         "to" : "Whitt, Mark; Harrison, Tyrell; Bump, Dan J.; Varnell, Charles"
+      },
+      {
+         "from" : "john.d.williamson@us.andersen.com",
+         "line" : 50,
+         "rawfrom" : "john.d.williamson@us.andersen.com\n",
+         "to" : "awhite@ktvd.com; BLagodna@aol.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/421.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 22,
+         "rawfrom" : "Bump, Dan J. \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 32,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Bump, Dan J."
+      },
+      {
+         "from" : "kristen.jurgens@enron.com",
+         "line" : 41,
+         "rawfrom" : "Jurgens, Kristen \n",
+         "to" : "Herauf, Terry; Hoffman, Troy; Gentry, Darrel; Hart, Rusty ; Taggart, Vern; Vande Bossche, Dick; Askew, William; Baldridge, Don; Bawden, Brian; Bierbach, Brian; Bloom, Bert; Bump, Dan J.; Braden, Catherine; Choyce, Ken; Dickenson, Carla; Downey, Pat; Flanigan, Tricia; Forrester, Dixie; Fresquez, Rick; Gross, Michelle; Hoff, James; Jagau, Jim; Jantz, Chris; Jurgens, Kristen; Kolman, Michael; Kusner, Stephen; Lebsack, Ryan; Legler, Michael J.; Lucero, Catrina; Martinez, Chris; Mathews, Bill; McElhaney, Daniel; Mcnamee, Linda; Mentor, Patricia; Norris, Sue; Norton, Pierce; Parada, Lisa; Pimmel, Tim; Rafter, Mick; Ritzdorf, Paul; Schlecht, Dinah; Schroeder, Andy; Scobel, Dave; Serrano, Walt; Shields, Glennda; Sitter, Scott; Smith, Steve D; Srikijkarn, Rick; Tipton, Sarah; Varnell, Charles; Walsh, Alan; Weisberg, William; Wiederholt, Barry; Wiesner, Paul; Woods, Janice; DuBose, Heidi; Felling, Amy; Harrison, Tyrell; Lucci, Paul T.; Staab, Theresa; Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/422.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 22,
+         "rawfrom" : "Bump, Dan J. \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Bump, Dan J."
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 41,
+         "rawfrom" : "Bump, Dan J. \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 51,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Bump, Dan J."
+      },
+      {
+         "from" : "kristen.jurgens@enron.com",
+         "line" : 60,
+         "rawfrom" : "Jurgens, Kristen \n",
+         "to" : "Herauf, Terry; Hoffman, Troy; Gentry, Darrel; Hart, Rusty ; Taggart, Vern; Vande Bossche, Dick; Askew, William; Baldridge, Don; Bawden, Brian; Bierbach, Brian; Bloom, Bert; Bump, Dan J.; Braden, Catherine; Choyce, Ken; Dickenson, Carla; Downey, Pat; Flanigan, Tricia; Forrester, Dixie; Fresquez, Rick; Gross, Michelle; Hoff, James; Jagau, Jim; Jantz, Chris; Jurgens, Kristen; Kolman, Michael; Kusner, Stephen; Lebsack, Ryan; Legler, Michael J.; Lucero, Catrina; Martinez, Chris; Mathews, Bill; McElhaney, Daniel; Mcnamee, Linda; Mentor, Patricia; Norris, Sue; Norton, Pierce; Parada, Lisa; Pimmel, Tim; Rafter, Mick; Ritzdorf, Paul; Schlecht, Dinah; Schroeder, Andy; Scobel, Dave; Serrano, Walt; Shields, Glennda; Sitter, Scott; Smith, Steve D; Srikijkarn, Rick; Tipton, Sarah; Varnell, Charles; Walsh, Alan; Weisberg, William; Wiederholt, Barry; Wiesner, Paul; Woods, Janice; DuBose, Heidi; Felling, Amy; Harrison, Tyrell; Lucci, Paul T.; Staab, Theresa; Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/424.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "jwhitt@gvec.net"
+      },
+      {
+         "from" : "jwhitt@gvec.net",
+         "line" : 22,
+         "rawfrom" : "John & Martha Jo Whitt [mailto:jwhitt@gvec.net]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "Whitt, Mark <mailto:Mark.Whitt@ENRON.com> \n",
+         "to" : "jwhitt@gvec.net <mailto:jwhitt@gvec.net>"
+      },
+      {
+         "from" : "christina_122367@hotmail.com",
+         "line" : 39,
+         "rawfrom" : "Christina Rawlings-Curtis [ <mailto:christina_122367@hotmail.com>]\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/427.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "kristen.jurgens@enron.com"
+      },
+      {
+         "from" : "kristen.jurgens@enron.com",
+         "line" : 24,
+         "rawfrom" : "Jurgens, Kristen \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 44,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Jurgens, Kristen"
+      },
+      {
+         "from" : "mawhitt@aol.com",
+         "line" : 52,
+         "rawfrom" : "MAWhitt@aol.com [mailto:MAWhitt@aol.com]\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/432.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "lowen@reliantenergy.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Whitt, Mark \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 31,
+         "rawfrom" : "Lucci, Paul T. \n",
+         "to" : "Whitt, Mark; Harrison, Tyrell; Bump, Dan J.; Varnell, Charles"
+      },
+      {
+         "from" : "john.d.williamson@us.andersen.com",
+         "line" : 41,
+         "rawfrom" : "john.d.williamson@us.andersen.com\n",
+         "to" : "awhite@ktvd.com; BLagodna@aol.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/437.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "brian.bierbach@enron.com, j..bump@enron.com"
+      },
+      {
+         "from" : "tyrell.harrison@enron.com",
+         "line" : 22,
+         "rawfrom" : "Harrison, Tyrell \n",
+         "to" : "Whitt, Mark; Lucci, Paul T.; Felling, Amy; Staab, Theresa; Tycholiz,"
+      },
+      {
+         "from" : "chris.poursharif@ubspainewebber.com",
+         "line" : 32,
+         "rawfrom" : "Poursharif, Chris [mailto:chris.poursharif@ubspainewebber.com]\n",
+         "to" : "Harrison, Tyrell; enronstock@painewebber.com"
+      },
+      {
+         "from" : "tyrell.harrison@enron.com",
+         "line" : 71,
+         "rawfrom" : "Harrison, Tyrell [mailto:Tyrell.Harrison@enron.com]\n",
+         "to" : "enronstock@painewebber.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/446.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "johealy@charter.net"
+      },
+      {
+         "from" : "johealy@charter.net",
+         "line" : 22,
+         "rawfrom" : "Janet Healy [mailto:johealy@charter.net]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 34,
+         "rawfrom" : "Whitt, Mark [mailto:Mark.Whitt@ENRON.com]\n",
+         "to" : "mawhitt@aol.com; Bump, Dan J.; Harrison, Tyrell; Lucci, Paul T."
+      },
+      {
+         "from" : "mappling@chematch.com",
+         "line" : 43,
+         "rawfrom" : "    Appling, Mike  [mailto:mappling@chematch.com]\n",
+         "to" : "Brett Treadwell (E-mail) ; David Elias (E-mail) ; David Zaozirny"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/452.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "kam.keiser@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Keiser, Kam"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Alonso, Tom; Badeer, Robert; Belden, Tim; Clark, Chad; Cowan, Mike; Dorland, Chris; Foster, Chris H.; Heu, Mog; Huang, Jason; Lucci, Paul T.; Mallory, Chris; Miller, Stephanie; Motley, Matt; Tycholiz, Barry; Ward, Kim S (Houston); Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/46.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 21,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 30,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Sewell, Doug; Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle; Deane, Ryan"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 42,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/47.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 21,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 30,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Sewell, Doug; Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle; Deane, Ryan"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 42,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/48.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 32,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Sewell, Doug; Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle; Deane, Ryan"
+      },
+      {
+         "from" : "doug.sewell@enron.com",
+         "line" : 44,
+         "rawfrom" : "Sewell, Doug \n",
+         "to" : "Bartlett, Jeff; Coffey Jr., Jim; Colwell, Wes; Comeaux, Keith; Irvin, Steve; Jacoby, Ben; Larson, Bradford; Lydecker Jr., Richard; McMichael Jr., Ed; Melendrez, Jesus; Miller, Don (Asset Mktg); Parquet, David; Plauche, Stephen; Redmond, Brian; Thomas, Jake; Virgo, Robert; Ward, Charles; Zisman, Stuart; Kitagawa, Kyle"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/61.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Helton, Susan; Staab, Theresa"
+      },
+      {
+         "from" : "susan.helton@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tHelton, Susan  \n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/63.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "mawhitt@aol.com"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 21,
+         "rawfrom" : "Lucci, Paul T. \n",
+         "to" : "Whitt, Mark; Bump, Dan J.; Varnell, Charles; Nemec, Gerald; Ward, Kim S (Houston)"
+      },
+      {
+         "from" : "jbrewer.leathercenter@leathercenter.com",
+         "line" : 29,
+         "rawfrom" : "jbrewer.LEATHERCENTER@leathercenter.com [mailto:jbrewer.LEATHERCENTER@leathercenter.com]\n",
+         "to" : "chenson.LEATHERCENTER@leathercenter.com; jswank.LEATHERCENTER@leathercenter.com; bshook.LEATHERCENTER@leathercenter.com; br33burke@aol.com; plucci@enron.com; jeffw@worldstrides.com; L97613@udscorp.com; ratelove@ev1.net; lisalindsley@hotmail.com"
+      },
+      {
+         "from" : "imahiker@hotmail.com",
+         "line" : 39,
+         "rawfrom" : "imahiker@hotmail.com\n",
+         "to" : "jbrewer@leathercenter.com, cwhouse@nwlink.com, musicl1@hotmail.com, celowrie@hotmail.com"
+      },
+      {
+         "from" : "rzittrower@aol.com",
+         "line" : 48,
+         "rawfrom" : "RZittrower@aol.com\n",
+         "to" : "mwcrews@bellsouth.net, GDcrews@hotmail.com, Kdcrews1@email.msn.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/72.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com"
+      },
+      {
+         "from" : "dan_j_bump@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBump, Dan J.  \n",
+         "to" : "'\"Bump, David\" <dbump@kmg.com>@ENRON'"
+      },
+      {
+         "from" : "dbump@kmg.com",
+         "line" : 31,
+         "rawfrom" : "\t\"Bump, David\" <dbump@kmg.com>@ENRON  \n",
+         "to" : "'Cdanjan8@cs.com'; 'dbump@houston.rr.com'; 'D-ROCK'; 'Ginnie & Cody'; 'Richard & Janet'"
+      },
+      {
+         "from" : "eshanks@houston.deepwater.com",
+         "line" : 39,
+         "rawfrom" : "Shanks, Earl [mailto:EShanks@houston.deepwater.com]\n",
+         "to" : "'Bill Mahone'; 'Bob Pauken'; 'Buddy Brooks'; 'David Lewis'; 'Dennis"
+      },
+      {
+         "from" : "emmettr@swbell.net",
+         "line" : 49,
+         "rawfrom" : "Emmett Richardson [mailto:emmettr@swbell.net]\n",
+         "to" : "Scott Bay; Ted Dubose; Bob LaCoste; Mike Krenek; Don Langrock; Glen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/81.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "t..lucci@enron.com"
+      },
+      {
+         "from" : "randylas@vail.net",
+         "line" : 21,
+         "rawfrom" : "Randy Lasater [mailto:randylas@vail.net]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 35,
+         "rawfrom" : "Whitt, Mark <mailto:Mark.Whitt@ENRON.com> \n",
+         "to" : "Randy Lasater <mailto:randylas@vail.net>"
+      },
+      {
+         "from" : "randylas@vail.net",
+         "line" : 44,
+         "rawfrom" : "Randy Lasater [mailto:randylas@vail.net]\n",
+         "to" : "Paul Lucci"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/83.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Tycholiz, Barry"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "chad.clark@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tClark, Chad  \n",
+         "to" : "Le Dain, Eric"
+      },
+      {
+         "from" : "\"kevin lambert\" <kslambert2001@hotmail.com>@enron",
+         "line" : 66,
+         "rawfrom" : "\t\"kevin lambert\" <kslambert2001@hotmail.com>@ENRON  \n",
+         "to" : "Clark, Chad"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/84.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "dave.fuller@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Whitt, Mark; Miller, Stephanie; Polsky, Phil; Tycholiz, Barry"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Stephanie; Polsky, Phil; Tycholiz, Barry"
+      },
+      {
+         "from" : "phil.polsky@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tPolsky, Phil  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "dale.t.sanders@williams.com",
+         "line" : 71,
+         "rawfrom" : "\t\"Sanders, Dale T.\" <Dale.T.Sanders@Williams.com>@ENRON  \n",
+         "to" : "Polsky, Phil"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/85.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "j..bump@enron.com, jake.thomas@enron.com"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Thomas, Jake; Whitt, Mark"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Thomas, Jake; Walton, Steve"
+      },
+      {
+         "from" : "jake.thomas@enron.com",
+         "line" : 74,
+         "rawfrom" : "\tThomas, Jake  \n",
+         "to" : "Whitt, Mark; Walton, Steve"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 85,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve"
+      },
+      {
+         "from" : "steve.walton@enron.com",
+         "line" : 96,
+         "rawfrom" : "\tWalton, Steve  \n",
+         "to" : "Whitt, Mark; Kaufman, Paul; Calger, Christopher F."
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 109,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Walton, Steve; Kaufman, Paul; Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/86.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "mark.whitt@enron.com, stephanie.miller@enron.com, phil.polsky@enron.com,"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Miller, Stephanie; Polsky, Phil; Tycholiz, Barry"
+      },
+      {
+         "from" : "phil.polsky@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tPolsky, Phil  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "dale.t.sanders@williams.com",
+         "line" : 67,
+         "rawfrom" : "\t\"Sanders, Dale T.\" <Dale.T.Sanders@Williams.com>@ENRON  \n",
+         "to" : "Polsky, Phil"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/88.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "barry.tycholiz@enron.com"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "chad.clark@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tClark, Chad  \n",
+         "to" : "Le Dain, Eric"
+      },
+      {
+         "from" : "\"kevin lambert\" <kslambert2001@hotmail.com>@enron",
+         "line" : 48,
+         "rawfrom" : "\t\"kevin lambert\" <kslambert2001@hotmail.com>@ENRON  \n",
+         "to" : "Clark, Chad"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/93.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "heather_strauss@prusec.com"
+      },
+      {
+         "from" : "heather_strauss@prusec.com",
+         "line" : 22,
+         "rawfrom" : "Heather K. Strauss [mailto:heather_strauss@prusec.com]\n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 37,
+         "rawfrom" : "Mark.Whitt@enron.com",
+         "to" : "\"Heather K. Strauss\" <heather_strauss@prusec.com>"
+      },
+      {
+         "from" : "heather_strauss@prusec.com",
+         "line" : 47,
+         "rawfrom" : "Heather K. Strauss [mailto:heather_strauss@prusec.com]\n",
+         "to" : "Whitt, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/whitt-m/sent_items/97.",
+   "hops" : [
+      {
+         "from" : "mark.whitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.whitt@enron.com\r\n",
+         "to" : "m..landwehr@enron.com"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLandwehr, Susan M.  \n",
+         "to" : "Whitt, Mark"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhitt, Mark  \n",
+         "to" : "Landwehr, Susan M.; Neustaedter, Robert; Kaufman, Paul; Kingerski, Harry"
+      },
+      {
+         "from" : "susan_m_landwehr@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLandwehr, Susan M.  \n",
+         "to" : "Neustaedter, Robert; Kaufman, Paul; Whitt, Mark; Kingerski, Harry"
+      },
+      {
+         "from" : "robert.neustaedter@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tNeustaedter, Robert  \n",
+         "to" : "Landwehr, Susan M.; Kaufman, Paul; Whitt, Mark; Kingerski, Harry"
+      }
+   ],
+   "skipped" : 0
+}
+]

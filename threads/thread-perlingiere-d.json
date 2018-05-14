@@ -1,0 +1,3221 @@
+[
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/2207.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "russell.diamond@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 36,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 02/15/2001 05:32 PM -----\n",
+         "to" : "debra.perlingiere@enron.com, Kathy_Gerken@cargill.com,"
+      },
+      {
+         "from" : "marc_rubenstein@cargill.com",
+         "line" : 51,
+         "rawfrom" : "Rubenstein, Marc /hdqt\n",
+         "to" : "Gerken, Kathy /hdqt"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 60,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "rubenstein, marc /hdqt"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/2269.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "james.copeland@enron.com"
+      },
+      {
+         "from" : "james.l.copeland@enron.com",
+         "line" : 44,
+         "rawfrom" : "James L Copeland/ENRON@enronXgate\n",
+         "to" : "Christina Finelli/HOU/EES@EES"
+      },
+      {
+         "from" : "christina.finelli@enron.com",
+         "line" : 58,
+         "rawfrom" : " Finelli, Christina  \n",
+         "to" : "Copeland, James L."
+      },
+      {
+         "from" : "james.l.copeland@enron.com",
+         "line" : 72,
+         "rawfrom" : "James L Copeland/ENRON@enronXgate on 02/27/2001 11:43 AM\n",
+         "to" : "Christina Finelli/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/2371.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "veronica.espinoza@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/14/2001 11:12 AM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT, Russell Diamond/ENRON@enronXgate"
+      },
+      {
+         "from" : "veronica.espinoza@enron.com",
+         "line" : 42,
+         "rawfrom" : " Espinoza, Veronica  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 63,
+         "rawfrom" : " Debra Perlingiere  \n",
+         "to" : "Veronica Espinoza"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 84,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 02/21/2001 11:02 AM -----\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/2447.",
+   "hops" : [
+      {
+         "from" : "russell.diamond@enron.com",
+         "line" : 4,
+         "rawfrom" : "russell.diamond@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 37,
+         "rawfrom" : " Perlingiere, Debra  \n",
+         "to" : "Diamond, Russell"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 58,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/22/2001 01:30 PM -----\n",
+         "to" : "Russell"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 83,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/16/2001 10:58 AM -----\n",
+         "to" : "dperlin@enron.com  cc:"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/2451.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "dan.hyvl@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/23/2001 09:44 AM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 55,
+         "rawfrom" : " Perlingiere, Debra  \n",
+         "to" : "Diamond, Russell"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 76,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/22/2001 01:30 PM -----\n",
+         "to" : "Russell"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 101,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/16/2001 10:58 AM -----\n",
+         "to" : "dperlin@enron.com  cc:"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/2878.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "majed.nachawati@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 05/30/2001 03:38 PM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "carol_wilson@oxy.com",
+         "line" : 40,
+         "rawfrom" : " <Carol_Wilson@oxy.com>@ENRON \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 64,
+         "rawfrom" : "Thorne, Judy\n",
+         "to" : "carol_wilson@oxy.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/4021.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "majed.nachawati@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 06/11/2001 05:16 PM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lellman@eqt.com",
+         "line" : 46,
+         "rawfrom" : " lellman@eqt.com@ENRON \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 82,
+         "rawfrom" : "Thorne, Judy [mailto:Judy.Thorne@enron.com]\n",
+         "to" : "lellman@eqt.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/944.",
+   "hops" : [
+      {
+         "from" : "ellen.wallumrod@enron.com",
+         "line" : 4,
+         "rawfrom" : "ellen.wallumrod@enron.com\r\n",
+         "to" : "mary.franklin@enron.com"
+      },
+      {
+         "from" : "mary.theresa.franklin@enron.com",
+         "line" : 30,
+         "rawfrom" : "MARY THERESA FRANKLIN@ECT\n",
+         "to" : "Ellen Wallumrod/NA/Enron@ENRON"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 47,
+         "rawfrom" : "Ellen Wallumrod@ENRON\n",
+         "to" : "Mary Theresa Franklin/HOU/ECT@ECT"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 71,
+         "rawfrom" : "Ellen Wallumrod/NA/Enron on 12/08/2000 \n",
+         "to" : "Ellen Wallumrod/NA/Enron@ENRON"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 95,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 12/08/2000 11:47 AM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/all_documents/987.",
+   "hops" : [
+      {
+         "from" : "ellen.wallumrod@enron.com",
+         "line" : 4,
+         "rawfrom" : "ellen.wallumrod@enron.com\r\n",
+         "to" : "cyndie.balfour-flanagan@enron.com, debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "cyndie.balfour-flanagan@enron.com",
+         "line" : 30,
+         "rawfrom" : "Cyndie Balfour-Flanagan\n",
+         "to" : "Ellen Wallumrod/NA/Enron@ENRON"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 41,
+         "rawfrom" : "Ellen Wallumrod\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 57,
+         "rawfrom" : "DEBRA PERLINGIERE@ECT\n",
+         "to" : "Cyndie Balfour-Flanagan/Corp/Enron@ENRON, Ellen Wallumrod/NA/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/119.",
+   "hops" : [
+      {
+         "from" : "jason.sherman@enron.com",
+         "line" : 4,
+         "rawfrom" : "jason.sherman@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Sherman, Jason"
+      },
+      {
+         "from" : "jason.sherman@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSherman, Jason  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Enron Global Technology@ENRON\n",
+         "to" : "All Enron Worldwide@ENRON"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 57,
+         "rawfrom" : "Enron Announcements/Corp/Enron@ENRON on behalf of Enron Messaging Administration \n",
+         "to" : "All Enron Worldwide@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/142.",
+   "hops" : [
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 4,
+         "rawfrom" : "judy.thorne@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 62,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/145.",
+   "hops" : [
+      {
+         "from" : "theresa.franklin@enron.com",
+         "line" : 4,
+         "rawfrom" : "theresa.franklin@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Mary Theresa Franklin/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/10/2001 09:15 AM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 54,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/09/2001 05:55 PM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 64,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Debra Perlingiere/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/165.",
+   "hops" : [
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 4,
+         "rawfrom" : "darren.vanek@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/168.",
+   "hops" : [
+      {
+         "from" : "lawrence.cobb@mms.gov",
+         "line" : 4,
+         "rawfrom" : "lawrence.cobb@mms.gov\r\n",
+         "to" : "del-colle@enron.com, michael.del-colle@mms.gov"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 28,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "Lawrence.Cobb@mms.gov"
+      },
+      {
+         "from" : "lawrence.cobb@mms.gov",
+         "line" : 37,
+         "rawfrom" : "  \"Cobb, Lawrence\" <Lawrence.Cobb@mms.gov>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 55,
+         "rawfrom" : "Perlingiere, Debra [mailto:Debra.Perlingiere@ENRON.com]\n",
+         "to" : "lawrence.cobb@mms.gov"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/190.",
+   "hops" : [
+      {
+         "from" : "ellen.wallumrod@enron.com",
+         "line" : 4,
+         "rawfrom" : "ellen.wallumrod@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com, lisa.hesse@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Espinoza, Veronica"
+      },
+      {
+         "from" : "nelson.ferries@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tFerries, Nelson  \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "john.gansert@mms.gov",
+         "line" : 47,
+         "rawfrom" : "\t\"Gansert, John\" <John.Gansert@mms.gov>@ENRON  \n",
+         "to" : "'nferrie@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/195.",
+   "hops" : [
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 21,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/10/2001 09:15 AM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 42,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/09/2001 05:55 PM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 52,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Debra Perlingiere/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/223.",
+   "hops" : [
+      {
+         "from" : "steve.gillespie@enron.com",
+         "line" : 4,
+         "rawfrom" : "steve.gillespie@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Gillespie, Steve"
+      },
+      {
+         "from" : "steve.gillespie@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tGillespie, Steve  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Gillespie, Steve"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/231.",
+   "hops" : [
+      {
+         "from" : "gerald.nemec@enron.com",
+         "line" : 4,
+         "rawfrom" : "gerald.nemec@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "lisa.hesse@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHesse, Lisa  \n",
+         "to" : "Wallumrod, Ellen; Nemec, Gerald"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tWallumrod, Ellen  \n",
+         "to" : "Hesse, Lisa"
+      },
+      {
+         "from" : "lisa.hesse@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tHesse, Lisa  \n",
+         "to" : "Nemec, Gerald; Thorne, Judy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/deleted_items/35.",
+   "hops" : [
+      {
+         "from" : "roths@orbitworld.net",
+         "line" : 4,
+         "rawfrom" : "roths@orbitworld.net\r\n",
+         "to" : "dperlin@enron.com"
+      },
+      {
+         "from" : "jcompton@computron.net",
+         "line" : 22,
+         "rawfrom" : "\tJane Compton [mailto:jcompton@computron.net]\n",
+         "to" : "Lisa Tracey; Steph; Sheryl; Reggie; Mom; Mimi; Lorrie; Jules; Jenn"
+      },
+      {
+         "from" : "coden@tdecu.org",
+         "line" : 31,
+         "rawfrom" : "From:\t\"Carolyn Oden\" <coden@TDECU.ORG>\n",
+         "to" : "<jcompton@computron.net>"
+      },
+      {
+         "from" : "> > from:\tdarla grimes",
+         "line" : 44,
+         "rawfrom" : "> > From:\tDarla Grimes\n",
+         "to" : "Stephanie Hallmark; Anna  Gonzales; Mickey Humphrey; Kim Shelton;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/inbox/13.",
+   "hops" : [
+      {
+         "from" : "richard.deming@enron.com",
+         "line" : 4,
+         "rawfrom" : "richard.deming@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Deming, Richard"
+      },
+      {
+         "from" : "richard.deming@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tDeming, Richard  \n",
+         "to" : "Sonnonstine, Max; Perlingiere, Debra; Dickson, Stacy E."
+      },
+      {
+         "from" : "max.sonnonstine@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tSonnonstine, Max  \n",
+         "to" : "Deming, Richard; Perlingiere, Debra; Dickson, Stacy E."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/inbox/6.",
+   "hops" : [
+      {
+         "from" : "veronica.espinoza@enron.com",
+         "line" : 4,
+         "rawfrom" : "veronica.espinoza@enron.com\r\n",
+         "to" : "debra.perlingiere@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Espinoza, Veronica"
+      },
+      {
+         "from" : "veronica.espinoza@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tEspinoza, Veronica  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Espinoza, Veronica"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent/2076.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "russell.diamond@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 36,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 02/15/2001 05:32 PM -----\n",
+         "to" : "debra.perlingiere@enron.com, Kathy_Gerken@cargill.com,"
+      },
+      {
+         "from" : "marc_rubenstein@cargill.com",
+         "line" : 51,
+         "rawfrom" : "Rubenstein, Marc /hdqt\n",
+         "to" : "Gerken, Kathy /hdqt"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 60,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "rubenstein, marc /hdqt"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent/2134.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "james.copeland@enron.com"
+      },
+      {
+         "from" : "james.l.copeland@enron.com",
+         "line" : 44,
+         "rawfrom" : "James L Copeland/ENRON@enronXgate\n",
+         "to" : "Christina Finelli/HOU/EES@EES"
+      },
+      {
+         "from" : "christina.finelli@enron.com",
+         "line" : 58,
+         "rawfrom" : " Finelli, Christina  \n",
+         "to" : "Copeland, James L."
+      },
+      {
+         "from" : "james.l.copeland@enron.com",
+         "line" : 72,
+         "rawfrom" : "James L Copeland/ENRON@enronXgate on 02/27/2001 11:43 AM\n",
+         "to" : "Christina Finelli/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent/2233.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "veronica.espinoza@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/14/2001 11:12 AM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT, Russell Diamond/ENRON@enronXgate"
+      },
+      {
+         "from" : "veronica.espinoza@enron.com",
+         "line" : 42,
+         "rawfrom" : " Espinoza, Veronica  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 63,
+         "rawfrom" : " Debra Perlingiere  \n",
+         "to" : "Veronica Espinoza"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 84,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 02/21/2001 11:02 AM -----\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent/2312.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "dan.hyvl@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/23/2001 09:44 AM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 55,
+         "rawfrom" : " Perlingiere, Debra  \n",
+         "to" : "Diamond, Russell"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 76,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/22/2001 01:30 PM -----\n",
+         "to" : "Russell"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 101,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 03/16/2001 10:58 AM -----\n",
+         "to" : "dperlin@enron.com  cc:"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent/2734.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "majed.nachawati@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 05/30/2001 03:38 PM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "carol_wilson@oxy.com",
+         "line" : 40,
+         "rawfrom" : " <Carol_Wilson@oxy.com>@ENRON \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 64,
+         "rawfrom" : "Thorne, Judy\n",
+         "to" : "carol_wilson@oxy.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent/3843.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "majed.nachawati@enron.com"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra Perlingiere/HOU/ECT on 06/11/2001 05:16 PM -----\n",
+         "to" : "Debra Perlingiere/HOU/ECT@ECT"
+      },
+      {
+         "from" : "lellman@eqt.com",
+         "line" : 46,
+         "rawfrom" : " lellman@eqt.com@ENRON \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 82,
+         "rawfrom" : "Thorne, Judy [mailto:Judy.Thorne@enron.com]\n",
+         "to" : "lellman@eqt.com"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/105.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "john.singer@enron.com"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 38,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/04/2001 11:22 AM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/128.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "genia.fitzgerald@enron.com"
+      },
+      {
+         "from" : "genia.fitzgerald@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFitzgerald, Genia  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Fitzgerald, Genia"
+      },
+      {
+         "from" : "stacy.e.dickson@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tDickson, Stacy E.  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tWallumrod, Ellen  \n",
+         "to" : "Dickson, Stacy E.; Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/132.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "stacey.richardson@enron.com"
+      },
+      {
+         "from" : "patrice.l.mims@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMims, Patrice L.  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Mims, Patrice L."
+      },
+      {
+         "from" : "patrice.l.mims@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tMims, Patrice L.  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "pamkirchhoff@nicorenergy.com",
+         "line" : 58,
+         "rawfrom" : "\tPam Kirchhoff <PamKirchhoff@NicorEnergy.com>@ENRON [mailto:IMCEANOTES-Pam+20Kirchhoff+20+3CPamKirchhoff+40NicorEnergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Mims, Patrice L."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/136.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "adicapri@utilicorp.com"
+      },
+      {
+         "from" : "adicapri@utilicorp.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON [mailto:IMCEANOTES-+22Dicaprio+2C+20Angela+22+20+3CADicapri+40utilicorp+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "ADicapri@utilicorp.com"
+      },
+      {
+         "from" : "adicapri@utilicorp.com",
+         "line" : 50,
+         "rawfrom" : "  \"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 58,
+         "rawfrom" : "Perlingiere, Debra [mailto:Debra.Perlingiere@ENRON.com]\n",
+         "to" : "adicapri@utilicorp.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/153.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "roths@orbitworld.net"
+      },
+      {
+         "from" : "roths@orbitworld.net",
+         "line" : 22,
+         "rawfrom" : "\t\"Susan Avera Roth\" <roths@orbitworld.net>@ENRON [mailto:IMCEANOTES-+22Susan+20Avera+20Roth+22+20+3Croths+40orbitworld+2Enet+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tDebra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "roths@orbitworld.net"
+      },
+      {
+         "from" : "roths@orbitworld.net",
+         "line" : 43,
+         "rawfrom" : "  \"Susan Avera Roth\" <roths@orbitworld.net>@ENRON\n",
+         "to" : "Debra Perlinger \\(E-mail\\); Holly Heble \\(E-mail\\); Jennifer"
+      },
+      {
+         "from" : "stephens@portfreeport.com",
+         "line" : 57,
+         "rawfrom" : "Nancy Stephens [mailto:stephens@portfreeport.com]\n",
+         "to" : "Keith D Stephens; Mom & Dad; Dale Frankum; Charlotte Day; Dorthy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/172.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "theresa.staab@enron.com"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Staab, Theresa"
+      },
+      {
+         "from" : "tstaab@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tStaab, Theresa  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/194.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "deb.korkmas@enron.com"
+      },
+      {
+         "from" : "deb.korkmas@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tKorkmas, Deb  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Korkmas, Deb"
+      },
+      {
+         "from" : "deb.korkmas@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKorkmas, Deb  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Korkmas, Deb"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/207.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "kabennick@aep.com"
+      },
+      {
+         "from" : "kabennick@aep.com",
+         "line" : 22,
+         "rawfrom" : "\tkabennick@aep.com@ENRON [mailto:IMCEANOTES-kabennick+40aep+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kimberlee.bennick@enron.com",
+         "line" : 30,
+         "rawfrom" : "Kimberlee A Bennick/AEPIN on 09/18/2001 10:46 AM --------------------------- \n",
+         "to" : "Debra.Perlingiere@enron.com"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 36,
+         "rawfrom" : "       Debra.Perlingiere \n",
+         "to" : "IMCEANOTES-kabennick+40aep+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "kabennick@aep.com",
+         "line" : 45,
+         "rawfrom" : "  kabennick@aep.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/240.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "l..mims@enron.com"
+      },
+      {
+         "from" : "patrice.l.mims@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMims, Patrice L.  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "rob.smith@dynegy.com",
+         "line" : 40,
+         "rawfrom" : "\tRob.Smith@dynegy.com@ENRON [mailto:IMCEANOTES-Rob+2ESmith+40dynegy+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Mims, Patrice L."
+      },
+      {
+         "from" : "pmims@enron.com",
+         "line" : 69,
+         "rawfrom" : "Patrice.L.Mims\n",
+         "to" : "IMCEANOTES-Rob+2ESmith+40dynegy+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "rob.smith@dynegy.com",
+         "line" : 97,
+         "rawfrom" : "  Rob.Smith@dynegy.com@ENRON\n",
+         "to" : "Mims, Patrice L."
+      },
+      {
+         "from" : "rob.smith@woodwardmarketing.com",
+         "line" : 113,
+         "rawfrom" : "Rob Smith/HOU/Dynegy on 09/24/01 01:54 PM -----\n",
+         "to" : "Rob"
+      },
+      {
+         "from" : "rob.smith@woodwardmarketing.com",
+         "line" : 174,
+         "rawfrom" : "Rob Smith/HOU/Dynegy on 09/24/01 11:14 AM -----\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/35.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "veronica.espinoza@enron.com"
+      },
+      {
+         "from" : "gnemec@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "Nemec, Gerald \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "plucci@enron.com",
+         "line" : 33,
+         "rawfrom" : "Lucci, Paul T. \n",
+         "to" : "Nemec, Gerald"
+      },
+      {
+         "from" : "robert.poole@atmosenergy.com",
+         "line" : 42,
+         "rawfrom" : "Poole Jr., Robert W. [mailto:Robert.Poole@atmosenergy.com]\n",
+         "to" : "Lucci, Paul T."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/402.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "keegan.farrell@enron.com"
+      },
+      {
+         "from" : "keegan.farrell@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFarrell, Keegan  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Farrell, Keegan"
+      },
+      {
+         "from" : "keegan.farrell@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tFarrell, Keegan  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/407.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "pgraff@reliant.com"
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 23,
+         "rawfrom" : "\tpgraff@reliant.com@ENRON [mailto:IMCEANOTES-pgraff+40reliant+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 35,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : "IMCEANOTES-pgraff+40reliant+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 53,
+         "rawfrom" : "  pgraff@reliant.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/411.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "judy.thorne@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Wallumrod, Ellen; Singer, John"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tWallumrod, Ellen  \n",
+         "to" : "Singer, John"
+      },
+      {
+         "from" : "ellen_wallumrod@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tWallumrod, Ellen  \n",
+         "to" : "Singer, John; Perlingiere, Debra; Dickson, Stacy E.; Thorne, Judy"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Singer, John; Dickson, Stacy E.; Wallumrod, Ellen"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/414.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "pgraff@reliant.com"
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 22,
+         "rawfrom" : "\tpgraff@reliant.com@ENRON [mailto:IMCEANOTES-pgraff+40reliant+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 34,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : "IMCEANOTES-pgraff+40reliant+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 51,
+         "rawfrom" : "  pgraff@reliant.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 63,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : ""
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 86,
+         "rawfrom" : "  pgraff@reliant.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/415.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "kabennick@aep.com"
+      },
+      {
+         "from" : "kabennick@aep.com",
+         "line" : 22,
+         "rawfrom" : "\tkabennick@aep.com@ENRON [mailto:IMCEANOTES-kabennick+40aep+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kabennick@aep.com",
+         "line" : 36,
+         "rawfrom" : "  kabennick@aep.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kabennick@aep.com",
+         "line" : 55,
+         "rawfrom" : "  kabennick@aep.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/430.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "alisha.mahabir@enron.com"
+      },
+      {
+         "from" : "anthony.campos@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tCampos, Anthony  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "daren.j.farmer@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tFarmer, Daren J.  \n",
+         "to" : "Campos, Anthony"
+      },
+      {
+         "from" : "kford1@txu.com",
+         "line" : 54,
+         "rawfrom" : "\t\"Keith Ford\" <kford1@txu.com>@ENRON [mailto:IMCEANOTES-+22Keith+20Ford+22+20+3Ckford1+40txu+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "dfarmer@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/439.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "srenken@markwest.com"
+      },
+      {
+         "from" : "srenken@markwest.com",
+         "line" : 28,
+         "rawfrom" : "\tSRenken@markwest.com@ENRON [mailto:IMCEANOTES-SRenken+40markwest+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 60,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : ""
+      },
+      {
+         "from" : "srenken@markwest.com",
+         "line" : 98,
+         "rawfrom" : "  SRenken@markwest.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 142,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : ""
+      },
+      {
+         "from" : "srenken@markwest.com",
+         "line" : 171,
+         "rawfrom" : "  SRenken@markwest.com@ENRON\n",
+         "to" : "dperlin@enron.com"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/445.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "alisha.mahabir@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 22,
+         "rawfrom" : "Thorne, Judy \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "shillward@hess.com",
+         "line" : 38,
+         "rawfrom" : "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 65,
+         "rawfrom" : "Thorne, Judy [mailto:Judy.Thorne@ENRON.com]\n",
+         "to" : "SHillWard@hess.com"
+      },
+      {
+         "from" : "shillward@hess.com",
+         "line" : 84,
+         "rawfrom" : "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "to" : "Thorne, Judy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/454.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "pgraff@reliant.com"
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 23,
+         "rawfrom" : "\tpgraff@reliant.com@ENRON [mailto:IMCEANOTES-pgraff+40reliant+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 35,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : "IMCEANOTES-pgraff+40reliant+2Ecom+40ENRON@enron.com"
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 52,
+         "rawfrom" : "  pgraff@reliant.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 64,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : ""
+      },
+      {
+         "from" : "pgraff@reliant.com",
+         "line" : 87,
+         "rawfrom" : "  pgraff@reliant.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/457.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "steve.van@enron.com"
+      },
+      {
+         "from" : "steve.vanhooser@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tVan Hooser, Steve  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Mims, Patrice L.; Dozier, Scott; Hernandez, Elizabeth L.; Van Hooser, Steve; Perlingiere, Debra"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Richardson, Stacey"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Mims, Patrice L.; Dozier, Scott; Hernandez, Elizabeth L.; Van Hooser, Steve; Perlingiere, Debra"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Richardson, Stacey; Mims, Patrice L."
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Mims, Patrice L."
+      },
+      {
+         "from" : "patrice.l.mims@enron.com",
+         "line" : 94,
+         "rawfrom" : "\tMims, Patrice L.  \n",
+         "to" : "Richardson, Stacey"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 104,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Hernandez, Elizabeth L."
+      },
+      {
+         "from" : "elizabeth.hernandez@enron.com",
+         "line" : 113,
+         "rawfrom" : "\tHernandez, Elizabeth L.  \n",
+         "to" : "Richardson, Stacey"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 121,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Hernandez, Elizabeth L."
+      },
+      {
+         "from" : "patrice.l.mims@enron.com",
+         "line" : 129,
+         "rawfrom" : "\tMims, Patrice L.  \n",
+         "to" : "Dozier, Scott"
+      },
+      {
+         "from" : "scott.dozier@enron.com",
+         "line" : 139,
+         "rawfrom" : "\tDozier, Scott  \n",
+         "to" : "Mims, Patrice L."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/474.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "janette.elbertson@enron.com"
+      },
+      {
+         "from" : "janette.elbertson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tElbertson, Janette  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Elbertson, Janette"
+      },
+      {
+         "from" : "janette.elbertson@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tElbertson, Janette  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Elbertson, Janette"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/48.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "jason.sherman@enron.com"
+      },
+      {
+         "from" : "jason.sherman@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tSherman, Jason  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tEnron Announcements/Corp/Enron@ENRON   On Behalf Of Enron Global Technology@ENRON\n",
+         "to" : "All Enron Worldwide@ENRON"
+      },
+      {
+         "from" : "enron.announcements@enron.com",
+         "line" : 49,
+         "rawfrom" : "Enron Announcements/Corp/Enron@ENRON on behalf of Enron Messaging Administration \n",
+         "to" : "All Enron Worldwide@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/5.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "sharyn.walsh-mckay@pseg.com"
+      },
+      {
+         "from" : "sharyn.walsh-mckay@pseg.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Walsh-McKay, Sharyn M.\" <Sharyn.Walsh-McKay@pseg.com>@ENRON  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 36,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "Sharyn.Walsh-McKay@pseg.com"
+      },
+      {
+         "from" : "sharyn.walsh-mckay@pseg.com",
+         "line" : 53,
+         "rawfrom" : "  \"Walsh-McKay, Sharyn M.\" <Sharyn.Walsh-McKay@pseg.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/500.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "edward.sacks@enron.com"
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra; Espinoza, Veronica; Johnson, Rudwell; Williams, Jason R (Credit)"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Espinoza, Veronica; Johnson, Rudwell; Vanek, Darren; Williams, Jason R (Credit)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/503.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "edward.sacks@enron.com"
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Sacks, Edward"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/505.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "edward.sacks@enron.com"
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 22,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "edward_sacks@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "\tSacks, Edward  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Sacks, Edward"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/506.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "darren.vanek@enron.com"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/511.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "lacooper@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 49,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/512.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "lacooper@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 38,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 53,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 63,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 83,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/527.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "lacooper@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 35,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 49,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 69,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 85,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 97,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 119,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/534.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "stacey.richardson@enron.com"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Johnson, Cheryl"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Johnson, Cheryl; Vanek, Darren"
+      },
+      {
+         "from" : "cheryl.johnson@enron.com",
+         "line" : 61,
+         "rawfrom" : "\tJohnson, Cheryl  \n",
+         "to" : "Richardson, Stacey; Vanek, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/536.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "stacey.richardson@enron.com"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Richardson, Stacey"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Johnson, Cheryl"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Johnson, Cheryl; Vanek, Darren"
+      },
+      {
+         "from" : "cheryl.johnson@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tJohnson, Cheryl  \n",
+         "to" : "Richardson, Stacey; Vanek, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/553.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "bridgette.anderson@enron.com"
+      },
+      {
+         "from" : "bridgette.anderson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tAnderson, Bridgette  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Anderson, Bridgette"
+      },
+      {
+         "from" : "bridgette.anderson@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tAnderson, Bridgette  \n",
+         "to" : "Dickson, Stacy E.; Hodge, Jeffrey T.; Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/555.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "lacooper@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 45,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 65,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 81,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 93,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 115,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/57.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "theresa.franklin@enron.com"
+      },
+      {
+         "from" : "mary.theresa.franklin@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tFranklin, Mary Theresa  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Mary Theresa Franklin/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 42,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/10/2001 09:15 AM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 63,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/09/2001 05:55 PM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Debra Perlingiere/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/579.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "srenken@markwest.com"
+      },
+      {
+         "from" : "srenken@markwest.com",
+         "line" : 22,
+         "rawfrom" : "\tSRenken@markwest.com@ENRON [mailto:IMCEANOTES-SRenken+40markwest+2Ecom+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "kebrak@pointecom.net",
+         "line" : 38,
+         "rawfrom" : "Debra.Perlingiere\n",
+         "to" : ""
+      },
+      {
+         "from" : "srenken@markwest.com",
+         "line" : 55,
+         "rawfrom" : "  SRenken@markwest.com@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/58.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "judy.thorne@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 77,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/580.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "bridgette.anderson@enron.com"
+      },
+      {
+         "from" : "bridgette.anderson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tAnderson, Bridgette  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Anderson, Bridgette"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Richardson, Stacey"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/588.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "steve.gillespie@enron.com"
+      },
+      {
+         "from" : "steve.gillespie@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tGillespie, Steve  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "lora.aria@lgeenergy.com",
+         "line" : 39,
+         "rawfrom" : "\t\"Aria, Lora\" <lora.aria@lgeenergy.com>@ENRON [mailto:IMCEANOTES-+22Aria+2C+20Lora+22+20+3Clora+2Earia+40lgeenergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Gillespie, Steve"
+      },
+      {
+         "from" : "steve.gillespie@enron.com",
+         "line" : 53,
+         "rawfrom" : "  Steve.Gillespie@enron.com [mailto:Steve.Gillespie@enron.com << File: mailto:Steve.Gillespie@enron.com >> ] \n",
+         "to" : "lora.aria@lgeenergy.com"
+      },
+      {
+         "from" : "lora.aria@lgeenergy.com",
+         "line" : 63,
+         "rawfrom" : "  \"Aria, Lora\" <lora.aria@lgeenergy.com>@ENRON \n",
+         "to" : "Gillespie, Steve"
+      },
+      {
+         "from" : "lora.aria@lgeenergy.com",
+         "line" : 93,
+         "rawfrom" : "  Aria, Lora \n",
+         "to" : "'Nachawati, Majed'"
+      },
+      {
+         "from" : "majed.nachawati@enron.com",
+         "line" : 106,
+         "rawfrom" : "  Nachawati, Majed [mailto:Majed.Nachawati@ENRON.com << File: mailto:Majed.Nachawati@ENRON.com >> ] << File: \n",
+         "to" : "Aria, Lora"
+      },
+      {
+         "from" : "lora.aria@lgeenergy.com",
+         "line" : 126,
+         "rawfrom" : "  Aria, Lora  [mailto:lora.aria@lgeenergy.com << File: mailto:lora.aria@lgeenergy.com >> ] << File: \n",
+         "to" : "'Majed.Nachawati@enron.com'"
+      },
+      {
+         "from" : "majed.nachawati@enron.com",
+         "line" : 160,
+         "rawfrom" : "Majed.Nachawati@enron.com << File: \n",
+         "to" : "Lora.Aria@lgeenergy.com << File: mailto:Lora.Aria@lgeenergy.com << File: mailto:Lora.Aria@lgeenergy.com >>  >>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/605.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "lacooper@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 46,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 55,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 70,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 95,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 113,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 126,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 151,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/61.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "judy.thorne@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tThorne, Judy  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/613.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 24,
+         "rawfrom" : "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 41,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 57,
+         "rawfrom" : "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 79,
+         "rawfrom" : "Perlingiere, Debra\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/617.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "lacooper@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON [mailto:IMCEANOTES-+22Cooper+2C+20Lance+20+28LA+29+22+20+3CLACOOPER+40dow+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 34,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 49,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 60,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 76,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 86,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 102,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 130,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 150,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 163,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "LACOOPER@dow.com"
+      },
+      {
+         "from" : "lacooper@dow.com",
+         "line" : 190,
+         "rawfrom" : "  \"Cooper, Lance (LA)\" <LACOOPER@dow.com>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/620.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 22,
+         "rawfrom" : "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Nemec, Gerald"
+      },
+      {
+         "from" : "gerald.nemec@enron.com",
+         "line" : 40,
+         "rawfrom" : "Gerald.Nemec@enron.com\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 54,
+         "rawfrom" : "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 75,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 92,
+         "rawfrom" : "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 116,
+         "rawfrom" : "Perlingiere, Debra\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/637.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "nabil@enron.com, nnachawa@central.uh.edu"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 23,
+         "rawfrom" : "\t\"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON [mailto:IMCEANOTES-+22Nachawati+2C+20Nabil+2C+20M+22+20+3Cnnachawa+40Central+2EUH+2EEDU+3E+40ENRON@ENRON.com] \n",
+         "to" : "Nemec, Gerald"
+      },
+      {
+         "from" : "gerald.nemec@enron.com",
+         "line" : 41,
+         "rawfrom" : "Gerald.Nemec@enron.com\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 55,
+         "rawfrom" : "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 76,
+         "rawfrom" : "Debra.Perlingiere@enron.com\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      },
+      {
+         "from" : "nnachawa@central.uh.edu",
+         "line" : 93,
+         "rawfrom" : "  \"Nachawati, Nabil, M\" <nnachawa@Central.UH.EDU>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 117,
+         "rawfrom" : "Perlingiere, Debra\n",
+         "to" : "nnachawa@Central.UH.EDU"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/644.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "ann.osire@enron.com"
+      },
+      {
+         "from" : "ann.osire@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tOsire, Ann  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Osire, Ann"
+      },
+      {
+         "from" : "ann.osire@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tOsire, Ann  \n",
+         "to" : "'Ingrid.black@neg.pge.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/645.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "ann.osire@enron.com"
+      },
+      {
+         "from" : "ann.osire@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tOsire, Ann  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Osire, Ann"
+      },
+      {
+         "from" : "ann.osire@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tOsire, Ann  \n",
+         "to" : "'wayne.ellis@williams.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/65.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "sean.riordan@enron.com"
+      },
+      {
+         "from" : "sean.riordan@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tRiordan, Sean  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "mary.theresa.franklin@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tFranklin, Mary Theresa  \n",
+         "to" : "Riordan, Sean"
+      },
+      {
+         "from" : "sean.riordan@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tRiordan, Sean  \n",
+         "to" : "Franklin, Mary Theresa"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/650.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "alisha.mahabir@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 23,
+         "rawfrom" : "Thorne, Judy \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "shillward@hess.com",
+         "line" : 38,
+         "rawfrom" : "Hill-Ward, Shari [mailto:SHillWard@hess.com]\n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "> from:\thill-ward, shari",
+         "line" : 80,
+         "rawfrom" : "> From:\tHill-Ward, Shari \n",
+         "to" : "'judy.thorne@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/66.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "darren.vanek@enron.com"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/660.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "judy.thorne@enron.com"
+      },
+      {
+         "from" : "judy.thorne@enron.com",
+         "line" : 22,
+         "rawfrom" : "Thorne, Judy \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 31,
+         "rawfrom" : "Jennifer Buffington [mailto:JBUFFING@westerngas.com]\n",
+         "to" : "Thorne, Judy"
+      },
+      {
+         "from" : "jbuffing@westerngas.com",
+         "line" : 65,
+         "rawfrom" : "Jennifer Buffington [mailto:JBUFFING@westerngas.com] \n",
+         "to" : "Thorne, Judy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/664.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "s..pollan@enron.com"
+      },
+      {
+         "from" : "sylvia.s.pollan@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPollan, Sylvia S.  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Pollan, Sylvia S."
+      },
+      {
+         "from" : "sylvia.s.pollan@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tPollan, Sylvia S.  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/667.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "steve.gillespie@enron.com"
+      },
+      {
+         "from" : "steve.gillespie@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tGillespie, Steve  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Vanek, Darren"
+      },
+      {
+         "from" : "darren.vanek@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tVanek, Darren  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Vanek, Darren"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/716.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "stacey.richardson@enron.com"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Richardson, Stacey"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Perlingiere, Debra"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/773.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "credit <.williams@enron.com>"
+      },
+      {
+         "from" : "jason.r.williams@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWilliams, Jason R (Credit)  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "barry.tycholiz@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tTycholiz, Barry  \n",
+         "to" : "Williams, Jason R (Credit)"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Espinoza, Veronica; Williams, Jason (Trading)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/814.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "connie@nget.net"
+      },
+      {
+         "from" : "connie@nget.net",
+         "line" : 25,
+         "rawfrom" : "\t\"Connie Waterman\" <connie@nget.net>@ENRON  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 40,
+         "rawfrom" : "<Debra.Perlingiere@enron.com>\n",
+         "to" : "<connie@nget.net>"
+      },
+      {
+         "from" : "connie@nget.net",
+         "line" : 50,
+         "rawfrom" : "  \"Connie Waterman\" <connie@nget.net>@ENRON\n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 78,
+         "rawfrom" : "\"Perlingiere, Debra\" <Debra.Perlingiere@enron.com>\n",
+         "to" : "<connie@nget.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/818.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "adicapri@utilicorp.com"
+      },
+      {
+         "from" : "adicapri@utilicorp.com",
+         "line" : 26,
+         "rawfrom" : "\t\"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 34,
+         "rawfrom" : "Debra.Perlingiere@enron.com [mailto:Debra.Perlingiere@enron.com]\n",
+         "to" : "ADicapri@utilicorp.com"
+      },
+      {
+         "from" : "adicapri@utilicorp.com",
+         "line" : 44,
+         "rawfrom" : "  \"Dicaprio, Angela\" <ADicapri@utilicorp.com>@ENRON\n",
+         "to" : "'dperlin@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/822.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "patrick.tucker@enron.com"
+      },
+      {
+         "from" : "patrick.tucker@enron.com",
+         "line" : 23,
+         "rawfrom" : "Tucker, Patrick \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "patrick.tucker@enron.com",
+         "line" : 37,
+         "rawfrom" : "Tucker, Patrick \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "alan.bransgrove@xemkt.com",
+         "line" : 52,
+         "rawfrom" : "Bransgrove. Alan [mailto:Alan.Bransgrove@xemkt.com]\n",
+         "to" : "Tucker, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/823.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "credit <.williams@enron.com>, veronica.espinoza@enron.com"
+      },
+      {
+         "from" : "patrick.tucker@enron.com",
+         "line" : 24,
+         "rawfrom" : "Tucker, Patrick \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "patrick.tucker@enron.com",
+         "line" : 38,
+         "rawfrom" : "Tucker, Patrick \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "alan.bransgrove@xemkt.com",
+         "line" : 53,
+         "rawfrom" : "Bransgrove. Alan [mailto:Alan.Bransgrove@xemkt.com]\n",
+         "to" : "Tucker, Patrick"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/85.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "john.singer@enron.com"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tDebra Perlingiere/ENRON@enronXgate on 10/09/2001 05:55 PM\n",
+         "to" : "John M Singer/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "john.singer@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tSinger, John  \n",
+         "to" : "Debra Perlingiere/HOU/ECT@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/perlingiere-d/sent_items/9.",
+   "hops" : [
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 4,
+         "rawfrom" : "debra.perlingiere@enron.com\r\n",
+         "to" : "sharon.gonzales@enron.com"
+      },
+      {
+         "from" : "sharon.gonzales@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGonzales, Sharon  \n",
+         "to" : "Perlingiere, Debra"
+      },
+      {
+         "from" : "stacey.richardson@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tRichardson, Stacey  \n",
+         "to" : "Gonzales, Sharon"
+      },
+      {
+         "from" : "debra.perlingiere@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tPerlingiere, Debra  \n",
+         "to" : "Richardson, Stacey"
+      }
+   ],
+   "skipped" : 0
+}
+]

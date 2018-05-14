@@ -1,0 +1,6291 @@
+[
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/131.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 29,
+         "rawfrom" : " Ted C Bland @ ECT                           10/23/2000 07:58 AM\n",
+         "to" : "Janet R Dietrich/HOU/ECT@ECT, Jeff Donahue/HOU/ECT@ECT, Brian"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 56,
+         "rawfrom" : "Ted C Bland/HOU/ECT on 10/23/2000 07:38 \n",
+         "to" : "Ted C Bland/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 74,
+         "rawfrom" : "Shelly Jones/HOU/ECT on 10/20/2000 02:17 \n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 86,
+         "rawfrom" : "Shelly Jones\n",
+         "to" : "John Howard Harrison/HOU/ECT@ect"
+      },
+      {
+         "from" : "john.harrison@enron.com",
+         "line" : 97,
+         "rawfrom" : "John Howard Harrison\n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/141.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.delainey@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/19/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT, John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 38,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 06:59 AM\n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 54,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 08:35 AM\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Don Black/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/171.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/08/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "beth.perlman@enron.com",
+         "line" : 41,
+         "rawfrom" : "Beth Perlman/HOU/ECT on 10/06/2000 09:22 AM -----\n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.burchfield@enron.com",
+         "line" : 77,
+         "rawfrom" : "Richard Burchfield/HOU/ECT on 10/06/2000 \n",
+         "to" : "Richard Burchfield/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/184.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/28/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 35,
+         "rawfrom" : "Mark Frevert/NA/Enron on 09/28/2000 \n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "office.chairman@enron.com",
+         "line" : 47,
+         "rawfrom" : "Office of the Chairman/Corp/Enron on \n",
+         "to" : "Office of the Chairman/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/194.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.oxley@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 27,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/26/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 46,
+         "rawfrom" : "Jeanie Slone/HOU/ECT on 26/09/2000 11:00 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "hoyt.thomas@enron.com",
+         "line" : 67,
+         "rawfrom" : "Hoyt Thomas/NA/Enron on 09/25/2000 09:52 \n",
+         "to" : "Hoyt Thomas/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/211.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "rob.milnthorpe@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 31,
+         "rawfrom" : " Kevin M Presto @ ECT                           09/18/2000 05:29 PM\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, Mark Dana Davis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 61,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 09/18/2000 \n",
+         "to" : "Garrett Tripp/TOR/ECT@ECT, Paul Devries/TOR/ECT@ECT, Jan"
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 155,
+         "rawfrom" : "Lloyd Will/HOU/ECT on 09/18/2000 02:30 PM \n",
+         "to" : "Lloyd Will/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.broussard@enron.com",
+         "line" : 170,
+         "rawfrom" : " Richard Broussard                           08/22/2000 03:24 PM\n",
+         "to" : "Art Stappenbeck/ECP/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/250.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "jeffrey.shankman@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/05/2000 \n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.butler@enron.com",
+         "line" : 50,
+         "rawfrom" : " Shelly Butler                           08/18/2000 03:37 PM\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 70,
+         "rawfrom" : " Jeffrey A Shankman                           08/18/2000 03:18 PM\n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/286.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 25,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 60,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 76,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/290.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kimberly.hillis@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 54,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect, Mark Guzman/PDX/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/292.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "ted.bland@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/10/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 58,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 74,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/383.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com, kristin.albrecht@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 07/07/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@ENRON, Kevin M Presto/HOU/ECT@ECT, Kristin"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 59,
+         "rawfrom" : "John J Lavorato@ENRON\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 76,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 103,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 143,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 176,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/384.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "beth.perlman@enron.com, david.delainey@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 57,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 97,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 130,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/444.",
+   "hops" : [
+      {
+         "from" : "kimberly.hillis@enron.com",
+         "line" : 4,
+         "rawfrom" : "kimberly.hillis@enron.com\r\n",
+         "to" : "susan.skarness@enron.com"
+      },
+      {
+         "from" : "susan.skarness@enron.com",
+         "line" : 27,
+         "rawfrom" : "Susan Skarness @ ECT\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 47,
+         "rawfrom" : " John J Lavorato                           05/22/2000 06:28 PM\n",
+         "to" : "Susan Skarness/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.skarness@enron.com",
+         "line" : 70,
+         "rawfrom" : "Susan Skarness @ ECT\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/_sent_mail/53.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "dorie.hitchcock@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 12/02/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 41,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Dorie Hitchcock/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 66,
+         "rawfrom" : " Dorie Hitchcock                           11/30/2000 06:40 AM\n",
+         "to" : "Sylvia S Pollan/HOU/ECT@ECT, Robyn Zivic/NA/Enron@Enron, Andrew H"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/106.",
+   "hops" : [
+      {
+         "from" : "jane.allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "jane.allen@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 32,
+         "rawfrom" : "Jane Allen/HOU/ECT on 05/03/2000 08:31 AM \n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 75,
+         "rawfrom" : " Jane Allen @ ECT                           04/25/2000 12:42 PM\n",
+         "to" : "Lloyd Whiteurst/HR/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 89,
+         "rawfrom" : " Jane Allen                           04/19/2000 05:12 PM\n",
+         "to" : "Lloyd Whiteurst/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/150.",
+   "hops" : [
+      {
+         "from" : "kimberly.hillis@enron.com",
+         "line" : 4,
+         "rawfrom" : "kimberly.hillis@enron.com\r\n",
+         "to" : "susan.skarness@enron.com"
+      },
+      {
+         "from" : "susan.skarness@enron.com",
+         "line" : 27,
+         "rawfrom" : "Susan Skarness @ ECT\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 47,
+         "rawfrom" : " John J Lavorato                           05/22/2000 06:28 PM\n",
+         "to" : "Susan Skarness/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.skarness@enron.com",
+         "line" : 70,
+         "rawfrom" : "Susan Skarness @ ECT\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/1853.",
+   "hops" : [
+      {
+         "from" : "dawn.doucet@enron.com",
+         "line" : 4,
+         "rawfrom" : "dawn.doucet@enron.com\r\n",
+         "to" : "jane.allen@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 59,
+         "rawfrom" : " Jane Allen                           06/19/2000 11:45 AM\n",
+         "to" : "Dawn Doucet/CAL/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 70,
+         "rawfrom" : "Jane Allen/HOU/ECT on 06/19/2000 12:45 PM \n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 86,
+         "rawfrom" : " Jane Allen                           06/14/2000 08:50 AM\n",
+         "to" : "Janice Christianson/CAL/ECT@ECT, Dawn Doucet/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/1899.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "sheila.knudsen@enron.com",
+         "line" : 25,
+         "rawfrom" : "Sheila Knudsen@ENRON on 07/11/2000 10:43 AM\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 51,
+         "rawfrom" : "David Oxley@ECT\n",
+         "to" : "Jeanette Salinas/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeanette.salinas@enron.com",
+         "line" : 73,
+         "rawfrom" : "Jeanette Salinas\n",
+         "to" : "Cindy Skinner/HOU/ECT@ECT, Robert Jones/Corp/Enron@ENRON, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/2260.",
+   "hops" : [
+      {
+         "from" : "clayton.rondeau@enron.com",
+         "line" : 4,
+         "rawfrom" : "clayton.rondeau@enron.com\r\n",
+         "to" : "lavorato@enron.com"
+      },
+      {
+         "from" : "stephane.brodeur@enron.com",
+         "line" : 20,
+         "rawfrom" : "Stephane Brodeur on 12/01/2000 03:30 PM EST\n",
+         "to" : "Clayton Rondeau/CAL/ECT@ECT"
+      },
+      {
+         "from" : "stephane.brodeur@enron.com",
+         "line" : 31,
+         "rawfrom" : "Stephane Brodeur/TOR/ECT on 12/01/2000 03:36 PM -----\n",
+         "to" : "Stephane Brodeur/TOR/ECT@ECT"
+      },
+      {
+         "from" : "garrett.tripp@enron.com",
+         "line" : 41,
+         "rawfrom" : "Garrett Tripp/TOR/ECT on 12/01/2000 03:27 PM -----\n",
+         "to" : "John.lavorato@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/242.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "beth.perlman@enron.com, david.delainey@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 57,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 97,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 130,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/243.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com, kristin.albrecht@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 07/07/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@ENRON, Kevin M Presto/HOU/ECT@ECT, Kristin"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 59,
+         "rawfrom" : "John J Lavorato@ENRON\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 76,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 103,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 143,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 176,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/34.",
+   "hops" : [
+      {
+         "from" : "christopher.calger@enron.com",
+         "line" : 4,
+         "rawfrom" : "christopher.calger@enron.com\r\n",
+         "to" : "peter.keohane@enron.com"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 42,
+         "rawfrom" : " Peter Keohane                           01/31/2000 10:37 AM\n",
+         "to" : "Christopher F Calger/PDX/ECT@ECT"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 56,
+         "rawfrom" : " Peter Keohane                           01/26/2000 10:52 AM\n",
+         "to" : "John J Lavorato/CAL/ECT@ECT"
+      },
+      {
+         "from" : "peter.keohane@enron.com",
+         "line" : 97,
+         "rawfrom" : "Peter Keohane/CAL/ECT on 01/26/2000 10:20 \n",
+         "to" : "Peter Keohane/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/345.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "ted.bland@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/10/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 58,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 74,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/347.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kimberly.hillis@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 54,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect, Mark Guzman/PDX/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/351.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 25,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 60,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 76,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/391.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "jeffrey.shankman@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/05/2000 \n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.butler@enron.com",
+         "line" : 50,
+         "rawfrom" : " Shelly Butler                           08/18/2000 03:37 PM\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 70,
+         "rawfrom" : " Jeffrey A Shankman                           08/18/2000 03:18 PM\n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/431.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "rob.milnthorpe@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 31,
+         "rawfrom" : " Kevin M Presto @ ECT                           09/18/2000 05:29 PM\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, Mark Dana Davis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 61,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 09/18/2000 \n",
+         "to" : "Garrett Tripp/TOR/ECT@ECT, Paul Devries/TOR/ECT@ECT, Jan"
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 155,
+         "rawfrom" : "Lloyd Will/HOU/ECT on 09/18/2000 02:30 PM \n",
+         "to" : "Lloyd Will/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.broussard@enron.com",
+         "line" : 170,
+         "rawfrom" : " Richard Broussard                           08/22/2000 03:24 PM\n",
+         "to" : "Art Stappenbeck/ECP/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/448.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.oxley@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 27,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/26/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 46,
+         "rawfrom" : "Jeanie Slone/HOU/ECT on 26/09/2000 11:00 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "hoyt.thomas@enron.com",
+         "line" : 67,
+         "rawfrom" : "Hoyt Thomas/NA/Enron on 09/25/2000 09:52 \n",
+         "to" : "Hoyt Thomas/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/459.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/28/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 35,
+         "rawfrom" : "Mark Frevert/NA/Enron on 09/28/2000 \n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "office.chairman@enron.com",
+         "line" : 47,
+         "rawfrom" : "Office of the Chairman/Corp/Enron on \n",
+         "to" : "Office of the Chairman/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/474.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/08/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "beth.perlman@enron.com",
+         "line" : 41,
+         "rawfrom" : "Beth Perlman/HOU/ECT on 10/06/2000 09:22 AM -----\n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.burchfield@enron.com",
+         "line" : 77,
+         "rawfrom" : "Richard Burchfield/HOU/ECT on 10/06/2000 \n",
+         "to" : "Richard Burchfield/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/508.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.delainey@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/19/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT, John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 38,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 06:59 AM\n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 54,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 08:35 AM\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Don Black/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/522.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 29,
+         "rawfrom" : " Ted C Bland @ ECT                           10/23/2000 07:58 AM\n",
+         "to" : "Janet R Dietrich/HOU/ECT@ECT, Jeff Donahue/HOU/ECT@ECT, Brian"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 56,
+         "rawfrom" : "Ted C Bland/HOU/ECT on 10/23/2000 07:38 \n",
+         "to" : "Ted C Bland/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 74,
+         "rawfrom" : "Shelly Jones/HOU/ECT on 10/20/2000 02:17 \n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 86,
+         "rawfrom" : "Shelly Jones\n",
+         "to" : "John Howard Harrison/HOU/ECT@ect"
+      },
+      {
+         "from" : "john.harrison@enron.com",
+         "line" : 97,
+         "rawfrom" : "John Howard Harrison\n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/605.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "dorie.hitchcock@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 12/02/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 41,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Dorie Hitchcock/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 66,
+         "rawfrom" : " Dorie Hitchcock                           11/30/2000 06:40 AM\n",
+         "to" : "Sylvia S Pollan/HOU/ECT@ECT, Robyn Zivic/NA/Enron@Enron, Andrew H"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/74.",
+   "hops" : [
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.hemstock@enron.com\r\n",
+         "to" : "rob.milnthorp@enron.com, derek.davies@enron.com, andre.templeman@enron.com,"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 40,
+         "rawfrom" : "Robert Hemstock/CAL/ECT on 03/23/2000 \n",
+         "to" : "Robert Hemstock/CAL/ECT@ECT"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 53,
+         "rawfrom" : "Aleck Dadson/TOR/ECT on 03/23/2000 05:03 \n",
+         "to" : "<Aleck.Dadson@enron.com>"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 95,
+         "rawfrom" : "Aleck.Dadson@enron.com [mailto:Aleck.Dadson@enron.com]\n",
+         "to" : "seabron.adamson@frontier-economics.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/776.",
+   "hops" : [
+      {
+         "from" : "jane.allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "jane.allen@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 34,
+         "rawfrom" : "Jane Allen/HOU/ECT on 01/22/2001 08:41 AM -----\n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 44,
+         "rawfrom" : "Margaret Daffin/HOU/ECT on 01/19/2001 \n",
+         "to" : "\"'Margaret.Daffin@enron.com'\" <Margaret.Daffin@enron.com>"
+      },
+      {
+         "from" : "sking@tindallfoster.com",
+         "line" : 53,
+         "rawfrom" : "Susan King <sking@tindallfoster.com>\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/all_documents/785.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 30,
+         "rawfrom" : "Amy FitzPatrick\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 47,
+         "rawfrom" : "David Oxley\n",
+         "to" : "Amy FitzPatrick/PDX/ECT@ECT"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 57,
+         "rawfrom" : "Amy FitzPatrick\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 73,
+         "rawfrom" : "Amy FitzPatrick/PDX/ECT on 01/22/2001 \n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 92,
+         "rawfrom" : "Amy FitzPatrick/PDX/ECT on 01/11/2001 \n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/california/12.",
+   "hops" : [
+      {
+         "from" : "dernehl@enron.com",
+         "line" : 4,
+         "rawfrom" : "dernehl@enron.com\r\n",
+         "to" : "alan.comnes@enron.com, andre.cangucu@enron.com, s..fastow@enron.com,"
+      },
+      {
+         "from" : "ginger.ernehl@enron.com",
+         "line" : 88,
+         "rawfrom" : "Ginger Dernehl/NA/Enron on 02/09/2001 12:08 PM -----\n",
+         "to" : "Ginger Dernehl/NA/Enron@Enron  cc:   Subject: Fwd: 01-238.pdf"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 96,
+         "rawfrom" : "Richard Shapiro/NA/Enron on 02/09/2001 11:45 AM ---------------------------\n",
+         "to" : "rshapiro@enron.com"
+      },
+      {
+         "from" : "jlhuemoe@llgm.com",
+         "line" : 110,
+         "rawfrom" : "\"JAMES L. HUEMOELLER\" <JLHUEMOE@LLGM.COM>\n",
+         "to" : "mary.hain@enron.com,\trick.shapiro@enron.com,\t\"JOHN G KLAUBERG\" <JKLAUBER@LLGM.COM>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/1020.",
+   "hops" : [
+      {
+         "from" : "billy.lemmons@enron.com",
+         "line" : 4,
+         "rawfrom" : "billy.lemmons@enron.com\r\n",
+         "to" : "kvaghela.mba2001@ivey.ca"
+      },
+      {
+         "from" : "\"kiron vaghela\" <kvaghela.mba2001@ivey.ca>@enron",
+         "line" : 31,
+         "rawfrom" : "\t\"Kiron Vaghela\" <kvaghela.mba2001@ivey.ca>@ENRON  \n",
+         "to" : "Lemmons Jr., Billy"
+      },
+      {
+         "from" : "nobody@ivey.ca",
+         "line" : 77,
+         "rawfrom" : "\"Nobody\" <nobody@ivey.ca>\n",
+         "to" : "\"KIRON VAGHELA\" <kvaghela.mba2001@ivey.ca>"
+      },
+      {
+         "from" : "dawn.doucet@enron.com",
+         "line" : 99,
+         "rawfrom" : "\"Doucet, Dawn\" <Dawn.Doucet@enron.com>\n",
+         "to" : "<kvaghela.mba2001@ivey.ca>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/1021.",
+   "hops" : [
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 4,
+         "rawfrom" : "rogers.herndon@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "sunil.vaze@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tVaze, Sunil  \n",
+         "to" : "Herndon, Rogers"
+      },
+      {
+         "from" : "dale.furrow@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tFurrow, Dale  \n",
+         "to" : "Vaze, Sunil; Mills, Scott"
+      },
+      {
+         "from" : "sunil.vaze@enron.com",
+         "line" : 56,
+         "rawfrom" : "\tVaze, Sunil  \n",
+         "to" : "Mills, Scott"
+      },
+      {
+         "from" : "brian.merrill@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tMerrill, Brian J.  \n",
+         "to" : "/o=ENRON/ou=NA/cn=Recipients/cn=notesaddr/cn=f63ee104-2c8b2a1e-86256855-4eb739; Agarwal, Sanjay; Anderson, Andy; Anderson, Jonathan D.; Bachmeier, Rick; Benkert, Christina; Brown, David; Butler, Brian J.; Carlsen, Colin; Coleman, John; Collins, Joan; Cooper, Gregg; Farrar, Kenneth; Ferris, Frank; Furrow, Dale; Gabig, Nathan; Galow, Gary; Gill, Ajit; Herndon, Rogers; Jackson, Robert; Johnson, Tamara; Kazibwe, Julia; Khan, Hina; Kim, Mina; Kosnaski, Andrew; Lopez, Yolanda; Maheu, Peter; Memari, Tooran; Merrill, Brian J.; Mills, Scott; Nguyen, Carla; Parikh, Mona; Paynter, Matthew; Reinecke, Scott; Richter, Jeff; Rudolph, Jeff; Savage, Gordon; Spencer, Victoria; Stoness, Scott; Suttabustya, Buranit; Swain, Steve; Ulrich, Marc; Vaze, Sunil; Villareal, Valerie; Vita, Rocco; You, Dale"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/109.",
+   "hops" : [
+      {
+         "from" : "delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "delainey@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 26,
+         "rawfrom" : "David W Delainey/HOU/EES on 05/24/2001 12:02 AM ---------------------------\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "evan.hughes@enron.com",
+         "line" : 48,
+         "rawfrom" : "Evan Hughes/HOU/EES on 05/23/2001 07:30 PM ---------------------------\n",
+         "to" : "Evan Hughes/HOU/EES@EES"
+      },
+      {
+         "from" : "anthony.dayao@enron.com",
+         "line" : 71,
+         "rawfrom" : "Anthony Dayao/HOU/EES on 05/23/2001 07:00 PM ---------------------------\n",
+         "to" : "John J Lavorato/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/12.",
+   "hops" : [
+      {
+         "from" : "earnest@enron.com",
+         "line" : 4,
+         "rawfrom" : "earnest@enron.com\r\n",
+         "to" : "jean.mrha@enron.com, john.lavorato@enron.com"
+      },
+      {
+         "from" : "jean_mrha@enron.net",
+         "line" : 32,
+         "rawfrom" : "\tMrha, Jean  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Mrha, Jean"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 69,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Nowlan Jr., John L."
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/140.",
+   "hops" : [
+      {
+         "from" : "buckley@enron.com",
+         "line" : 4,
+         "rawfrom" : "buckley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 42,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Buckley, Karen"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 53,
+         "rawfrom" : "Buckley, Karen \n",
+         "to" : "Lavorato, John; Hillis, Kimberly"
+      },
+      {
+         "from" : "karen.buckley@enron.com",
+         "line" : 70,
+         "rawfrom" : "  Buckley, Karen  \n",
+         "to" : "Gilbert-Smith, Doug; Will, Lloyd; White, Stacey; Baughman, Don; Arora, Harry; Davis, Dana; Herndon, Rogers; Gossett, David; Gaskill, Chris; Superty, Robert; Lagrasta, Fred; McMichael Jr., Ed; Neal, Scott"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/156.",
+   "hops" : [
+      {
+         "from" : "delainey@enron.com",
+         "line" : 4,
+         "rawfrom" : "delainey@enron.com\r\n",
+         "to" : "greg.whalley@enron.com, john.lavorato@enron.com, janet.dietrich@enron.com,"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 24,
+         "rawfrom" : "David W Delainey/HOU/EES on 05/17/2001 08:47 AM ---------------------------\n",
+         "to" : "David W Delainey/HOU/EES@EES"
+      },
+      {
+         "from" : "ken_rice@enron.net",
+         "line" : 36,
+         "rawfrom" : "Ken Rice/Enron Communications on 05/16/01 09:26 AM -----\n",
+         "to" : "RMSherrill@duke-energy.com, lance_riley@anadarko.com, Ken Rice/Enron Communications@Enron Communications, alinbeck@redstonegroup.com  cc:   Subject: FW: DARWIN AWARDS"
+      },
+      {
+         "from" : "bsbprkns@jump.net",
+         "line" : 46,
+         "rawfrom" : "Bob and Sharyn Perkins [mailto:bsbprkns@jump.net]\n",
+         "to" : "Undisclosed-Recipient:;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/157.",
+   "hops" : [
+      {
+         "from" : "belden@enron.com",
+         "line" : 4,
+         "rawfrom" : "belden@enron.com\r\n",
+         "to" : "dan.leff@enron.com, janet.dietrich@enron.com, john.lavorato@enron.com,"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 28,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Belden, Tim"
+      },
+      {
+         "from" : "kalmeida@caiso.com",
+         "line" : 45,
+         "rawfrom" : "\t\"Almeida, Keoni\" <KAlmeida@caiso.com <mailto:KAlmeida@caiso.com>>@ENRON [mailto:IMCEANOTES-+22Almeida+2C+20Keoni+22+20+3CKAlmeida+40caiso+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-+22Almeida+2C+20Keoni+22+20+3CKAlmeida+40caiso+2Ecom+3E+40ENRON@ENRON.com]> \n",
+         "to" : "O'Neil, Murray P.; Stokley, Chris; Johnson, Donna"
+      },
+      {
+         "from" : "> from:\tepstein, michael",
+         "line" : 67,
+         "rawfrom" : "> From:\tEpstein, Michael\n",
+         "to" : "Gerber, Spence; Woertz, Byron; Almeida, Keoni; Nelsen, Deanne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/189.",
+   "hops" : [
+      {
+         "from" : "presto@enron.com",
+         "line" : 4,
+         "rawfrom" : "presto@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "gilsmith@houston.rr.com",
+         "line" : 24,
+         "rawfrom" : "\tGilbert-smith, Doug  \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "swhite11@houston.rr.com",
+         "line" : 38,
+         "rawfrom" : "\tWhite, Stacey  \n",
+         "to" : "Gilbert-smith, Doug"
+      },
+      {
+         "from" : "stacey.w.white@enron.|",
+         "line" : 50,
+         "rawfrom" : "Stacey W White/HOU/ECT on 05/25/2001 03:54 PM ---------------------------\n",
+         "to" : "Chris Abel/HOU/ECT@ECT, Anita Luong/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/22.",
+   "hops" : [
+      {
+         "from" : "jonch@magic.pmh.on.ca",
+         "line" : 4,
+         "rawfrom" : "jonch@magic.pmh.on.ca\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "\"joseph g.galea\" <ga",
+         "line" : 23,
+         "rawfrom" : "\"Joseph G.Galea\" <ga\n",
+         "to" : "<JONCH@magic.pmh.on.ca>"
+      },
+      {
+         "from" : "jonch@magic.pmh.on.ca",
+         "line" : 39,
+         "rawfrom" : "<JONCH@magic.pmh.on.ca>\n",
+         "to" : "<galea@mcgown.com>"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 68,
+         "rawfrom" : "\"Joseph G.Galea\" <galea@mcgown.com>\n",
+         "to" : "<JONCH@magic.pmh.on.ca>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/247.",
+   "hops" : [
+      {
+         "from" : "colwell@enron.com",
+         "line" : 4,
+         "rawfrom" : "colwell@enron.com\r\n",
+         "to" : "l..miller@enron.com, kyle.kettler@enron.com"
+      },
+      {
+         "from" : "michael.l.miller@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tMiller, Michael L.  \n",
+         "to" : "Colwell, Wes; Kettler, Kyle"
+      },
+      {
+         "from" : "wes.colwell@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tColwell, Wes  \n",
+         "to" : "Kettler, Kyle"
+      },
+      {
+         "from" : "kyle.kettler@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tKettler, Kyle  \n",
+         "to" : "Colwell, Wes"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/267.",
+   "hops" : [
+      {
+         "from" : "kishkill@enron.com",
+         "line" : 4,
+         "rawfrom" : "kishkill@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 25,
+         "rawfrom" : "Joe Kishkill/SA/Enron on 06/06/2001 08:23 PM ---------------------------\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Orlando Gonzalez/SA/Enron@Enron"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 35,
+         "rawfrom" : "From:\tJohn Weakly/ENRON@enronXgate on 06/06/2001 15:24 CDT\n",
+         "to" : "Britaldo Soares/SA/Enron@Enron"
+      },
+      {
+         "from" : "britaldo.soares@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tSoares, Britaldo  \n",
+         "to" : "Weakly, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/272.",
+   "hops" : [
+      {
+         "from" : "milnthorp@enron.com",
+         "line" : 4,
+         "rawfrom" : "milnthorp@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 23,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 06/04/2001 02:30 PM CDT\n",
+         "to" : "Rob Milnthorp/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 59,
+         "rawfrom" : "Rob Milnthorp/CAL/ECT on 06/04/2001 10:27 AM ---------------------------\n",
+         "to" : "John J Lavorato/Corp/Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/275.",
+   "hops" : [
+      {
+         "from" : "hewitt@enron.com",
+         "line" : 4,
+         "rawfrom" : "hewitt@enron.com\r\n",
+         "to" : "rogers.herndon@enron.com"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 37,
+         "rawfrom" : "Rogers Herndon@ECT\n",
+         "to" : "Jess Hewitt/HOU/EES@EES"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 51,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:26 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Homco, Jim"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 71,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 07:01 PM ---------------------------\n",
+         "to" : "Don Black/HOU/EES, Rogers Herndon/HOU/ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/276.",
+   "hops" : [
+      {
+         "from" : "herndon@enron.com",
+         "line" : 4,
+         "rawfrom" : "herndon@enron.com\r\n",
+         "to" : "jess.hewitt@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:26 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Homco, Jim"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 51,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 07:01 PM ---------------------------\n",
+         "to" : "Don Black/HOU/EES, Rogers Herndon/HOU/ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/283.",
+   "hops" : [
+      {
+         "from" : "presto@enron.com",
+         "line" : 4,
+         "rawfrom" : "presto@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWhalley, Greg  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 39,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 06/05/2001 10:22 AM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tCollonges, Remi  \n",
+         "to" : "Kishkill, Joe; Gonzalez, Orlando; Lavorato, John"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/286.",
+   "hops" : [
+      {
+         "from" : "leff@enron.com",
+         "line" : 4,
+         "rawfrom" : "leff@enron.com\r\n",
+         "to" : "tim.belden@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 37,
+         "rawfrom" : "From:\tTim Belden/ENRON@enronXgate on 05/24/2001 06:50 PM\n",
+         "to" : "Dan Leff/HOU/EES@EES, Janet R Dietrich/HOU/EES@EES, John J Lavorato/ENRON@enronXgate, Don Black/HOU/EES@EES, Murray P ONeil/ENRON@enronXgate, Richard B Sanders/HOU/ECT@ECT, Christian Yoder/ENRON@enronXgate"
+      },
+      {
+         "from" : "o@stockupticks.com",
+         "line" : 50,
+         "rawfrom" : "\tO'Neil, Murray P.  \n",
+         "to" : "Belden, Tim"
+      },
+      {
+         "from" : "kalmeida@caiso.com",
+         "line" : 67,
+         "rawfrom" : "\t\"Almeida, Keoni\" <KAlmeida@caiso.com <mailto:KAlmeida@caiso.com>>@ENRON [mailto:IMCEANOTES-+22Almeida+2C+20Keoni+22+20+3CKAlmeida+40caiso+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-+22Almeida+2C+20Keoni+22+20+3CKAlmeida+40caiso+2Ecom+3E+40ENRON@ENRON.com]> \n",
+         "to" : "O'Neil, Murray P.; Stokley, Chris; Johnson, Donna"
+      },
+      {
+         "from" : "> from:\tepstein, michael",
+         "line" : 89,
+         "rawfrom" : "> From:\tEpstein, Michael\n",
+         "to" : "Gerber, Spence; Woertz, Byron; Almeida, Keoni; Nelsen, Deanne"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/290.",
+   "hops" : [
+      {
+         "from" : "collonges@enron.com",
+         "line" : 4,
+         "rawfrom" : "collonges@enron.com\r\n",
+         "to" : "fred.sampaio@enron.com"
+      },
+      {
+         "from" : "fred.sampaio@enron.com",
+         "line" : 38,
+         "rawfrom" : "Fred Sampaio\n",
+         "to" : "Remi Collonges/SA/Enron@Enron"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 56,
+         "rawfrom" : "Remi Collonges\n",
+         "to" : "Orlando Gonzalez/SA/Enron@Enron"
+      },
+      {
+         "from" : "orlando.gonzalez@enron.com",
+         "line" : 71,
+         "rawfrom" : "Orlando Gonzalez\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Remi Collonges/SA/Enron@Enron, sergio.assad@enron.com, britaldo.soares@enron.com, Brett R Wiggs/SA/Enron@Enron, Joao.Carlos.Albuquerque@enron.com, John Novak/SA/Enron@Enron, Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Miguel Padron/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/291.",
+   "hops" : [
+      {
+         "from" : "metzger@enron.com",
+         "line" : 4,
+         "rawfrom" : "metzger@enron.com\r\n",
+         "to" : "remi.collonges@enron.com"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 37,
+         "rawfrom" : "Remi Collonges\n",
+         "to" : "Fred Sampaio/SA/Enron@Enron"
+      },
+      {
+         "from" : "fred.sampaio@enron.com",
+         "line" : 50,
+         "rawfrom" : "Fred Sampaio\n",
+         "to" : "Remi Collonges/SA/Enron@Enron"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 68,
+         "rawfrom" : "Remi Collonges\n",
+         "to" : "Orlando Gonzalez/SA/Enron@Enron"
+      },
+      {
+         "from" : "orlando.gonzalez@enron.com",
+         "line" : 83,
+         "rawfrom" : "Orlando Gonzalez\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Remi Collonges/SA/Enron@Enron, sergio.assad@enron.com, britaldo.soares@enron.com, Brett R Wiggs/SA/Enron@Enron, Joao.Carlos.Albuquerque@enron.com, John Novak/SA/Enron@Enron, Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Miguel Padron/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/292.",
+   "hops" : [
+      {
+         "from" : "henriques@enron.com",
+         "line" : 4,
+         "rawfrom" : "henriques@enron.com\r\n",
+         "to" : "remi.collonges@enron.com"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 39,
+         "rawfrom" : "Remi Collonges\n",
+         "to" : "Fred Sampaio/SA/Enron@Enron"
+      },
+      {
+         "from" : "fred.sampaio@enron.com",
+         "line" : 52,
+         "rawfrom" : "Fred Sampaio\n",
+         "to" : "Remi Collonges/SA/Enron@Enron"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 70,
+         "rawfrom" : "Remi Collonges\n",
+         "to" : "Orlando Gonzalez/SA/Enron@Enron"
+      },
+      {
+         "from" : "orlando.gonzalez@enron.com",
+         "line" : 85,
+         "rawfrom" : "Orlando Gonzalez\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Remi Collonges/SA/Enron@Enron, sergio.assad@enron.com, britaldo.soares@enron.com, Brett R Wiggs/SA/Enron@Enron, Joao.Carlos.Albuquerque@enron.com, John Novak/SA/Enron@Enron, Jose Bestard/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Miguel Padron/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/295.",
+   "hops" : [
+      {
+         "from" : "colwell@enron.com",
+         "line" : 4,
+         "rawfrom" : "colwell@enron.com\r\n",
+         "to" : "matthew.duffy@enron.com"
+      },
+      {
+         "from" : "stanley.farmer@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tFarmer, Stanley  \n",
+         "to" : "Colwell, Wes"
+      },
+      {
+         "from" : "carlos.sole@enron.com=20",
+         "line" : 34,
+         "rawfrom" : "\tSole, Carlos  \n",
+         "to" : "Duffy, Matthew"
+      },
+      {
+         "from" : "carlos.sole@enron.com=20",
+         "line" : 43,
+         "rawfrom" : "Carlos Sole/NA/Enron on 05/24/2001 09:08 AM -----\n",
+         "to" : "Carlos Sole/NA/Enron@Enron  cc:   Subject: Re: MOU"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/298.",
+   "hops" : [
+      {
+         "from" : "herndon@enron.com",
+         "line" : 4,
+         "rawfrom" : "herndon@enron.com\r\n",
+         "to" : "kevin.presto@enron.com, john.lavorato@enron.com"
+      },
+      {
+         "from" : "rogers@up.edu",
+         "line" : 32,
+         "rawfrom" : "Rogers\n",
+         "to" : "Rogers Herndon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 77,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:28 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 86,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 97,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06:52 PM ---------------------------\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 113,
+         "rawfrom" : " Michael Kim                           05/21/2001 03:20 PM Phone No: 713-853-1902\t\n",
+         "to" : "Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES, Don Black/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/299.",
+   "hops" : [
+      {
+         "from" : "herndon@enron.com",
+         "line" : 4,
+         "rawfrom" : "herndon@enron.com\r\n",
+         "to" : "michael.kim@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:28 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 52,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06:52 PM ---------------------------\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 68,
+         "rawfrom" : " Michael Kim                           05/21/2001 03:20 PM Phone No: 713-853-1902\t\n",
+         "to" : "Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES, Don Black/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/300.",
+   "hops" : [
+      {
+         "from" : "herndon@enron.com",
+         "line" : 4,
+         "rawfrom" : "herndon@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 47,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/22/2001 08=\r\n",
+         "to" : "=09Rogers Herndon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 72,
+         "rawfrom" : "Rogers Herndon@ECT\r\n",
+         "to" : "=09Michael Kim/HOU/EES@EES"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 92,
+         "rawfrom" : "From:=09John J Lavorato/ENRON@enronXgate on 05/22/2001 07:28 AM\r\n",
+         "to" : "=09Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "=09herndon, rogers =20",
+         "line" : 102,
+         "rawfrom" : "=09Herndon, Rogers =20\r\n",
+         "to" : "=09Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 114,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06=\r\n",
+         "to" : "=09Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 132,
+         "rawfrom" : " Michael Kim                           05/=\r\n",
+         "to" : "=09Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubble="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/304.",
+   "hops" : [
+      {
+         "from" : "kishkill@enron.com",
+         "line" : 4,
+         "rawfrom" : "kishkill@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 27,
+         "rawfrom" : "Joe Kishkill/SA/Enron on 06/04/2001 04:27 PM ---------------------------\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 38,
+         "rawfrom" : "Joe Kishkill\n",
+         "to" : "John Novak/SA/Enron@Enron"
+      },
+      {
+         "from" : "john.novak@enron.com",
+         "line" : 49,
+         "rawfrom" : "John Novak\n",
+         "to" : "Orlando Gonzalez/SA/Enron@Enron, Joe Kishkill/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/305.",
+   "hops" : [
+      {
+         "from" : "black@enron.com",
+         "line" : 4,
+         "rawfrom" : "black@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "vsharp@enron.com",
+         "line" : 28,
+         "rawfrom" : " Vicki Sharp                           05/1=\r\n",
+         "to" : "=09Don Black/HOU/EES@EES"
+      },
+      {
+         "from" : "vsharp@enron.com",
+         "line" : 39,
+         "rawfrom" : "Vicki Sharp/HOU/EES on 05/16/2001 11:20=\r\n",
+         "to" : "=09Dan Leff/HOU/EES@EES, Marty Sunde/HOU/EES@EES"
+      },
+      {
+         "from" : "jimmie_williams@enron.com",
+         "line" : 57,
+         "rawfrom" : "Jimmie Williams/HOU/EES on 05/15/2001 0=\r\n",
+         "to" : "=09Jimmie Williams/HOU/EES@EES"
+      },
+      {
+         "from" : "jimmie_williams@enron.com",
+         "line" : 73,
+         "rawfrom" : "Jimmie Williams\r\n",
+         "to" : "=09Vicki Sharp/HOU/EES@EES"
+      },
+      {
+         "from" : "vsharp@enron.com",
+         "line" : 95,
+         "rawfrom" : " Vicki Sharp                           05/1=\r\n",
+         "to" : "=09Jimmie Williams/HOU/EES@EES"
+      },
+      {
+         "from" : "vsharp@enron.com",
+         "line" : 108,
+         "rawfrom" : "Vicki Sharp/HOU/EES on 05/11/2001 02:00=\r\n",
+         "to" : "=09Carol Moffett, Peggy Mahoney, Evan Hughes, Vicki Sharp, Elizabeth Til="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/308.",
+   "hops" : [
+      {
+         "from" : "mrha@enron.com",
+         "line" : 4,
+         "rawfrom" : "mrha@enron.com\r\n",
+         "to" : "john.goodpasture@enron.com"
+      },
+      {
+         "from" : "john.goodpasture@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tGoodpasture, John  \n",
+         "to" : "Mrha, Jean"
+      },
+      {
+         "from" : "jean_mrha@enron.net",
+         "line" : 44,
+         "rawfrom" : "\tMrha, Jean  \n",
+         "to" : "Goodpasture, John"
+      },
+      {
+         "from" : "john.goodpasture@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tGoodpasture, John  \n",
+         "to" : "Bilberry, Michael; Hilgert, Chris"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/356.",
+   "hops" : [
+      {
+         "from" : "brown@enron.com",
+         "line" : 4,
+         "rawfrom" : "brown@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 26,
+         "rawfrom" : "\tLewis, Richard  \n",
+         "to" : "Brown, Michael"
+      },
+      {
+         "from" : "rnl@capgroup.com",
+         "line" : 35,
+         "rawfrom" : "Richard Lewis/LON/ECT on 23/05/2001 08:45 ---------------------------\n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      },
+      {
+         "from" : "chris.thrall@enron.com",
+         "line" : 78,
+         "rawfrom" : "Chris Thrall/LON/ECT on 22/05/2001 17:22 ---------------------------\n",
+         "to" : "Mark Dobler/HOU/EES@EES"
+      },
+      {
+         "from" : "mark.dobler@enron.com",
+         "line" : 99,
+         "rawfrom" : " Mark Dobler @ EES                           09/02/2001 23:11\t\n",
+         "to" : "Richard Lewis/LON/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/366.",
+   "hops" : [
+      {
+         "from" : "oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tFrevert, Mark  \n",
+         "to" : "Oxley, David"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Frevert, Mark"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tBrown, Aaron (Executive Comp)  \n",
+         "to" : "Oxley, David"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Brown, Aaron (Executive Comp)"
+      },
+      {
+         "from" : "aaron_brown@enron.com",
+         "line" : 68,
+         "rawfrom" : "\tBrown, Aaron (Executive Comp)  \n",
+         "to" : "Oxley, David"
+      },
+      {
+         "from" : "mary.lessor@enron.com",
+         "line" : 78,
+         "rawfrom" : "\tLessor, Mary  \n",
+         "to" : "Butler, Pam; Brown, Aaron (Executive Comp)"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/385.",
+   "hops" : [
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 4,
+         "rawfrom" : "rob.milnthorp@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Milnthorp, Rob"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "neil.davies@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tDavies, Neil  \n",
+         "to" : "Oxley, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/398.",
+   "hops" : [
+      {
+         "from" : "tim.belden@enron.com",
+         "line" : 4,
+         "rawfrom" : "tim.belden@enron.com\r\n",
+         "to" : "john.lavorato@enron.com, louise.kitchen@enron.com"
+      },
+      {
+         "from" : "kysa.alport@enron.com",
+         "line" : 21,
+         "rawfrom" : "Alport, Kysa \n",
+         "to" : "Alonso, Tom; Badeer, Robert; Belden, Tim; Crandall, Sean; Driscoll, Michael M.; Fischer, Mark; Mallory, Chris; Morris, Jeremy; Motley, Matt; Platter, Phillip; Purcell, Mike; Richter, Jeff; Salisbury, Holden; Scholtes, Diana; Swerzbin, Mike; Williams III, Bill"
+      },
+      {
+         "from" : "11/01/2001   to: 11/14/2001",
+         "line" : 34,
+         "rawfrom" : "11/01/2001   To: 11/14/2001\t  \t\n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 48,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t\n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 61,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t\n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 68,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t  \t  \t  \t  \t\n",
+         "to" : "11/14/2001"
+      },
+      {
+         "from" : "11/14/2001   to: 11/14/2001",
+         "line" : 74,
+         "rawfrom" : "11/14/2001   To: 11/14/2001\t  \t  \t  \t  \t  \t\n",
+         "to" : "11/14/2001"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/410.",
+   "hops" : [
+      {
+         "from" : "doug.gilbert-smith@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.gilbert-smith@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Dahlke, Andrea"
+      },
+      {
+         "from" : "andrea.dahlke@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tDahlke, Andrea  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Gilbert-smith, Doug"
+      },
+      {
+         "from" : "gilsmith@houston.rr.com",
+         "line" : 77,
+         "rawfrom" : "\tGilbert-smith, Doug  \n",
+         "to" : "Hayden, Frank; Presley, Mike E"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/487.",
+   "hops" : [
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 4,
+         "rawfrom" : "liz.taylor@enron.com\r\n",
+         "to" : "raymond.bowen@enron.com, jeffrey.mcmahon@enron.com, mike.mcconnell@enron.com,"
+      },
+      {
+         "from" : "liz.taylor@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tTaylor, Liz  \n",
+         "to" : "Bowen Jr., Raymond; McMahon, Jeffrey; Mcconnell, Mike; Fallon, Jim; Delainey, David W.; Lavorato, John; Sherriff, John; Whalley, Greg; Horton, Stanley"
+      },
+      {
+         "from" : "jim_fallon@enron.net",
+         "line" : 57,
+         "rawfrom" : "\tFallon, Jim  \n",
+         "to" : "Taylor, Liz"
+      },
+      {
+         "from" : "jim_fallon@enron.net",
+         "line" : 65,
+         "rawfrom" : "\tFallon, Jim  \n",
+         "to" : "Bowen Jr., Raymond; McMahon, Jeffrey; Mcconnell, Mike; Horton, Stanley; Fallon, Jim; Delainey, David W.; Lavorato, John; Sherriff, John; Whalley, Greg"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/493.",
+   "hops" : [
+      {
+         "from" : "punit.rawal@enron.com",
+         "line" : 4,
+         "rawfrom" : "punit.rawal@enron.com\r\n",
+         "to" : "kam.keiser@enron.com, john.lavorato@enron.com"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Rawal, Punit"
+      },
+      {
+         "from" : "punit.rawal@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tRawal, Punit  \n",
+         "to" : "Keiser, Kam"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 70,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Rawal, Punit"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/499.",
+   "hops" : [
+      {
+         "from" : "greg.piper@enron.com",
+         "line" : 4,
+         "rawfrom" : "greg.piper@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "martin.bucknell@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tBucknell, Martin  \n",
+         "to" : "Rub, Jenny; Pickering, Mark; Piper, Greg"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 36,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Bucknell, Martin"
+      },
+      {
+         "from" : "martin.bucknell@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBucknell, Martin  \n",
+         "to" : "Lavorato, John; Colwell, Wes"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/559.",
+   "hops" : [
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.arnold@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Arnold, John"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 31,
+         "rawfrom" : "Arnold, John \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 44,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Arnold, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/574.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 21,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Oxley, David"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 29,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Milnthorp, Rob"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "neil.davies@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tDavies, Neil  \n",
+         "to" : "Oxley, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/575.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 28,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 35,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lisa.mellencamp@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMellencamp, Lisa  \n",
+         "to" : "Murphy, Harlan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/577.",
+   "hops" : [
+      {
+         "from" : "stanley.horton@enron.com",
+         "line" : 4,
+         "rawfrom" : "stanley.horton@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Horton, Stanley"
+      },
+      {
+         "from" : "stanley_horton@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHorton, Stanley  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Horton, Stanley"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/633.",
+   "hops" : [
+      {
+         "from" : "m..presto@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..presto@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "\tPresto, Kevin M.  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Presto, Kevin M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/634.",
+   "hops" : [
+      {
+         "from" : "m..presto@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..presto@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : "\tPresto, Kevin M.  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Presto, Kevin M."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/636.",
+   "hops" : [
+      {
+         "from" : "janet.dietrich@enron.com",
+         "line" : 4,
+         "rawfrom" : "janet.dietrich@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com, john.lavorato@enron.com"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSteffes, James D.  \n",
+         "to" : "Dietrich, Janet; Shapiro, Richard; Delaney, David; Kitchen, Louise; Lavorato, John"
+      },
+      {
+         "from" : "jdietri@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tDietrich, Janet  \n",
+         "to" : "Shapiro, Richard"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 60,
+         "rawfrom" : "\tSteffes, James D.  \n",
+         "to" : "Dietrich, Janet"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/651.",
+   "hops" : [
+      {
+         "from" : "don.black@enron.com",
+         "line" : 4,
+         "rawfrom" : "don.black@enron.com\r\n",
+         "to" : "john.lavorato@enron.com, louise.kitchen@enron.com, s..bradford@enron.com"
+      },
+      {
+         "from" : "rebecca.fite@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tFite, Rebecca  \n",
+         "to" : "Kingerski, Harry; Steffes, James D.; Leff, Dan; Hughes, Evan"
+      },
+      {
+         "from" : "hkingers@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tKingerski, Harry  \n",
+         "to" : "Steffes, James D.; Leff, Dan; Hughes, Evan"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tSteffes, James D.  \n",
+         "to" : "Leff, Dan; Hughes, Evan; Kingerski, Harry"
+      },
+      {
+         "from" : "dleff@enron.com",
+         "line" : 73,
+         "rawfrom" : "\tLeff, Dan  \n",
+         "to" : "Steffes, James D.; Hughes, Evan; Kingerski, Harry"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 83,
+         "rawfrom" : "\tSteffes, James D.  \n",
+         "to" : "Leff, Dan; Hughes, Evan; Kingerski, Harry"
+      },
+      {
+         "from" : "dleff@enron.com",
+         "line" : 95,
+         "rawfrom" : "\tLeff, Dan  \n",
+         "to" : "Hughes, Evan; Steffes, James D."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/deleted_items/668.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/185.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "beth.perlman@enron.com, david.delainey@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 57,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 97,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 130,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/186.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com, kristin.albrecht@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 07/07/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@ENRON, Kevin M Presto/HOU/ECT@ECT, Kristin"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 59,
+         "rawfrom" : "John J Lavorato@ENRON\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 76,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 103,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 143,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 176,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/194.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "sheila.knudsen@enron.com",
+         "line" : 25,
+         "rawfrom" : "Sheila Knudsen@ENRON on 07/11/2000 10:43 AM\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 51,
+         "rawfrom" : "David Oxley@ECT\n",
+         "to" : "Jeanette Salinas/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeanette.salinas@enron.com",
+         "line" : 73,
+         "rawfrom" : "Jeanette Salinas\n",
+         "to" : "Cindy Skinner/HOU/ECT@ECT, Robert Jones/Corp/Enron@ENRON, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/248.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "ted.bland@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/10/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 58,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 74,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/249.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kimberly.hillis@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 54,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect, Mark Guzman/PDX/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/251.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 25,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 60,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 76,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/275.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "jeffrey.shankman@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/05/2000 \n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.butler@enron.com",
+         "line" : 50,
+         "rawfrom" : " Shelly Butler                           08/18/2000 03:37 PM\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 70,
+         "rawfrom" : " Jeffrey A Shankman                           08/18/2000 03:18 PM\n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/291.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "rob.milnthorpe@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 31,
+         "rawfrom" : " Kevin M Presto @ ECT                           09/18/2000 05:29 PM\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, Mark Dana Davis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 61,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 09/18/2000 \n",
+         "to" : "Garrett Tripp/TOR/ECT@ECT, Paul Devries/TOR/ECT@ECT, Jan"
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 155,
+         "rawfrom" : "Lloyd Will/HOU/ECT on 09/18/2000 02:30 PM \n",
+         "to" : "Lloyd Will/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.broussard@enron.com",
+         "line" : 170,
+         "rawfrom" : " Richard Broussard                           08/22/2000 03:24 PM\n",
+         "to" : "Art Stappenbeck/ECP/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/297.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.oxley@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 27,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/26/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 46,
+         "rawfrom" : "Jeanie Slone/HOU/ECT on 26/09/2000 11:00 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "hoyt.thomas@enron.com",
+         "line" : 67,
+         "rawfrom" : "Hoyt Thomas/NA/Enron on 09/25/2000 09:52 \n",
+         "to" : "Hoyt Thomas/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/302.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/28/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 35,
+         "rawfrom" : "Mark Frevert/NA/Enron on 09/28/2000 \n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "office.chairman@enron.com",
+         "line" : 47,
+         "rawfrom" : "Office of the Chairman/Corp/Enron on \n",
+         "to" : "Office of the Chairman/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/313.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/08/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "beth.perlman@enron.com",
+         "line" : 41,
+         "rawfrom" : "Beth Perlman/HOU/ECT on 10/06/2000 09:22 AM -----\n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.burchfield@enron.com",
+         "line" : 77,
+         "rawfrom" : "Richard Burchfield/HOU/ECT on 10/06/2000 \n",
+         "to" : "Richard Burchfield/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/330.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.delainey@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/19/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT, John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 38,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 06:59 AM\n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 54,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 08:35 AM\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Don Black/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/339.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 29,
+         "rawfrom" : " Ted C Bland @ ECT                           10/23/2000 07:58 AM\n",
+         "to" : "Janet R Dietrich/HOU/ECT@ECT, Jeff Donahue/HOU/ECT@ECT, Brian"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 56,
+         "rawfrom" : "Ted C Bland/HOU/ECT on 10/23/2000 07:38 \n",
+         "to" : "Ted C Bland/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 74,
+         "rawfrom" : "Shelly Jones/HOU/ECT on 10/20/2000 02:17 \n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 86,
+         "rawfrom" : "Shelly Jones\n",
+         "to" : "John Howard Harrison/HOU/ECT@ect"
+      },
+      {
+         "from" : "john.harrison@enron.com",
+         "line" : 97,
+         "rawfrom" : "John Howard Harrison\n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/377.",
+   "hops" : [
+      {
+         "from" : "clayton.rondeau@enron.com",
+         "line" : 4,
+         "rawfrom" : "clayton.rondeau@enron.com\r\n",
+         "to" : "lavorato@enron.com"
+      },
+      {
+         "from" : "stephane.brodeur@enron.com",
+         "line" : 20,
+         "rawfrom" : "Stephane Brodeur on 12/01/2000 03:30 PM EST\n",
+         "to" : "Clayton Rondeau/CAL/ECT@ECT"
+      },
+      {
+         "from" : "stephane.brodeur@enron.com",
+         "line" : 31,
+         "rawfrom" : "Stephane Brodeur/TOR/ECT on 12/01/2000 03:36 PM -----\n",
+         "to" : "Stephane Brodeur/TOR/ECT@ECT"
+      },
+      {
+         "from" : "garrett.tripp@enron.com",
+         "line" : 41,
+         "rawfrom" : "Garrett Tripp/TOR/ECT on 12/01/2000 03:27 PM -----\n",
+         "to" : "John.lavorato@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/381.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "dorie.hitchcock@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 12/02/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 41,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Dorie Hitchcock/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 66,
+         "rawfrom" : " Dorie Hitchcock                           11/30/2000 06:40 AM\n",
+         "to" : "Sylvia S Pollan/HOU/ECT@ECT, Robyn Zivic/NA/Enron@Enron, Andrew H"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/72.",
+   "hops" : [
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 4,
+         "rawfrom" : "robert.hemstock@enron.com\r\n",
+         "to" : "rob.milnthorp@enron.com, derek.davies@enron.com, andre.templeman@enron.com,"
+      },
+      {
+         "from" : "robert.hemstock@enron.com",
+         "line" : 40,
+         "rawfrom" : "Robert Hemstock/CAL/ECT on 03/23/2000 \n",
+         "to" : "Robert Hemstock/CAL/ECT@ECT"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 53,
+         "rawfrom" : "Aleck Dadson/TOR/ECT on 03/23/2000 05:03 \n",
+         "to" : "<Aleck.Dadson@enron.com>"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 95,
+         "rawfrom" : "Aleck.Dadson@enron.com [mailto:Aleck.Dadson@enron.com]\n",
+         "to" : "seabron.adamson@frontier-economics.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/discussion_threads/93.",
+   "hops" : [
+      {
+         "from" : "jane.allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "jane.allen@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 32,
+         "rawfrom" : "Jane Allen/HOU/ECT on 05/03/2000 08:31 AM \n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 75,
+         "rawfrom" : " Jane Allen @ ECT                           04/25/2000 12:42 PM\n",
+         "to" : "Lloyd Whiteurst/HR/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 89,
+         "rawfrom" : " Jane Allen                           04/19/2000 05:12 PM\n",
+         "to" : "Lloyd Whiteurst/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/ecr/1.",
+   "hops" : [
+      {
+         "from" : "pruett@enron.com",
+         "line" : 4,
+         "rawfrom" : "pruett@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "charles.delacey@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tDelacey, Charles  \n",
+         "to" : "Pruett, Steve"
+      },
+      {
+         "from" : "charles.delacey@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tDelacey, Charles  \n",
+         "to" : "Pruett, Steve"
+      },
+      {
+         "from" : "steve.pruett@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tPruett, Steve  \n",
+         "to" : "Delacey, Charles"
+      },
+      {
+         "from" : "charles.delacey@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tDelacey, Charles  \n",
+         "to" : "Pruett, Steve"
+      },
+      {
+         "from" : "steve.pruett@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tPruett, Steve  \n",
+         "to" : "Deffner, Joseph; Proffitt, Tim; Delacey, Charles"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/103.",
+   "hops" : [
+      {
+         "from" : "richard.shapiro@enron.com",
+         "line" : 4,
+         "rawfrom" : "richard.shapiro@enron.com\r\n",
+         "to" : "d..steffes@enron.com"
+      },
+      {
+         "from" : "jaime.williams@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWilliams, Jaime  \n",
+         "to" : "Shapiro, Richard"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tShapiro, Richard  \n",
+         "to" : "Williams, Jaime"
+      },
+      {
+         "from" : "paul_hennemeyer@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tHennemeyer, Paul  \n",
+         "to" : "Shapiro, Richard"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/105.",
+   "hops" : [
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 4,
+         "rawfrom" : "louise.kitchen@enron.com\r\n",
+         "to" : "richard.shapiro@enron.com, d..steffes@enron.com"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tShapiro, Richard  \n",
+         "to" : "Steffes, James D."
+      },
+      {
+         "from" : "jaime.williams@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tWilliams, Jaime  \n",
+         "to" : "Shapiro, Richard"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tShapiro, Richard  \n",
+         "to" : "Williams, Jaime"
+      },
+      {
+         "from" : "paul_hennemeyer@enron.com",
+         "line" : 54,
+         "rawfrom" : "\tHennemeyer, Paul  \n",
+         "to" : "Shapiro, Richard"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/106.",
+   "hops" : [
+      {
+         "from" : "richard.shapiro@enron.com",
+         "line" : 4,
+         "rawfrom" : "richard.shapiro@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com, d..steffes@enron.com"
+      },
+      {
+         "from" : "louise.kitchen@enron.com",
+         "line" : 26,
+         "rawfrom" : "Kitchen, Louise <Louise.Kitchen@ENRON.com>\n",
+         "to" : "Shapiro, Richard <Richard.Shapiro@ENRON.com>; Steffes, James D. <James.D.Steffes@ENRON.com>"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tShapiro, Richard  \n",
+         "to" : "Steffes, James D."
+      },
+      {
+         "from" : "jaime.williams@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tWilliams, Jaime  \n",
+         "to" : "Shapiro, Richard"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tShapiro, Richard  \n",
+         "to" : "Williams, Jaime"
+      },
+      {
+         "from" : "paul_hennemeyer@enron.com",
+         "line" : 66,
+         "rawfrom" : "\tHennemeyer, Paul  \n",
+         "to" : "Shapiro, Richard"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/203.",
+   "hops" : [
+      {
+         "from" : "david.port@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.port@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "rick.buy@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBuy, Rick  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 32,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Buy, Rick"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Reeves, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/204.",
+   "hops" : [
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 4,
+         "rawfrom" : "frank.hayden@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "minal.dalia@enron.com",
+         "line" : 22,
+         "rawfrom" : "Dalia, Minal \n",
+         "to" : "Davenport, Lacrecia; Hayden, Frank; Port, David; Hagelmann, Bjorn; Khanna, Bharat"
+      },
+      {
+         "from" : "mollie.gustafson@enron.com",
+         "line" : 29,
+         "rawfrom" : "Gustafson, Mollie \n",
+         "to" : "DL-Portland World Trade Center"
+      },
+      {
+         "from" : "stephen.thome@ubswenergy.com",
+         "line" : 36,
+         "rawfrom" : "Thome, Stephen \n",
+         "to" : "Gustafson, Mollie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/232.",
+   "hops" : [
+      {
+         "from" : "ktycholiz@houston.rr.com",
+         "line" : 4,
+         "rawfrom" : "ktycholiz@houston.rr.com\r\n",
+         "to" : "lavorato@enron.com"
+      },
+      {
+         "from" : "ktycholiz@houston.rr.com",
+         "line" : 20,
+         "rawfrom" : "\"Kim & Barry Tycholiz\" <ktycholiz@houston.rr.com>\n",
+         "to" : "<lavorato@enron.com>"
+      },
+      {
+         "from" : "\"mail delivery subsystem\" <mailer-daemon@sm10.texas.rr.com>",
+         "line" : 31,
+         "rawfrom" : "\"Mail Delivery Subsystem\" <MAILER-DAEMON@sm10.texas.rr.com>\n",
+         "to" : "<ktycholiz@houston.rr.com>"
+      },
+      {
+         "from" : "lavarato@enron.com",
+         "line" : 45,
+         "rawfrom" : "lavarato@enron.com",
+         "to" : "<lavarato@enron.com>"
+      },
+      {
+         "from" : "ktycholiz@houston.rr.com",
+         "line" : 56,
+         "rawfrom" : "\"Kim & Barry Tycholiz\" <ktycholiz@houston.rr.com>\n",
+         "to" : "<lavarato@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/244.",
+   "hops" : [
+      {
+         "from" : "ktycholiz@houston.rr.com",
+         "line" : 4,
+         "rawfrom" : "ktycholiz@houston.rr.com\r\n",
+         "to" : "lavorato@enron.com"
+      },
+      {
+         "from" : "\"mail delivery subsystem\" <mailer-daemon@sm10.texas.rr.com>",
+         "line" : 23,
+         "rawfrom" : "\"Mail Delivery Subsystem\" <MAILER-DAEMON@sm10.texas.rr.com>\n",
+         "to" : "<ktycholiz@houston.rr.com>"
+      },
+      {
+         "from" : "lavarato@enron.com",
+         "line" : 37,
+         "rawfrom" : "lavarato@enron.com",
+         "to" : "<lavarato@enron.com>"
+      },
+      {
+         "from" : "ktycholiz@houston.rr.com",
+         "line" : 47,
+         "rawfrom" : "\"Kim & Barry Tycholiz\" <ktycholiz@houston.rr.com>\n",
+         "to" : "<lavarato@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/260.",
+   "hops" : [
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 4,
+         "rawfrom" : "dorie.hitchcock@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Hitchcock, Dorie"
+      },
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 31,
+         "rawfrom" : "Hitchcock, Dorie \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 41,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Hitchcock, Dorie"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/343.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 31,
+         "rawfrom" : "Bradford, William S. \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 43,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 54,
+         "rawfrom" : "Bradford, William S. \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "stephanie.mcginnis@enron.com",
+         "line" : 69,
+         "rawfrom" : "  Mcginnis, Stephanie  \n",
+         "to" : "Bradford, William S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/344.",
+   "hops" : [
+      {
+         "from" : "s..bradford@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..bradford@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 25,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Bradford, William S."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 36,
+         "rawfrom" : "Bradford, William S. \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "stephanie.mcginnis@enron.com",
+         "line" : 51,
+         "rawfrom" : "  Mcginnis, Stephanie  \n",
+         "to" : "Bradford, William S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/inbox/97.",
+   "hops" : [
+      {
+         "from" : "m..presto@enron.com",
+         "line" : 4,
+         "rawfrom" : "m..presto@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 26,
+         "rawfrom" : "Lavorato, John \n",
+         "to" : "Presto, Kevin M."
+      },
+      {
+         "from" : "william.s.bradford@enron.com/or2/aepin",
+         "line" : 41,
+         "rawfrom" : "  Bradford, William S.  \n",
+         "to" : "Lavorato, John; Kitchen, Louise"
+      },
+      {
+         "from" : "emeche@imcingular.com",
+         "line" : 51,
+         "rawfrom" : "  emeche@imcingular.com ( emeche)@ENRON  \n",
+         "to" : "Bradford, William S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/notes_inbox/16.",
+   "hops" : [
+      {
+         "from" : "jane.allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "jane.allen@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 34,
+         "rawfrom" : "Jane Allen/HOU/ECT on 01/22/2001 08:41 AM -----\n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 44,
+         "rawfrom" : "Margaret Daffin/HOU/ECT on 01/19/2001 \n",
+         "to" : "\"'Margaret.Daffin@enron.com'\" <Margaret.Daffin@enron.com>"
+      },
+      {
+         "from" : "sking@tindallfoster.com",
+         "line" : 53,
+         "rawfrom" : "Susan King <sking@tindallfoster.com>\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/notes_inbox/23.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 30,
+         "rawfrom" : "Amy FitzPatrick\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 47,
+         "rawfrom" : "David Oxley\n",
+         "to" : "Amy FitzPatrick/PDX/ECT@ECT"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 57,
+         "rawfrom" : "Amy FitzPatrick\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 73,
+         "rawfrom" : "Amy FitzPatrick/PDX/ECT on 01/22/2001 \n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 92,
+         "rawfrom" : "Amy FitzPatrick/PDX/ECT on 01/11/2001 \n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/notes_inbox/90.",
+   "hops" : [
+      {
+         "from" : "clayton.rondeau@enron.com",
+         "line" : 4,
+         "rawfrom" : "clayton.rondeau@enron.com\r\n",
+         "to" : "lavorato@enron.com"
+      },
+      {
+         "from" : "stephane.brodeur@enron.com",
+         "line" : 20,
+         "rawfrom" : "Stephane Brodeur on 12/01/2000 03:30 PM EST\n",
+         "to" : "Clayton Rondeau/CAL/ECT@ECT"
+      },
+      {
+         "from" : "stephane.brodeur@enron.com",
+         "line" : 31,
+         "rawfrom" : "Stephane Brodeur/TOR/ECT on 12/01/2000 03:36 PM -----\n",
+         "to" : "Stephane Brodeur/TOR/ECT@ECT"
+      },
+      {
+         "from" : "garrett.tripp@enron.com",
+         "line" : 41,
+         "rawfrom" : "Garrett Tripp/TOR/ECT on 12/01/2000 03:27 PM -----\n",
+         "to" : "John.lavorato@enron.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/old_inbox/36.",
+   "hops" : [
+      {
+         "from" : "s..shively@enron.com",
+         "line" : 4,
+         "rawfrom" : "s..shively@enron.com\r\n",
+         "to" : "m..presto@enron.com, john.lavorato@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 24,
+         "rawfrom" : "\tPresto, Kevin M.  \n",
+         "to" : "Lavorato, John; Shively, Hunter S."
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Shively, Hunter S.; Presto, Kevin M."
+      },
+      {
+         "from" : "robert.johnston@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tJohnston, Robert  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/old_inbox/38.",
+   "hops" : [
+      {
+         "from" : "tim.belden@enron.com",
+         "line" : 4,
+         "rawfrom" : "tim.belden@enron.com\r\n",
+         "to" : "m..presto@enron.com, john.lavorato@enron.com, s..shively@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 22,
+         "rawfrom" : "\tPresto, Kevin M.  \n",
+         "to" : "Lavorato, John; Shively, Hunter S."
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Shively, Hunter S.; Presto, Kevin M."
+      },
+      {
+         "from" : "robert.johnston@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tJohnston, Robert  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/old_inbox/84.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com, john.lavorato@enron.com"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 27,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Oxley, David"
+      },
+      {
+         "from" : "christopher.f.calger@enron.com",
+         "line" : 35,
+         "rawfrom" : "\tCalger, Christopher F.  \n",
+         "to" : "Fitzpatrick, Amy"
+      },
+      {
+         "from" : "amy.fitzpatrick@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tFitzpatrick, Amy  \n",
+         "to" : "Calger, Christopher F."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/personal/3.",
+   "hops" : [
+      {
+         "from" : "jane.allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "jane.allen@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 32,
+         "rawfrom" : "Jane Allen/HOU/ECT on 05/03/2000 08:31 AM \n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 75,
+         "rawfrom" : " Jane Allen @ ECT                           04/25/2000 12:42 PM\n",
+         "to" : "Lloyd Whiteurst/HR/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 89,
+         "rawfrom" : " Jane Allen                           04/19/2000 05:12 PM\n",
+         "to" : "Lloyd Whiteurst/HR/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/personal/78.",
+   "hops" : [
+      {
+         "from" : "jane.allen@enron.com",
+         "line" : 4,
+         "rawfrom" : "jane.allen@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 31,
+         "rawfrom" : "Jane Allen/HOU/ECT on 01/22/2001 08:41 AM -----\n",
+         "to" : "Jane Allen/HOU/ECT@ECT  cc:   Subject: FW: LAVORATO, John"
+      },
+      {
+         "from" : "margaret.daffin@enron.com",
+         "line" : 39,
+         "rawfrom" : "Margaret Daffin/HOU/ECT on 01/19/2001 04:14 PM ---------------------------\n",
+         "to" : "\"'Margaret.Daffin@enron.com'\" <Margaret.Daffin@enron.com>"
+      },
+      {
+         "from" : "sking@tindallfoster.com",
+         "line" : 48,
+         "rawfrom" : "Susan King <sking@tindallfoster.com>\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/personal/94.",
+   "hops" : [
+      {
+         "from" : "dawn.doucet@enron.com",
+         "line" : 4,
+         "rawfrom" : "dawn.doucet@enron.com\r\n",
+         "to" : "jane.allen@enron.com"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 59,
+         "rawfrom" : " Jane Allen                           06/19/2000 11:45 AM\n",
+         "to" : "Dawn Doucet/CAL/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 70,
+         "rawfrom" : "Jane Allen/HOU/ECT on 06/19/2000 12:45 PM \n",
+         "to" : "Jane Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "magnolia3@earthlink.net",
+         "line" : 86,
+         "rawfrom" : " Jane Allen                           06/14/2000 08:50 AM\n",
+         "to" : "Janice Christianson/CAL/ECT@ECT, Dawn Doucet/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/powerwest/15.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "john.lavorato@enron.com"
+      },
+      {
+         "from" : "sheila.knudsen@enron.com",
+         "line" : 25,
+         "rawfrom" : "Sheila Knudsen@ENRON on 07/11/2000 10:43 AM\n",
+         "to" : "David Oxley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 51,
+         "rawfrom" : "David Oxley@ECT\n",
+         "to" : "Jeanette Salinas/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeanette.salinas@enron.com",
+         "line" : 73,
+         "rawfrom" : "Jeanette Salinas\n",
+         "to" : "Cindy Skinner/HOU/ECT@ECT, Robert Jones/Corp/Enron@ENRON, Sheila"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/100.",
+   "hops" : [
+      {
+         "from" : "kimberly.hillis@enron.com",
+         "line" : 4,
+         "rawfrom" : "kimberly.hillis@enron.com\r\n",
+         "to" : "susan.skarness@enron.com"
+      },
+      {
+         "from" : "susan.skarness@enron.com",
+         "line" : 27,
+         "rawfrom" : "Susan Skarness @ ECT\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 47,
+         "rawfrom" : " John J Lavorato                           05/22/2000 06:28 PM\n",
+         "to" : "Susan Skarness/HOU/ECT@ECT"
+      },
+      {
+         "from" : "susan.skarness@enron.com",
+         "line" : 70,
+         "rawfrom" : "Susan Skarness @ ECT\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/160.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "beth.perlman@enron.com, david.delainey@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 30,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 57,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 97,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 130,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/161.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com, kristin.albrecht@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 22,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 07/07/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@ENRON, Kevin M Presto/HOU/ECT@ECT, Kristin"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 59,
+         "rawfrom" : "John J Lavorato@ENRON\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 76,
+         "rawfrom" : " Kevin M Presto @ ECT                           07/05/2000 07:39 PM\n",
+         "to" : "John Lavorato"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 103,
+         "rawfrom" : " Kristin Albrecht                           07/05/2000 11:30 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 143,
+         "rawfrom" : " Kristin Albrecht                           05/15/2000 09:48 AM\n",
+         "to" : "Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod"
+      },
+      {
+         "from" : "kristin_albrecht@enron.net",
+         "line" : 176,
+         "rawfrom" : "Kristin Albrecht/HOU/ECT on 05/15/2000 \n",
+         "to" : "Ravi Ramachandran/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/253.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "ted.bland@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/10/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 58,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 74,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/255.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kimberly.hillis@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 43,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect"
+      },
+      {
+         "from" : "donald.wayne.vinson@enron.com",
+         "line" : 54,
+         "rawfrom" : "Donald Wayne Vinson/HOU/ECT on 08/14/2000 \n",
+         "to" : "Kimberly Hillis/HOU/ECT@ect, Mark Guzman/PDX/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/259.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "hunter.shively@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 25,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 08/15/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 60,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 76,
+         "rawfrom" : "David W Delainey/HOU/ECT on 08/10/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, David W Delainey/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/294.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "jeffrey.shankman@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/05/2000 \n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.butler@enron.com",
+         "line" : 50,
+         "rawfrom" : " Shelly Butler                           08/18/2000 03:37 PM\n",
+         "to" : "Jeffrey A Shankman/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jeffrey_a_shankman@ect.enron.net",
+         "line" : 70,
+         "rawfrom" : " Jeffrey A Shankman                           08/18/2000 03:18 PM\n",
+         "to" : "Shelly Butler/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/332.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "rob.milnthorpe@enron.com"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 31,
+         "rawfrom" : " Kevin M Presto @ ECT                           09/18/2000 05:29 PM\n",
+         "to" : "John J Lavorato/Corp/Enron@Enron, Mark Dana Davis/HOU/ECT@ECT"
+      },
+      {
+         "from" : "kpresto@ect.enron.com",
+         "line" : 61,
+         "rawfrom" : "Kevin M Presto/HOU/ECT on 09/18/2000 \n",
+         "to" : "Garrett Tripp/TOR/ECT@ECT, Paul Devries/TOR/ECT@ECT, Jan"
+      },
+      {
+         "from" : "lwill@hydro.mb.ca",
+         "line" : 155,
+         "rawfrom" : "Lloyd Will/HOU/ECT on 09/18/2000 02:30 PM \n",
+         "to" : "Lloyd Will/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.broussard@enron.com",
+         "line" : 170,
+         "rawfrom" : " Richard Broussard                           08/22/2000 03:24 PM\n",
+         "to" : "Art Stappenbeck/ECP/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/348.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.oxley@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 27,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/26/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 46,
+         "rawfrom" : "Jeanie Slone/HOU/ECT on 26/09/2000 11:00 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "hoyt.thomas@enron.com",
+         "line" : 67,
+         "rawfrom" : "Hoyt Thomas/NA/Enron on 09/25/2000 09:52 \n",
+         "to" : "Hoyt Thomas/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/358.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 09/28/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "nicki.daw@enron.com",
+         "line" : 35,
+         "rawfrom" : "Mark Frevert/NA/Enron on 09/28/2000 \n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "office.chairman@enron.com",
+         "line" : 47,
+         "rawfrom" : "Office of the Chairman/Corp/Enron on \n",
+         "to" : "Office of the Chairman/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/371.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 23,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/08/2000 \n",
+         "to" : "John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "beth.perlman@enron.com",
+         "line" : 41,
+         "rawfrom" : "Beth Perlman/HOU/ECT on 10/06/2000 09:22 AM -----\n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "richard.burchfield@enron.com",
+         "line" : 77,
+         "rawfrom" : "Richard Burchfield/HOU/ECT on 10/06/2000 \n",
+         "to" : "Richard Burchfield/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/401.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.delainey@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 10/19/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT, John J Lavorato/Corp/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 38,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 06:59 AM\n",
+         "to" : "Mark Frevert/NA/Enron@Enron"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 54,
+         "rawfrom" : " Michael Guerriero                           10/19/2000 08:35 AM\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron, Don Black/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/411.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "kevin.presto@enron.com"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 29,
+         "rawfrom" : " Ted C Bland @ ECT                           10/23/2000 07:58 AM\n",
+         "to" : "Janet R Dietrich/HOU/ECT@ECT, Jeff Donahue/HOU/ECT@ECT, Brian"
+      },
+      {
+         "from" : "ted.c.bland@enron.com",
+         "line" : 56,
+         "rawfrom" : "Ted C Bland/HOU/ECT on 10/23/2000 07:38 \n",
+         "to" : "Ted C Bland/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 74,
+         "rawfrom" : "Shelly Jones/HOU/ECT on 10/20/2000 02:17 \n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      },
+      {
+         "from" : "shelly.jones@enron.com",
+         "line" : 86,
+         "rawfrom" : "Shelly Jones\n",
+         "to" : "John Howard Harrison/HOU/ECT@ect"
+      },
+      {
+         "from" : "john.harrison@enron.com",
+         "line" : 97,
+         "rawfrom" : "John Howard Harrison\n",
+         "to" : "Shelly Jones/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent/486.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "dorie.hitchcock@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 12/02/2000 \n",
+         "to" : "David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 41,
+         "rawfrom" : "David W Delainey\n",
+         "to" : "Dorie Hitchcock/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 66,
+         "rawfrom" : " Dorie Hitchcock                           11/30/2000 06:40 AM\n",
+         "to" : "Sylvia S Pollan/HOU/ECT@ECT, Robyn Zivic/NA/Enron@Enron, Andrew H"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/183.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "dorie.hitchcock@enron.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 24,
+         "rawfrom" : "John J Lavorato/Corp/Enron on 12/02/200=\r\n",
+         "to" : "=09David W Delainey/HOU/ECT@ECT"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 40,
+         "rawfrom" : "David W Delainey\r\n",
+         "to" : "=09Dorie Hitchcock/HOU/ECT@ECT"
+      },
+      {
+         "from" : "dorie.hitchcock@enron.com",
+         "line" : 64,
+         "rawfrom" : " Dorie Hitchcock                           11/30/2000 06:40 AM=\r\n",
+         "to" : "=09Sylvia S Pollan/HOU/ECT@ECT, Robyn Zivic/NA/Enron@Enron, Andrew H Lew="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/29.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "jean_mrha@enron.net",
+         "line" : 32,
+         "rawfrom" : "\tMrha, Jean  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 44,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Mrha, Jean"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 63,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/346.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "jonch@magic.pmh.on.ca"
+      },
+      {
+         "from" : "jonch@magic.pmh.on.ca",
+         "line" : 22,
+         "rawfrom" : "\tJONCH@magic.pmh.on.ca@ENRON [mailto:IMCEANOTES-JONCH+40magic+2Epmh+2Eon+2Eca+40ENRON@ENRON.com] \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "\"joseph g.galea\" <g",
+         "line" : 38,
+         "rawfrom" : "\"Joseph G.Galea\" <g\n",
+         "to" : "<JONCH@magic.pmh.on.ca>"
+      },
+      {
+         "from" : "jonch@magic.pmh.on.ca",
+         "line" : 59,
+         "rawfrom" : "<JONCH@magic.pmh.on.ca>\n",
+         "to" : "<galea@mcgown.com>"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 117,
+         "rawfrom" : "\"Joseph G.Galea\" <galea@mcgown.com>\n",
+         "to" : "<JONCH@magic.pmh.on.ca>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/369.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "mark.haedicke@enron.com"
+      },
+      {
+         "from" : "michael.guerriero@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tGuerriero, Michael [mailto:IMCEAEX-_O=ENRON_OU=NA_CN=RECIPIENTS_CN=NOTESADDR_CN=49D074D3-F28B91D5-86256908-664FCE@ENRON.com] \n",
+         "to" : "Kishkill, Joe"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 35,
+         "rawfrom" : "Joe Kishkill\n",
+         "to" : "John J Lavorato/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 46,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/19/2001 11:25 AM CST\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/381.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "christopher.calger@enron.com"
+      },
+      {
+         "from" : "kimberly.hillis@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tHillis, Kimberly  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "connie.blackwood@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tBlackwood, Connie  \n",
+         "to" : "Hillis, Kimberly"
+      },
+      {
+         "from" : "connie.blackwood@enron.com",
+         "line" : 48,
+         "rawfrom" : "Connie Blackwood/ENRON_DEVELOPMENT on 03/05/2001 02:44 PM ---------------------------\n",
+         "to" : "John Lavorato/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/401.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "david.delainey@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Frevert, Mark; Kitchen, Louise; Lavorato, John"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 31,
+         "rawfrom" : "David W Delainey/HOU/ECT on 02/22/2001 07:53 AM ---------------------------\n",
+         "to" : "Marty Sunde/HOU/EES@EES, Harold G Buchanan/HOU/EES@EES, Dan Leff/HOU/EES@EES"
+      },
+      {
+         "from" : "ron.james@enron.com",
+         "line" : 41,
+         "rawfrom" : "Ron James/HOU/EES on 02/21/2001 10:23 AM ---------------------------\n",
+         "to" : "Ron James/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/408.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "andy.zipper@enron.com"
+      },
+      {
+         "from" : "andy.zipper@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tZipper, Andy  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Kitchen, Louise; Zipper, Andy; Whalley, Greg"
+      },
+      {
+         "from" : "ethode@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tThode, Eric  \n",
+         "to" : "Frevert, Mark; Whalley, Greg; Lavorato, John; Kitchen, Louise; Palmer, Mark; Denne, Karen; Leboe, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/437.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "phillip.allen@enron.com"
+      },
+      {
+         "from" : "=09mccarty, danny =20",
+         "line" : 24,
+         "rawfrom" : "=09McCarty, Danny =20\r\n",
+         "to" : "=09Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:=09Joe Hartsoe on 05/03/2001 04:12 PM\r\n",
+         "to" : "=09Julie Armstrong/Corp/Enron@ENRON, Nancy Bagot/OTS/Enron@ENRON, Martha="
+      },
+      {
+         "from" : "joe.hartsoe@enron.com",
+         "line" : 64,
+         "rawfrom" : "Joe Hartsoe/Corp/Enron on 05/03/2001 04:11 PM -----\r\n",
+         "to" : "="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/443.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "phillip.allen@enron.com"
+      },
+      {
+         "from" : "phillip.allen@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tAllen, Phillip  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tFrank Hayden/ENRON@enronXgate on 03/05/2001 09:27 AM CST\n",
+         "to" : "Phillip K Allen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Presto, Kevin; Zufferli, John; McKay, Jonathan; Belden, Tim; Shively, Hunter; Neal, Scott; Martin, Thomas; Allen, Phillip; Arnold, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/445.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "kimberly.hillis@enron.com"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tDadson, Aleck  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 32,
+         "rawfrom" : "Aleck Dadson/TOR/ECT on 04/02/2001 01:30 PM -----\n",
+         "to" : "\"Eric Thode (E-mail)\" <Eric.Thode@enron.com>  cc: \"Aleck Dadson (E-mail)\" <Aleck.Dadson@enron.com>  Subject: FW: Energy Deregulation Articles - Reguly and Corcoran"
+      },
+      {
+         "from" : "> from:\tflancman, leslie",
+         "line" : 44,
+         "rawfrom" : "> From:\tFlancman, Leslie\n",
+         "to" : "Jacob, Sasha"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/448.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "christopher.calger@enron.com"
+      },
+      {
+         "from" : "sherri_sera@hotmail.com",
+         "line" : 22,
+         "rawfrom" : "\tSera, Sherri  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "sherri_sera@hotmail.com",
+         "line" : 31,
+         "rawfrom" : "Sherri Sera/Corp/Enron on 02/26/2001 03:56 PM ---------------------------\n",
+         "to" : "\"'sherri.sera@enron.com'\" <sherri.sera@enron.com>"
+      },
+      {
+         "from" : "equitrust@email.msn.com",
+         "line" : 42,
+         "rawfrom" : "\tRobert L. Graham [mailto:equitrust@email.msn.com]\n",
+         "to" : "ggr3@realmarkcorp.com"
+      },
+      {
+         "from" : "ggr3@realmarkcorp.com",
+         "line" : 47,
+         "rawfrom" : "ggr3@realmarkcorp.com",
+         "to" : ""
+      },
+      {
+         "from" : "equitrust@email.msn.com",
+         "line" : 62,
+         "rawfrom" : "Robert L. Graham [mailto:equitrust@email.msn.com]\n",
+         "to" : "ggr3a@airmail.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/450.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "'tripp@enron.com, 2d615890-65373f13-86256660-73818d@enron.com"
+      },
+      {
+         "from" : "garrett.tripp@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tTripp, Garrett [mailto:IMCEAEX-_O=ENRON_OU=NA_CN=RECIPIENTS_CN=NOTESADDR_CN=2D615890-65373F13-86256660-73818D@ENRON.com] \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 38,
+         "rawfrom" : "Aleck Dadson/TOR/ECT on 02/19/2001 10:44 AM -----\n",
+         "to" : "\"'aleck.dadson@enron.com'\" <aleck.dadson@enron.com>  cc:   Subject: FW: Updated Information"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 47,
+         "rawfrom" : "From:\tSINGER J Mr -STRTGC+INV P\n",
+         "to" : "'alec.dadson@enron.com'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/452.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "gary.hickerson@enron.com"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHickerson, Gary  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "gary.hickerson@enron.com",
+         "line" : 40,
+         "rawfrom" : "Gary Hickerson/HOU/ECT on 04/09/2001 07:25 AM ---------------------------\n",
+         "to" : "Gary Hickerson/HOU/ECT@ECT"
+      },
+      {
+         "from" : "carlos.alatorre@enron.com",
+         "line" : 54,
+         "rawfrom" : " Carlos Alatorre @ ENRON                                                             04/04/2001 01:19 PM\t                              \t\n",
+         "to" : "William Stuart/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 63,
+         "rawfrom" : "From:\tBjorn Hagelmann/ENRON@enronXgate on 04/04/2001 11:36 AM\n",
+         "to" : "Robert B Cass/HOU/ECT@ECT, Carlos Alatorre/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/464.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "tim.belden@enron.com"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 24,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "Kitchen, Louise"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 35,
+         "rawfrom" : "Louise Kitchen\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from" : "louise@enron.com",
+         "line" : 49,
+         "rawfrom" : "Louise\n",
+         "to" : "Louise Kitchen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 60,
+         "rawfrom" : "Louise Kitchen\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/479.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 23,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tAleck Dadson on 06/04/2001 08:22 AM EDT\n",
+         "to" : "Rob Milnthorp/CAL/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 52,
+         "rawfrom" : "From:\tAleck Dadson on 06/01/2001 02:20 PM EDT\n",
+         "to" : "Rob Milnthorp/CAL/ECT@ECT, Paul Devries/TOR/ECT@ECT"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/486.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "kim.melodick@enron.com"
+      },
+      {
+         "from" : "kim.melodick@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMelodick, Kim  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "jeanie.slone@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tSlone, Jeanie  \n",
+         "to" : "Melodick, Kim"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/502.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "caroline.abramo@enron.com"
+      },
+      {
+         "from" : "caroline.abramo@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tAbramo, Caroline  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "caroline.abramo@enron.com",
+         "line" : 53,
+         "rawfrom" : "Caroline Abramo/Corp/Enron on 03/16/2001 08:43 AM ---------------------------\n",
+         "to" : "Julie A Gomez/HOU/ECT@ECT"
+      },
+      {
+         "from" : "julie.a.gomez@enron.com",
+         "line" : 64,
+         "rawfrom" : "Julie A Gomez@ECT\n",
+         "to" : "Caroline Abramo/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "caroline.abramo@enron.com",
+         "line" : 81,
+         "rawfrom" : "Caroline Abramo@ENRON\n",
+         "to" : "Julie A Gomez/HOU/ECT@ECT"
+      },
+      {
+         "from" : "caroline.abramo@enron.com",
+         "line" : 123,
+         "rawfrom" : "Caroline Abramo/Corp/Enron on 03/15/2001 02:02 PM ---------------------------\n",
+         "to" : "Banu Ozcan/Corp/Enron@Enron, Russell Dyk/Corp/Enron@ENRON"
+      },
+      {
+         "from" : "caroline.abramo@enron.com",
+         "line" : 158,
+         "rawfrom" : "Caroline Abramo/Corp/Enron on 03/16/2001 08:43 AM ---------------------------\n",
+         "to" : "William S Bradford/HOU/ECT, Mercy Gil/NA/Enron"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/508.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "rogers.herndon@enron.com"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 33,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06:52 PM ---------------------------\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 47,
+         "rawfrom" : " Michael Kim                           05/21/2001 03:20 PM Phone No: 713-853-1902\t\n",
+         "to" : "Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES, Don Black/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/527.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "tim.belden@enron.com"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 26,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "Lavorato, John; White, Stacey; Beck, Sally; Beth Perlman/HOU/ECT@ENRON; Nat, Steve"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 39,
+         "rawfrom" : "Tim Belden/HOU/ECT on 02/14/2001 02:18 PM ---------------------------\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 57,
+         "rawfrom" : "From:\tSteve Nat/ENRON@enronXgate on 02/14/2001 03:49 PM CST\n",
+         "to" : "Tim Belden/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 75,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "White, Stacey"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 92,
+         "rawfrom" : "From:\tBeth Perlman/ENRON@enronXgate on 02/14/2001 11:14 AM\n",
+         "to" : "Tim Belden/HOU/ECT@ECT, Steve Nat/ENRON@enronXgate, Stacey W White/HOU/ECT@ECT"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 107,
+         "rawfrom" : "\tBelden, Tim  \n",
+         "to" : "Beth Perlman/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "tim_belden@pgn.com",
+         "line" : 116,
+         "rawfrom" : "Tim Belden/HOU/ECT on 02/14/2001 04:58 AM ---------------------------\n",
+         "to" : "Tim Belden/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 2
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/541.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "colleen.sullivan@enron.com"
+      },
+      {
+         "from" : "colleen.sullivan@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tSullivan, Colleen  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/22/2001 11:28 AM\n",
+         "to" : "Colleen Sullivan/HOU/ECT@ECT"
+      },
+      {
+         "from" : "colleen.sullivan@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tSullivan, Colleen  \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/542.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tArnold, John  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/25/2001 07:02 PM\n",
+         "to" : "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 46,
+         "rawfrom" : "Arnold, John \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/543.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tArnold, John  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 29,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/26/2001 07:31 AM\n",
+         "to" : "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tArnold, John  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 49,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/25/2001 07:02 PM\n",
+         "to" : "John Arnold/HOU/ECT@ECT"
+      },
+      {
+         "from" : "john.arnold@enron.com",
+         "line" : 62,
+         "rawfrom" : "Arnold, John \n",
+         "to" : "Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/547.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "mvanrassel@rpmtec.com"
+      },
+      {
+         "from" : "mvanrassel@rpmtec.com",
+         "line" : 22,
+         "rawfrom" : "Mark Van Rassel <mvanrassel@rpmtec.com>@ENRON \n",
+         "to" : "'Joseph G.Galea'; JONCH@magic.pmh.on.ca"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 64,
+         "rawfrom" : "Joseph G.Galea [ <mailto:galea@mcgown.com>]\n",
+         "to" : "JONCH@magic.pmh.on.ca"
+      },
+      {
+         "from" : "jonch@magic.pmh.on.ca",
+         "line" : 97,
+         "rawfrom" : "<JONCH@magic.pmh.on.ca>\n",
+         "to" : "<galea@mcgown.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/551.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "kimberly.hillis@enron.com"
+      },
+      {
+         "from" : "\"irfan ali\" <iali.mba2002@ivey.ca>@enron [mailto:imceanotes-+22irfan+20ali+22+20+3ciali+2emba2002+40ivey+2eca+3e+40enron@enron.com]",
+         "line" : 24,
+         "rawfrom" : "\t\"Irfan Ali\" <iali.mba2002@ivey.ca>@ENRON [mailto:IMCEANOTES-+22Irfan+20Ali+22+20+3Ciali+2Emba2002+40ivey+2Eca+3E+40ENRON@ENRON.com] \n",
+         "to" : "Lavorato, John J."
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 37,
+         "rawfrom" : "Lavorato, John J.  [mailto:John.J.Lavorato@enron.com]\n",
+         "to" : "iali.mba2002@ivey.ca"
+      },
+      {
+         "from" : "\"irfan ali\"  <iali.mba2002@ivey.ca>@enron",
+         "line" : 43,
+         "rawfrom" : "\"Irfan Ali\"  <iali.mba2002@ivey.ca>@ENRON \n",
+         "to" : "Lavorato, John J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/552.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "louise.kitchen@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Joseph Deffner/HOU/ECT@ENRON"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 37,
+         "rawfrom" : "David W Delainey/HOU/EES on 04/18/2001 01:54 PM ---------------------------\n",
+         "to" : "John J Lavorato/Enron@EnronXGate, David W Delainey/HOU/EES@EES"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 46,
+         "rawfrom" : "From:\tAndrew S Fastow/ENRON@enronXgate on 04/18/2001 01:22 PM\n",
+         "to" : "Louise Kitchen/HOU/ECT@ECT"
+      },
+      {
+         "from" : "louise.kitchen@enron.com|thanks",
+         "line" : 60,
+         "rawfrom" : "\tKitchen, Louise  \n",
+         "to" : "Fastow, Andrew S."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/553.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "michael.guerriero@enron.com"
+      },
+      {
+         "from" : "=09guerriero, michael =20",
+         "line" : 22,
+         "rawfrom" : "=09Guerriero, Michael =20\r\n",
+         "to" : "=09Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 35,
+         "rawfrom" : "From:=09John J Lavorato/ENRON@enronXgate on 02/21/2001 04:06 PM CST\r\n",
+         "to" : "=09Michael Guerriero/SA/Enron@Enron"
+      },
+      {
+         "from" : "=09guerriero, michael =20",
+         "line" : 49,
+         "rawfrom" : "=09Guerriero, Michael =20\r\n",
+         "to" : "=09Calo, Andrea; Waingortin, Carolina; Folgar, Cristian; Mestre, Erica; ="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/554.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "jean.mrha@enron.com"
+      },
+      {
+         "from" : "ted.murphy@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tMurphy, Ted   On Behalf Of Ted Murphy/HOU/ECT@ECT\n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 41,
+         "rawfrom" : " Frank Hayden @ ENRON                           02/03/2001 12:17 AM\t\n",
+         "to" : "Ted Murphy/LON/ECT@ECT"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 66,
+         "rawfrom" : " Frank Hayden                           02/02/2001 11:26 AM\t\n",
+         "to" : "Vladimir Gorny/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/555.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "christopher.calger@enron.com"
+      },
+      {
+         "from" : "christopher.calger@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tCalger, Christopher  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/09/2001 07:40 AM CST\n",
+         "to" : "Christopher F Calger/PDX/ECT@ECT"
+      },
+      {
+         "from" : "christopher.calger@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tCalger, Christopher  \n",
+         "to" : "Delainey, David; Kean, Steven; Lavorato, John; Dasovich, Jeff"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/556.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "remi.collonges@enron.com"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tCollonges, Remi  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 34,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 03/21/2001 06:04 PM CST\n",
+         "to" : "Remi Collonges/SA/Enron@Enron"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tCollonges, Remi  \n",
+         "to" : "Kishkill, Joe; Gonzalez, Orlando; Lavorato, John"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/558.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "jess.hewitt@enron.com"
+      },
+      {
+         "from" : "jess.hewitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHewitt, Jess  \n",
+         "to" : "Herndon, Rogers"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 42,
+         "rawfrom" : "Rogers Herndon@ECT\n",
+         "to" : "Jess Hewitt/HOU/EES@EES"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 56,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:26 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 65,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Homco, Jim"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 76,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 07:01 PM ---------------------------\n",
+         "to" : "Don Black/HOU/EES, Rogers Herndon/HOU/ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/559.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "rob.milnthorp@enron.com"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/26/2001 07:41 AM CST\n",
+         "to" : "Rob Milnthorp/CAL/ECT@ECT"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 53,
+         "rawfrom" : "From:\tEric LeDain on 02/23/2001 09:11 AM\n",
+         "to" : "Rob Milnthorp/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/563.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "peggy.hedstrom@enron.com"
+      },
+      {
+         "from" : "peggy.hedstrom@ubsw.com",
+         "line" : 23,
+         "rawfrom" : "\tHedstrom, Peggy  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 03/28/2001 08:48 AM\n",
+         "to" : "Kenneth Lay/Corp/Enron@ENRON, Jeff Skilling/Corp/Enron@ENRON, David W Delainey/HOU/EES@EES, Mark Frevert/ENRON@enronXgate, Louise Kitchen/HOU/ECT@ECT, Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 53,
+         "rawfrom" : "From:\tEric LeDain on 02/23/2001 09:11 AM\n",
+         "to" : "Rob Milnthorp/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/564.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "m..presto@enron.com"
+      },
+      {
+         "from" : "greg.whalley@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWhalley, Greg  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 31,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 06/05/2001 10:22 AM\n",
+         "to" : "Greg Whalley/HOU/ECT@ECT"
+      },
+      {
+         "from" : "remi.collonges@enron.com",
+         "line" : 40,
+         "rawfrom" : "\tCollonges, Remi  \n",
+         "to" : "Kishkill, Joe; Gonzalez, Orlando; Lavorato, John"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/572.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "david.delainey@enron.com"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 28,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 03/14/2001 08:27 AM\n",
+         "to" : "David W Delainey/HOU/EES@EES"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 37,
+         "rawfrom" : "\tDelainey, David  \n",
+         "to" : "Whalley, Greg; Lavorato, John"
+      },
+      {
+         "from" : "david.w.delainey@enron.com",
+         "line" : 48,
+         "rawfrom" : "David W Delainey/HOU/EES on 03/14/2001 08:23 AM ---------------------------\n",
+         "to" : "All Enron Worldwide"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/573.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "rogers.herndon@enron.com"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Presto, Kevin; Lavorato, John"
+      },
+      {
+         "from" : "rogers@up.edu",
+         "line" : 40,
+         "rawfrom" : "Rogers\n",
+         "to" : "Rogers Herndon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 85,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:28 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 94,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 105,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06:52 PM ---------------------------\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 121,
+         "rawfrom" : " Michael Kim                           05/21/2001 03:20 PM Phone No: 713-853-1902\t\n",
+         "to" : "Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES, Don Black/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/574.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "wes.colwell@enron.com"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Kim, Michael"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 39,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 05/22/2001 07:28 AM\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 48,
+         "rawfrom" : "\tHerndon, Rogers  \n",
+         "to" : "Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 59,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06:52 PM ---------------------------\n",
+         "to" : "Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 75,
+         "rawfrom" : " Michael Kim                           05/21/2001 03:20 PM Phone No: 713-853-1902\t\n",
+         "to" : "Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES, Don Black/HOU/EES@EES"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/575.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "rogers.herndon@enron.com"
+      },
+      {
+         "from" : "=09herndon, rogers =20",
+         "line" : 28,
+         "rawfrom" : "=09Herndon, Rogers =20\r\n",
+         "to" : "=09Lavorato, John"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 58,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/22/2001 08=\r\n",
+         "to" : "=09Rogers Herndon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 84,
+         "rawfrom" : "Rogers Herndon@ECT\r\n",
+         "to" : "=09Michael Kim/HOU/EES@EES"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 105,
+         "rawfrom" : "From:=09John J Lavorato/ENRON@enronXgate on 05/22/2001 07:28 AM\r\n",
+         "to" : "=09Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "=09herndon, rogers =20",
+         "line" : 115,
+         "rawfrom" : "=09Herndon, Rogers =20\r\n",
+         "to" : "=09Lavorato, John; Presto, Kevin"
+      },
+      {
+         "from" : "rogers.herndon@enron.com",
+         "line" : 127,
+         "rawfrom" : "Rogers Herndon/HOU/ECT on 05/21/2001 06=\r\n",
+         "to" : "=09Rogers Herndon/HOU/ECT@ect"
+      },
+      {
+         "from" : "michael.kim@enron.com",
+         "line" : 146,
+         "rawfrom" : " Michael Kim                           05/21/2001 03:20 PM Phon=\r\n",
+         "to" : "=09Neil Hong/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Wade Stubble="
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/576.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "derek.davies@enron.com"
+      },
+      {
+         "from" : "derek.davies@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tDavies, Derek  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 34,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/23/2001 10:27 AM CST\n",
+         "to" : "Derek Davies/CAL/ECT@ECT"
+      },
+      {
+         "from" : "derek.davies@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tDavies, Derek  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 59,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 02/22/2001 06:17 PM CST\n",
+         "to" : "Derek Davies/CAL/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/578.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "galea@mcgown.com"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Joseph G.Galea\" <galea@mcgown.com>@ENRON [mailto:IMCEANOTES-+22Joseph+20G+2EGalea+22+20+3Cgalea+40mcgown+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Lavorato, John; James Galea; james_mcdonnell@matthewscott.com; Richard.C.Glover@fritolay.com; Charles Jones; jonch@magic.pmh.on.ca; chrismcconvey@on.aibn.com; mvanrassel@rpmtec.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 32,
+         "rawfrom" : "<John.J.Lavorato@enron.com>\n",
+         "to" : "<galea@mcgown.com>"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 47,
+         "rawfrom" : "  \"Joseph G.Galea\" <galea@mcgown.com>@ENRON\n",
+         "to" : "chrismcconvey@on.aibn.com; Chris Jones; Chuck Jones; James"
+      },
+      {
+         "from" : "chrismcconvey@on.aibn.com",
+         "line" : 82,
+         "rawfrom" : "chris mcconvey <chrismcconvey@on.aibn.com>\n",
+         "to" : "Chris Jones <JONCH@magic.pmh.on.ca>; Chuck Jones"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/579.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "galea@mcgown.com"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Joseph G.Galea\" <galea@mcgown.com>@ENRON [mailto:IMCEANOTES-+22Joseph+20G+2EGalea+22+20+3Cgalea+40mcgown+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Lavorato, John; James Galea; james_mcdonnell@matthewscott.com; Richard.C.Glover@fritolay.com; Charles Jones; jonch@magic.pmh.on.ca; chrismcconvey@on.aibn.com; mvanrassel@rpmtec.com"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 32,
+         "rawfrom" : "<John.J.Lavorato@enron.com>\n",
+         "to" : "<galea@mcgown.com>"
+      },
+      {
+         "from" : "galea@mcgown.com",
+         "line" : 47,
+         "rawfrom" : "  \"Joseph G.Galea\" <galea@mcgown.com>@ENRON\n",
+         "to" : "chrismcconvey@on.aibn.com; Chris Jones; Chuck Jones; James"
+      },
+      {
+         "from" : "chrismcconvey@on.aibn.com",
+         "line" : 82,
+         "rawfrom" : "chris mcconvey <chrismcconvey@on.aibn.com>\n",
+         "to" : "Chris Jones <JONCH@magic.pmh.on.ca>; Chuck Jones"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/581.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "richard.c.glover@fritolay.com"
+      },
+      {
+         "from" : "richard.c.glover@fritolay.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Glover, Richard\" <Richard.C.Glover@fritolay.com>@ENRON [mailto:IMCEANOTES-+22Glover+2C+20Richard+22+20+3CRichard+2EC+2EGlover+40fritolay+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "john.j.lavorato@enron.com",
+         "line" : 32,
+         "rawfrom" : "John.J.Lavorato@enron.com\n",
+         "to" : "Richard C Glover/Frito-Lay/US@Frito-Lay"
+      },
+      {
+         "from" : "richard.c.glover@fritolay.com",
+         "line" : 41,
+         "rawfrom" : "\"Glover, Richard\" <Richard.C.Glover@fritolay.com>@ENRON\n",
+         "to" : "Glover, Richard; Lavorato, John; James Galea;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/583.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "joe.kishkill@enron.com"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 22,
+         "rawfrom" : "\tKishkill, Joe  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 35,
+         "rawfrom" : "Joe Kishkill/SA/Enron on 06/04/2001 04:27 PM ---------------------------\n",
+         "to" : "Joe Kishkill/SA/Enron@Enron"
+      },
+      {
+         "from" : "joe.kishkill@enron.coml",
+         "line" : 46,
+         "rawfrom" : "Joe Kishkill\n",
+         "to" : "John Novak/SA/Enron@Enron"
+      },
+      {
+         "from" : "john.novak@enron.com",
+         "line" : 57,
+         "rawfrom" : "John Novak\n",
+         "to" : "Orlando Gonzalez/SA/Enron@Enron, Joe Kishkill/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/585.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "richard.shapiro@enron.com"
+      },
+      {
+         "from" : "rshapiro@enron.com",
+         "line" : 24,
+         "rawfrom" : "Shapiro, Richard \n",
+         "to" : "Steffes, James"
+      },
+      {
+         "from" : "jsteffe@enron.com",
+         "line" : 39,
+         "rawfrom" : "James D Steffes\n",
+         "to" : "John J Lavorato/Enron@EnronXGate"
+      },
+      {
+         "from" : "aleck.dadson@enron.com",
+         "line" : 56,
+         "rawfrom" : "  Aleck Dadson@ECT on 04/12/2001 10:29 AM\n",
+         "to" : "James D Steffes/NA/Enron@Enron, Richard Shapiro/NA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/586.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "peter.weidler@enron.com"
+      },
+      {
+         "from" : "peter.weidler@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tWeidler, Peter  \n",
+         "to" : "Gonzalez, Orlando"
+      },
+      {
+         "from" : "orlando.gonzalez@enron.com",
+         "line" : 39,
+         "rawfrom" : "Orlando Gonzalez\n",
+         "to" : "Rebecca McDonald/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 48,
+         "rawfrom" : "From:\tRebecca McDonald/ENRON@enronXgate on 13/03/2001 16:53 CST\n",
+         "to" : "Peter E Weidler/NA/Enron@Enron, Orlando Gonzalez/SA/Enron@Enron, Joe Kishkill/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/587.",
+   "hops" : [
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "lavorato@enron.com\r\n",
+         "to" : "peter.weidler@enron.com"
+      },
+      {
+         "from" : "peter.weidler@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tWeidler, Peter  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 33,
+         "rawfrom" : "From:\tJohn J Lavorato/ENRON@enronXgate on 03/14/2001 12:41 PM\n",
+         "to" : "Peter E Weidler/NA/Enron@Enron"
+      },
+      {
+         "from" : "peter.weidler@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tWeidler, Peter  \n",
+         "to" : "Gonzalez, Orlando"
+      },
+      {
+         "from" : "orlando.gonzalez@enron.com",
+         "line" : 60,
+         "rawfrom" : "Orlando Gonzalez\n",
+         "to" : "Rebecca McDonald/ENRON@enronXgate"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 69,
+         "rawfrom" : "From:\tRebecca McDonald/ENRON@enronXgate on 13/03/2001 16:53 CST\n",
+         "to" : "Peter E Weidler/NA/Enron@Enron, Orlando Gonzalez/SA/Enron@Enron, Joe Kishkill/SA/Enron@Enron"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/634.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "m..presto@enron.com"
+      },
+      {
+         "from" : "punit.rawal@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tRawal, Punit  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "punit.rawal@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tRawal, Punit  \n",
+         "to" : "Keiser, Kam"
+      },
+      {
+         "from" : "kkeiser@enron.com",
+         "line" : 55,
+         "rawfrom" : "\tKeiser, Kam  \n",
+         "to" : "Rawal, Punit"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/642.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "david.oxley@enron.com"
+      },
+      {
+         "from" : "rob.milnthorp@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMilnthorp, Rob  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Milnthorp, Rob"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "neil.davies@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tDavies, Neil  \n",
+         "to" : "Oxley, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/673.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "frank.hayden@enron.com"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Lavorato, John"
+      },
+      {
+         "from" : "lavorato@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tLavorato, John  \n",
+         "to" : "Hayden, Frank"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 39,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Lavorato, John; Port, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/lavorato-j/sent_items/726.",
+   "hops" : [
+      {
+         "from" : "john.lavorato@enron.com",
+         "line" : 4,
+         "rawfrom" : "john.lavorato@enron.com\r\n",
+         "to" : "rick.buy@enron.com"
+      },
+      {
+         "from" : "david.port@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tPort, David  \n",
+         "to" : "Beck, Sally"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Port, David"
+      },
+      {
+         "from" : "frank.hayden@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tHayden, Frank  \n",
+         "to" : "Reeves, Kathy"
+      }
+   ],
+   "skipped" : 0
+}
+]

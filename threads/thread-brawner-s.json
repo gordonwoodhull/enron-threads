@@ -1,0 +1,2346 @@
+[
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/106.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/28/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 30,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "bert@mbainsurance.net",
+         "line" : 38,
+         "rawfrom" : "\"Bert@MBA insurance\" <Bert@MBAinsurance.net>\n",
+         "to" : "\"aSue\" <Sue@mbainsurance.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/109.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/20/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "pdwells@scottsboro.org",
+         "line" : 38,
+         "rawfrom" : "\"Pat Wells\" <pdwells@scottsboro.org>\n",
+         "to" : "\"Don Parmer\" <innessfree@aol.com>,        \"Danisha and Kerry Jacobson\""
+      },
+      {
+         "from" : "annendan@earthlink.net",
+         "line" : 60,
+         "rawfrom" : "\"Anne & Danny\" <annendan@earthlink.net>\n",
+         "to" : "\"Pam Plesko\" <pplesko1@juno.com>; \"Pat Wells\" <pdwells@scottsboro.org>;"
+      },
+      {
+         "from" : "ronnienterri@mindspring.com",
+         "line" : 72,
+         "rawfrom" : "\"terri Skipper\" <ronnienterri@mindspring.com>;\n",
+         "to" : "<lotus476@aol.com>"
+      },
+      {
+         "from" : "cargomoody@aol.com",
+         "line" : 81,
+         "rawfrom" : "<CARGOMOODY@aol.com>\n",
+         "to" : "<plantation@ala.net>; <ronnienterri@mindspring.com>"
+      },
+      {
+         "from" : "moodyredick@yahoo.com",
+         "line" : 152,
+         "rawfrom" : "Sharon Redick <moodyredick@yahoo.com>\n",
+         "to" : "Lynn Boyd <pooh2@graceba.net>, Glenda Moody <cargomoody@aol.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/131.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/132.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/139.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "s.schnitzer@worldnet.att.net"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/140.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/141.",
+   "hops" : [
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 21,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 61,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 70,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 190,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/142.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerex.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/2.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 05/11/2001 09:49 AM ---------------------------\n",
+         "to" : "\"Suzann Schnitzer\" <sschnitz@jcpenney.com>, \"susan schnitzer\" <s.schnitzer@worldnet.att.net>, \"skushnick\" <skushnick@evomarkets.com>, \"Sandra F Brawner\" <Sandra.F.Brawner@enron.com>, \"Schnitzer, Harry\" <harrys@saaron.com>, <robert.k.rodriguez@db.com>, \"Mike Bilotti\" <michael.bilotti@capco.com>, \"lance jordan\" <lcjo@dynegy.com>, <JSEGAUL44@aol.com>, \"john shaw\" <john.shaw@glencore-us.com>, \"jeremy davis\" <jjda@dynegy.com>, \"gerardo ruiz\" <gee_ruiz@hotmail.com>, \"david dunnavandt\" <ddunnavant@reliantenergy.com>, \"Chris Paul\" <cpaul@dwintegrated.com>, \"Brian York\" <byork@dwintegrated.com>, \"anrew o ertel\" <aertel@evomarkets.com>"
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 30,
+         "rawfrom" : "\"Hollier, Diana\" <DHollier@nisource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "grehlinger@altra.com",
+         "line" : 39,
+         "rawfrom" : "grehlinger@altra.com [mailto:grehlinger@altra.com]\n",
+         "to" : "Meyers, Tim; RickyA@calpine.com; michaels@amerexenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/26.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 11/10/2000 \n",
+         "to" : "TJRO@dynegy.com, JJDA@dynegy.com, GGHA@dynegy.com, SAHA@dynegy.com,"
+      },
+      {
+         "from" : "lcjo@dynegy.com",
+         "line" : 38,
+         "rawfrom" : "Lance C Jordan/HOU/Dynegy on 11/10/2000\n",
+         "to" : "\"'lcjo@dynegy.com'\" <lcjo@dynegy.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 57,
+         "rawfrom" : "    Ken Newman[SMTP:knewman@falconsafety.com]\n",
+         "to" : "knewman@falconsafety.com <mailto:knewman@falconsafety.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 59,
+         "rawfrom" : "knewman@falconsafety.com",
+         "to" : "Bud Katzmann (E-mail); Bud Pellechia (E-mail); Dave Kells (E-mail);"
+      },
+      {
+         "from" : "mlsymonds@klsm.com",
+         "line" : 76,
+         "rawfrom" : "Michelle Symonds [mailto:MLSYMONDS@klsm.com]\n",
+         "to" : "Diane Estabrooks (E-mail); George Soukas (E-mail); Ken Newman"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/70.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 05/11/2001 \n",
+         "to" : "\"Suzann Schnitzer\" <sschnitz@jcpenney.com>, \"susan schnitzer\""
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 38,
+         "rawfrom" : "\"Hollier, Diana\" <DHollier@nisource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "grehlinger@altra.com",
+         "line" : 47,
+         "rawfrom" : "grehlinger@altra.com [mailto:grehlinger@altra.com]\n",
+         "to" : "Meyers, Tim; RickyA@calpine.com; michaels@amerexenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/89.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/_sent_mail/90.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/102.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 05/11/2001 \n",
+         "to" : "\"Suzann Schnitzer\" <sschnitz@jcpenney.com>, \"susan schnitzer\""
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 38,
+         "rawfrom" : "\"Hollier, Diana\" <DHollier@nisource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "grehlinger@altra.com",
+         "line" : 47,
+         "rawfrom" : "grehlinger@altra.com [mailto:grehlinger@altra.com]\n",
+         "to" : "Meyers, Tim; RickyA@calpine.com; michaels@amerexenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/126.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/127.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/143.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/28/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 30,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "bert@mbainsurance.net",
+         "line" : 38,
+         "rawfrom" : "\"Bert@MBA insurance\" <Bert@MBAinsurance.net>\n",
+         "to" : "\"aSue\" <Sue@mbainsurance.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/146.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/20/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "pdwells@scottsboro.org",
+         "line" : 38,
+         "rawfrom" : "\"Pat Wells\" <pdwells@scottsboro.org>\n",
+         "to" : "\"Don Parmer\" <innessfree@aol.com>,        \"Danisha and Kerry Jacobson\""
+      },
+      {
+         "from" : "annendan@earthlink.net",
+         "line" : 60,
+         "rawfrom" : "\"Anne & Danny\" <annendan@earthlink.net>\n",
+         "to" : "\"Pam Plesko\" <pplesko1@juno.com>; \"Pat Wells\" <pdwells@scottsboro.org>;"
+      },
+      {
+         "from" : "ronnienterri@mindspring.com",
+         "line" : 72,
+         "rawfrom" : "\"terri Skipper\" <ronnienterri@mindspring.com>;\n",
+         "to" : "<lotus476@aol.com>"
+      },
+      {
+         "from" : "cargomoody@aol.com",
+         "line" : 81,
+         "rawfrom" : "<CARGOMOODY@aol.com>\n",
+         "to" : "<plantation@ala.net>; <ronnienterri@mindspring.com>"
+      },
+      {
+         "from" : "moodyredick@yahoo.com",
+         "line" : 152,
+         "rawfrom" : "Sharon Redick <moodyredick@yahoo.com>\n",
+         "to" : "Lynn Boyd <pooh2@graceba.net>, Glenda Moody <cargomoody@aol.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/168.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/169.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/176.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "s.schnitzer@worldnet.att.net"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/177.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/178.",
+   "hops" : [
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 21,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 61,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 70,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 190,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/179.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerex.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/22.",
+   "hops" : [
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 4,
+         "rawfrom" : "jons@amerexenergy.com\r\n",
+         "to" : "sschnitz@jcpenney.com, paulla@maritz.com, robert.k.rodriguez@db.com,"
+      },
+      {
+         "from" : "diana.hollier@tpc-corp.com",
+         "line" : 22,
+         "rawfrom" : "<diana.hollier@tpc-corp.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "riskadvisors@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "Jeff Young [mailto:riskadvisors@yahoo.com]\n",
+         "to" : "Scott E. Thompson; Debby Young; Tom Pisula; Jim Lindsay; Kathryn A"
+      },
+      {
+         "from" : "yortex@aol.com",
+         "line" : 43,
+         "rawfrom" : "Yortex@aol.com\n",
+         "to" : "djs37@earthlink.net, riskadvisors@yahoo.com, Jentudor@aol.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/all_documents/32.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 11/10/2000 \n",
+         "to" : "TJRO@dynegy.com, JJDA@dynegy.com, GGHA@dynegy.com, SAHA@dynegy.com,"
+      },
+      {
+         "from" : "lcjo@dynegy.com",
+         "line" : 38,
+         "rawfrom" : "Lance C Jordan/HOU/Dynegy on 11/10/2000\n",
+         "to" : "\"'lcjo@dynegy.com'\" <lcjo@dynegy.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 57,
+         "rawfrom" : "    Ken Newman[SMTP:knewman@falconsafety.com]\n",
+         "to" : "knewman@falconsafety.com <mailto:knewman@falconsafety.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 59,
+         "rawfrom" : "knewman@falconsafety.com",
+         "to" : "Bud Katzmann (E-mail); Bud Pellechia (E-mail); Dave Kells (E-mail);"
+      },
+      {
+         "from" : "mlsymonds@klsm.com",
+         "line" : 76,
+         "rawfrom" : "Michelle Symonds [mailto:MLSYMONDS@klsm.com]\n",
+         "to" : "Diane Estabrooks (E-mail); George Soukas (E-mail); Ken Newman"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/deleted_items/155.",
+   "hops" : [
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 4,
+         "rawfrom" : "jons@amerexenergy.com\r\n",
+         "to" : "f..brawner@enron.com"
+      },
+      {
+         "from" : "gee_ruiz@hotmail.com",
+         "line" : 20,
+         "rawfrom" : "\"gerardo ruiz\" <gee_ruiz@hotmail.com>\n",
+         "to" : "<miriams@ilx.com>; <norajaramillo73@hotmail.com>; <marie1477@aol.com>;"
+      },
+      {
+         "from" : "luis2.vega@prudential.com",
+         "line" : 32,
+         "rawfrom" : "\"Luis A Vega\" <luis2.vega@prudential.com>\n",
+         "to" : "\"Robert Branigan\" <robert.branigan@prudential.com>,   \"Kenyatta"
+      },
+      {
+         "from" : "luis2.vega@prudential.com",
+         "line" : 59,
+         "rawfrom" : "Luis A Vega/GLDI/INST/Prudential on\n",
+         "to" : "Luis A Vega/GLDI/INST/Prudential@Prudential"
+      },
+      {
+         "from" : "john.romero@mms.gov",
+         "line" : 111,
+         "rawfrom" : "John Romero on 05/02/2001 02:04 PM\n",
+         "to" : "blopez@datek.com, Brendan Kiernan/JerseyCity/Pershing@Pershing,"
+      },
+      {
+         "from" : "john.romero@mms.gov",
+         "line" : 127,
+         "rawfrom" : "John Romero/JerseyCity/Pershing on 05/02/2001 01:59 PM\n",
+         "to" : "Danilo"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/brawner-s/deleted_items/41.",
+   "hops" : [
+      {
+         "from" : "pama9@flash.net",
+         "line" : 4,
+         "rawfrom" : "pama9@flash.net\r\n",
+         "to" : "herzer.amanda@enron.com, schniers.angie@enron.com, mosely.denise@enron.com,"
+      },
+      {
+         "from" : "kevin@cokinosenergy.com",
+         "line" : 24,
+         "rawfrom" : "Kevin Cokinos <Kevin@cokinosenergy.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>; Diane Sturman"
+      },
+      {
+         "from" : "dee.hagy@enron.com",
+         "line" : 36,
+         "rawfrom" : "Hagy Jr., Dee [mailto:Dee.Hagy@enron.com]\n",
+         "to" : "kevin@cokinosenergy.com"
+      },
+      {
+         "from" : "\"patricia hagy\" <patricia.hagy@humble.k12.tx.us>@enron",
+         "line" : 45,
+         "rawfrom" : "\"Patricia Hagy\" <Patricia.Hagy@humble.k12.tx.us>@ENRON\n",
+         "to" : "dee.hagy@bhlp.com"
+      },
+      {
+         "from" : "\"anita youngblood\" <anita.youngblood@humble.k12.tx.us>",
+         "line" : 50,
+         "rawfrom" : "\"Anita Youngblood\" <Anita.Youngblood@humble.k12.tx.us>\n",
+         "to" : "\"Connie Love\" <Connie.Love@humble.k12.tx.us>, \"Pat Freedman\""
+      },
+      {
+         "from" : "\"pkmixon\" <pkmixon@mail.ev1.net>",
+         "line" : 72,
+         "rawfrom" : "\"pkmixon\" <pkmixon@mail.ev1.net>\n",
+         "to" : "<pmixon@humble.k12.tx.us>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/deleted_items/87.",
+   "hops" : [
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 4,
+         "rawfrom" : "jons@amerexenergy.com\r\n",
+         "to" : "f..brawner@enron.com, jordan.lance@enron.com, hollier.diana@enron.com,"
+      },
+      {
+         "from" : "gee_ruiz@hotmail.com",
+         "line" : 21,
+         "rawfrom" : "\"gerardo ruiz\" <gee_ruiz@hotmail.com>\n",
+         "to" : "<cruzmass@yahoo.com>; <ds030582@aol.com>; <norajaramillo73@hotmail.com>;"
+      },
+      {
+         "from" : "luis2.vega@prudential.com",
+         "line" : 33,
+         "rawfrom" : "\"Luis A Vega\" <luis2.vega@prudential.com>\n",
+         "to" : "William_Diaz@acml.com, Alvaro_Ramirez@acml.com, Gee_Ruiz@hotmail.com,"
+      },
+      {
+         "from" : "luis2.vega@prudential.com",
+         "line" : 61,
+         "rawfrom" : "Luis A Vega/GLDI/INST/Prudential on\n",
+         "to" : "Luis A Vega/GLDI/INST/Prudential@Prudential"
+      },
+      {
+         "from" : "damon.crawford@prudential.com",
+         "line" : 73,
+         "rawfrom" : "Damon Crawford/GLDI/INST/Prudential\n",
+         "to" : "Damon Crawford/GLDI/INST/Prudential@Prudential"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/deleted_items/94.",
+   "hops" : [
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 4,
+         "rawfrom" : "jons@amerexenergy.com\r\n",
+         "to" : "harry.schnitzer@enron.com, f..brawner@enron.com, shaw.john@enron.com,"
+      },
+      {
+         "from" : "jeff2marvin@aol.com",
+         "line" : 22,
+         "rawfrom" : "<Jeff2Marvin@aol.com>\n",
+         "to" : "<dklein7@nyc.rr.com>; <Dmagidson@aol.com>; <aertel@evomarkets.com>;"
+      },
+      {
+         "from" : "jbogies@aol.com",
+         "line" : 38,
+         "rawfrom" : "Jbogies@aol.com\n",
+         "to" : "adam.dunn@worldnet.att.net, bobby4210@netscape.net, DCarr1024@aol.com,\tcfeinman@bofasecurities.com, MarkMarkdaley@aol.com, ferrigine@aol.com,\tgfdb@bellsouth.net, bellaedward@att.net, Greg@tekmarkinc.com,\tJeff2Marvin@aol.com, bmann@dartmouth.edu, mjb@nyc.rr.com,\tmorane@clinton.com"
+      },
+      {
+         "from" : "realwlb@aol.com",
+         "line" : 51,
+         "rawfrom" : "Realwlb@aol.com\n",
+         "to" : "AAYANEZ@aol.com, Aewhite44@aol.com, joann-welsh@home.com,\tPVowles@nortelnetworks.com, JeffTroy@aol.com, johnctracey@home.com,\tBRMAN77@aol.com, tds24@adelphia.net, GWS67@earthlink.net,\tDRose@home.com, AG@ATT.net, MRP122@aol.com, CPascetta@aol.com,\tBOlsen7052@aol.com, wolsen_51503@yahoo.com, mnocella@amediagroup.com,\tGuru66@aol.com, Kmillssigma@aol.com, ibded@yahoo.com, JONBENCH@aol.com,\tLancass@home.com, rel67@home.com, MPEGGYM508@aol.com, BEEPJIM@aol.com,\tFDLB706@aol.com, WendyMCrispe@erols.com, Gary@HobbyPub.com,\tMJC71@aol.com, AJ130@aol.com, Furycav@msn.com, Uglyshooz@aol.com,\tBorn2shop113@aol.com, Jbogies@aol.com, Rickarm1@aol.com"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/100.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/28/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 30,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "bert@mbainsurance.net",
+         "line" : 38,
+         "rawfrom" : "\"Bert@MBA insurance\" <Bert@MBAinsurance.net>\n",
+         "to" : "\"aSue\" <Sue@mbainsurance.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/111.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/112.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/125.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 05/11/2001 \n",
+         "to" : "\"Suzann Schnitzer\" <sschnitz@jcpenney.com>, \"susan schnitzer\""
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 38,
+         "rawfrom" : "\"Hollier, Diana\" <DHollier@nisource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "grehlinger@altra.com",
+         "line" : 47,
+         "rawfrom" : "grehlinger@altra.com [mailto:grehlinger@altra.com]\n",
+         "to" : "Meyers, Tim; RickyA@calpine.com; michaels@amerexenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/27.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 11/10/2000 \n",
+         "to" : "TJRO@dynegy.com, JJDA@dynegy.com, GGHA@dynegy.com, SAHA@dynegy.com,"
+      },
+      {
+         "from" : "lcjo@dynegy.com",
+         "line" : 38,
+         "rawfrom" : "Lance C Jordan/HOU/Dynegy on 11/10/2000\n",
+         "to" : "\"'lcjo@dynegy.com'\" <lcjo@dynegy.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 57,
+         "rawfrom" : "    Ken Newman[SMTP:knewman@falconsafety.com]\n",
+         "to" : "knewman@falconsafety.com <mailto:knewman@falconsafety.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 59,
+         "rawfrom" : "knewman@falconsafety.com",
+         "to" : "Bud Katzmann (E-mail); Bud Pellechia (E-mail); Dave Kells (E-mail);"
+      },
+      {
+         "from" : "mlsymonds@klsm.com",
+         "line" : 76,
+         "rawfrom" : "Michelle Symonds [mailto:MLSYMONDS@klsm.com]\n",
+         "to" : "Diane Estabrooks (E-mail); George Soukas (E-mail); Ken Newman"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/34.",
+   "hops" : [
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 4,
+         "rawfrom" : "jons@amerexenergy.com\r\n",
+         "to" : "sschnitz@jcpenney.com, paulla@maritz.com, robert.k.rodriguez@db.com,"
+      },
+      {
+         "from" : "diana.hollier@tpc-corp.com",
+         "line" : 22,
+         "rawfrom" : "<diana.hollier@tpc-corp.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "riskadvisors@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "Jeff Young [mailto:riskadvisors@yahoo.com]\n",
+         "to" : "Scott E. Thompson; Debby Young; Tom Pisula; Jim Lindsay; Kathryn A"
+      },
+      {
+         "from" : "yortex@aol.com",
+         "line" : 43,
+         "rawfrom" : "Yortex@aol.com\n",
+         "to" : "djs37@earthlink.net, riskadvisors@yahoo.com, Jentudor@aol.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/85.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerex.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/86.",
+   "hops" : [
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 21,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 61,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 70,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 190,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/87.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/88.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "s.schnitzer@worldnet.att.net"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/92.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/93.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/discussion_threads/98.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/20/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "pdwells@scottsboro.org",
+         "line" : 38,
+         "rawfrom" : "\"Pat Wells\" <pdwells@scottsboro.org>\n",
+         "to" : "\"Don Parmer\" <innessfree@aol.com>,        \"Danisha and Kerry Jacobson\""
+      },
+      {
+         "from" : "annendan@earthlink.net",
+         "line" : 60,
+         "rawfrom" : "\"Anne & Danny\" <annendan@earthlink.net>\n",
+         "to" : "\"Pam Plesko\" <pplesko1@juno.com>; \"Pat Wells\" <pdwells@scottsboro.org>;"
+      },
+      {
+         "from" : "ronnienterri@mindspring.com",
+         "line" : 72,
+         "rawfrom" : "\"terri Skipper\" <ronnienterri@mindspring.com>;\n",
+         "to" : "<lotus476@aol.com>"
+      },
+      {
+         "from" : "cargomoody@aol.com",
+         "line" : 81,
+         "rawfrom" : "<CARGOMOODY@aol.com>\n",
+         "to" : "<plantation@ala.net>; <ronnienterri@mindspring.com>"
+      },
+      {
+         "from" : "moodyredick@yahoo.com",
+         "line" : 152,
+         "rawfrom" : "Sharon Redick <moodyredick@yahoo.com>\n",
+         "to" : "Lynn Boyd <pooh2@graceba.net>, Glenda Moody <cargomoody@aol.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/inbox/101.",
+   "hops" : [
+      {
+         "from" : "scott.neal@enron.com",
+         "line" : 4,
+         "rawfrom" : "scott.neal@enron.com\r\n",
+         "to" : "f..brawner@enron.com"
+      },
+      {
+         "from" : "sneal@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tNeal, Scott  \n",
+         "to" : "Little, Kelli"
+      },
+      {
+         "from" : "kelli.little@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tLittle, Kelli  \n",
+         "to" : "Neal, Scott"
+      },
+      {
+         "from" : "sneal@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tNeal, Scott  \n",
+         "to" : "Little, Kelli"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/inbox/98.",
+   "hops" : [
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.oxley@enron.com\r\n",
+         "to" : "f..brawner@enron.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 21,
+         "rawfrom" : "\tBrawner, Sandra F.  \n",
+         "to" : "Oxley, David"
+      },
+      {
+         "from" : "david.oxley@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tOxley, David  \n",
+         "to" : "Brawner, Sandra F."
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBrawner, Sandra F.  \n",
+         "to" : "Oxley, David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/notes_inbox/19.",
+   "hops" : [
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 4,
+         "rawfrom" : "jons@amerexenergy.com\r\n",
+         "to" : "sschnitz@jcpenney.com, paulla@maritz.com, robert.k.rodriguez@db.com,"
+      },
+      {
+         "from" : "diana.hollier@tpc-corp.com",
+         "line" : 22,
+         "rawfrom" : "<diana.hollier@tpc-corp.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "riskadvisors@yahoo.com",
+         "line" : 32,
+         "rawfrom" : "Jeff Young [mailto:riskadvisors@yahoo.com]\n",
+         "to" : "Scott E. Thompson; Debby Young; Tom Pisula; Jim Lindsay; Kathryn A"
+      },
+      {
+         "from" : "yortex@aol.com",
+         "line" : 43,
+         "rawfrom" : "Yortex@aol.com\n",
+         "to" : "djs37@earthlink.net, riskadvisors@yahoo.com, Jentudor@aol.com,"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/112.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/113.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/17/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 32,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "stasports@mindspring.com",
+         "line" : 40,
+         "rawfrom" : "\"Steve Tietjen\" <stasports@mindspring.com>\n",
+         "to" : "\"Abbey Lynch\" <klynch@flyfrontier.com>; \"Brenda & Don Ott\""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/120.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "s.schnitzer@worldnet.att.net"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/121.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/122.",
+   "hops" : [
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 21,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 51,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 61,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 70,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 190,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/123.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerex.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 01/08/2001 \n",
+         "to" : "\"Lisa Barnwell\" <lisab@discusdental.com>, \"Terri Bailey\" <tlbkk@aol.com>,"
+      },
+      {
+         "from" : "kcokinos@compuserve.com",
+         "line" : 52,
+         "rawfrom" : "Kevin Cokinos <kcokinos@compuserve.com>\n",
+         "to" : "Pamela Anderson <pama9@flash.net>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 62,
+         "rawfrom" : "\"Rocky Stevens\", INTERNET:rstevens@amelangpartners.com\n",
+         "to" : ""
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 71,
+         "rawfrom" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>\n",
+         "to" : "\"Rocky Stevens\" <rstevens@amelangpartners.com>"
+      },
+      {
+         "from" : "rstevens@amelangpartners.com",
+         "line" : 191,
+         "rawfrom" : "rstevens@amelangpartners.com (Rocky Stevens)\n",
+         "to" : "<Undisclosed-Recipient:;>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/51.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 05/11/2001 \n",
+         "to" : "\"Suzann Schnitzer\" <sschnitz@jcpenney.com>, \"susan schnitzer\""
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 38,
+         "rawfrom" : "\"Hollier, Diana\" <DHollier@nisource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "grehlinger@altra.com",
+         "line" : 47,
+         "rawfrom" : "grehlinger@altra.com [mailto:grehlinger@altra.com]\n",
+         "to" : "Meyers, Tim; RickyA@calpine.com; michaels@amerexenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/7.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 11/10/2000 \n",
+         "to" : "TJRO@dynegy.com, JJDA@dynegy.com, GGHA@dynegy.com, SAHA@dynegy.com,"
+      },
+      {
+         "from" : "lcjo@dynegy.com",
+         "line" : 38,
+         "rawfrom" : "Lance C Jordan/HOU/Dynegy on 11/10/2000\n",
+         "to" : "\"'lcjo@dynegy.com'\" <lcjo@dynegy.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 57,
+         "rawfrom" : "    Ken Newman[SMTP:knewman@falconsafety.com]\n",
+         "to" : "knewman@falconsafety.com <mailto:knewman@falconsafety.com>"
+      },
+      {
+         "from" : "knewman@falconsafety.com",
+         "line" : 59,
+         "rawfrom" : "knewman@falconsafety.com",
+         "to" : "Bud Katzmann (E-mail); Bud Pellechia (E-mail); Dave Kells (E-mail);"
+      },
+      {
+         "from" : "mlsymonds@klsm.com",
+         "line" : 76,
+         "rawfrom" : "Michelle Symonds [mailto:MLSYMONDS@klsm.com]\n",
+         "to" : "Diane Estabrooks (E-mail); George Soukas (E-mail); Ken Newman"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/70.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/71.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 23,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 04/12/2001 \n",
+         "to" : "Sandra F Brawner/HOU/ECT@ECT"
+      },
+      {
+         "from" : "peter.f.keavey@enron.com",
+         "line" : 33,
+         "rawfrom" : "Peter F Keavey/HOU/ECT on 04/12/2001 \n",
+         "to" : "peter.f.keavey@enron.com"
+      },
+      {
+         "from" : "amoisan@internationalsos.com",
+         "line" : 42,
+         "rawfrom" : "Anne Moisan <amoisan@internationalsos.com>\n",
+         "to" : "\"'pkeavey@hotmail.com'\" <pkeavey@hotmail.com>"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/87.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/28/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "sue@mbainsurance.net",
+         "line" : 30,
+         "rawfrom" : "Sue Caldwell <sue@mbainsurance.net>\n",
+         "to" : "Pam Anderson <Pama9@flash.net>"
+      },
+      {
+         "from" : "bert@mbainsurance.net",
+         "line" : 38,
+         "rawfrom" : "\"Bert@MBA insurance\" <Bert@MBAinsurance.net>\n",
+         "to" : "\"aSue\" <Sue@mbainsurance.net>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent/90.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 03/20/2001 \n",
+         "to" : "\"Sandra Brawner\" <Sandra.F.Brawner@enron.com>"
+      },
+      {
+         "from" : "pdwells@scottsboro.org",
+         "line" : 38,
+         "rawfrom" : "\"Pat Wells\" <pdwells@scottsboro.org>\n",
+         "to" : "\"Don Parmer\" <innessfree@aol.com>,        \"Danisha and Kerry Jacobson\""
+      },
+      {
+         "from" : "annendan@earthlink.net",
+         "line" : 60,
+         "rawfrom" : "\"Anne & Danny\" <annendan@earthlink.net>\n",
+         "to" : "\"Pam Plesko\" <pplesko1@juno.com>; \"Pat Wells\" <pdwells@scottsboro.org>;"
+      },
+      {
+         "from" : "ronnienterri@mindspring.com",
+         "line" : 72,
+         "rawfrom" : "\"terri Skipper\" <ronnienterri@mindspring.com>;\n",
+         "to" : "<lotus476@aol.com>"
+      },
+      {
+         "from" : "cargomoody@aol.com",
+         "line" : 81,
+         "rawfrom" : "<CARGOMOODY@aol.com>\n",
+         "to" : "<plantation@ala.net>; <ronnienterri@mindspring.com>"
+      },
+      {
+         "from" : "moodyredick@yahoo.com",
+         "line" : 152,
+         "rawfrom" : "Sharon Redick <moodyredick@yahoo.com>\n",
+         "to" : "Lynn Boyd <pooh2@graceba.net>, Glenda Moody <cargomoody@aol.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/44.",
+   "hops" : [
+      {
+         "from" : "f..brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "f..brawner@enron.com\r\n",
+         "to" : "panderson@tradespark.com"
+      },
+      {
+         "from" : "s.schnitzer@worldnet.att.net",
+         "line" : 22,
+         "rawfrom" : "\t\"susan schnitzer\" <s.schnitzer@worldnet.att.net>@ENRON  \n",
+         "to" : "sandra brawner; Leah Jordan"
+      },
+      {
+         "from" : "wendy.spiesman@thomson.com",
+         "line" : 30,
+         "rawfrom" : "Spiesman, Wendy <wendy.spiesman@thomson.com>\n",
+         "to" : "Richter, April <April.Richter@thomson.com>; 'Barry Spiesman (E-mail)'"
+      },
+      {
+         "from" : "jkrzemienski@coach.com",
+         "line" : 78,
+         "rawfrom" : "Janet Krzemienski [mailto:JKrzemienski@coach.com]\n",
+         "to" : "Deys22@aol.com; ktrksak@aol.com; Krzemienski@bessemer.com;"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/50.",
+   "hops" : [
+      {
+         "from" : "f..brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "f..brawner@enron.com\r\n",
+         "to" : "sammie@msn.com"
+      },
+      {
+         "from" : "s.schnitzer@worldnet.att.net",
+         "line" : 22,
+         "rawfrom" : "\t\"susan schnitzer\" <s.schnitzer@worldnet.att.net>@ENRON  \n",
+         "to" : "wendy seidt; Tracey Lyons; Suzann Schnitzer; sandra brawner; pcastellucci@unitedgulf.com; Pamgerow@aol.com; michelle ostroff; lschoen@halldickler.com; Leah Jordan; krissy; julie mac; jodi; Janet Schnitzer; frankis; erica rothstein; Emily; ehyman9645@aol.com; derek gerow; debbie mccarron; danielle.karwoski@dowjones.com; Christine_castellucci@intdata.com; bdfalkner@cs.com; aunt janet; amy"
+      },
+      {
+         "from" : "aoneill@bear.com",
+         "line" : 29,
+         "rawfrom" : "O'Neill, Alicia (Exchange) <aoneill@bear.com>\n",
+         "to" : "'Susan Schnitzer' <s.schnitzer@worldnet.att.net>; 'Amy & Dave Taranto'"
+      },
+      {
+         "from" : "lgoldner@winhosp.org",
+         "line" : 42,
+         "rawfrom" : "Reardon, Lauren [mailto:lgoldner@winhosp.org]\n",
+         "to" : "'Alicia'; 'Brendon'; 'Cheryl May'; 'dad'; 'Home'; 'Jen'; 'kristen"
+      },
+      {
+         "from" : "vivenzio-insurance@erols.com",
+         "line" : 77,
+         "rawfrom" : "\"Vince ViVenzio\" <SMTP:vivenzio-insurance@erols.com> at BUFFALO\n",
+         "to" : "\"Bruce Bonadies\" <SMTP:BrusterB@aol.com> at BUFFALO"
+      },
+      {
+         "from" : "jm418@msn.com",
+         "line" : 92,
+         "rawfrom" : "Joanne Morell [mailto:jm418@msn.com]\n",
+         "to" : "Robert Ciappetta; Brad Vanefsky; Bruce Morelljr; Claudette; Corrine"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/55.",
+   "hops" : [
+      {
+         "from" : "f..brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "f..brawner@enron.com\r\n",
+         "to" : "jons@amerexenergy.com"
+      },
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Jon Schnitzer\" <jons@amerexenergy.com>@ENRON  \n",
+         "to" : "Brawner, Sandra F."
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 30,
+         "rawfrom" : "<DHollier@NiSource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "diana.hollier@tpc-corp.com",
+         "line" : 40,
+         "rawfrom" : "Diana Hollier/TPC/Enterprise on 10/09/2001 01:31 PM\n",
+         "to" : "David"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/57.",
+   "hops" : [
+      {
+         "from" : "f..brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "f..brawner@enron.com\r\n",
+         "to" : "boner22@msn.com"
+      },
+      {
+         "from" : "jons@amerexenergy.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Jon Schnitzer\" <jons@amerexenergy.com>@ENRON [mailto:IMCEANOTES-+22Jon+20Schnitzer+22+20+3Cjons+40amerexenergy+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "skushnick; susan schnitzer; Brawner, Sandra F.; Suzann Schnitzer; Schnitzer, Harry; anrew o ertel"
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 28,
+         "rawfrom" : "<DHollier@NiSource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "diana.hollier@tpc-corp.com",
+         "line" : 38,
+         "rawfrom" : "Diana Hollier/TPC/Enterprise on 10/04/2001 08:30 AM\n",
+         "to" : ""
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/78.",
+   "hops" : [
+      {
+         "from" : "f..brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "f..brawner@enron.com\r\n",
+         "to" : "f..keavey@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "Schwieger, Jim \n",
+         "to" : "Brawner, Sandra F."
+      },
+      {
+         "from" : "jean_mrha@enron.net",
+         "line" : 31,
+         "rawfrom" : "Mrha, Jean \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "robert_lloyd@aimfunds.com",
+         "line" : 44,
+         "rawfrom" : "Lloyd, Robert J [mailto:Robert_Lloyd@AIMFUNDS.COM]\n",
+         "to" : "Mrha, Jean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/81.",
+   "hops" : [
+      {
+         "from" : "f..brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "f..brawner@enron.com\r\n",
+         "to" : "john.arnold@enron.com"
+      },
+      {
+         "from" : "jschwiger@houston.rr.com",
+         "line" : 22,
+         "rawfrom" : "Schwieger, Jim \n",
+         "to" : "Brawner, Sandra F."
+      },
+      {
+         "from" : "jean_mrha@enron.net",
+         "line" : 31,
+         "rawfrom" : "Mrha, Jean \n",
+         "to" : "Schwieger, Jim"
+      },
+      {
+         "from" : "robert_lloyd@aimfunds.com",
+         "line" : 44,
+         "rawfrom" : "Lloyd, Robert J [mailto:Robert_Lloyd@AIMFUNDS.COM]\n",
+         "to" : "Mrha, Jean"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/brawner-s/sent_items/9.",
+   "hops" : [
+      {
+         "from" : "sandra.brawner@enron.com",
+         "line" : 4,
+         "rawfrom" : "sandra.brawner@enron.com\r\n",
+         "to" : "kennethbrawner@msn.com"
+      },
+      {
+         "from" : "sandra.f.brawner@enron.com",
+         "line" : 22,
+         "rawfrom" : "Sandra F Brawner/HOU/ECT on 05/11/2001 09:49 AM ---------------------------\n",
+         "to" : "\"Suzann Schnitzer\" <sschnitz@jcpenney.com>, \"susan schnitzer\" <s.schnitzer@worldnet.att.net>, \"skushnick\" <skushnick@evomarkets.com>, \"Sandra F Brawner\" <Sandra.F.Brawner@enron.com>, \"Schnitzer, Harry\" <harrys@saaron.com>, <robert.k.rodriguez@db.com>, \"Mike Bilotti\" <michael.bilotti@capco.com>, \"lance jordan\" <lcjo@dynegy.com>, <JSEGAUL44@aol.com>, \"john shaw\" <john.shaw@glencore-us.com>, \"jeremy davis\" <jjda@dynegy.com>, \"gerardo ruiz\" <gee_ruiz@hotmail.com>, \"david dunnavandt\" <ddunnavant@reliantenergy.com>, \"Chris Paul\" <cpaul@dwintegrated.com>, \"Brian York\" <byork@dwintegrated.com>, \"anrew o ertel\" <aertel@evomarkets.com>"
+      },
+      {
+         "from" : "dhollier@nisource.com",
+         "line" : 30,
+         "rawfrom" : "\"Hollier, Diana\" <DHollier@nisource.com>\n",
+         "to" : "<jons@amerexenergy.com>"
+      },
+      {
+         "from" : "grehlinger@altra.com",
+         "line" : 39,
+         "rawfrom" : "grehlinger@altra.com [mailto:grehlinger@altra.com]\n",
+         "to" : "Meyers, Tim; RickyA@calpine.com; michaels@amerexenergy.com;"
+      }
+   ],
+   "skipped" : 0
+}
+]

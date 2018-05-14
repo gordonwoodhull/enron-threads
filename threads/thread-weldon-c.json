@@ -1,0 +1,2003 @@
+[
+{
+   "file" : "enron-raw/weldon-c/_sent_mail/53.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "mike.coleman@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 30,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 05:00 PM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 43,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 03:13 PM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 69,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 02:45 PM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.tezyk@enron.com",
+         "line" : 96,
+         "rawfrom" : "Matthew Tezyk/ENRON_DEVELOPMENT on 05/09/2001 10:10 AM ---------------------------\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/_sent_mail/56.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "matthew.tezyk@enron.com, mike.coleman@enron.com"
+      },
+      {
+         "from" : "marc.roche@enron.com",
+         "line" : 27,
+         "rawfrom" : " Marc De La Roche                           05/10/2001 07:39 AM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT, V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 45,
+         "rawfrom" : " Doug Leach                           05/09/2001 05:23 PM\t\n",
+         "to" : "Marc De La Roche/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 57,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 05:09 PM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/_sent_mail/65.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "kelli.little@enron.com"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jay Reitmeyer                           05/14/2001 10:36 AM\t\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tDipak Agarwalla/ENRON@enronXgate on 05/04/2001 12:28 PM\n",
+         "to" : "Jay Reitmeyer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Agarwalla, Dipak"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/_sent_mail/74.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "mathew.gimble@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 25,
+         "rawfrom" : " V Charles Weldon                           05/16/2001 11:13 AM\t\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development, Mike Coleman/Enron@EnronXGate, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 35,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/16/2001 11:11 AM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 48,
+         "rawfrom" : " V Charles Weldon                           05/16/2001 08:21 AM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/_sent_mail/75.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "mathew.gimble@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 25,
+         "rawfrom" : " V Charles Weldon                           05/16/2001 11:11 AM\t\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development, Mike Coleman/Enron@EnronXGate, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 37,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/16/2001 11:05 AM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 50,
+         "rawfrom" : " V Charles Weldon                           05/14/2001 09:02 AM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/107.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "kernelm@yahoo.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 22,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 01/10/2001 \n",
+         "to" : "\"V Charles Weldon\" <V.Charles.Weldon@enron.com>"
+      },
+      {
+         "from" : "charlie.weldon@bus.utexas.edu",
+         "line" : 31,
+         "rawfrom" : "Charlie Weldon <Charlie.Weldon@Bus.utexas.edu>\n",
+         "to" : "Stayton Weldon (E-mail) <staytonweldon@dewittec.net>"
+      },
+      {
+         "from" : "weldonvc@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "Charlie Weldon\n",
+         "to" : "'crecord@tisd.net'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/128.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "enron.security@enron.com"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "Enron Messaging Security@ENRON\n",
+         "to" : "Rachel V Adams/IT/LON/ECT@ECT"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 57,
+         "rawfrom" : "Enron Messaging Security/Corp/Enron on \n",
+         "to" : "Enron Messaging Security/Corp/Enron@ENRON, European Notes"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 88,
+         "rawfrom" : "Enron Messaging Security@ENRON\n",
+         "to" : "Iris Meunier/MAD/ECT@ECT"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 191,
+         "rawfrom" : "Enron Messaging Security/Corp/Enron on \n",
+         "to" : "European Notes Administration@ECT"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/268.",
+   "hops" : [
+      {
+         "from" : "connie.lee@enron.com",
+         "line" : 4,
+         "rawfrom" : "connie.lee@enron.com\r\n",
+         "to" : "julia.hafener@bus.utexas.edu"
+      },
+      {
+         "from" : "julia.hafener@bus.utexas.edu",
+         "line" : 53,
+         "rawfrom" : "Julia.Hafener@bus.utexas.edu\n",
+         "to" : "Connie Lee/Enron Communications@Enron Communications"
+      },
+      {
+         "from" : "connie_lee@enron.net",
+         "line" : 73,
+         "rawfrom" : "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "to" : "Julia Hafener"
+      },
+      {
+         "from" : "connie_lee@enron.net",
+         "line" : 154,
+         "rawfrom" : "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "to" : "AdmissionVisits"
+      }
+   ],
+   "skipped" : 1
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/269.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 51,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 67,
+         "rawfrom" : "Bailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick; William Norrie McKenzie"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 84,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 98,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 \n",
+         "to" : "\"Kilpatrick, Alan M.\" <AMKilpat@southernco.com>"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 122,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 133,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 146,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 157,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Dan J Hyvl/HOU/ECT@ECT, Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 183,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dan J Hyvl/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 194,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/22/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 209,
+         "rawfrom" : "Bailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 242,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 253,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 268,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/25/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/270.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 25,
+         "rawfrom" : " Mark Breese                           03/27/2001 02:48 PM\n",
+         "to" : "Jin Guo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 36,
+         "rawfrom" : "Mark Breese/HOU/ECT on 03/27/2001 02:45 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 55,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 03/20/2001 \n",
+         "to" : "Phil DeMoes/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/273.",
+   "hops" : [
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.moon@enron.com\r\n",
+         "to" : "v.weldon@enron.com, philip.polsky@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mark Whitt@ENRON on 04/26/2001 11:38 AM MDT\n",
+         "to" : "Tyrell Harrison/NA/Enron@Enron, Gerald Nemec/HOU/ECT@ECT, Paul T"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 40,
+         "rawfrom" : "Mark Whitt/NA/Enron on 04/26/2001 11:35 AM -----\n",
+         "to" : "Mark Whitt/NA/Enron@Enron"
+      },
+      {
+         "from" : "shonnie.daniel@enron.com",
+         "line" : 53,
+         "rawfrom" : " Daniel, Shonnie  \n",
+         "to" : "Bump, Dan J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/all_documents/292.",
+   "hops" : [
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.leach@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 33,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 03:13 PM\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 74,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 \n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.tezyk@enron.com",
+         "line" : 109,
+         "rawfrom" : "Matthew Tezyk/ENRON_DEVELOPMENT on \n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/deleted_items/147.",
+   "hops" : [
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 4,
+         "rawfrom" : "joan.quick@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Quick, Joan; Kalb, Thomas; Jain, Avinash"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 46,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Quick, Joan"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 58,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Boyt, Eric"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 72,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Boyt, Eric"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/deleted_items/166.",
+   "hops" : [
+      {
+         "from" : "eric.schneider@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.schneider@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "(713) 853-5078",
+         "line" : 33,
+         "rawfrom" : "(713) 853-5078\n",
+         "to" : "Vance Holtzman/ENRON@enronXgate, Eric Schneider/Enron Communications@Enron Communications  cc:   Subject: FW: Lunch"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Schneider, Eric; Holtzman, Vance"
+      },
+      {
+         "from" : "eric_schneider@enron.net",
+         "line" : 53,
+         "rawfrom" : "\tSchneider, Eric  \n",
+         "to" : "Weldon, V. Charles; Holtzman, Vance"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/deleted_items/171.",
+   "hops" : [
+      {
+         "from" : "mark.schlueter@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.schlueter@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Schlueter, Mark"
+      },
+      {
+         "from" : "mark.schlueter@enron.com",
+         "line" : 30,
+         "rawfrom" : "\tSchlueter, Mark  \n",
+         "to" : "Weldon, V. Charles"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Schlueter, Mark"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/deleted_items/240.",
+   "hops" : [
+      {
+         "from" : "cweldon@houston.rr.com",
+         "line" : 4,
+         "rawfrom" : "cweldon@houston.rr.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "t-willy@t-willy.com",
+         "line" : 22,
+         "rawfrom" : "Tom Williford [mailto:t-willy@t-willy.com]\n",
+         "to" : "cweldon@houston.rr.com"
+      },
+      {
+         "from" : "cweldon@houston.rr.com",
+         "line" : 35,
+         "rawfrom" : "\"Charlie Weldon\" <cweldon@houston.rr.com>\n",
+         "to" : "\"'Tom Williford'\" <t-willy@t-willy.com>"
+      },
+      {
+         "from" : "t-willy@t-willy.com",
+         "line" : 49,
+         "rawfrom" : "Tom Williford [mailto:t-willy@t-willy.com]\n",
+         "to" : "cweldon@houston.rr.com"
+      },
+      {
+         "from" : "cweldon@houston.rr.com",
+         "line" : 57,
+         "rawfrom" : "\"Charlie Weldon\" <cweldon@houston.rr.com>\n",
+         "to" : "<t-willy@t-willy.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/discussion_threads/167.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 51,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 67,
+         "rawfrom" : "Bailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick; William Norrie McKenzie"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 84,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 98,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 \n",
+         "to" : "\"Kilpatrick, Alan M.\" <AMKilpat@southernco.com>"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 122,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 133,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 146,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 157,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Dan J Hyvl/HOU/ECT@ECT, Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 183,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dan J Hyvl/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 194,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/22/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 209,
+         "rawfrom" : "Bailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 242,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 253,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 268,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/25/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/discussion_threads/168.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 25,
+         "rawfrom" : " Mark Breese                           03/27/2001 02:48 PM\n",
+         "to" : "Jin Guo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 36,
+         "rawfrom" : "Mark Breese/HOU/ECT on 03/27/2001 02:45 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 55,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 03/20/2001 \n",
+         "to" : "Phil DeMoes/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/discussion_threads/171.",
+   "hops" : [
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.moon@enron.com\r\n",
+         "to" : "v.weldon@enron.com, philip.polsky@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mark Whitt@ENRON on 04/26/2001 11:38 AM MDT\n",
+         "to" : "Tyrell Harrison/NA/Enron@Enron, Gerald Nemec/HOU/ECT@ECT, Paul T"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 40,
+         "rawfrom" : "Mark Whitt/NA/Enron on 04/26/2001 11:35 AM -----\n",
+         "to" : "Mark Whitt/NA/Enron@Enron"
+      },
+      {
+         "from" : "shonnie.daniel@enron.com",
+         "line" : 53,
+         "rawfrom" : " Daniel, Shonnie  \n",
+         "to" : "Bump, Dan J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/discussion_threads/62.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "kernelm@yahoo.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 22,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 01/10/2001 \n",
+         "to" : "\"V Charles Weldon\" <V.Charles.Weldon@enron.com>"
+      },
+      {
+         "from" : "charlie.weldon@bus.utexas.edu",
+         "line" : 31,
+         "rawfrom" : "Charlie Weldon <Charlie.Weldon@Bus.utexas.edu>\n",
+         "to" : "Stayton Weldon (E-mail) <staytonweldon@dewittec.net>"
+      },
+      {
+         "from" : "weldonvc@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "Charlie Weldon\n",
+         "to" : "'crecord@tisd.net'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/ft__pierce/11.",
+   "hops" : [
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.leach@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Breese, Mark; Leach, Doug"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tBreese, Mark  \n",
+         "to" : "Leach, Doug"
+      },
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tLeach, Doug  \n",
+         "to" : "Weldon, V. Charles"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Leach, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/ft__pierce/30.",
+   "hops" : [
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.leach@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 28,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 03:13 PM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 54,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 02:45 PM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.tezyk@enron.com",
+         "line" : 81,
+         "rawfrom" : "Matthew Tezyk/ENRON_DEVELOPMENT on 05/09/2001 10:10 AM ---------------------------\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/ft__pierce/7.",
+   "hops" : [
+      {
+         "from" : "david.fairley@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.fairley@enron.com\r\n",
+         "to" : "charles.weldon@enron.com, mark.breese@enron.com, doug.leach@enron.com"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Breese, Mark; Leach, Doug"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tBreese, Mark  \n",
+         "to" : "Leach, Doug"
+      },
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tLeach, Doug  \n",
+         "to" : "Weldon, V. Charles"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Leach, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/ft__pierce/84.",
+   "hops" : [
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 4,
+         "rawfrom" : "doug.leach@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 33,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 03:13 PM\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 74,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 \n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.tezyk@enron.com",
+         "line" : 109,
+         "rawfrom" : "Matthew Tezyk/ENRON_DEVELOPMENT on \n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/inbox/16.",
+   "hops" : [
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 4,
+         "rawfrom" : "jd.buss@enron.com\r\n",
+         "to" : "gary.bryan@enron.com, morris.larubbio@enron.com, charles.weldon@enron.com,"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Imai, Rika"
+      },
+      {
+         "from" : "rika.imai@enron.com",
+         "line" : 51,
+         "rawfrom" : "\tImai, Rika  \n",
+         "to" : "Buss, Jd"
+      },
+      {
+         "from" : "jd.buss@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tBuss, Jd  \n",
+         "to" : "Imai, Rika"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/inbox/19.",
+   "hops" : [
+      {
+         "from" : "vikas.dwivedi@enron.com",
+         "line" : 4,
+         "rawfrom" : "vikas.dwivedi@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 26,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Dwivedi, Vikas"
+      },
+      {
+         "from" : "vikas_dwivedi@prusec.com",
+         "line" : 34,
+         "rawfrom" : "\tVikas Dwivedi  \n",
+         "to" : "V Charles Weldon"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 42,
+         "rawfrom" : "\tWeldon, V Charles  \n",
+         "to" : "Dwivedi, Vikas"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/inbox/22.",
+   "hops" : [
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.moon@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Moon, Eric; Polsky, Phil"
+      },
+      {
+         "from" : "laura.wente@ubswenergy.com",
+         "line" : 34,
+         "rawfrom" : "\tWente, Laura  \n",
+         "to" : "Miller, Stephanie; Slaughter, Jeff G."
+      },
+      {
+         "from" : "stephanie.miller@enron.com",
+         "line" : 49,
+         "rawfrom" : "\tMiller, Stephanie  \n",
+         "to" : "Wente, Laura; Slaughter, Jeff G."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/inbox/41.",
+   "hops" : [
+      {
+         "from" : "w..white@enron.com",
+         "line" : 4,
+         "rawfrom" : "w..white@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "russellt@cottonrestorationinc.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Russell White\" <russellt@cottonrestorationinc.com>@ENRON [mailto:IMCEANOTES-+22Russell+20White+22+20+3Crussellt+40cottonrestorationinc+2Ecom+3E+40ENRON@ENRON.com] \n",
+         "to" : "Chris Whitenton; White, Stacey W.; Lamar White; Stayton Weldon; Sachtleben, Kim M.; Rodney Pedraza; Bryan Klesel; Ken Horstman; Mary Harmon; Dee Harkey; Mark Golson; Benson Goebel; Chad Frers; Dunlop, James"
+      },
+      {
+         "from" : "jeffk@cottonrestorationinc.com",
+         "line" : 31,
+         "rawfrom" : "Jeff Krone <jeffk@cottonrestorationinc.com>\n",
+         "to" : "Russell White <russellt@cottonrestorationinc.com>"
+      },
+      {
+         "from" : "scotth@cottonconstructionllc.com",
+         "line" : 39,
+         "rawfrom" : "\"Scott Harrison\" <scotth@cottonconstructionllc.com>\n",
+         "to" : "\"Jeff Krone\" <jeffk@cottonrestorationinc.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/inbox/7.",
+   "hops" : [
+      {
+         "from" : "russellt@cottonrestorationinc.com",
+         "line" : 4,
+         "rawfrom" : "russellt@cottonrestorationinc.com\r\n",
+         "to" : "whitenton.chris@enron.com, white.lamar@enron.com, charles.weldon@enron.com,"
+      },
+      {
+         "from" : "benson03@juno.com",
+         "line" : 25,
+         "rawfrom" : "Benson Goebel <benson03@juno.com>\n",
+         "to" : "mhbldr@tstar.net <mhbldr@tstar.net>"
+      },
+      {
+         "from" : "jhartman@bmsmanagement.com",
+         "line" : 41,
+         "rawfrom" : "\"Hartman, Jeff\" <JHartman@BMSManagement.com>\n",
+         "to" : "<benson@generalrestoration.com>"
+      },
+      {
+         "from" : "j.b.griggs@att.net",
+         "line" : 52,
+         "rawfrom" : "J.B.GRIGGS@att.net [mailto:J.B.GRIGGS@att.net]\n",
+         "to" : "Brad Wallace; BEN WALLACE; Trey Smith; Mooring, Ben; Lon Loveless;"
+      },
+      {
+         "from" : "hedberg@flash.net",
+         "line" : 60,
+         "rawfrom" : "   \"JOHN E GEORGE\" <hedberg@flash.net>\n",
+         "to" : "<J.B.GRIGGS@att.net>"
+      },
+      {
+         "from" : "gkostohryz@hotmail.com",
+         "line" : 67,
+         "rawfrom" : "George Kostohryz <gkostohryz@hotmail.com>\n",
+         "to" : "<borisross@aol.com>; <carcyc@mcdonald-tech.com>; <ccw@kenedy.org>;"
+      },
+      {
+         "from" : "carcyc@mcdonald-tech.com",
+         "line" : 84,
+         "rawfrom" : "\"Carcy Clinton\" <carcyc@mcdonald-tech.com>\n",
+         "to" : "\"Kostohryz, George\" <gkostohryz@hotmail.com>,        \"Clinton,"
+      },
+      {
+         "from" : "erh3@swbell.net",
+         "line" : 95,
+         "rawfrom" : "E. Randall Hudson III [mailto:erh3@swbell.net]\n",
+         "to" : "Sherman Young; Chris Ryan"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/kcs/1.",
+   "hops" : [
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.boyt@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Boyt, Eric \n",
+         "to" : "Khan, Rafi"
+      },
+      {
+         "from" : "rafi.khan@enron.com",
+         "line" : 48,
+         "rawfrom" : "Khan, Rafi \n",
+         "to" : "Boyt, Eric"
+      },
+      {
+         "from" : "hotraj@hmc.harvard.edu",
+         "line" : 70,
+         "rawfrom" : "Hotra, Jason [mailto:hotraj@hmc.harvard.edu]\n",
+         "to" : "Saubier, Sebastien; Jones, Doug; Khan, Rafi"
+      },
+      {
+         "from" : "sebastien.saubier@enron.com",
+         "line" : 96,
+         "rawfrom" : "Saubier, Sebastien [mailto:Sebastien.Saubier@enron.com]\n",
+         "to" : "hotraj@hmc.harvard.edu; Jones, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/kcs/4.",
+   "hops" : [
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.boyt@enron.com\r\n",
+         "to" : "charles.weldon@enron.com"
+      },
+      {
+         "from" : "tanya.rohauer@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tTanya Rohauer  \n",
+         "to" : "Eric Boyt"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 38,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Rohauer, Tanya"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 55,
+         "rawfrom" : "Eric Boyt/Corp/Enron on 05/11/2001 05:06 PM ---------------------------\n",
+         "to" : "Tanya Rohauer/Enron@EnronXGate"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/kern/2.",
+   "hops" : [
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.moon@enron.com\r\n",
+         "to" : "v.weldon@enron.com, philip.polsky@enron.com"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 21,
+         "rawfrom" : "From:\tMark Whitt@ENRON on 04/26/2001 11:38 AM MDT\n",
+         "to" : "Tyrell Harrison/NA/Enron@Enron, Gerald Nemec/HOU/ECT@ECT, Paul T Lucci/NA/Enron@Enron"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 31,
+         "rawfrom" : "Mark Whitt/NA/Enron on 04/26/2001 11:35 AM -----\n",
+         "to" : "Mark Whitt/NA/Enron@Enron  cc: Gerald Nemec/HOU/ECT@ECT  Subject: FW: Service Schedule"
+      },
+      {
+         "from" : "shonnie.daniel@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tDaniel, Shonnie  \n",
+         "to" : "Bump, Dan J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/kern/6.",
+   "hops" : [
+      {
+         "from" : "eric.moon@enron.com",
+         "line" : 4,
+         "rawfrom" : "eric.moon@enron.com\r\n",
+         "to" : "v.weldon@enron.com, philip.polsky@enron.com"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 22,
+         "rawfrom" : "Mark Whitt@ENRON on 04/26/2001 11:38 AM MDT\n",
+         "to" : "Tyrell Harrison/NA/Enron@Enron, Gerald Nemec/HOU/ECT@ECT, Paul T"
+      },
+      {
+         "from" : "mwhitt@enron.com",
+         "line" : 40,
+         "rawfrom" : "Mark Whitt/NA/Enron on 04/26/2001 11:35 AM -----\n",
+         "to" : "Mark Whitt/NA/Enron@Enron"
+      },
+      {
+         "from" : "shonnie.daniel@enron.com",
+         "line" : 53,
+         "rawfrom" : " Daniel, Shonnie  \n",
+         "to" : "Bump, Dan J."
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/misc_/35.",
+   "hops" : [
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 4,
+         "rawfrom" : "david.baumbach@enron.com\r\n",
+         "to" : "eric.bass@enron.com, joe.parks@enron.com, jim.schwieger@enron.com,"
+      },
+      {
+         "from" : "matthew.adams@enron.com",
+         "line" : 25,
+         "rawfrom" : "\tAdams, Matthew  \n",
+         "to" : "Baumbach, David"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tBaumbach, David  \n",
+         "to" : "Adams, Matthew"
+      },
+      {
+         "from" : "matthew.adams@enron.com",
+         "line" : 45,
+         "rawfrom" : "\tAdams, Matthew  \n",
+         "to" : "Baumbach, David"
+      },
+      {
+         "from" : "david.baumbach@enron.com",
+         "line" : 59,
+         "rawfrom" : "\tBaumbach, David  \n",
+         "to" : "Adams, Matthew"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent/101.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "enron.security@enron.com"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 33,
+         "rawfrom" : "Enron Messaging Security@ENRON\n",
+         "to" : "Rachel V Adams/IT/LON/ECT@ECT"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 57,
+         "rawfrom" : "Enron Messaging Security/Corp/Enron on \n",
+         "to" : "Enron Messaging Security/Corp/Enron@ENRON, European Notes"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 88,
+         "rawfrom" : "Enron Messaging Security@ENRON\n",
+         "to" : "Iris Meunier/MAD/ECT@ECT"
+      },
+      {
+         "from" : "enronmessaging@yahoo.com",
+         "line" : 191,
+         "rawfrom" : "Enron Messaging Security/Corp/Enron on \n",
+         "to" : "European Notes Administration@ECT"
+      }
+   ],
+   "skipped" : 3
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent/84.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "kernelm@yahoo.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 22,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 01/10/2001 \n",
+         "to" : "\"V Charles Weldon\" <V.Charles.Weldon@enron.com>"
+      },
+      {
+         "from" : "charlie.weldon@bus.utexas.edu",
+         "line" : 31,
+         "rawfrom" : "Charlie Weldon <Charlie.Weldon@Bus.utexas.edu>\n",
+         "to" : "Stayton Weldon (E-mail) <staytonweldon@dewittec.net>"
+      },
+      {
+         "from" : "weldonvc@hotmail.com",
+         "line" : 41,
+         "rawfrom" : "Charlie Weldon\n",
+         "to" : "'crecord@tisd.net'"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/108.",
+   "hops" : [
+      {
+         "from" : "charles.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "charles.weldon@enron.com\r\n",
+         "to" : "eric.moon@enron.com, eric.boyt@enron.com, jin.guo@enron.com,"
+      },
+      {
+         "from" : "swhite11@houston.rr.com",
+         "line" : 23,
+         "rawfrom" : "\tWhite, Stacey  \n",
+         "to" : "Weldon, V. Charles; bajco@bajco.com; staytonweldon@dewittec.net; deannaharris@houston.rr.com; angelamcdonald@austin.rr.com; kkampe@ev1.net; jeffrey.j.schroeder@arthurandersen.com; ty.chambers@brinker.com; tdroupy@e2communications.com; rcrider@coral-energy.com"
+      },
+      {
+         "from" : "stacey.w.white@enron.|",
+         "line" : 32,
+         "rawfrom" : "Stacey W White/HOU/ECT on 05/23/2001 04:18 PM ---------------------------\n",
+         "to" : "Stacey W White/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 39,
+         "rawfrom" : "From:\tJudith Schlesinger/ENRON@enronXgate on 05/23/2001 01:17 PM\n",
+         "to" : "Donald Wayne Vinson/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/110.",
+   "hops" : [
+      {
+         "from" : "charles.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "charles.weldon@enron.com\r\n",
+         "to" : "mark.breese@enron.com, doug.leach@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 24,
+         "rawfrom" : "\tBreese, Mark  \n",
+         "to" : "Leach, Doug"
+      },
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tLeach, Doug  \n",
+         "to" : "Weldon, V. Charles"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Leach, Doug"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/12.",
+   "hops" : [
+      {
+         "from" : "charles.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "charles.weldon@enron.com\r\n",
+         "to" : "cweldon@houston.rr.com"
+      },
+      {
+         "from" : "russellt@cottonrestorationinc.com",
+         "line" : 22,
+         "rawfrom" : "\t\"Russell White\" <russellt@cottonrestorationinc.com>@ENRON  \n",
+         "to" : "Lamar White; Weldon, V. Charles; Chad Weigman; Rodney Pedraza; Benson Goebel; Stewart Geldersma; Chad Frers; Pete Bell; Scott Birdwell"
+      },
+      {
+         "from" : "swhite11@houston.rr.com",
+         "line" : 29,
+         "rawfrom" : "stacey white <swhite11@houston.rr.com>\n",
+         "to" : "russellt@cottonrestorationinc.com <russellt@cottonrestorationinc.com>"
+      },
+      {
+         "from" : "\"kevin kampe\" <kkampe@ev1.net>",
+         "line" : 37,
+         "rawfrom" : "\"Kevin Kampe\" <kkampe@ev1.net>\n",
+         "to" : "\"WSHubbard\" <WSHubbard@aol.com>; \"Will Cole\" <wjcole@gateway.net>; \"Tom"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/127.",
+   "hops" : [
+      {
+         "from" : "charles.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "charles.weldon@enron.com\r\n",
+         "to" : "vikas.dwivedi@enron.com"
+      },
+      {
+         "from" : "vikas_dwivedi@prusec.com",
+         "line" : 22,
+         "rawfrom" : "\tDwivedi, Vikas  \n",
+         "to" : "Weldon, V. Charles"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 34,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Dwivedi, Vikas"
+      },
+      {
+         "from" : "vikas_dwivedi@prusec.com",
+         "line" : 42,
+         "rawfrom" : "\tVikas Dwivedi  \n",
+         "to" : "V Charles Weldon"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 50,
+         "rawfrom" : "\tWeldon, V Charles  \n",
+         "to" : "Dwivedi, Vikas"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/130.",
+   "hops" : [
+      {
+         "from" : "charles.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "charles.weldon@enron.com\r\n",
+         "to" : "joan.quick@enron.com, thomas.kalb@enron.com, avinash.jain@enron.com"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 31,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Quick, Joan"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 43,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Boyt, Eric"
+      },
+      {
+         "from" : "joan.quick@enron.com",
+         "line" : 57,
+         "rawfrom" : "\tQuick, Joan  \n",
+         "to" : "Boyt, Eric"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/146.",
+   "hops" : [
+      {
+         "from" : "charles.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "charles.weldon@enron.com\r\n",
+         "to" : "eric.boyt@enron.com"
+      },
+      {
+         "from" : "eric.boyt@enron.com",
+         "line" : 22,
+         "rawfrom" : "\tBoyt, Eric  \n",
+         "to" : "Weldon, V. Charles"
+      },
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 33,
+         "rawfrom" : "\tWeldon, V. Charles  \n",
+         "to" : "Boyt, Eric"
+      },
+      {
+         "from" : "john.kiani-aslani@enron.com",
+         "line" : 41,
+         "rawfrom" : "\tKiani-Aslani, John  \n",
+         "to" : "Weldon, V. Charles"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/20.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "mathew.gimble@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 25,
+         "rawfrom" : " V Charles Weldon                           05/16/2001 11:11 AM\t\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development, Mike Coleman/Enron@EnronXGate, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 37,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/16/2001 11:05 AM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 50,
+         "rawfrom" : " V Charles Weldon                           05/14/2001 09:02 AM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/21.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "mathew.gimble@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 25,
+         "rawfrom" : " V Charles Weldon                           05/16/2001 11:13 AM\t\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development, Mike Coleman/Enron@EnronXGate, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 35,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/16/2001 11:11 AM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 48,
+         "rawfrom" : " V Charles Weldon                           05/16/2001 08:21 AM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/31.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "kelli.little@enron.com"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 25,
+         "rawfrom" : " Jay Reitmeyer                           05/14/2001 10:36 AM\t\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "roger.ross@weil.com",
+         "line" : 32,
+         "rawfrom" : "From:\tDipak Agarwalla/ENRON@enronXgate on 05/04/2001 12:28 PM\n",
+         "to" : "Jay Reitmeyer/HOU/ECT@ECT"
+      },
+      {
+         "from" : "jay.reitmeyer@enron.com",
+         "line" : 47,
+         "rawfrom" : "\tReitmeyer, Jay  \n",
+         "to" : "Agarwalla, Dipak"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/42.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "matthew.tezyk@enron.com, mike.coleman@enron.com"
+      },
+      {
+         "from" : "marc.roche@enron.com",
+         "line" : 27,
+         "rawfrom" : " Marc De La Roche                           05/10/2001 07:39 AM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT, V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "doug.leach@enron.com",
+         "line" : 45,
+         "rawfrom" : " Doug Leach                           05/09/2001 05:23 PM\t\n",
+         "to" : "Marc De La Roche/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 57,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 05:09 PM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/sent_items/45.",
+   "hops" : [
+      {
+         "from" : "v.weldon@enron.com",
+         "line" : 4,
+         "rawfrom" : "v.weldon@enron.com\r\n",
+         "to" : "mike.coleman@enron.com"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 30,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 05:00 PM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 43,
+         "rawfrom" : " V Charles Weldon                           05/09/2001 03:13 PM\t\n",
+         "to" : "Doug Leach/HOU/ECT@ECT"
+      },
+      {
+         "from" : "v.charles.weldon@enron.com",
+         "line" : 69,
+         "rawfrom" : "V Charles Weldon/HOU/ECT on 05/09/2001 02:45 PM ---------------------------\n",
+         "to" : "V Charles Weldon/HOU/ECT@ECT"
+      },
+      {
+         "from" : "matthew.tezyk@enron.com",
+         "line" : 96,
+         "rawfrom" : "Matthew Tezyk/ENRON_DEVELOPMENT on 05/09/2001 10:10 AM ---------------------------\n",
+         "to" : "Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/southern_lng/2.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 25,
+         "rawfrom" : " Mark Breese                           03/27/2001 02:48 PM\t\n",
+         "to" : "Jin Guo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 35,
+         "rawfrom" : "Mark Breese/HOU/ECT on 03/27/2001 02:45 PM ---------------------------\n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 49,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 03/20/2001 08:33 AM ---------------------------\n",
+         "to" : "Phil DeMoes/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/southern_lng/3.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 45,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 10:21 AM ---------------------------\n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 61,
+         "rawfrom" : "From:\tBailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick; William Norrie McKenzie"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 77,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 88,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 12:51 PM ---------------------------\n",
+         "to" : "\"Kilpatrick, Alan M.\" <AMKilpat@southernco.com>"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 111,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 121,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 133,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 143,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Dan J Hyvl/HOU/ECT@ECT, Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 159,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dan J Hyvl/HOU/ECT@ECT, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 168,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/22/2001 05:28 PM ---------------------------\n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 183,
+         "rawfrom" : "From:\tBailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 215,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 225,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 AM ---------------------------\n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 236,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/25/2001 08:39 AM ---------------------------\n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/southern_lng/5.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 25,
+         "rawfrom" : " Mark Breese                           03/27/2001 02:48 PM\n",
+         "to" : "Jin Guo/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 36,
+         "rawfrom" : "Mark Breese/HOU/ECT on 03/27/2001 02:45 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 55,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 03/20/2001 \n",
+         "to" : "Phil DeMoes/Corp/Enron@ENRON"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/southern_lng/6.",
+   "hops" : [
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 4,
+         "rawfrom" : "mark.breese@enron.com\r\n",
+         "to" : "v.weldon@enron.com"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 23,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 51,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 67,
+         "rawfrom" : "Bailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick; William Norrie McKenzie"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 84,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 98,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/09/2001 \n",
+         "to" : "\"Kilpatrick, Alan M.\" <AMKilpat@southernco.com>"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 122,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 133,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 146,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 157,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Dan J Hyvl/HOU/ECT@ECT, Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 183,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Les Webber/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dan J Hyvl/HOU/ECT@ECT,"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 194,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/22/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      },
+      {
+         "from" : "dbailey@balch.com",
+         "line" : 209,
+         "rawfrom" : "Bailey, Donna [SMTP:dbailey@balch.com]\n",
+         "to" : "Alan M. Kilpatrick"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 242,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "mark.breese@enron.com",
+         "line" : 253,
+         "rawfrom" : "Mark Breese/HOU/ECT on 04/25/2001 09:27 \n",
+         "to" : "Mark Breese/HOU/ECT@ECT"
+      },
+      {
+         "from" : "phil.demoes@enron.com",
+         "line" : 268,
+         "rawfrom" : "Phil DeMoes/Corp/Enron on 04/25/2001 \n",
+         "to" : "\"Phil DeMoes (E-mail)\" <phil.demoes@enron.com>"
+      }
+   ],
+   "skipped" : 0
+}
+,
+{
+   "file" : "enron-raw/weldon-c/ut_mba/7.",
+   "hops" : [
+      {
+         "from" : "connie.lee@enron.com",
+         "line" : 4,
+         "rawfrom" : "connie.lee@enron.com\r\n",
+         "to" : "julia.hafener@bus.utexas.edu"
+      },
+      {
+         "from" : "julia.hafener@bus.utexas.edu",
+         "line" : 53,
+         "rawfrom" : "Julia.Hafener@bus.utexas.edu\n",
+         "to" : "Connie Lee/Enron Communications@Enron Communications"
+      },
+      {
+         "from" : "connie_lee@enron.net",
+         "line" : 73,
+         "rawfrom" : "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "to" : "Julia Hafener"
+      },
+      {
+         "from" : "connie_lee@enron.net",
+         "line" : 154,
+         "rawfrom" : "Connie_Lee@enron.net [mailto:Connie_Lee@enron.net]\n",
+         "to" : "AdmissionVisits"
+      }
+   ],
+   "skipped" : 1
+}
+]
