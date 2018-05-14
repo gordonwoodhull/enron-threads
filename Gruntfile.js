@@ -113,6 +113,7 @@ module.exports = function (grunt) {
         },
         'gh-pages': {
             options: {
+                add: true,
                 base: '<%= conf.web %>',
                 message: 'Synced from from master branch.'
             },
