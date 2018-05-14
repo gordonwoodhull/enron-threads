@@ -136,7 +136,7 @@ while (my $line = <>) {
             ++$failed;
             push @failures, {
                 canonical=> $canonical,
-                last=> \@last,
+                recent=> \@last,
                 raw=> $rawfrom,
                 to=> $line
             };
