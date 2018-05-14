@@ -122,6 +122,9 @@ while (my $line = <>) {
                         }
                         $source = 'lookup';
                     }
+                    else {
+                        $from = undef;
+                    }
                 }
             }
         }
