@@ -115,7 +115,7 @@ while (my $line = <>) {
                     $source = 'email';
                 } else {
                     # take only "name characters"
-                    (my $fromname) = $from =~ m/(^[A-Za-z, -"']+)/;
+                    (my $fromname) = $from =~ m/(^[A-Za-z, "'-]+)/;
                     if($fromname) {
                         $fromname =~ s/ +$//;
                         $from = $fromname;
