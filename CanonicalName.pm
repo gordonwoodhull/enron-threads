@@ -10,11 +10,13 @@ sub canonical {
     # canonical version of name: first lowercase
     my ($name) = @_;
     $name = lc $name;
-    # remove begin/end quotes from names
+    # remove begin/end quotes from name
     $name =~ s/^['"]*//;
     $name =~ s/['"]*$//;
-    # convert dots and underscores to spaces
+    # convert dots and underscores to spaces, but remove at ends
     $name =~ s/[\._]/ /g;
+    $name =~ s/^ *//;
+    $name =~ s/ *$//;
     # sometimes emails slip through - drop @ part
     $name =~ s/@.*$//;
     # last, first => first last
