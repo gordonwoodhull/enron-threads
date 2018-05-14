@@ -39,7 +39,7 @@ if ($options{a}) {
 # but the ones in this corpus tend to be pretty regular
 sub valid_email {
     my ($email) = @_;
-    return $email =~ m/^[A-Za-z_\.]+@[A-Za-z_]+\.[A-Za-z_\.]+$/;
+    return $email =~ m/^[A-Za-z_\.1-9-]+@[A-Za-z_-]+\.[A-Za-z_\.]+$/;
 }
 
 print "[\n" if $SHOWTHREADS;
@@ -108,7 +108,8 @@ while (my $line = <>) {
                 if (@emails && valid_email($emails[0]->address)) {
                     $from = $emails[0]->address;
                 } else {
-                    (my $fromname) = $from =~ m/(^[A-Za-z, ]+)/;
+                    # take only "name characters"
+                    (my $fromname) = $from =~ m/(^[A-Za-z, -]+)/;
                     if($fromname) {
                         $fromname =~ s/ +$//;
                         $from = $fromname;
