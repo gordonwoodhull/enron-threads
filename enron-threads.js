@@ -4,15 +4,17 @@ var options = Object.assign({
     data: 'data/',
     layout: 'd3v4force',
     tdur: 1000,
-    r: 2
+    r: 2,
+    top: 10
 }, qs);
 
-function radius(adjacent, last, k, r) {
+function radius(adjacent, last, k, r, set) {
+    console.assert(set.has(k));
     if(!r)
         return {nodes: [k], edges: []};
-    var adjs = Object.keys(adjacent[k]).filter(k => k != last);
+    var adjs = Object.keys(adjacent[k]).filter(k => k != last && set.has(k));
     var edges = adjs.map(a => ({source: k, target: a, type: 'adjacent'}));
-    var crad = adjs.map(k2 => radius(adjacent, k, k2, r-1));
+    var crad = adjs.map(k2 => radius(adjacent, k, k2, r-1, set));
     return {
         nodes: Array.prototype.concat.apply([k], crad.map(c => c.nodes)),
         edges: Array.prototype.concat.apply(edges, crad.map(c => c.edges))
@@ -40,7 +42,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
     if(error)
         read_error("users.txt");
     var emails = {}, edges = [];
-    var adjacent = {}, peopleThreads = {};
+    var adjacent = {}, peopleThreads = {}, mostThreads;
     function read_threads(threads) {
         threads.forEach(function(t) {
             var froms = {};
@@ -63,6 +65,17 @@ d3.text(options.data + 'users.txt', function(error, users) {
             });
         });
     }
+    function done() {
+        mostThreads = Object.keys(peopleThreads).sort(
+            (a,b) => peopleThreads[a].length - peopleThreads[b].length);
+        mostThreads = mostThreads
+            .slice((mostThreads.length*100 - mostThreads.length*options.top)/100);
+        var nodes = ['--select an email--'].concat(mostThreads.sort());
+        people.selectAll('option')
+            .data(nodes, k => k)
+            .enter()
+            .insert('option').text(k => k);
+    }
     var people = d3.select('#people');
     var nread = 0;
     users = users.split(/\s/).slice(0, -1);
@@ -73,19 +86,16 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 read_error(u);
             ++nread;
             read_threads(threads);
-            var nodes = Object.keys(emails).map(k => k).sort();
-            people.selectAll('option')
-                .data(nodes, k => k)
-              .enter()
-                .append('option').text(k => k);
             d3.select('#progress')
                 .html((nread < users.length ? 'read ' + u : 'Done') +
-                      '<br>' + nodes.length + ' addresses');
+                      '<br>' + Object.keys(emails).length + ' addresses');
+            if(nread === users.length)
+                done();
         });
     });
     people.on('change', function() {
         var person = this.value;
-        var data = radius(adjacent, null, person, +options.r);
+        var data = radius(adjacent, null, person, +options.r, new Set(mostThreads));
         var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
             edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
         diagram
