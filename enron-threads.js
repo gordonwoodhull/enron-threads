@@ -90,11 +90,11 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 read_error(u);
             ++nread;
             read_threads(threads);
-            d3.select('#progress')
-                .html((nread < users.length ? 'read ' + u : 'Done') +
-                      '<br>' + Object.keys(emails).length + ' addresses');
             if(nread === users.length)
                 done();
+            d3.select('#progress')
+                .html((nread < users.length ? 'read ' + u : 'Done') +
+                      '<br>' + (nread === users.length ? 'Showing ' + mostThreads.length + '/' : '') + Object.keys(emails).length + ' addresses');
         });
     });
     people.on('change', function() {
