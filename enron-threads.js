@@ -31,6 +31,7 @@ var diagram = dc_graph.diagram('#graph')
     .zoomExtent([0.1, 5])
     .zoomDuration(0)
     .nodeRadius(7)
+    .edgeLabel(null)
     .edgeArrowhead(e => e.value.type === 'adjacent' ? null : 'vee')
 ;
 
