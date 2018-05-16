@@ -20,7 +20,7 @@ function radius(adjacent, last, k, r) {
 }
 
 var rendered = false;
-var clusterDiagram = dc_graph.diagram('#graph')
+var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout))
     .edgeSource(function(e) { return e.value.source; })
     .edgeTarget(function(e) { return e.value.target; })
@@ -88,16 +88,16 @@ d3.text(options.data + 'users.txt', function(error, users) {
         var data = radius(adjacent, null, person, +options.r);
         var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
             edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
-        clusterDiagram
+        diagram
             .nodeDimension(node_flat.dimension).nodeGroup(node_flat.group)
             .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group)
             .nodeStrokeWidth(n => n.key === person ? 3 : 1)
             .nodeStroke(n => n.key === person ? '#E34234' : 'black');
         if(rendered)
-            clusterDiagram.redraw();
+            diagram.redraw();
         else {
             rendered = true;
-            clusterDiagram.render();
+            diagram.render();
         }
     });
 });
