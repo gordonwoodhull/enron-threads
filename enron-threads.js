@@ -19,7 +19,7 @@ function radius(adjacent, followed, k, r, set) {
     followed[k] = {};
     adjs.forEach(j => (followed[k][j] = true));
     console.log(k, Object.keys(followed));
-    var edges = adjs.map(a => ({source: k, target: a, type: 'adjacent'}));
+    var edges = adjs.map(a => ({source: k, target: a, type: 'proximity'}));
     var crad = adjs.map(k2 => radius(adjacent, followed, k2, r-1, set));
     return {
         nodes: Array.prototype.concat.apply([k], crad.map(c => c.nodes)),
@@ -38,7 +38,7 @@ var diagram = dc_graph.diagram('#graph')
     .zoomDuration(0)
     .nodeRadius(7)
     .edgeLabel(null)
-    .edgeArrowhead(e => e.value.type === 'adjacent' ? null : 'vee')
+    .edgeArrowhead(e => e.value.type === 'proximity' ? null : 'vee')
 ;
 
 var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkorange'});
