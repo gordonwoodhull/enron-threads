@@ -8,14 +8,19 @@ var options = Object.assign({
     top: 10
 }, qs);
 
-function radius(adjacent, last, k, r, set) {
+function radius(adjacent, followed, k, r, set) {
     console.assert(set.has(k));
     console.assert(k && k !== 'undefined');
     if(!r)
         return {nodes: [k], edges: []};
-    var adjs = Object.keys(adjacent[k]).filter(k => k != last && set.has(k));
+    // only include emails in the top x%; don't follow an edge twice
+    var adjs = Object.keys(adjacent[k]).filter(
+        j => set.has(j) && (!followed[j] || !followed[j][k]));
+    followed[k] = {};
+    adjs.forEach(j => (followed[k][j] = true));
+    console.log(k, Object.keys(followed));
     var edges = adjs.map(a => ({source: k, target: a, type: 'adjacent'}));
-    var crad = adjs.map(k2 => radius(adjacent, k, k2, r-1, set));
+    var crad = adjs.map(k2 => radius(adjacent, followed, k2, r-1, set));
     return {
         nodes: Array.prototype.concat.apply([k], crad.map(c => c.nodes)),
         edges: Array.prototype.concat.apply(edges, crad.map(c => c.edges))
@@ -101,7 +106,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
     });
     people.on('change', function() {
         var person = this.value;
-        var data = radius(adjacent, null, person, +options.r, new Set(mostThreads));
+        var data = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
         var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
             edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
         diagram
