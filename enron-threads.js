@@ -17,9 +17,8 @@ function radius(adjacent, followed, k, r, set) {
     var adjs = Object.keys(adjacent[k]).filter(
         j => set.has(j) && (!followed[j] || !followed[j][k]));
     followed[k] = {};
-    adjs.forEach(j => (followed[k][j] = true));
     console.log(k, Object.keys(followed));
-    var edges = adjs.map(a => ({source: k, target: a, type: 'proximity'}));
+    var edges = adjs.map(a => (followed[k][a] = {source: k, target: a, type: 'proximity'}));
     var crad = adjs.map(k2 => radius(adjacent, followed, k2, r-1, set));
     return {
         nodes: Array.prototype.concat.apply([k], crad.map(c => c.nodes)),
@@ -38,7 +37,9 @@ var diagram = dc_graph.diagram('#graph')
     .zoomDuration(0)
     .nodeRadius(7)
     .edgeLabel(null)
-    .edgeArrowhead(e => e.value.type === 'proximity' ? null : 'vee')
+    .edgeArrowhead(e => e.value.forward ? 'vee' : null)
+    .edgeArrowtail(e => e.value.backward ? 'vee' : null)
+    .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black');
 ;
 
 var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkorange'});
@@ -53,11 +54,12 @@ d3.text(options.data + 'users.txt', function(error, users) {
         read_error("users.txt");
     var emails = {}, edges = [];
     var adjacent = {}, peopleThreads = {}, mostThreads;
-    var person, proximity, selectedThreads = [];
+    var followed = {}, person, proximity, selectedThreads = [];
     function read_threads(threads) {
         threads.forEach(function(t) {
             var froms = {};
             var file = t.file;
+            t.hops.reverse(); // should reverse in data source instead
             t.hops.forEach(function(h, i) {
                 emails[h.from] = true;
                 if(i>0) {
@@ -90,12 +92,26 @@ d3.text(options.data + 'users.txt', function(error, users) {
     }
     function display_graph() {
         var nodes = proximity.nodes.slice(), edges = proximity.edges.slice();
-        // let there be node/edge redundancy, since aggregation is identity
-        selectedThreads.forEach(function(t) {
-            t.hops.forEach(function(h, i) {
+        edges.forEach(function(e) {
+            e.type = 'proximity';
+            e.forward = e.backward = 0;
+        });
+        // let there be node redundancy, since this crossfilter aggregation is identity
+        selectedThreads.forEach(function(thread) {
+            thread.hops.forEach(function(h, i) {
                 nodes.push(h.from);
-                if(i>0)
-                    edges.push({source: t.hops[i-1].from, target: t.hops[i].from, type: 'thread'});
+                if(i>0) {
+                    var s = thread.hops[i-1].from, t = thread.hops[i].from;
+                    var e;
+                    if(followed[s] && (e = followed[s][t])) {
+                        e.type = 'thread';
+                        ++e.forward;
+                    } else if(followed[t] && (e = followed[t][s])) {
+                        e.type = 'thread';
+                        ++e.backward;
+                    }
+                    else edges.push({source: s, target: t, type: 'thread', forward: 1, backward: 0});
+                }
             });
         });
         var node_flat = dc_graph.flat_group.make(nodes, n => n),
@@ -152,7 +168,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 selectedThreads.splice(index, 1);
             display_graph();
         });
-        proximity = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
+        proximity = radius(adjacent, followed = {}, person, +options.r, new Set(mostThreads));
+        selectedThreads = [];
         display_graph();
     });
 });
