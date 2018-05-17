@@ -53,6 +53,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
         read_error("users.txt");
     var emails = {}, edges = [];
     var adjacent = {}, peopleThreads = {}, mostThreads;
+    var person, proximity, selectedThreads = [];
     function read_threads(threads) {
         threads.forEach(function(t) {
             var froms = {};
@@ -87,6 +88,21 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .enter()
             .insert('option').text(k => k);
     }
+    function display_graph() {
+        var node_flat = dc_graph.flat_group.make(proximity.nodes, n => n),
+            edge_flat = dc_graph.flat_group.make(proximity.edges, e => e.source + '->' + e.target);
+        diagram
+            .nodeDimension(node_flat.dimension).nodeGroup(node_flat.group)
+            .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group)
+            .nodeStrokeWidth(n => n.key === person ? 3 : 1)
+            .nodeStroke(n => n.key === person ? '#E34234' : 'black');
+        if(rendered)
+            diagram.redraw();
+        else {
+            rendered = true;
+            diagram.render();
+        }
+    }
     var people = d3.select('#people');
     var nread = 0;
     users = users.split(/\s/).slice(0, -1);
@@ -105,7 +121,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
         });
     });
     people.on('change', function() {
-        var person = this.value;
+        person = this.value;
         var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
         var thread = d3.select('#threads').selectAll('div.thread-holder')
             .data(peopleThreads[person], t => t.file);
@@ -116,20 +132,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .attr('class', 'thread')
             .text(t => t.file.slice(prefixLength));
         thread.exit().remove();
-        var data = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
-        var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
-            edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
-        diagram
-            .nodeDimension(node_flat.dimension).nodeGroup(node_flat.group)
-            .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group)
-            .nodeStrokeWidth(n => n.key === person ? 3 : 1)
-            .nodeStroke(n => n.key === person ? '#E34234' : 'black');
-        if(rendered)
-            diagram.redraw();
-        else {
-            rendered = true;
-            diagram.render();
-        }
+        proximity = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
+        display_graph();
     });
 });
 
