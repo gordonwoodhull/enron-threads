@@ -36,7 +36,7 @@ var diagram = dc_graph.diagram('#graph')
     .edgeArrowhead(e => e.value.type === 'adjacent' ? null : 'vee')
 ;
 
-var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkcyan'});
+var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkorange'});
 diagram.child('highlight-neighbors', highlighter);
 
 function read_error(filename) {
