@@ -89,8 +89,17 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .insert('option').text(k => k);
     }
     function display_graph() {
-        var node_flat = dc_graph.flat_group.make(proximity.nodes, n => n),
-            edge_flat = dc_graph.flat_group.make(proximity.edges, e => e.source + '->' + e.target);
+        var nodes = proximity.nodes.slice(), edges = proximity.edges.slice();
+        // let there be node/edge redundancy, since aggregation is identity
+        selectedThreads.forEach(function(t) {
+            t.hops.forEach(function(h, i) {
+                nodes.push(h.from);
+                if(i>0)
+                    edges.push({source: t.hops[i-1].from, target: t.hops[i].from, type: 'thread'});
+            });
+        });
+        var node_flat = dc_graph.flat_group.make(nodes, n => n),
+            edge_flat = dc_graph.flat_group.make(edges, e => e.source + '->' + e.target);
         diagram
             .nodeDimension(node_flat.dimension).nodeGroup(node_flat.group)
             .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group)
@@ -132,6 +141,17 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .attr('class', 'thread')
             .text(t => t.file.slice(prefixLength));
         thread.exit().remove();
+        thread.select('span.thread').on('click', function(t) {
+            var index = selectedThreads.indexOf(t);
+            var selected = index === -1;
+            d3.select(this)
+                .classed('selected', selected);
+            if(selected)
+                selectedThreads.push(t);
+            else
+                selectedThreads.splice(index, 1);
+            display_graph();
+        });
         proximity = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
         display_graph();
     });

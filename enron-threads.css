@@ -50,7 +50,7 @@ body {
     color: #11e;
     cursor: pointer;
 }
-.thread.shown {
+.thread.selected {
     color: green;
 }
 
