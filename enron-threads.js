@@ -17,7 +17,6 @@ function radius(adjacent, followed, k, r, set) {
     var adjs = Object.keys(adjacent[k]).filter(
         j => set.has(j) && (!followed[j] || !followed[j][k]));
     followed[k] = {};
-    console.log(k, Object.keys(followed));
     var edges = adjs.map(a => (followed[k][a] = {source: k, target: a, type: 'proximity'}));
     var crad = adjs.map(k2 => radius(adjacent, followed, k2, r-1, set));
     return {
@@ -162,10 +161,14 @@ d3.text(options.data + 'users.txt', function(error, users) {
             var selected = index === -1;
             d3.select(this)
                 .classed('selected', selected);
-            if(selected)
+            if(selected) {
                 selectedThreads.push(t);
-            else
+                console.log('selected thread', t.file.slice(prefixLength), JSON.stringify(t.hops, null, 2));
+            }
+            else {
                 selectedThreads.splice(index, 1);
+                console.log('deselected thread', t.file.slice(prefixLength));
+            }
             display_graph();
         });
         proximity = radius(adjacent, followed = {}, person, +options.r, new Set(mostThreads));
