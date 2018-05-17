@@ -30,6 +30,7 @@ var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout))
     .edgeSource(function(e) { return e.value.source; })
     .edgeTarget(function(e) { return e.value.target; })
+    .layoutUnchanged(true) // dc-js/dc.graph.js#79
     .transitionDuration(+options.tdur)
     .autoZoom('always')
     .zoomExtent([0.1, 5])
@@ -43,6 +44,13 @@ var diagram = dc_graph.diagram('#graph')
 
 var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkorange'});
 diagram.child('highlight-neighbors', highlighter);
+
+var reader = dc_graph.path_reader()
+    .elementList(thread => thread.hops)
+    .elementType('node') // we have no edges, they are unused anyway
+    .nodeKey(hop => hop.from);
+var spliner = dc_graph.draw_spline_paths(reader, {edgeStroke: 'green'});
+diagram.child('spliner', spliner);
 
 function read_error(filename) {
     throw new Error("couldn't read " + options.data + filename);
