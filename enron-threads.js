@@ -81,7 +81,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
             (a,b) => peopleThreads[a].length - peopleThreads[b].length);
         mostThreads = mostThreads
             .slice((mostThreads.length*100 - mostThreads.length*options.top)/100);
-        var nodes = ['--select an email--'].concat(mostThreads.sort());
+        var nodes = ['--select an email address--'].concat(mostThreads.sort());
         people.selectAll('option')
             .data(nodes, k => k)
             .enter()
