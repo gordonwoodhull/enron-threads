@@ -108,13 +108,13 @@ d3.text(options.data + 'users.txt', function(error, users) {
         var person = this.value;
         var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
         var thread = d3.select('#threads').selectAll('div.thread-holder')
-            .data(peopleThreads[person].map(t => t.file.slice(prefixLength)), f=>f);
+            .data(peopleThreads[person], t => t.file);
         thread
           .enter().append('div')
             .attr('class', 'thread-holder')
           .append('span')
             .attr('class', 'thread')
-            .text(t => t);
+            .text(t => t.file.slice(prefixLength));
         thread.exit().remove();
         var data = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
         var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
