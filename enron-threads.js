@@ -10,6 +10,7 @@ var options = Object.assign({
 
 function radius(adjacent, last, k, r, set) {
     console.assert(set.has(k));
+    console.assert(k && k !== 'undefined');
     if(!r)
         return {nodes: [k], edges: []};
     var adjs = Object.keys(adjacent[k]).filter(k => k != last && set.has(k));
@@ -55,6 +56,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 emails[h.from] = true;
                 if(i>0) {
                     var from = t.hops[i-1].from, to = t.hops[i].from;
+                    console.assert(from && to);
                     edges.push({source: from, target: to});
                     adjacent[from] = adjacent[from] || {};
                     adjacent[from][to] = true;
