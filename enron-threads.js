@@ -95,6 +95,11 @@ d3.text(options.data + 'users.txt', function(error, users) {
             e.type = 'proximity';
             e.forward = e.backward = 0;
         });
+        // deep copy followed
+        var followed2 = Object.entries(followed).reduce(function(p, v) {
+            p[v[0]] = Object.assign({}, v[1]);
+            return p;
+        }, {});
         // let there be node redundancy, since this crossfilter aggregation is identity
         selectedThreads.forEach(function(thread) {
             thread.hops.forEach(function(h, i) {
@@ -102,14 +107,18 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 if(i>0) {
                     var s = thread.hops[i-1].from, t = thread.hops[i].from;
                     var e;
-                    if(followed[s] && (e = followed[s][t])) {
+                    if(followed2[s] && (e = followed2[s][t])) {
                         e.type = 'thread';
                         ++e.forward;
-                    } else if(followed[t] && (e = followed[t][s])) {
+                    } else if(followed2[t] && (e = followed2[t][s])) {
                         e.type = 'thread';
                         ++e.backward;
                     }
-                    else edges.push({source: s, target: t, type: 'thread', forward: 1, backward: 0});
+                    else {
+                        e = {source: s, target: t, type: 'thread', forward: 1, backward: 0};
+                        followed2[s] = followed2[s] || {};
+                        edges.push(followed2[s][t] = e);
+                    }
                 }
             });
         });
