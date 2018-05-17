@@ -106,6 +106,15 @@ d3.text(options.data + 'users.txt', function(error, users) {
     });
     people.on('change', function() {
         var person = this.value;
+        var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
+        var thread = d3.select('#threads').selectAll('div.thread')
+            .data(peopleThreads[person].map(t => t.file.slice(prefixLength)), f=>f);
+        thread
+          .enter()
+            .append('div')
+            .attr('class', 'thread')
+            .text(t => t);
+        thread.exit().remove();
         var data = radius(adjacent, {}, person, +options.r, new Set(mostThreads));
         var node_flat = dc_graph.flat_group.make(data.nodes, n => n),
             edge_flat = dc_graph.flat_group.make(data.edges, e => e.source + '->' + e.target);
