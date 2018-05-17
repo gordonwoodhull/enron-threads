@@ -41,9 +41,16 @@ body {
     text-align: right;
 }
 
-.thread {
+.thread-holder {
     font: 12px sans-serif;
     padding-left: 5px;
+}
+.thread {
     white-space: nowrap;
+    color: #11e;
+    cursor: pointer;
+}
+.thread.shown {
+    color: green;
 }
 

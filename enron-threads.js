@@ -107,11 +107,12 @@ d3.text(options.data + 'users.txt', function(error, users) {
     people.on('change', function() {
         var person = this.value;
         var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
-        var thread = d3.select('#threads').selectAll('div.thread')
+        var thread = d3.select('#threads').selectAll('div.thread-holder')
             .data(peopleThreads[person].map(t => t.file.slice(prefixLength)), f=>f);
         thread
-          .enter()
-            .append('div')
+          .enter().append('div')
+            .attr('class', 'thread-holder')
+          .append('span')
             .attr('class', 'thread')
             .text(t => t);
         thread.exit().remove();
