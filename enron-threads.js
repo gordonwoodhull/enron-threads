@@ -186,11 +186,26 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 selectedThreads.splice(index, 1);
                 console.log('deselected thread', t.file.slice(prefixLength));
             }
-            display_graph();
+            // really spline-paths should work when there are changes to the graph
+            if(selected) {
+                display_graph();
+                window.setTimeout(function() {
+                    reader.data(selectedThreads);
+                }, 5000);
+            } else {
+                reader.data(selectedThreads);
+                window.setTimeout(function() {
+                    display_graph();
+                }, 5000);
+            }
         });
         proximity = radius(adjacent, followed = {}, person, +options.r, new Set(mostThreads));
-        selectedThreads = [];
-        display_graph();
+        if(selectedThreads.length) {
+            selectedThreads = [];
+            window.setTimeout(function() {
+                display_graph();
+            }, 5000);
+        } else display_graph();
     });
 });
 
