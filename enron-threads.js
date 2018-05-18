@@ -5,7 +5,8 @@ var options = Object.assign({
     layout: 'd3v4force',
     tdur: 1000,
     r: 2,
-    top: 10
+    top: 10,
+    nppl: 6
 }, qs);
 
 function radius(adjacent, followed, k, r, set) {
@@ -64,6 +65,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
     var followed = {}, person, proximity, selectedThreads = [];
     function read_threads(threads) {
         threads.forEach(function(t) {
+            var interesting = new Set(t.hops.map(h => h.from)).size >= options.nppl;
             var froms = {};
             var file = t.file;
             t.hops.reverse(); // should reverse in data source instead
@@ -78,7 +80,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
                     adjacent[to] = adjacent[to] || {};
                     adjacent[to][from] = true;
                 }
-                if(!froms[h.from]) {
+                if(interesting && !froms[h.from]) {
                     froms[h.from] = true;
                     peopleThreads[h.from] = peopleThreads[h.from] || [];
                     peopleThreads[h.from].push(t);
