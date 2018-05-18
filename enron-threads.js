@@ -49,7 +49,7 @@ var reader = dc_graph.path_reader()
     .elementList(thread => thread.hops)
     .elementType('node') // we have no edges, they are unused anyway
     .nodeKey(hop => hop.from);
-var spliner = dc_graph.draw_spline_paths(reader, {edgeStroke: 'green'});
+var spliner = dc_graph.draw_spline_paths(reader, {edgeStroke: '#047', edgeStrokeWidth: 3, edgeOpacity: 0.6});
 diagram.child('spliner', spliner);
 
 function read_error(filename) {
