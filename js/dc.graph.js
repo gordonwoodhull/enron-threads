@@ -323,6 +323,16 @@ Math.hypot = Math.hypot || function() {
   return Math.sqrt(y);
 };
 
+// outputs the array with adjacent identical lines collapsed to one
+function uniq(a) {
+    var ret = [];
+    a.forEach(function(x, i) {
+        if(i === 0 || x !== a[i-1])
+            ret.push(x);
+    });
+    return ret;
+}
+
 // https://tc39.github.io/ecma262/#sec-array.prototype.find
 if (!Array.prototype.find) {
   Object.defineProperty(Array.prototype, 'find', {
@@ -5161,7 +5171,7 @@ dc_graph.graphviz_layout = function(id, layout, server) {
                 .post('layouttool=' + layout + '&' + encodeURIComponent(_dotString), process_response);
         }
         else {
-            var result = Viz(_dotString, {format: 'json', engine: layout});
+            var result = Viz(_dotString, {format: 'json', engine: layout, totalMemory: 1 << 25});
             result = JSON.parse(result);
             process_response(null, result);
         }
@@ -5533,6 +5543,10 @@ dc_graph.d3v4_force_layout = function(id) {
             v1.width = v.width;
             v1.height = v.height;
             v1.id = v.dcg_nodeKey;
+            if(v.dcg_nodeFixed !== undefined) {
+                v1.fx = v.dcg_nodeFixed.x;
+                v1.fy = v.dcg_nodeFixed.y;
+            }
         });
 
         _wedges = regenerate_objects(_edges, edges, null, function(e) {
@@ -8528,11 +8542,11 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
         if(localPaths.length) {
             // layout engine wants just array of array of nodeids
             var nidpaths = localPaths.map(function(path) {
-                return pathreader.elementList.eval(path).filter(function(elem) {
+                return uniq(pathreader.elementList.eval(path).filter(function(elem) {
                     return pathreader.elementType.eval(elem) === 'node';
                 }).map(function(elem) {
                     return pathreader.nodeKey.eval(elem);
-                });
+                }));
             });
             engine.paths(nidpaths);
         } else {
@@ -8699,7 +8713,7 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
             .attr('d', function(d) { return genPath(d); })
             .attr('opacity', 0)
             .attr('stroke', 'green')
-            .attr('stroke-width', hoverprops.edgeStrokeWidth || 5)
+            .attr('stroke-width', (pathprops.edgeStrokeWidth || 1) + 4)
             .attr('fill', 'none')
             .on('mouseover', function(d, i) {
                 highlight_paths_group.hover_changed([paths[i]]);
@@ -8714,13 +8728,20 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
 
     function draw_hovered(hoversplines) {
         if(hoversplines === null) {
-            d3.selectAll('.spline-edge').attr('stroke', 'black');
+            d3.selectAll('.spline-edge')
+                .attr('stroke', pathprops.edgeStroke || 'black')
+                .attr('opacity', pathprops.edgeOpacity || 1);
         } else {
             for(var i = 0; i < hoversplines.length; i ++) {
                 var path_id = _paths.indexOf(hoversplines[i]);
-                var sel_path = d3.select("#spline-path-"+path_id).attr('stroke', hoverprops.edgeStroke);
+                var sel_path = d3.select("#spline-path-"+path_id)
+                    .attr('stroke', hoverprops.edgeStroke || pathprops.edgeStroke || 'black')
+                    .attr('opacity', hoverprops.edgeOpacity || pathprops.edgeOpacity || 1);
                 sel_path.each(function() {this.parentNode.appendChild(this);});
             }
+            // bring all hovers to front
+            _layer.selectAll('.spline-edge-hover')
+                .each(function() {this.parentNode.appendChild(this);});
         }
     }
 
