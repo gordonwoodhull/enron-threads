@@ -28,7 +28,7 @@ function radius(adjacent, followed, k, r, set) {
 
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
-    .layoutEngine(dc_graph.spawn_engine(options.layout))
+    .layoutEngine(dc_graph.spawn_engine(options.layout).chargeForce(-100))
     .edgeSource(function(e) { return e.value.source; })
     .edgeTarget(function(e) { return e.value.target; })
     .layoutUnchanged(true) // dc-js/dc.graph.js#79
