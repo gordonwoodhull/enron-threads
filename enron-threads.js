@@ -50,7 +50,10 @@ var diagram = dc_graph.diagram('#graph')
     .zoomExtent([0.1, 5])
     .zoomDuration(0)
     .nodeRadius(7)
-    .edgeLabel(null)
+    .edgeLabel(function(e) {
+        var n = e.value.forward + e.value.backward;
+        return n > 1 ? n : null;
+    })
     .edgeArrowhead(e => e.value.forward ? 'vee' : null)
     .edgeArrowtail(e => e.value.backward ? 'vee' : null)
     .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black')

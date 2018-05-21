@@ -54,3 +54,7 @@ body {
     color: green;
 }
 
+.dc-graph text.edge-label {
+    visibility: visible;
+}
+
