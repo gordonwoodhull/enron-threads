@@ -97,8 +97,11 @@ d3.text(options.data + 'users.txt', function(error, users) {
         var nodes = ['--select an email address--'].concat(mostThreads.sort());
         people.selectAll('option')
             .data(nodes, k => k)
-            .enter()
-            .insert('option').text(k => k);
+          .enter().insert('option')
+            .text(k => k)
+            .attr('selected', k => k === options.user ? 'selected' : null);
+        if(options.user)
+            select_person(options.user);
     }
     function display_graph() {
         var nodes = proximity.nodes.slice(), edges = proximity.edges.slice();
@@ -164,8 +167,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
                       '<br>' + (nread === users.length ? 'Showing ' + mostThreads.length + '/' : '') + Object.keys(emails).length + ' addresses');
         });
     });
-    people.on('change', function() {
-        person = this.value;
+    function select_person(p) {
+        person = p;
         var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
         var thread = d3.select('#threads').selectAll('div.thread-holder')
             .data(peopleThreads[person], t => t.file);
@@ -209,6 +212,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 display_graph();
             }, 5000);
         } else display_graph();
+    }
+    people.on('change', function() {
+        select_person(this.value);
     });
 });
-
