@@ -5,7 +5,7 @@ var options = Object.assign({
     layout: 'd3v4force',
     tdur: 1000,
     r: 2,
-    top: 10,
+    top: 5,
     nppl: 6
 }, qs);
 
