@@ -1,13 +1,26 @@
 var qs = querystring.parse();
-
-var options = Object.assign({
+var defaults = {
     data: 'data/',
     layout: 'd3v4force',
     tdur: 1000,
     r: 2,
     top: 5,
-    nppl: 6
-}, qs);
+    nppl: 6,
+    user: '',
+    thread: ''
+};
+var options = Object.assign(Object.assign({}, defaults), qs);
+
+function rewrite_url() {
+    // i'm not sure why i'm not using sync-url-options.js
+    var m = {};
+    Object.keys(defaults).forEach(function(k) {
+        if(defaults[k] != options[k]) // intentionally coercive inequality
+            m[k] = options[k];
+    });
+    window.history.replaceState('enron-threads', null, window.location.origin + window.location.pathname +
+                                '?' + decodeURIComponent(querystring.generate(m)));
+}
 
 function radius(adjacent, followed, k, r, set) {
     console.assert(set.has(k));
@@ -215,5 +228,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
     }
     people.on('change', function() {
         select_person(this.value);
+        options.user = this.value;
+        rewrite_url();
     });
 });
