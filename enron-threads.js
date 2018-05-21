@@ -39,6 +39,7 @@ function radius(adjacent, followed, k, r, set) {
     };
 }
 
+var starts = [], finishes = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout).chargeForce(-100).gravityStrength(0))
@@ -50,6 +51,14 @@ var diagram = dc_graph.diagram('#graph')
     .zoomExtent([0.1, 5])
     .zoomDuration(0)
     .nodeRadius(7)
+    .nodeLabel(function(n) {
+        var label = '';
+        if(starts.includes(n.key))
+            label += 'S';
+        if(finishes.includes(n.key))
+            label += 'F';
+        return label;
+    })
     .edgeLabel(function(e) {
         var n = e.value.forward + e.value.backward;
         return n > 1 ? n : null;
@@ -211,6 +220,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 selectedThreads.splice(index, 1);
                 console.log('deselected thread', trim(t.file));
             }
+            starts = selectedThreads.map(t => t.hops[0].from);
+            finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
             // really spline-paths should work when there are changes to the graph
             if(selected) {
                 display_graph();
@@ -232,6 +243,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
         proximity = radius(adjacent, followed = {}, person, +options.r, new Set(mostThreads));
         if(selectedThreads.length) {
             selectedThreads = [];
+            starts = finishes = [];
             window.setTimeout(function() {
                 display_graph();
             }, 5000);

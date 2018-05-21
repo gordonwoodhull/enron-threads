@@ -57,4 +57,7 @@ body {
 .dc-graph text.edge-label {
     visibility: visible;
 }
+.dc-graph text.node-label {
+    font: 10px sans-serif;
+}
 
