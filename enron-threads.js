@@ -11,7 +11,7 @@ var defaults = {
 };
 var options = Object.assign(Object.assign({}, defaults), qs);
 
-function rewrite_url() {
+function replace_query_string() {
     // i'm not sure why i'm not using sync-url-options.js
     var m = {};
     Object.keys(defaults).forEach(function(k) {
@@ -183,6 +183,9 @@ d3.text(options.data + 'users.txt', function(error, users) {
     function select_person(p) {
         person = p;
         var prefixLength = peopleThreads[person][0].file.indexOf('/') + 1;
+        function trim(tf) {
+            return tf.slice(prefixLength);
+        }
         var thread = d3.select('#threads').selectAll('div.thread-holder')
             .data(peopleThreads[person], t => t.file);
         thread
@@ -190,20 +193,20 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .attr('class', 'thread-holder')
           .append('span')
             .attr('class', 'thread')
-            .text(t => t.file.slice(prefixLength));
+            .text(t => trim(t.file));
         thread.exit().remove();
-        thread.select('span.thread').on('click', function(t) {
+        function select_thread(t) {
             var index = selectedThreads.indexOf(t);
             var selected = index === -1;
             d3.select(this)
                 .classed('selected', selected);
             if(selected) {
                 selectedThreads.push(t);
-                console.log('selected thread', t.file.slice(prefixLength), JSON.stringify(t.hops, null, 2));
+                console.log('selected thread', trim(t.file), JSON.stringify(t.hops, null, 2));
             }
             else {
                 selectedThreads.splice(index, 1);
-                console.log('deselected thread', t.file.slice(prefixLength));
+                console.log('deselected thread', trim(t.file));
             }
             // really spline-paths should work when there are changes to the graph
             if(selected) {
@@ -217,6 +220,11 @@ d3.text(options.data + 'users.txt', function(error, users) {
                     display_graph();
                 }, 5000);
             }
+        }
+        thread.select('span.thread').on('click', function(t) {
+            select_thread.call(this, t);
+            options.thread = selectedThreads.length ? trim(selectedThreads[0].file) : '';
+            replace_query_string();
         });
         proximity = radius(adjacent, followed = {}, person, +options.r, new Set(mostThreads));
         if(selectedThreads.length) {
@@ -224,11 +232,20 @@ d3.text(options.data + 'users.txt', function(error, users) {
             window.setTimeout(function() {
                 display_graph();
             }, 5000);
-        } else display_graph();
+        } else {
+            display_graph();
+            if(options.thread) {
+                var selspan = thread.select('span.thread').filter(t => trim(t.file) === options.thread);
+                if(selspan.size())
+                    select_thread.call(selspan.node(), selspan.datum());
+                else options.thread = '';
+                replace_query_string();
+            }
+        }
     }
     people.on('change', function() {
         select_person(this.value);
         options.user = this.value;
-        rewrite_url();
+        replace_query_string();
     });
 });
