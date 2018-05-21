@@ -40,7 +40,8 @@ var diagram = dc_graph.diagram('#graph')
     .edgeLabel(null)
     .edgeArrowhead(e => e.value.forward ? 'vee' : null)
     .edgeArrowtail(e => e.value.backward ? 'vee' : null)
-    .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black');
+    .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black')
+    .edgeSort(e => e.value.type) // alphabetic order!
 ;
 
 var highlighter = dc_graph.highlight_neighbors({edgeStroke: 'darkorange'});
