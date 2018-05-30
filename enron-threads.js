@@ -228,9 +228,10 @@ d3.text(options.data + 'users.txt', function(error, users) {
             starts = selectedThreads.map(t => t.hops[0].from);
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
             display_graph();
-            window.setTimeout(function() {
-                reader.data(selectedThreads);
-            }, 5000);
+            if(selectedThreads.length)
+                window.setTimeout(function() {
+                    reader.data(selectedThreads);
+                }, 5000);
         }
         thread.select('span.thread').on('click', function(t) {
             select_thread.call(this, t, d3.event.shiftKey);
