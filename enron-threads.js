@@ -222,18 +222,10 @@ d3.text(options.data + 'users.txt', function(error, users) {
             }
             starts = selectedThreads.map(t => t.hops[0].from);
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
-            // really spline-paths should work when there are changes to the graph
-            if(selected) {
-                display_graph();
-                window.setTimeout(function() {
-                    reader.data(selectedThreads);
-                }, 5000);
-            } else {
+            display_graph();
+            window.setTimeout(function() {
                 reader.data(selectedThreads);
-                window.setTimeout(function() {
-                    display_graph();
-                }, 5000);
-            }
+            }, 5000);
         }
         thread.select('span.thread').on('click', function(t) {
             select_thread.call(this, t);
