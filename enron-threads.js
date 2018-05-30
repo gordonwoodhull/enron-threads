@@ -207,19 +207,24 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .attr('class', 'thread')
             .text(t => trim(t.file));
         thread.exit().remove();
-        function select_thread(t) {
+        function select_thread(t, toggle) {
+            console.log('clicked thread', trim(t.file), JSON.stringify(t.hops, null, 2));
             var index = selectedThreads.indexOf(t);
-            var selected = index === -1;
-            d3.select(this)
-                .classed('selected', selected);
-            if(selected) {
-                selectedThreads.push(t);
-                console.log('selected thread', trim(t.file), JSON.stringify(t.hops, null, 2));
+            var wasIn = index !== -1;
+            if(toggle) {
+                if(wasIn)
+                    selectedThreads.splice(index, 1);
+                else
+                    selectedThreads.push(t);
+            } else {
+                if(wasIn && selectedThreads.length === 1)
+                    selectedThreads = [];
+                else
+                    selectedThreads = [t];
             }
-            else {
-                selectedThreads.splice(index, 1);
-                console.log('deselected thread', trim(t.file));
-            }
+            thread.selectAll('span.thread')
+                .classed('selected', t2 => selectedThreads.indexOf(t2) !== -1);
+
             starts = selectedThreads.map(t => t.hops[0].from);
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
             display_graph();
@@ -228,7 +233,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
             }, 5000);
         }
         thread.select('span.thread').on('click', function(t) {
-            select_thread.call(this, t);
+            select_thread.call(this, t, d3.event.shiftKey);
             options.thread = selectedThreads.length ? trim(selectedThreads[0].file) : '';
             replace_query_string();
         });

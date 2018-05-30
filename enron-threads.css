@@ -49,6 +49,7 @@ body {
     white-space: nowrap;
     color: #11e;
     cursor: pointer;
+    user-select: none;
 }
 .thread.selected {
     color: green;
