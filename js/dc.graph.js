@@ -1,5 +1,5 @@
 /*!
- *  dc.graph 0.6.0-beta.6
+ *  dc.graph 0.6.0-beta.7
  *  http://dc-js.github.io/dc.graph.js/
  *  Copyright 2015-2016 AT&T Intellectual Property & the dc.graph.js Developers
  *  https://github.com/dc-js/dc.graph.js/blob/master/AUTHORS
@@ -28,7 +28,7 @@
  * instance whenever it is appropriate.  The getter forms of functions do not participate in function
  * chaining because they return values that are not the diagram.
  * @namespace dc_graph
- * @version 0.6.0-beta.6
+ * @version 0.6.0-beta.7
  * @example
  * // Example chaining
  * diagram.width(600)
@@ -38,7 +38,7 @@
  */
 
 var dc_graph = {
-    version: '0.6.0-beta.6',
+    version: '0.6.0-beta.7',
     constants: {
         CHART_CLASS: 'dc-graph'
     }
@@ -3727,7 +3727,8 @@ dc_graph.diagram = function (parent, chartGroup) {
 
         if(_diagram.legend())
             _diagram.legend().render();
-        return _diagram.redraw();
+        _diagram.redraw();
+        return this;
     };
 
     /**
@@ -5298,6 +5299,11 @@ dc_graph.d3_force_layout = function(id) {
             v1.width = v.width;
             v1.height = v.height;
             v1.id = v.dcg_nodeKey;
+            if(v.dcg_nodeFixed) {
+                v1.fixed = true;
+                v1.x = v.dcg_nodeFixed.x;
+                v1.y = v.dcg_nodeFixed.y;
+            } else v1.fixed = false;
         });
 
         _wedges = regenerate_objects(_edges, edges, null, function(e) {
@@ -5556,10 +5562,10 @@ dc_graph.d3v4_force_layout = function(id) {
             v1.width = v.width;
             v1.height = v.height;
             v1.id = v.dcg_nodeKey;
-            if(v.dcg_nodeFixed !== undefined) {
+            if(v.dcg_nodeFixed) {
                 v1.fx = v.dcg_nodeFixed.x;
                 v1.fy = v.dcg_nodeFixed.y;
-            }
+            } else v1.fx = v1.fy = null;
         });
 
         _wedges = regenerate_objects(_edges, edges, null, function(e) {
@@ -6431,6 +6437,7 @@ The dc_graph.legend will show labeled examples of nodes (and someday edges), wit
 dc_graph.legend = function() {
     var _legend = {}, _items, _included = [];
     var _dispatch = d3.dispatch('filtered');
+    var _totals, _counts;
 
     function apply_filter() {
         if(_legend.dimension()) {
@@ -6478,6 +6485,8 @@ dc_graph.legend = function() {
     **/
     _legend.noLabel = property(true);
 
+    _legend.counter = property(null);
+
     _legend.replaceFilter = function(filter) {
         if(filter && filter.length === 1)
             _included = filter[0];
@@ -6504,7 +6513,16 @@ dc_graph.legend = function() {
      **/
     _legend.exemplars = property({});
 
-    _legend.parent = property(null);
+    _legend.parent = property(null).react(function(p) {
+        if(p)
+            p.on('data.legend', on_data);
+        else _legend.parent().on('data.legend', null);
+    });
+
+    function on_data(diagram, nodes, wnodes, edges, wedges, ports, wports) {
+        if(_legend.counter())
+            _counts = _legend.counter()(wnodes.map(get_original), wedges.map(get_original), wports.map(get_original));
+    }
 
     _legend.redraw = function() {
         var legend = _legend.parent().svg()
@@ -6529,7 +6547,7 @@ dc_graph.legend = function() {
             .attr('transform', 'translate(' + (_legend.nodeWidth()/2+_legend.gap()) + ',0)')
             .attr('pointer-events', _legend.dimension() ? 'auto' : 'none')
             .text(function(n) {
-                return n.name;
+                return n.name + (_legend.counter() && _counts ? (' (' + (_counts[n.name] || 0) + (_counts[n.name] !== _totals[n.name] ? '/' + (_totals[n.name] || 0) : '') + ')') : '');
             });
         _legend.parent()
             ._enterNode(nodeEnter)
@@ -6560,8 +6578,17 @@ dc_graph.legend = function() {
             });
     };
 
+    _legend.countBaseline = function() {
+        if(_legend.counter)
+            _totals = _legend.counter()(
+                _legend.parent().nodeGroup().all(),
+                _legend.parent().edgeGroup().all(),
+                _legend.parent().portGroup() && _legend.parent().portGroup().all());
+    };
+
     _legend.render = function() {
         var exemplars = _legend.exemplars();
+        _legend.countBaseline();
         if(exemplars instanceof Array) {
             _items = exemplars.map(function(v) { return {name: v.name, orig: {key: v.key, value: v.value}, cola: {}}; });
         }
@@ -7092,6 +7119,15 @@ dc_graph.tip = function(options) {
         k(_behavior.parent() ? _behavior.parent().nodeTitle.eval(n) : '');
     });
 
+    _behavior.displayTip = function(filter, n) {
+        var found = _behavior.selection().select(_behavior.parent(), _behavior.parent().selectAllNodes(), _behavior.parent().selectAllEdges(), null)
+            .filter(filter);
+        if(found.size() > 0) {
+            var action = fetch_and_show_content('content');
+            var which = (n || 0) % found.size();
+            action.call(found[0][which], d3.select(found[0][which]).datum());
+        }
+    };
     _behavior.selection = property(dc_graph.tip.select_node_and_edge());
     _behavior.showDelay = _behavior.delay = property(0);
     _behavior.hideDelay = property(200);
@@ -7139,7 +7175,7 @@ dc_graph.tip.select_node_and_edge = function() {
         select: function(diagram, node, edge, ehover) {
             // hack to merge selections, not supported d3v3
             var selection = diagram.selectAll('.foo-this-does-not-exist');
-            selection[0] = node[0].concat(ehover[0]);
+            selection[0] = node[0].concat(ehover ? ehover[0] : []);
             return selection;
         },
         exclude: function(element) {

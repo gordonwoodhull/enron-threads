@@ -250,10 +250,16 @@ d3.text(options.data + 'users.txt', function(error, users) {
         } else {
             display_graph();
             if(options.thread) {
+                // urls can get mangled by e.g. word processors
+                if(options.thread.slice(-1) !== '.')
+                    options.thread += '.';
                 var selspan = thread.select('span.thread').filter(t => trim(t.file) === options.thread);
                 if(selspan.size())
                     select_thread.call(selspan.node(), selspan.datum());
-                else options.thread = '';
+                else {
+                    console.warn('did not find thread', options.thread);
+                    options.thread = '';
+                }
                 replace_query_string();
             }
         }
