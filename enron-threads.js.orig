@@ -278,12 +278,16 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 .edgeOpacity(thread_opacity(0.7))
                 .render();
         } else {
+<<<<<<< HEAD
             update_graph_data();
             diagram
                 .edgeOpacity(thread_opacity(0.7))
                 .render();
+=======
+            display_graph();
             if(randomThread)
                 options.thread = trim(random_item(peopleThreads[person]).file);
+>>>>>>> attempt to show a random thread
             if(options.thread) {
                 // urls can get mangled by e.g. word processors
                 if(options.thread.slice(-1) !== '.')
@@ -309,10 +313,8 @@ d3.text(options.data + 'users.txt', function(error, users) {
         replace_query_string();
     });
     d3.select('#random').on('click', function() {
-        var randomUser = random_item(addresses);
-        people.property('value', randomUser);
-        options.user = randomUser;
-        selectedThreads = [];
-        select_person(randomUser, true);
+        people.selectAll('option')
+            .attr('selected', k => k === options.user ? 'selected' : null);
+        select_person(random_item(addresses), true);
     });
 });
