@@ -5439,8 +5439,8 @@ dc_graph.d3_force_layout = function(id) {
                 var next_mid = {x: mid.x-next.x, y: mid.y-next.y};
                 // 3. the 'correct' vector: the angle between pvec and prev_mid(next_mid) should
                 //    be an obtuse angle
-                pvecPrev = _angle(prev_mid, pvecPrev) >= Math.PI/2.0 ? pvecPrev : {x: -pvecPrev.x, y: -pvecPrev.x};
-                pvecNext = _angle(next_mid, pvecNext) >= Math.PI/2.0 ? pvecNext : {x: -pvecNext.x, y: -pvecNext.x};
+                pvecPrev = _angle(prev_mid, pvecPrev) >= Math.PI/2.0 ? pvecPrev : {x: -pvecPrev.x, y: -pvecPrev.y};
+                pvecNext = _angle(next_mid, pvecNext) >= Math.PI/2.0 ? pvecNext : {x: -pvecNext.x, y: -pvecNext.y};
 
                 // modify positions of prev and next
                 updateNode(prev, angle, pvecPrev, _options.angleForce);
@@ -5610,6 +5610,7 @@ dc_graph.d3v4_force_layout = function(id) {
         if(paths === null) {
             _simulation.force('charge').strength(_options.initialCharge);
             _simulation.force('angle', null);
+            //_simulation.force('link', d3v4.forceLink());
         } else {
             var nodesOnPath;
             if(_options.fixOffPathNodes) {
@@ -5664,17 +5665,58 @@ dc_graph.d3v4_force_layout = function(id) {
             return {x: xx/length, y: yy/length};
         };
 
-        function updateNode(node, angle, pVec, k) {
-            node.x += pVec.x*(Math.PI-angle)*k;
-            node.y += pVec.y*(Math.PI-angle)*k;
+        function _displaceAdjacent(node, angle, pVec, k) {
+            var turn = Math.PI-angle,
+                turn2 = turn*turn;
+            return {
+                kind: 'adjacent',
+                x: pVec.x*turn2*k,
+                y: pVec.y*turn2*k
+            };
         }
 
-        paths.forEach(function(path) {
+        function _displaceCenter(dadj1, dadj2) {
+            return {
+                kind: 'center',
+                x: -(dadj1.x + dadj2.x),
+                y: -(dadj1.y + dadj2.y)
+            };
+        }
+
+        function _offsetNode(node, disp) {
+            node.x += disp.x;
+            node.y += disp.y;
+        }
+        var report = [];
+        paths.forEach(function(path, i) {
+            // ignore path where any nodes have gone away
+            if(!path.every(function(k) { return _nodes[k]; }))
+                return;
             if(path.length < 3) return; // at least 3 nodes (and 2 edges):  A->B->C
+            report.push({
+                action: 'init',
+                nodes: path.map(function(n) {
+                    return {
+                        id: n,
+                        x: _nodes[n].x,
+                        y: _nodes[n].y
+                    };
+                }),
+                edges: path.reduce(function(p, n) {
+                    if(typeof p === 'string')
+                        return [{source: p, target: n}];
+                    p.push({source: p[p.length-1].target, target: n});
+                    return p;
+                })
+            });
             for(var i = 1; i < path.length-1; ++i) {
                 var current = _nodes[path[i]];
                 var prev = _nodes[path[i-1]];
                 var next = _nodes[path[i+1]];
+
+                // we can't do anything for two-cycles
+                if(prev === next)
+                    continue;
 
                 // calculate the angle
                 var vPrev = {x: prev.x - current.x, y: prev.y - current.y};
@@ -5689,20 +5731,52 @@ dc_graph.d3v4_force_layout = function(id) {
                 // direction that makes the angle more towards 180 degree
                 // 1. calculate the middle point of node 'prev' and 'next'
                 var mid = {x: (prev.x+next.x)/2.0, y: (prev.y+next.y)/2.0};
+
                 // 2. calculate the vectors: 'prev' pointing to 'mid', 'next' pointing to 'mid'
                 var prev_mid = {x: mid.x-prev.x, y: mid.y-prev.y};
                 var next_mid = {x: mid.x-next.x, y: mid.y-next.y};
+
                 // 3. the 'correct' vector: the angle between pvec and prev_mid(next_mid) should
                 //    be an obtuse angle
-                pvecPrev = _angle(prev_mid, pvecPrev) >= Math.PI/2.0 ? pvecPrev : {x: -pvecPrev.x, y: -pvecPrev.x};
-                pvecNext = _angle(next_mid, pvecNext) >= Math.PI/2.0 ? pvecNext : {x: -pvecNext.x, y: -pvecNext.x};
+                pvecPrev = _angle(prev_mid, pvecPrev) >= Math.PI/2.0 ? pvecPrev : {x: -pvecPrev.x, y: -pvecPrev.y};
+                pvecNext = _angle(next_mid, pvecNext) >= Math.PI/2.0 ? pvecNext : {x: -pvecNext.x, y: -pvecNext.y};
 
-                // modify positions of prev and next
-                updateNode(prev, angle, pvecPrev, k);
-                updateNode(next, angle, pvecNext, k);
+                // modify positions of nodes
+                var prevDisp = _displaceAdjacent(prev, angle, pvecPrev, k);
+                var nextDisp = _displaceAdjacent(next, angle, pvecNext, k);
+                var centerDisp = _displaceCenter(prevDisp, nextDisp);
+                report.push({
+                    action: 'force',
+                    nodes: [{
+                        id: path[i-1],
+                        x: prev.x,
+                        y: prev.y,
+                        force: prevDisp
+                    }, {
+                        id: path[i],
+                        x: current.x,
+                        y: current.y,
+                        force: centerDisp
+                    }, {
+                        id: path[i+1],
+                        x: next.x,
+                        y: next.y,
+                        force: nextDisp
+                    }],
+                    edges: [{
+                        source: path[i-1],
+                        target: path[i]
+                    }, {
+                        source: path[i],
+                        target: path[i+1]
+                    }]
+                });
+                _offsetNode(prev, prevDisp);
+                _offsetNode(next, nextDisp);
+                _offsetNode(current, centerDisp);
             }
-
         });
+        console.log(report);
     }
 
     var graphviz = dc_graph.graphviz_attrs(), graphviz_keys = Object.keys(graphviz);
@@ -8580,10 +8654,6 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
     var _savedPositions = null;
 
     function paths_changed(nop, eop, paths) {
-        // clear old paths
-        _layer.selectAll('.spline-edge').remove();
-        _layer.selectAll('.spline-edge-hover').remove();
-
         _paths = paths;
 
         var engine = _behavior.parent().layoutEngine(),
@@ -8616,10 +8686,11 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
     }
 
     // get the positions of nodes on path
-    function getNodePositions(path) {
+    function getNodePositions(path, old) {
         return path_keys(path).map(function(key) {
             var node = _behavior.parent().getWholeNode(key);
-            return {'x': node.cola.x, 'y': node.cola.y};
+            return {x: old && node.prevX !== undefined ? node.prevX : node.cola.x,
+                    y: old && node.prevY !== undefined ? node.prevY : node.cola.y};
         });
     };
 
@@ -8706,7 +8777,7 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
     }
 
     // convert original path data into <d>
-    function genPath(path, lineTension, avoidSharpTurn, angleThreshold) {
+    function genPath(path, old, lineTension, avoidSharpTurn, angleThreshold) {
       var c = lineTension || 0;
       avoidSharpTurn = avoidSharpTurn !== false;
       angleThreshold = angleThreshold || 0.02;
@@ -8716,7 +8787,7 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
       var vecMag = function(v) { return Math.sqrt(v.x*v.x + v.y*v.y); };
 
       // get coordinates
-      var path_coord = getNodePositions(path);
+      var path_coord = getNodePositions(path, old);
       if(path_coord.length < 2) return "";
 
       // repeat first and last node
@@ -8780,27 +8851,29 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
             return;
         }
 
+        paths = paths.filter(pathIsPresent);
+
         // edge spline
-        var edge = _layer.selectAll(".spline-edge").data(paths);
+        var edge = _layer.selectAll(".spline-edge").data(paths, function(path) { return path_keys(path).join(','); });
+        edge.exit().remove();
         var edgeEnter = edge.enter().append("svg:path")
             .attr('class', 'spline-edge')
             .attr('id', function(d, i) { return "spline-path-"+i; })
-            .attr('d', function(d) { return genPath(d, pathprops.lineTension); })
             .attr('stroke', pathprops.edgeStroke || 'black')
             .attr('stroke-width', pathprops.edgeStrokeWidth || 1)
             .attr('opacity', pathprops.edgeOpacity || 1)
-            .attr('fill', 'none');
+            .attr('fill', 'none')
+            .attr('d', function(d) { return genPath(d, true, pathprops.lineTension); });
+        edge.transition().duration(_behavior.parent().transitionDuration())
+            .attr('d', function(d) { return genPath(d, false, pathprops.lineTension); });
 
         // another wider copy of the edge just for hover events
         var edgeHover = _layer.selectAll('.spline-edge-hover')
-            .data(paths);
+            .data(paths, function(path) { return path_keys(path).join(','); });
+        edgeHover.exit().remove();
         var edgeHoverEnter = edgeHover.enter().append('svg:path')
             .attr('class', 'spline-edge-hover')
-            .attr('d', function(d) { return genPath(d); })
-            .attr('opacity', 0)
-            .attr('stroke', 'green')
-            .attr('stroke-width', (pathprops.edgeStrokeWidth || 1) + 4)
-            .attr('fill', 'none')
+            .attr('d', function(d) { return genPath(d, true); })
             .on('mouseover', function(d, i) {
                 highlight_paths_group.hover_changed([paths[i]]);
              })
@@ -8810,6 +8883,12 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, pathsgr
             .on('click', function(d, i) {
                 highlight_paths_group.select_changed([paths[i]]);
              });
+        edgeHoverEnter.transition().duration(_behavior.parent().transitionDuration())
+            .attr('d', function(d) { return genPath(d, false); })
+            .attr('opacity', 0)
+            .attr('stroke', 'green')
+            .attr('stroke-width', (pathprops.edgeStrokeWidth || 1) + 4)
+            .attr('fill', 'none');
     };
 
     function draw_hovered(hoversplines) {
