@@ -42,7 +42,11 @@ function radius(adjacent, followed, k, r, set) {
 var starts = [], finishes = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
-    .layoutEngine(dc_graph.spawn_engine(options.layout).chargeForce(-100).gravityStrength(0))
+    .layoutEngine(dc_graph.spawn_engine(options.layout)
+                  .angleForce(.1)
+                  .initialCharge(-200)
+                  .chargeForce(-200)
+                  .gravityStrength(0))
     .edgeSource(function(e) { return e.value.source; })
     .edgeTarget(function(e) { return e.value.target; })
     .layoutUnchanged(true) // dc-js/dc.graph.js#79
