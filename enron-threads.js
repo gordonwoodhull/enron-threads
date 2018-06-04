@@ -70,6 +70,8 @@ var diagram = dc_graph.diagram('#graph')
     .edgeArrowhead(e => e.value.forward ? 'vee' : null)
     .edgeArrowtail(e => e.value.backward ? 'vee' : null)
     .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black')
+    .edgeStrokeWidth(e => e.value.type === 'thread' ? 3 : 1)
+    .edgeOpacity(e => e.value.type === 'thread' ? 0.7 : 1)
     .edgeSort(e => e.value.type) // alphabetic order!
 ;
 
