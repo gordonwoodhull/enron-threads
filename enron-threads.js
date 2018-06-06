@@ -43,7 +43,7 @@ var starts = [], finishes = [], newThreads = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout)
-                  .angleForce(.1)
+                  .angleForce(.2)
                   .initialCharge(-200)
                   .chargeForce(-200)
                   .gravityStrength(0))
@@ -88,7 +88,7 @@ var spliner = dc_graph.draw_spline_paths(
     {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
     {edgeStroke: '#0ad', edgeOpacity: 1},
     {edgeStroke: '#f94'})
-    .selectedStrength(10);
+    .selectedStrength(5);
 diagram.child('spliner', spliner);
 
 function read_error(filename) {
