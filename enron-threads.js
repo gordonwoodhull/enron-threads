@@ -53,7 +53,7 @@ var diagram = dc_graph.diagram('#graph')
     .transitionDuration(+options.tdur)
     .autoZoom('always')
     .zoomExtent([0.1, 5])
-    .zoomDuration(0)
+    .zoomDuration(1000)
     .nodeRadius(7)
     .nodeLabel(function(n) {
         var label = '';
