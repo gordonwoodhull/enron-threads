@@ -5689,7 +5689,9 @@ dc_graph.d3v4_force_layout = function(id) {
         var report = [];
         paths.forEach(function(path, i) {
             var nodes = path.nodes,
-                strength = path.strength || 1;
+                strength = path.strength;
+            if(typeof strength !== 'number')
+                strength = 1;
             // ignore path where any nodes have gone away
             if(!nodes.every(function(k) { return _nodes[k]; }))
                 return;
@@ -8661,9 +8663,14 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, selectp
             localPaths = paths.filter(pathIsPresent);
         if(localPaths.length) {
             var nidpaths = localPaths.map(function(lpath) {
+                var strength = pathreader.pathStrength.eval(lpath);
+                if(typeof strength !== 'number')
+                    strength = 1;
+                if(_selected && _selected.indexOf(lpath) !== -1)
+                    strength *= _behavior.selectedStrength();
                 return {
                     nodes: path_keys(lpath),
-                    strength: _selected && _selected.indexOf(lpath) !== -1 ? _behavior.selectedStrength() : 1
+                    strength: strength
                 };
             });
             engine.paths(nidpaths);
@@ -10671,6 +10678,7 @@ dc_graph.path_reader = function(pathsgroup) {
     var reader = {
         pathList: property(identity, false),
         timeRange: property(null, false),
+        pathStrength: property(null, false),
         elementList: property(identity, false),
         elementType: property(null, false),
         nodeKey: property(null, false),
