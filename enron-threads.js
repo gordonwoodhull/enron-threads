@@ -39,7 +39,7 @@ function radius(adjacent, followed, k, r, set) {
     };
 }
 
-var starts = [], finishes = [];
+var starts = [], finishes = [], newThreads = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout)
@@ -81,7 +81,8 @@ diagram.child('highlight-neighbors', highlighter);
 var reader = dc_graph.path_reader()
     .elementList(thread => thread.hops)
     .elementType('node') // we have no edges, they are unused anyway
-    .nodeKey(hop => hop.from);
+    .nodeKey(hop => hop.from)
+    .pathStrength(p => newThreads.includes(p) ? 0 : 1);
 var spliner = dc_graph.draw_spline_paths(
     reader,
     {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
@@ -236,7 +237,14 @@ d3.text(options.data + 'users.txt', function(error, users) {
             if(selectedThreads.length) {
                 diagram.redraw();
                 window.setTimeout(function() {
-                    reader.data(selectedThreads);
+                    if(!wasIn) {
+                        newThreads = [t];
+                        reader.data(selectedThreads);
+                        window.setTimeout(function() {
+                            newThreads = [];
+                            reader.data(selectedThreads);
+                        }, 5000);
+                    } else reader.data(selectedThreads);
                 }, 5000);
             } else reader.data(selectedThreads);
         }
