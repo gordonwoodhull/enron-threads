@@ -82,9 +82,12 @@ var reader = dc_graph.path_reader()
     .elementList(thread => thread.hops)
     .elementType('node') // we have no edges, they are unused anyway
     .nodeKey(hop => hop.from);
-var spliner = dc_graph.draw_spline_paths(reader,
-                                         {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
-                                         {edgeStroke: '#0ad', edgeOpacity: 1});
+var spliner = dc_graph.draw_spline_paths(
+    reader,
+    {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
+    {edgeStroke: '#0ad', edgeOpacity: 1},
+    {edgeStroke: '#f94', edgeOpacity: 1})
+    .selectedStrength(10);
 diagram.child('spliner', spliner);
 
 function read_error(filename) {
