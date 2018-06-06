@@ -70,6 +70,8 @@ var diagram = dc_graph.diagram('#graph')
     .edgeArrowhead(e => e.value.forward ? 'vee' : null)
     .edgeArrowtail(e => e.value.backward ? 'vee' : null)
     .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black')
+    .edgeStrokeWidth(e => e.value.type === 'thread' ? 3 : 1)
+    .edgeOpacity(e => e.value.type === 'thread' ? 0.7 : 1)
     .edgeSort(e => e.value.type) // alphabetic order!
 ;
 
@@ -80,7 +82,12 @@ var reader = dc_graph.path_reader()
     .elementList(thread => thread.hops)
     .elementType('node') // we have no edges, they are unused anyway
     .nodeKey(hop => hop.from);
-var spliner = dc_graph.draw_spline_paths(reader, {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7}, {edgeOpacity: 1});
+var spliner = dc_graph.draw_spline_paths(
+    reader,
+    {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
+    {edgeStroke: '#0ad', edgeOpacity: 1},
+    {edgeStroke: '#f94', edgeOpacity: 1})
+    .selectedStrength(10);
 diagram.child('spliner', spliner);
 
 function read_error(filename) {
@@ -132,7 +139,7 @@ d3.text(options.data + 'users.txt', function(error, users) {
         if(options.user)
             select_person(options.user);
     }
-    function display_graph() {
+    function update_graph_data() {
         var nodes = proximity.nodes.slice(), edges = proximity.edges.slice();
         edges.forEach(function(e) {
             e.type = 'proximity';
@@ -172,12 +179,6 @@ d3.text(options.data + 'users.txt', function(error, users) {
             .edgeDimension(edge_flat.dimension).edgeGroup(edge_flat.group)
             .nodeStrokeWidth(n => n.key === person ? 3 : 1)
             .nodeStroke(n => n.key === person ? '#E34234' : 'black');
-        if(rendered)
-            diagram.redraw();
-        else {
-            rendered = true;
-            diagram.render();
-        }
     }
     var people = d3.select('#people');
     var nread = 0;
@@ -231,11 +232,13 @@ d3.text(options.data + 'users.txt', function(error, users) {
 
             starts = selectedThreads.map(t => t.hops[0].from);
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
-            display_graph();
-            if(selectedThreads.length)
+            update_graph_data();
+            if(selectedThreads.length) {
+                diagram.redraw();
                 window.setTimeout(function() {
                     reader.data(selectedThreads);
                 }, 5000);
+            } else reader.data(selectedThreads);
         }
         thread.select('span.thread').on('click', function(t) {
             select_thread.call(this, t, d3.event.shiftKey);
@@ -246,11 +249,11 @@ d3.text(options.data + 'users.txt', function(error, users) {
         if(selectedThreads.length) {
             selectedThreads = [];
             starts = finishes = [];
-            window.setTimeout(function() {
-                display_graph();
-            }, 5000);
+            update_graph_data();
+            diagram.render();
         } else {
-            display_graph();
+            update_graph_data();
+            diagram.render();
             if(options.thread) {
                 // urls can get mangled by e.g. word processors
                 if(options.thread.slice(-1) !== '.')
