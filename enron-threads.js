@@ -87,7 +87,7 @@ var spliner = dc_graph.draw_spline_paths(
     reader,
     {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
     {edgeStroke: '#0ad', edgeOpacity: 1},
-    {edgeStroke: '#f94', edgeOpacity: 1})
+    {edgeStroke: '#f94'})
     .selectedStrength(10);
 diagram.child('spliner', spliner);
 
