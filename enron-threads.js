@@ -236,10 +236,14 @@ d3.text(options.data + 'users.txt', function(error, users) {
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
             update_graph_data();
             if(selectedThreads.length) {
-                diagram.redraw();
+                diagram
+                    .edgeOpacity(0.7)
+                    .redraw();
                 window.setTimeout(function() {
                     if(!wasIn) {
                         newThreads = [t];
+                        diagram
+                            .edgeOpacity(0.2);
                         reader.data(selectedThreads);
                         window.setTimeout(function() {
                             newThreads = [];
@@ -259,10 +263,14 @@ d3.text(options.data + 'users.txt', function(error, users) {
             selectedThreads = [];
             starts = finishes = [];
             update_graph_data();
-            diagram.render();
+            diagram
+                .edgeOpacity(0.7)
+                .render();
         } else {
             update_graph_data();
-            diagram.render();
+            diagram
+                .edgeOpacity(0.7)
+                .render();
             if(options.thread) {
                 // urls can get mangled by e.g. word processors
                 if(options.thread.slice(-1) !== '.')
