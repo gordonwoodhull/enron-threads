@@ -1,5 +1,5 @@
 /*!
- *  dc.graph 0.6.0-beta.7
+ *  dc.graph 0.6.0-beta.8
  *  http://dc-js.github.io/dc.graph.js/
  *  Copyright 2015-2016 AT&T Intellectual Property & the dc.graph.js Developers
  *  https://github.com/dc-js/dc.graph.js/blob/master/AUTHORS
@@ -28,7 +28,7 @@
  * instance whenever it is appropriate.  The getter forms of functions do not participate in function
  * chaining because they return values that are not the diagram.
  * @namespace dc_graph
- * @version 0.6.0-beta.7
+ * @version 0.6.0-beta.8
  * @example
  * // Example chaining
  * diagram.width(600)
@@ -38,7 +38,7 @@
  */
 
 var dc_graph = {
-    version: '0.6.0-beta.7',
+    version: '0.6.0-beta.8',
     constants: {
         CHART_CLASS: 'dc-graph'
     }
@@ -3221,7 +3221,10 @@ dc_graph.diagram = function (parent, chartGroup) {
                 return name ? 'url(#' + arrow_id + ')' : null;
             })
             .each(function(e) {
-                d3.selectAll('#' + _diagram.arrowId(e, 'head') + ',#' + _diagram.arrowId(e, 'tail'))
+                var fillEdgeStroke = _diagram.edgeStroke.eval(e);
+                d3.selectAll('#' + _diagram.arrowId(e, 'head'))
+                    .attr('fill', _diagram.edgeStroke.eval(e));
+                d3.selectAll('#' + _diagram.arrowId(e, 'tail'))
                     .attr('fill', _diagram.edgeStroke.eval(e));
             });
 
@@ -8843,13 +8846,27 @@ dc_graph.draw_spline_paths = function(pathreader, pathprops, hoverprops, selectp
         if(avoidSharpTurn) {
           var v0 = {x:points[i-1].x - points[i].x, y:points[i-1].y - points[i].y};
           var v1 = {x:points[i+1].x - points[i].x, y:points[i+1].y - points[i].y};
-          var angle = Math.acos(Math.max(-1, Math.min(1, vecDot(v0,v1) / (vecMag(v0)*vecMag(v1)))));
+          var acosValue = vecDot(v0,v1) / (vecMag(v0)*vecMag(v1));
+          acosValue = Math.max(-1, Math.min(1, acosValue));
+          var angle = Math.acos( acosValue );
 
           if(angle <= angleThreshold ){
             var m_x = (1-c)*(points[i].x - points[i-1].x)/2;
             var m_y = (1-c)*(points[i].y - points[i-1].y)/2;
-            c0 = {x: p0.x+(-m_y/3), y:p0.y+(m_x/3)};
-            segments[segments.length-1][1] = {x: p0.x-(-m_y/3), y:p0.y-(m_x/3)};
+            var k = 2;
+
+            var cp1 = {x: p0.x+k*(-m_y/3), y:p0.y+k*(m_x/3)};
+            var cp2 = {x: p0.x-k*(-m_y/3), y:p0.y-k*(m_x/3)};
+            // CP_1CP_2
+            var vCP = {x: cp1.x-cp2.x, y:cp1.y-cp2.y}; // vector cp1->cp2
+            var vPN = {x: points[i-2].x - points[i+2].x, y:points[i-2].y-points[i+2].y} // vector Previous->Next
+            if(vecDot(vCP, vPN) > 0) {
+              c0 = cp1;
+              segments[segments.length-1][1] = cp2;
+            } else {
+              c0 = cp2;
+              segments[segments.length-1][1] = cp1;
+            }
           }
         }
 
@@ -10749,7 +10766,7 @@ dc_graph.path_reader = function(pathsgroup) {
 
 dc_graph.path_selector = function(parent, reader, pathsgroup, chartgroup) {
     var highlight_paths_group = dc_graph.register_highlight_paths_group(pathsgroup || 'highlight-paths-group');
-    var root = d3.select(parent);
+    var root = d3.select(parent).append('svg');
     var paths_ = [];
     var hovered = null, selected = null;
 
@@ -10781,61 +10798,96 @@ dc_graph.path_selector = function(parent, reader, pathsgroup, chartgroup) {
     // and allow customization rather than hardcoding everything
     // in fact, you can't even reliably overlap attributes without that (so we don't)
 
-    function draw_paths(paths) {
-        var p2 = root.selectAll('span.path-selector').data(paths);
-        p2.enter()
-            .append('span')
-            .attr('class', 'path-selector')
-            .style({
-                'border-width': '1px',
-                'border-style': 'solid',
-                'border-color': 'grey',
-                'border-radius': '4px',
-                'display': 'inline-block',
-                padding: '4px',
-                cursor: 'pointer',
-                margin: '5px'
-            });
-        p2.exit().transition(1000).attr('opacity', 0).remove();
-        p2.text(function(p, i) {
-            return 'path ' + (i+1) + ' (' + reader.elementList.eval(p).length + ')';
-        })
-            .on('mouseover', function(p) {
-                highlight_paths_group.hover_changed([p]);
-            })
-            .on('mouseout', function(p) {
-                highlight_paths_group.hover_changed(null);
-            })
-            .on('click', function(p) {
-                highlight_paths_group.select_changed(toggle_paths(selected, [p]));
-            });
-        var no_paths = root.selectAll('span.no-paths').data(paths.length === 0 ? [0] : []);
-        no_paths.exit().remove();
-        no_paths.enter()
-          .append('span')
-            .attr('class', 'no-paths');
-        no_paths
-            .classed('error', !!selector.error_text())
-            .text(selector.error_text() || (selector.queried() ? selector.zero_text() : selector.default_text()));
+    function draw_paths(diagram, paths) {
+        if(paths.length === 0) return;
+        var xpadding = 30;
+        var space = 30;
+        var radius = 8;
+        // set the height of SVG accordingly
+        root.attr('height', 20*(paths.length+1))
+          .attr('width', xpadding+(space+2*radius)*(paths.length/2+1)+20);
+
+        root.selectAll('.path-selector').remove();
+
+        var pathlist = root.selectAll('g.path-selector').data(paths);
+        pathlist.enter()
+          .append('g')
+          .attr('class', 'path-selector')
+          .attr("transform", function(path, i) { return "translate(0, " + i*20 + ")"; })
+          .each(function(path_data, i) {
+            var nodes = path_data.element_list.filter(function(d) { return d.element_type === 'node'; });
+            // line
+            var line = d3.select(this).append('line');
+            line.attr('x1', xpadding+space)
+              .attr('y1', radius+1)
+              .attr('x2', xpadding+space*nodes.length)
+              .attr('y2', radius+1)
+              .attr('opacity', 0.4)
+              .attr('stroke-width', 5)
+              .attr('stroke', '#bdbdbd');
+
+            // dots
+            var path = d3.select(this).selectAll('circle').data(nodes);
+            path.enter()
+              .append('circle')
+              .attr('cx', function(d, i) { return xpadding+space*(i+1); })
+              .attr('cy', radius+1)
+              .attr('r', radius)
+              .attr('opacity', 0.4)
+              .attr('fill', function(d) {
+                // TODO path_selector shouldn't know the data structure of orignal node objects
+                var regeneratedNode = {key:d.property_map.ecomp_uid, value:d.property_map};
+                return diagram.nodeStroke()(regeneratedNode);
+              });
+
+            // label
+            var text = d3.select(this).append('text');
+            text.text('Path '+i)
+              .attr('class', 'path_label')
+              .attr('x', 0)
+              .attr('y', radius*1.7)
+              .on('mouseover', function() {
+                  highlight_paths_group.hover_changed([path_data]);
+              })
+              .on('mouseout', function() {
+                  highlight_paths_group.hover_changed(null);
+              })
+              .on('click', function() {
+                  highlight_paths_group.select_changed(toggle_paths(selected, [path_data]));
+              });
+          });
+        pathlist.exit().transition(1000).attr('opacity', 0).remove();
     }
 
     function draw_hovered() {
-        var is_hovered = contains_path(hovered);
-        root.selectAll('span.path-selector')
-            .style({
-                'border-color': function(p, i) { return is_hovered(p) ? '#e41a1c' : 'grey'; },
-                'border-width': function(p, i) { return (is_hovered(p) ? 2 : 1) + 'px'; },
-                padding: function(p, i) { return (is_hovered(p) ? 3 : 4) + 'px'; }
-            });
+      var is_hovered = contains_path(hovered);
+      root.selectAll('g.path-selector')
+        .each(function(d, i) {
+          var textColor = is_hovered(d) ? '#e41a1c' : 'black';
+          var lineColor = is_hovered(d) ? 'black' : '#bdbdbd';
+          var opacity = is_hovered(d) ? '1' : '0.4';
+          d3.select(this).select('.path_label').attr('fill', textColor);
+          d3.select(this).selectAll('line')
+            .attr('stroke', lineColor)
+            .attr('opacity', opacity);
+          d3.select(this).selectAll('circle').attr('opacity', opacity);
+        });
     }
 
     function draw_selected() {
         var is_selected = contains_path(selected);
-        root.selectAll('span.path-selector')
-            .style({
-                'background-color': function(p, i) { return is_selected(p) ? '#1c1ae6' : 'white'; },
-                'color': function(p, i) { return is_selected(p) ? 'white' : 'black'; }
-            });
+        root.selectAll('g.path-selector')
+          .each(function(d, i) {
+            var textWeight = is_selected(d) ? 'bold' : 'normal';
+            var lineColor = is_selected(d) ? 'black' : '#bdbdbd';
+            var opacity = is_selected(d) ? '1' : '0.4';
+            d3.select(this).select('.path_label')
+              .attr('font-weight', textWeight);
+            d3.select(this).selectAll('line')
+              .attr('stroke', lineColor)
+              .attr('opacity', opacity);
+            d3.select(this).selectAll('circle').attr('opacity', opacity);
+          });
     }
 
     highlight_paths_group
@@ -10858,7 +10910,7 @@ dc_graph.path_selector = function(parent, reader, pathsgroup, chartgroup) {
         error_text: property(null),
         queried: property(false),
         redraw: function() {
-            draw_paths(paths_);
+            draw_paths(diagram, paths_);
             draw_hovered();
             draw_selected();
         },
