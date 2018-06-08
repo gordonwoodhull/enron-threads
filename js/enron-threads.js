@@ -43,9 +43,10 @@ var starts = [], finishes = [], newThreads = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout)
-                  .angleForce(.1)
+                  .angleForce(.2)
                   .initialCharge(-200)
                   .chargeForce(-200)
+                  .collisionRadius(15)
                   .gravityStrength(0))
     .edgeSource(function(e) { return e.value.source; })
     .edgeTarget(function(e) { return e.value.target; })
@@ -87,8 +88,8 @@ var spliner = dc_graph.draw_spline_paths(
     reader,
     {edgeStroke: '#08a', edgeStrokeWidth: 3, edgeOpacity: 0.7},
     {edgeStroke: '#0ad', edgeOpacity: 1},
-    {edgeStroke: '#f94', edgeOpacity: 1})
-    .selectedStrength(10);
+    {edgeStroke: '#f94'})
+    .selectedStrength(5);
 diagram.child('spliner', spliner);
 
 function read_error(filename) {
@@ -235,10 +236,14 @@ d3.text(options.data + 'users.txt', function(error, users) {
             finishes = selectedThreads.map(t => t.hops[t.hops.length-1].from);
             update_graph_data();
             if(selectedThreads.length) {
-                diagram.redraw();
+                diagram
+                    .edgeOpacity(0.7)
+                    .redraw();
                 window.setTimeout(function() {
                     if(!wasIn) {
                         newThreads = [t];
+                        diagram
+                            .edgeOpacity(0.2);
                         reader.data(selectedThreads);
                         window.setTimeout(function() {
                             newThreads = [];
@@ -258,10 +263,14 @@ d3.text(options.data + 'users.txt', function(error, users) {
             selectedThreads = [];
             starts = finishes = [];
             update_graph_data();
-            diagram.render();
+            diagram
+                .edgeOpacity(0.7)
+                .render();
         } else {
             update_graph_data();
-            diagram.render();
+            diagram
+                .edgeOpacity(0.7)
+                .render();
             if(options.thread) {
                 // urls can get mangled by e.g. word processors
                 if(options.thread.slice(-1) !== '.')
