@@ -39,6 +39,10 @@ function radius(adjacent, followed, k, r, set) {
     };
 }
 
+function thread_opacity(v) {
+    return e => e.value.type === 'thread' ? v : 1;
+}
+
 var starts = [], finishes = [], newThreads = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
@@ -72,7 +76,7 @@ var diagram = dc_graph.diagram('#graph')
     .edgeArrowtail(e => e.value.backward ? 'vee' : null)
     .edgeStroke(e => e.value.type === 'thread' ? 'green' : 'black')
     .edgeStrokeWidth(e => e.value.type === 'thread' ? 3 : 1)
-    .edgeOpacity(e => e.value.type === 'thread' ? 0.7 : 1)
+    .edgeOpacity(thread_opacity(0.7))
     .edgeSort(e => e.value.type) // alphabetic order!
 ;
 
@@ -237,13 +241,13 @@ d3.text(options.data + 'users.txt', function(error, users) {
             update_graph_data();
             if(selectedThreads.length) {
                 diagram
-                    .edgeOpacity(0.7)
+                    .edgeOpacity(thread_opacity(0.7))
                     .redraw();
                 window.setTimeout(function() {
                     if(!wasIn) {
                         newThreads = [t];
                         diagram
-                            .edgeOpacity(0.2);
+                            .edgeOpacity(thread_opacity(0.2));
                         reader.data(selectedThreads);
                         window.setTimeout(function() {
                             newThreads = [];
@@ -264,12 +268,12 @@ d3.text(options.data + 'users.txt', function(error, users) {
             starts = finishes = [];
             update_graph_data();
             diagram
-                .edgeOpacity(0.7)
+                .edgeOpacity(thread_opacity(0.7))
                 .render();
         } else {
             update_graph_data();
             diagram
-                .edgeOpacity(0.7)
+                .edgeOpacity(thread_opacity(0.7))
                 .render();
             if(options.thread) {
                 // urls can get mangled by e.g. word processors
