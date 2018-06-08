@@ -246,11 +246,13 @@ d3.text(options.data + 'users.txt', function(error, users) {
                 window.setTimeout(function() {
                     if(!wasIn) {
                         newThreads = [t];
+                        spliner.avoidSharpTurns(false);
                         diagram
                             .edgeOpacity(thread_opacity(0.2));
                         reader.data(selectedThreads);
                         window.setTimeout(function() {
                             newThreads = [];
+                            spliner.avoidSharpTurns(true);
                             reader.data(selectedThreads);
                         }, 5000);
                     } else reader.data(selectedThreads);
