@@ -47,7 +47,7 @@ var starts = [], finishes = [], newThreads = [];
 var rendered = false;
 var diagram = dc_graph.diagram('#graph')
     .layoutEngine(dc_graph.spawn_engine(options.layout)
-                  .angleForce(.2)
+                  .angleForce(.1)
                   .initialCharge(-200)
                   .chargeForce(-200)
                   .collisionRadius(15)
