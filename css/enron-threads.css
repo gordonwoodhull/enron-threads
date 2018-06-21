@@ -34,6 +34,10 @@ body {
     position: absolute;
     left: 2em; top: 2em;
 }
+#random {
+    position: absolute;
+    left: 4in; top: 2em;
+}
 
 #progress {
     position: absolute;
