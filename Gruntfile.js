@@ -89,15 +89,6 @@ module.exports = function (grunt) {
                         expand: true,
                         flatten: true,
                         nonull: true,
-                        src: [
-                            'node_modules/font-awesome/fonts/*'
-                        ],
-                        dest: '<%= conf.web %>/fonts/'
-                    },
-                    {
-                        expand: true,
-                        flatten: true,
-                        nonull: true,
                         src: 'node_modules/d3-tip/index.js',
                         dest: '<%= conf.web %>/js/d3-tip/'
                     },
