@@ -40,7 +40,7 @@
     "grunt-gh-pages": "^3.1.0",
     "grunt-shell": "~1.1.1",
     "load-grunt-tasks": "^5.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "time-grunt": "~1.0.0"
   },
   "scripts": {
